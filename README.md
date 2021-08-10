@@ -2,13 +2,13 @@
 ==============================
 
 *****
-The **MarkLogic Healthcare Starter Kit (HSK)** is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an **_operational data store (ODS)_**, the **HSK **supports a mandate by the **U.S. Centers for Medicare and Medicaid Services (CMS)** to comply with the **FHIR (Fast Healthcare Interoperability Resources)** specifications for the electronic exchange of healthcare information.
+The **MarkLogic Healthcare Starter Kit (HSK)** is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an **_operational data store (ODS)_**, the **HSK** supports a mandate by the **U.S. Centers for Medicare and Medicaid Services (CMS)** to comply with the **FHIR (Fast Healthcare Interoperability Resources)** specifications for the electronic exchange of healthcare information.
 
 MarkLogic HSK is a tailored instance of a **MarkLogic Data Hub**, powered by **MarkLogic Server**.
 
 Users can upload raw, heterogeneous health records and use the harmonization features inherited by the **HSK** from the **MarkLogic Data Hub** to canolicalize and master their data. MarkLogic’s powerful default indexing and other Hub features make it easy to explore data and models to gain additional insight for future development and operations.
 
-More information about **MarkLogic Data Hub**, **MarkLogic Server **and the** FHIR **specifications can be found here:
+More information about **MarkLogic Data Hub**, **MarkLogic Server** and the **FHIR** specifications can be found here:
 
 [MarkLogic Data Hub Documentation](https://docs.marklogic.com/datahub/5.5/index.html)
 
@@ -54,7 +54,7 @@ There are two primary ways to access and use the deployed Healthcare Starter Kit
 1. For GUI access, use **MarkLogic Data Hub Central**. 
 1. For command line access, use **gradle.**
 
-Both means can be used together as determined by your development requirements. However, see **Notes On Maintaining and Modifying the Healthcare Starter Kit, **below.
+Both means can be used together as determined by your development requirements. However, see "Notes On Maintaining and Modifying the Healthcare Starter Kit" below.
 
 ### Using Data Hub Central
 
