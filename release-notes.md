@@ -3,7 +3,7 @@
 
 *August 2021*
 
-The **MarkLogic Healthcare Starter Kit (HSK)** is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an **_operational data store (ODS)_**, the **HSK **supports a mandate by the **U.S. Centers for Medicare and Medicaid Services (CMS)** to comply with the **FHIR (Fast Healthcare Interoperability Resources)** specifications for the electronic exchange of healthcare information.
+The **MarkLogic Healthcare Starter Kit (HSK)** is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an **_operational data store (ODS)_**, the **HSK** supports a mandate by the **U.S. Centers for Medicare and Medicaid Services (CMS)** to comply with the **FHIR (Fast Healthcare Interoperability Resources)** specifications for the electronic exchange of healthcare information.
 
 MarkLogic HSK is a tailored instance of a **MarkLogic Data Hub**, powered by **MarkLogic Server**.
 
