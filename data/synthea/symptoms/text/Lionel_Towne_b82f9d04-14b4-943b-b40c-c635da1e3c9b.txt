@@ -1,0 +1,20 @@
+Lionel Towne
+============
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          2016-09-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:42:0, Runny/Stuffy Nose:14:0, Fatigue:18:0, Swollen Lymph Nodes:64:0, Swollen Tonsils:38:0, Decreased Appetite:26:0, Cough:0:0, Sore Throat:28:0, Fever:39:0
+0 | 1 | Otitis media | 0 | 
+2 | 2 | Otitis media | 0 | 
+3 |  | Childhood asthma | 6 | Mucus Secretion:18, Chest Pressure:28, Wheezing:62, Nasal Congestion:9, Shortness of Breath:36, Cough:19
+3 |  | Chill (finding) | 5 | chills:1, sore throat:1, fever:1, loss_of_taste:1, diarrhea:1
+3 |  | Fever (finding) | 5 | chills:1, sore throat:1, fever:1, loss_of_taste:1, diarrhea:1
+3 |  | Sore throat symptom (finding) | 5 | chills:1, sore throat:1, fever:1, loss_of_taste:1, diarrhea:1
+3 |  | Diarrhea symptom (finding) | 5 | chills:1, sore throat:1, fever:1, loss_of_taste:1, diarrhea:1
+3 |  | Loss of taste (finding) | 5 | chills:1, sore throat:1, fever:1, loss_of_taste:1, diarrhea:1
+3 | 3 | Suspected COVID-19 | 0 | 
+3 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

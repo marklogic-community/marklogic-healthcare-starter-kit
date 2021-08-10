@@ -1,0 +1,1234 @@
+
+2020-12-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 80 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), viral sinusitis (disorder), victim of intimate partner abuse (finding), suspected covid-19, fracture of ankle, covid-19, part-time employment (finding), acute bronchitis (disorder), fever (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), cough (finding), sprain of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment using morse fall scale (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2020-12-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 80 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), viral sinusitis (disorder), victim of intimate partner abuse (finding), suspected covid-19, fracture of ankle, covid-19, part-time employment (finding), acute bronchitis (disorder), fever (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), cough (finding), sprain of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- plain chest x-ray (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2020-08-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 80 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), viral sinusitis (disorder), victim of intimate partner abuse (finding), suspected covid-19, fracture of ankle, covid-19, part-time employment (finding), acute bronchitis (disorder), fever (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), cough (finding), sprain of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2020-05-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 80 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), viral sinusitis (disorder), victim of intimate partner abuse (finding), suspected covid-19, fracture of ankle, covid-19, part-time employment (finding), acute bronchitis (disorder), fever (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), cough (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with sprain of ankle. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- naproxen sodium 220 mg oral tablet
+The patient was placed on a careplan:
+- physical therapy procedure
+
+
+
+2020-03-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 80 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-07-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 79 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2018-07-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 78 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment using morse fall scale (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2018-05-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 78 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment using morse fall scale (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2018-04-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 78 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- plain chest x-ray (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2017-07-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 77 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- assessment using morse fall scale (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2016-07-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 76 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment using morse fall scale (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2016-04-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 76 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- colonoscopy
+
+
+
+2015-07-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 75 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2014-06-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 74 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment using morse fall scale (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2013-06-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 73 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), viral sinusitis (disorder), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment using morse fall scale (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2012-07-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 72 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), viral sinusitis (disorder), fracture of ankle, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2012-06-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 72 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with fracture of ankle, part-time employment (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- ankle x-ray
+- bone immobilization
+- bone density scan (procedure)
+- assessment using morse fall scale (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- ibuprofen 200 mg oral tablet
+The patient was placed on a careplan:
+- fracture care
+
+
+
+2012-06-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 72 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+
+
+
+2012-04-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 72 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2011-10-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 71 year-old non-hispanic black male. Patient has a history of part-time employment (finding), not in labor force (finding), limited social contact (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with streptococcal sore throat (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- throat culture (procedure)
+The patient was prescribed the following medications:
+- penicillin v potassium 500 mg oral tablet
+
+
+
+2011-06-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 71 year-old non-hispanic black male. Patient has a history of not in labor force (finding), limited social contact (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+
+
+
+
+2008-05-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 68 year-old non-hispanic black male. Patient has a history of not in labor force (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with limited social contact (finding). 
+
+## Plan
+
+
+
+
+2007-05-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 67 year-old non-hispanic black male. Patient has a history of not in labor force (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+2000-04-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 60 year-old non-hispanic black male. Patient has a history of not in labor force (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1998-03-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 58 year-old non-hispanic black male. Patient has a history of not in labor force (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1997-03-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 57 year-old non-hispanic black male. Patient has a history of not in labor force (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with social isolation (finding). 
+
+## Plan
+
+
+
+
+1994-07-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 54 year-old non-hispanic black male. Patient has a history of not in labor force (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1992-02-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 52 year-old non-hispanic black male. Patient has a history of not in labor force (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1990-07-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 50 year-old non-hispanic black male. Patient has a history of not in labor force (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+1986-03-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 46 year-old non-hispanic black male. Patient has a history of not in labor force (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1980-02-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 40 year-old non-hispanic black male. Patient has a history of not in labor force (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding). 
+
+## Plan
+
+
+
+
+1968-04-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 28 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), not in labor force (finding), received higher education (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with social isolation (finding). 
+
+## Plan
+
+
+
+
+1965-04-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 25 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), received higher education (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding), stress (finding). 
+
+## Plan
+
+
+
+
+1958-10-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 18 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), received higher education (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+1958-04-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 18 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding), stress (finding). 
+
+## Plan
+
+
+
+
+1953-03-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Bennett
+ is a 13 year-old non-hispanic black male.
+
+# Social History
+ Patient quite smoking at age 17 and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+

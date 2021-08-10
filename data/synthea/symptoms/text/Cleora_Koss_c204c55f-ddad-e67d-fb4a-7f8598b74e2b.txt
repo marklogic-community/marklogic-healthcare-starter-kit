@@ -1,0 +1,22 @@
+Cleora Koss
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1987-07-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 |  | Unemployed (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 | 31 | Stress (finding) | 0 | 
+27 | 27 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:44:0, Body Aches:26:0, Runny/Stuffy Nose:14:0, Fatigue:21:0, Swollen Lymph Nodes:35:0, Decreased Appetite:20:0, Swollen Tonsils:11:0, Sore Throat:13:0, Cough:19:0, Fever:9:0
+28 |  | Unemployed (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+32 |  | Anemia (disorder) | 0 | 
+33 | 33 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:1:0, Fatigue:73:0, Mucus:28:0, Nasal Congestion:43:0, Shortness of Breath:43:0, Nausea/Vomiting:0:0, Sore Throat:30:0, Cough:48:0, Fever:29:0
+33 |  | Unemployed (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

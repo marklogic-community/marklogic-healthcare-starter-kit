@@ -1,0 +1,17 @@
+Janiece Ledner
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2008-08-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+3 |  | Childhood asthma | 6 | Mucus Secretion:8, Chest Pressure:15, Wheezing:65, Nasal Congestion:20, Shortness of Breath:37, Cough:22
+3 | 3 | Otitis media | 0 | 
+6 | 6 | Viral sinusitis (disorder) | 9 | Sinus Pain:62:0, Headache:39:0, Pain with Bright Lights:35:0, Facial Swelling:45:0, Nasal Discharge:33:0, Nasal Congestion:13:0, Sore Throat:12:0, Fever:19:0, Cough:42:0
+7 | 7 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:32:0, Body Aches:46:0, Runny/Stuffy Nose:32:0, Fatigue:17:0, Swollen Lymph Nodes:23:0, Swollen Tonsils:37:0, Decreased Appetite:10:0, Sore Throat:11:0, Fever:33:0, Cough:41:0
+9 | 9 | Viral sinusitis (disorder) | 9 | Sinus Pain:79:0, Headache:15:0, Pain with Bright Lights:32:0, Facial Swelling:19:0, Nasal Discharge:15:0, Nasal Congestion:24:0, Sore Throat:2:0, Fever:5:0, Cough:7:0
+9 | 10 | Otitis media | 0 | 
+10 | 10 | Viral sinusitis (disorder) | 9 | Sinus Pain:52:0, Headache:5:0, Pain with Bright Lights:41:0, Facial Swelling:10:0, Nasal Discharge:25:0, Nasal Congestion:11:0, Sore Throat:9:0, Fever:12:0, Cough:49:0
+11 | 11 | Viral sinusitis (disorder) | 9 | Sinus Pain:79:0, Headache:35:0, Pain with Bright Lights:42:0, Facial Swelling:2:0, Nasal Discharge:18:0, Nasal Congestion:22:0, Sore Throat:17:0, Fever:24:0, Cough:43:0
+--------------------------------------------------------------------------------

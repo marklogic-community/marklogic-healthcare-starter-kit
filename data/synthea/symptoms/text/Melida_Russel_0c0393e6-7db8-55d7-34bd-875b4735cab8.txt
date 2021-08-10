@@ -1,0 +1,59 @@
+Melida Russel
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1933-09-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 80 | Social isolation (finding) | 0 | 
+78 | 78 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:20:0, Body Aches:30:0, Runny/Stuffy Nose:15:0, Fatigue:48:0, Swollen Lymph Nodes:25:0, Swollen Tonsils:35:0, Decreased Appetite:4:0, Sore Throat:42:0, Cough:47:0, Fever:48:0
+78 | 79 | Part-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 87 | Severe anxiety (panic) (finding | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 | 87 | Victim of intimate partner abuse (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 | 81 | Stress (finding) | 0 | 
+80 |  | Osteoporosis (disorder) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 | 80 | Fracture of rib | 0 | 
+80 | 80 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+80 | 80 | Viral sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:64:0, Pain with Bright Lights:48:0, Facial Swelling:16:0, Nasal Discharge:12:0, Nasal Congestion:16:0, Sore Throat:34:0, Cough:36:0, Fever:13:0
+81 | 82 | Part-time employment (finding) | 0 | 
+81 | 85 | Limited social contact (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 | 85 | Stress (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+85 | 85 | Not in labor force (finding) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+85 | 85 | Acute bronchitis (disorder) | 10 | Body Aches:6:0, Diarrhea:10:0, Fatigue:71:0, Mucus:43:0, Nasal Congestion:38:0, Shortness of Breath:52:0, Nausea/Vomiting:11:0, Sore Throat:39:0, Cough:37:0, Fever:29:0
+85 | 87 | Reports of violence in the environment (finding) | 0 | 
+85 | 86 | Full-time employment (finding) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+85 | 87 | Stress (finding) | 0 | 
+85 | 87 | Social isolation (finding) | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Received higher education (finding) | 0 | 
+86 |  | Muscle pain (finding) | 3 | myalgia:1, arthralgia:1, cough:1
+86 |  | Joint pain (finding) | 3 | myalgia:1, arthralgia:1, cough:1
+86 |  | Cough (finding) | 3 | myalgia:1, arthralgia:1, cough:1
+86 | 86 | Suspected COVID-19 | 0 | 
+86 |  | COVID-19 | 0 | 
+86 | 86 | Fracture subluxation of wrist | 0 | 
+86 | 86 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+87 |  | Full-time employment (finding) | 0 | 
+87 |  | Received higher education (finding) | 0 | 
+87 | 87 | Viral sinusitis (disorder) | 9 | Headache:13:0, Sinus Pain:53:0, Pain with Bright Lights:40:0, Facial Swelling:32:0, Nasal Discharge:25:0, Nasal Congestion:14:0, Sore Throat:18:0, Cough:6:0, Fever:6:0
+--------------------------------------------------------------------------------

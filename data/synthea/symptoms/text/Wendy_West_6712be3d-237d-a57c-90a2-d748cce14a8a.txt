@@ -1,0 +1,25 @@
+Wendy West
+==========
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2004-07-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+7 | 7 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:39:0, Body Aches:25:0, Runny/Stuffy Nose:16:0, Fatigue:49:0, Swollen Lymph Nodes:32:0, Swollen Tonsils:1:0, Decreased Appetite:8:0, Sore Throat:17:0, Fever:45:0, Cough:21:0
+9 |  | Malignant neoplasm of breast (disorder) | 1 | Lump/mass:0
+10 | 10 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:6:0, Body Aches:12:0, Runny/Stuffy Nose:9:0, Fatigue:36:0, Swollen Lymph Nodes:9:0, Swollen Tonsils:7:0, Decreased Appetite:16:0, Sore Throat:29:0, Fever:32:0, Cough:21:0
+10 | 10 | Sprain of ankle | 0 | 
+10 | 10 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:38:0, Body Aches:27:0, Runny/Stuffy Nose:2:0, Fatigue:4:0, Swollen Lymph Nodes:48:0, Swollen Tonsils:1:0, Decreased Appetite:37:0, Sore Throat:32:0, Fever:31:0, Cough:9:0
+12 | 12 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:20:0, Runny/Stuffy Nose:38:0, Fatigue:36:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:38:0, Decreased Appetite:23:0, Sore Throat:36:0, Fever:5:0, Cough:40:0
+15 |  | Vomiting symptom (finding) | 5 | fever:1, sputum production:1, loss_of_taste:1, vomiting:1, nausea:1
+15 |  | Fever (finding) | 5 | fever:1, sputum production:1, loss_of_taste:1, vomiting:1, nausea:1
+15 |  | Sputum finding (finding) | 5 | fever:1, sputum production:1, loss_of_taste:1, vomiting:1, nausea:1
+15 |  | Nausea (finding) | 5 | fever:1, sputum production:1, loss_of_taste:1, vomiting:1, nausea:1
+15 |  | Loss of taste (finding) | 5 | fever:1, sputum production:1, loss_of_taste:1, vomiting:1, nausea:1
+15 | 15 | Suspected COVID-19 | 0 | 
+15 |  | COVID-19 | 0 | 
+16 | 16 | Normal pregnancy | 0 | 
+16 |  | Severe anxiety (panic) (finding | 0 | 
+16 | 16 | Antepartum eclampsia | 0 | 
+--------------------------------------------------------------------------------

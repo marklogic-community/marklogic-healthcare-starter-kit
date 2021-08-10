@@ -1,0 +1,77 @@
+Jaime Davis
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1954-09-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+55 |  | Hyperlipidemia | 1 | weight gain:1
+55 |  | Recurrent rectal polyp | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+55 | 57 | Overlapping malignant neoplasm of colon | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+56 | 65 | Limited social contact (finding) | 0 | 
+56 |  | Housing unsatisfactory (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+56 | 56 | Viral sinusitis (disorder) | 9 | Headache:33:0, Sinus Pain:68:0, Pain with Bright Lights:44:0, Facial Swelling:18:0, Nasal Discharge:45:0, Nasal Congestion:5:0, Sore Throat:6:0, Fever:5:0, Cough:39:0
+57 |  | Housing unsatisfactory (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 | 57 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:16:0, Fatigue:36:0, Mucus:30:0, Nasal Congestion:46:0, Shortness of Breath:62:0, Nausea/Vomiting:11:0, Sore Throat:37:0, Fever:26:0, Cough:38:0
+58 | 59 | Part-time employment (finding) | 0 | 
+58 |  | Housing unsatisfactory (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 | 58 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:63:0, Pain with Bright Lights:35:0, Facial Swelling:11:0, Nasal Discharge:15:0, Nasal Congestion:13:0, Sore Throat:21:0, Fever:3:0, Cough:41:0
+59 |  | Housing unsatisfactory (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 60 | Stress (finding) | 0 | 
+60 |  | Housing unsatisfactory (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+61 |  | Housing unsatisfactory (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+62 |  | Cholelithiasis | 0 | 
+62 |  | Housing unsatisfactory (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 | 63 | Stress (finding) | 0 | 
+62 | 62 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:30:0, Body Aches:39:0, Runny/Stuffy Nose:13:0, Fatigue:17:0, Swollen Lymph Nodes:4:0, Swollen Tonsils:40:0, Decreased Appetite:47:0, Sore Throat:34:0, Fever:40:0, Cough:21:0
+62 |  | Housing unsatisfactory (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+63 |  | Housing unsatisfactory (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 | 64 | Victim of intimate partner abuse (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Localized  primary osteoarthritis of the hand | 2 | Joint Pain:0, Joint Stiffness:0
+64 |  | Housing unsatisfactory (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+64 | 64 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:19:0, Body Aches:49:0, Runny/Stuffy Nose:36:0, Fatigue:18:0, Swollen Lymph Nodes:43:0, Swollen Tonsils:39:0, Decreased Appetite:30:0, Sore Throat:22:0, Fever:28:0, Cough:4:0
+65 |  | Housing unsatisfactory (finding) | 0 | 
+65 |  | Full-time employment (finding) | 0 | 
+65 |  | Victim of intimate partner abuse (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 |  | Dyspnea (finding) | 4 | fever:1, dyspnea:1, loss_of_taste:1, cough:1
+65 |  | Fever (finding) | 4 | fever:1, dyspnea:1, loss_of_taste:1, cough:1
+65 |  | Wheezing (finding) | 4 | fever:1, dyspnea:1, loss_of_taste:1, cough:1
+65 |  | Cough (finding) | 4 | fever:1, dyspnea:1, loss_of_taste:1, cough:1
+65 |  | Loss of taste (finding) | 4 | fever:1, dyspnea:1, loss_of_taste:1, cough:1
+65 | 65 | Suspected COVID-19 | 0 | 
+65 |  | COVID-19 | 0 | 
+65 |  | Acute respiratory failure (disorder) | 0 | 
+65 |  | Respiratory distress (finding) | 0 | 
+65 |  | Sepsis caused by virus (disorder) | 0 | 
+65 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+65 |  | Acquired coagulation disorder (disorder) | 0 | 
+65 |  | Septic shock (disorder) | 0 | 
+65 |  | Pneumonia (disorder) | 0 | 
+65 |  | Hypoxemia (disorder) | 0 | 
+65 |  | Acute pulmonary embolism (disorder) | 0 | 
+--------------------------------------------------------------------------------

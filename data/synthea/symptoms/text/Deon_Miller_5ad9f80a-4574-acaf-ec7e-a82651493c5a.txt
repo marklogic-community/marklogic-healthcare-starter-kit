@@ -1,0 +1,36 @@
+Deon Miller
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1957-10-04
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+55 | 56 | Not in labor force (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 62 | Stress (finding) | 0 | 
+58 | 59 | Part-time employment (finding) | 0 | 
+58 | 63 | Limited social contact (finding) | 0 | 
+58 | 63 | Victim of intimate partner abuse (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 | 58 | Viral sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:60:0, Pain with Bright Lights:40:0, Facial Swelling:6:0, Nasal Discharge:8:0, Nasal Congestion:8:0, Sore Throat:25:0, Fever:18:0, Cough:38:0
+59 | 60 | Not in labor force (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+61 | 62 | Not in labor force (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+62 | 63 | Not in labor force (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+63 |  | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

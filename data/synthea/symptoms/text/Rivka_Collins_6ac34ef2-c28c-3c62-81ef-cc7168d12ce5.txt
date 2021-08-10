@@ -1,0 +1,77 @@
+Rivka Collins
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1940-03-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+71 |  | Prediabetes | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 74 | Reports of violence in the environment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+73 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:8, Memory Loss:34:67, Decreased in Judgement:29, Decreased Communication:13, Decreased Attentiveness:7, Confusion:7
+74 |  | Prediabetes | 0 | 
+74 | 74 | Not in labor force (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 80 | Social isolation (finding) | 0 | 
+74 | 74 | Viral sinusitis (disorder) | 9 | Headache:35:0, Sinus Pain:68:0, Pain with Bright Lights:37:0, Facial Swelling:21:0, Nasal Discharge:22:0, Nasal Congestion:11:0, Sore Throat:31:0, Cough:18:0, Fever:18:0
+74 | 74 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:13:0, Fatigue:44:0, Mucus:49:0, Nasal Congestion:26:0, Shortness of Breath:58:0, Nausea/Vomiting:3:0, Sore Throat:26:0, Cough:63:0, Fever:44:0
+74 |  | Prediabetes | 0 | 
+74 | 76 | Reports of violence in the environment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 | 79 | Severe anxiety (panic) (finding | 0 | 
+75 | 76 | Concussion with no loss of consciousness | 0 | 
+76 | 76 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:18:0, Fatigue:45:0, Mucus:41:0, Nasal Congestion:30:0, Shortness of Breath:61:0, Nausea/Vomiting:21:0, Sore Throat:39:0, Cough:58:0, Fever:46:0
+76 |  | Prediabetes | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 | 77 | Viral sinusitis (disorder) | 9 | Headache:16:0, Sinus Pain:74:0, Pain with Bright Lights:48:0, Facial Swelling:17:0, Nasal Discharge:33:0, Nasal Congestion:17:0, Sore Throat:8:0, Cough:31:0, Fever:23:0
+77 |  | Prediabetes | 0 | 
+77 | 80 | Reports of violence in the environment (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 79 | Stress (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Fever (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+79 |  | Sputum finding (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+79 |  | Cough (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+79 |  | Loss of taste (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+79 | 79 | Suspected COVID-19 | 0 | 
+79 |  | COVID-19 | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Part-time employment (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

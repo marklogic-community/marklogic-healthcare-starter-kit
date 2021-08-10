@@ -1,0 +1,22 @@
+Norman Christiansen
+===================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2009-03-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+4 | 4 | Otitis media | 0 | 
+6 | 6 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:31:0, Runny/Stuffy Nose:4:0, Fatigue:5:0, Swollen Lymph Nodes:40:0, Swollen Tonsils:36:0, Decreased Appetite:27:0, Sore Throat:22:0, Cough:0:0, Fever:11:0
+6 | 6 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:38:0, Body Aches:15:0, Runny/Stuffy Nose:7:0, Fatigue:29:0, Swollen Lymph Nodes:49:0, Swollen Tonsils:37:0, Decreased Appetite:17:0, Sore Throat:18:0, Cough:42:0, Fever:32:0
+9 | 9 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:40:0, Body Aches:1:0, Runny/Stuffy Nose:26:0, Fatigue:15:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:34:0, Decreased Appetite:45:0, Sore Throat:29:0, Cough:18:0, Fever:30:0
+10 | 10 | Fracture of rib | 0 | 
+10 |  | Fever (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+10 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+10 |  | Headache (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+10 |  | Cough (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+10 | 10 | Suspected COVID-19 | 0 | 
+11 | 11 | Viral sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:56:0, Pain with Bright Lights:35:0, Facial Swelling:22:0, Nasal Discharge:21:0, Nasal Congestion:14:0, Sore Throat:49:0, Cough:11:0, Fever:3:0
+11 | 11 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:13:0, Fatigue:32:0, Mucus:32:0, Nasal Congestion:35:0, Shortness of Breath:31:0, Nausea/Vomiting:23:0, Sore Throat:33:0, Cough:74:0, Fever:44:0
+12 |  | Risk activity involvement (finding) | 0 | 
+--------------------------------------------------------------------------------

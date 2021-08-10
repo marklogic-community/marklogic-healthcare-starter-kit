@@ -1,0 +1,56 @@
+Ariel Tremblay
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1957-08-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+54 |  | Prediabetes | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 60 | Stress (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 |  | Chronic low back pain (finding) | 0 | 
+56 |  | Chronic neck pain (finding) | 0 | 
+56 |  | Chronic low back pain (finding) | 0 | 
+56 |  | Chronic neck pain (finding) | 0 | 
+56 |  | Chronic low back pain (finding) | 0 | 
+56 |  | Chronic neck pain (finding) | 0 | 
+56 |  | Chronic low back pain (finding) | 0 | 
+56 |  | Chronic neck pain (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 | 60 | Not in labor force (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+60 |  | Prediabetes | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 | 62 | Stress (finding) | 0 | 
+61 | 63 | Social isolation (finding) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Fever (finding) | 2 | fever:1, cough:1
+62 |  | Cough (finding) | 2 | fever:1, cough:1
+62 | 62 | Suspected COVID-19 | 0 | 
+62 |  | COVID-19 | 0 | 
+63 | 63 | Viral sinusitis (disorder) | 9 | Headache:47:0, Sinus Pain:59:0, Pain with Bright Lights:46:0, Facial Swelling:43:0, Nasal Discharge:31:0, Nasal Congestion:9:0, Sore Throat:13:0, Cough:38:0, Fever:1:0
+63 |  | Prediabetes | 0 | 
+63 |  | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

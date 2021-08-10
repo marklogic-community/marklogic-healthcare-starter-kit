@@ -1,0 +1,61 @@
+Earle Lakin
+===========
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1949-06-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 | 47 | Viral sinusitis (disorder) | 9 | Headache:11:0, Sinus Pain:63:0, Pain with Bright Lights:48:0, Facial Swelling:21:0, Nasal Discharge:30:0, Nasal Congestion:6:0, Sore Throat:35:0, Fever:23:0, Cough:43:0
+48 |  | Prediabetes | 0 | 
+48 |  | Anemia (disorder) | 0 | 
+48 |  | Served in armed forces (finding) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 | 48 | Viral sinusitis (disorder) | 9 | Headache:24:0, Sinus Pain:72:0, Pain with Bright Lights:29:0, Facial Swelling:48:0, Nasal Discharge:1:0, Nasal Congestion:12:0, Sore Throat:48:0, Fever:24:0, Cough:24:0
+50 |  | Prediabetes | 0 | 
+50 |  | Served in armed forces (finding) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+50 | 50 | Viral sinusitis (disorder) | 9 | Headache:42:0, Sinus Pain:61:0, Pain with Bright Lights:39:0, Facial Swelling:49:0, Nasal Discharge:8:0, Nasal Congestion:10:0, Sore Throat:4:0, Fever:23:0, Cough:44:0
+51 |  | Prediabetes | 0 | 
+51 |  | Served in armed forces (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Part-time employment (finding) | 0 | 
+52 |  | Served in armed forces (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 | 56 | Reports of violence in the environment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+52 | 52 | Viral sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:67:0, Pain with Bright Lights:28:0, Facial Swelling:27:0, Nasal Discharge:3:0, Nasal Congestion:15:0, Sore Throat:38:0, Fever:5:0, Cough:38:0
+53 |  | Prediabetes | 0 | 
+53 |  | Served in armed forces (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 55 | Stress (finding) | 0 | 
+54 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+54 | 54 | Concussion with no loss of consciousness | 0 | 
+55 |  | Prediabetes | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 |  | Not in labor force (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

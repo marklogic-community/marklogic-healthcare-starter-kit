@@ -1,0 +1,64 @@
+Valda Lubowitz
+==============
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1966-07-09
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+45 |  | Drug overdose | 0 | 
+45 | 46 | Normal pregnancy | 0 | 
+46 |  | Housing unsatisfactory (finding) | 0 | 
+46 |  | Unemployed (finding) | 0 | 
+46 |  | Only received primary school education (finding) | 0 | 
+46 | 50 | Stress (finding) | 0 | 
+46 | 46 | Preeclampsia | 0 | 
+47 | 47 | Acute bronchitis (disorder) | 10 | Body Aches:6:0, Diarrhea:3:0, Fatigue:57:0, Mucus:29:0, Nasal Congestion:42:0, Shortness of Breath:34:0, Nausea/Vomiting:12:0, Sore Throat:48:0, Fever:42:0, Cough:74:0
+48 |  | Housing unsatisfactory (finding) | 0 | 
+48 | 51 | Reports of violence in the environment (finding) | 0 | 
+48 |  | Unemployed (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+50 |  | Housing unsatisfactory (finding) | 0 | 
+50 |  | Unemployed (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 | 50 | Viral sinusitis (disorder) | 9 | Headache:1:0, Sinus Pain:73:0, Pain with Bright Lights:49:0, Facial Swelling:47:0, Nasal Discharge:28:0, Nasal Congestion:5:0, Sore Throat:16:0, Fever:11:0, Cough:47:0
+50 |  | Housing unsatisfactory (finding) | 0 | 
+50 |  | Unemployed (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 |  | Drug overdose | 0 | 
+51 |  | Housing unsatisfactory (finding) | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Social isolation (finding) | 0 | 
+51 | 51 | Stress (finding) | 0 | 
+51 | 51 | Viral sinusitis (disorder) | 9 | Headache:39:0, Sinus Pain:61:0, Pain with Bright Lights:35:0, Facial Swelling:37:0, Nasal Discharge:19:0, Nasal Congestion:12:0, Sore Throat:37:0, Fever:12:0, Cough:22:0
+51 | 54 | Limited social contact (finding) | 0 | 
+51 |  | Housing unsatisfactory (finding) | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+52 |  | Housing unsatisfactory (finding) | 0 | 
+52 | 54 | Reports of violence in the environment (finding) | 0 | 
+52 |  | Unemployed (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 | 54 | Stress (finding) | 0 | 
+53 |  | Housing unsatisfactory (finding) | 0 | 
+53 |  | Unemployed (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 | 53 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:11:0, Runny/Stuffy Nose:36:0, Fatigue:38:0, Swollen Lymph Nodes:31:0, Swollen Tonsils:27:0, Decreased Appetite:26:0, Sore Throat:42:0, Fever:32:0, Cough:45:0
+53 |  | Housing unsatisfactory (finding) | 0 | 
+53 |  | Unemployed (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Chill (finding) | 5 | fatigue:1, chills:1, fever:1, sputum production:1, cough:1
+53 |  | Fever (finding) | 5 | fatigue:1, chills:1, fever:1, sputum production:1, cough:1
+53 |  | Sputum finding (finding) | 5 | fatigue:1, chills:1, fever:1, sputum production:1, cough:1
+53 |  | Fatigue (finding) | 5 | fatigue:1, chills:1, fever:1, sputum production:1, cough:1
+53 |  | Cough (finding) | 5 | fatigue:1, chills:1, fever:1, sputum production:1, cough:1
+53 | 53 | Suspected COVID-19 | 0 | 
+53 |  | COVID-19 | 0 | 
+53 |  | Respiratory distress (finding) | 0 | 
+53 |  | Pneumonia (disorder) | 0 | 
+53 |  | Hypoxemia (disorder) | 0 | 
+54 |  | Housing unsatisfactory (finding) | 0 | 
+54 |  | Unemployed (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

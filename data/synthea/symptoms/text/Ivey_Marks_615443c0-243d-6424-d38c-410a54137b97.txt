@@ -1,0 +1,46 @@
+Ivey Marks
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1985-03-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 |  | Body mass index 30+ - obesity (finding) | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+29 | 29 | Normal pregnancy | 0 | 
+29 | 30 | Normal pregnancy | 0 | 
+30 | 30 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:41:0, Body Aches:26:0, Runny/Stuffy Nose:8:0, Fatigue:45:0, Swollen Lymph Nodes:44:0, Swollen Tonsils:12:0, Decreased Appetite:11:0, Cough:35:0, Sore Throat:10:0, Fever:49:0
+31 |  | Prediabetes | 0 | 
+31 | 34 | Part-time employment (finding) | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 | 36 | Stress (finding) | 0 | 
+31 | 32 | Normal pregnancy | 0 | 
+33 | 33 | Normal pregnancy | 0 | 
+33 |  | Miscarriage in first trimester | 0 | 
+33 | 33 | Fetus with unknown complication | 0 | 
+33 | 34 | Normal pregnancy | 0 | 
+34 |  | Prediabetes | 0 | 
+34 |  | Housing unsatisfactory (finding) | 0 | 
+34 | 36 | Full-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 | 34 | Antepartum eclampsia | 0 | 
+34 | 35 | Normal pregnancy | 0 | 
+34 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+34 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+34 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+34 | 34 | Suspected COVID-19 | 0 | 
+34 |  | COVID-19 | 0 | 
+34 |  | Respiratory distress (finding) | 0 | 
+34 |  | Pneumonia (disorder) | 0 | 
+34 |  | Hypoxemia (disorder) | 0 | 
+36 | 36 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:7:0, Fatigue:61:0, Mucus:28:0, Nasal Congestion:35:0, Shortness of Breath:67:0, Nausea/Vomiting:11:0, Cough:46:0, Sore Throat:38:0, Fever:28:0
+36 |  | Prediabetes | 0 | 
+36 |  | Housing unsatisfactory (finding) | 0 | 
+36 |  | Full-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

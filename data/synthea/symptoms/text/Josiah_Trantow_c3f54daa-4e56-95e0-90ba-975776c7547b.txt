@@ -1,0 +1,24 @@
+Josiah Trantow
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2004-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+9 | 9 | Whiplash injury to neck | 0 | 
+10 | 10 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:1:0, Fatigue:40:0, Mucus:45:0, Nasal Congestion:43:0, Shortness of Breath:46:0, Nausea/Vomiting:15:0, Sore Throat:48:0, Fever:30:0, Cough:54:0
+10 | 10 | Sprain of ankle | 0 | 
+11 | 12 | Laceration of foot | 0 | 
+16 |  | Body mass index 30+ - obesity (finding) | 0 | 
+16 |  | Severe anxiety (panic) (finding | 0 | 
+16 | 17 | Risk activity involvement (finding) | 0 | 
+16 |  | Fever (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+16 |  | Sputum finding (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+16 |  | Sore throat symptom (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+16 |  | Cough (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+16 |  | Loss of taste (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+16 | 16 | Suspected COVID-19 | 0 | 
+16 |  | COVID-19 | 0 | 
+17 |  | Body mass index 30+ - obesity (finding) | 0 | 
+--------------------------------------------------------------------------------

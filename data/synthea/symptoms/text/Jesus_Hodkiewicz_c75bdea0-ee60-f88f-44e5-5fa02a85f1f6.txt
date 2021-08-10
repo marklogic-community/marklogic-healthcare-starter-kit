@@ -1,0 +1,82 @@
+Jesus Hodkiewicz
+================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1923-05-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+65 |  | Prediabetes | 0 | 
+65 |  | Refugee (person) | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 | 75 | Reports of violence in the environment (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 |  | Refugee (person) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 67 | Stress (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 |  | Refugee (person) | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Refugee (person) | 0 | 
+68 |  | Served in armed forces (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 | 70 | Stress (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 |  | Refugee (person) | 0 | 
+69 |  | Served in armed forces (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+70 | 70 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:20:0, Fatigue:51:0, Mucus:30:0, Nasal Congestion:26:0, Shortness of Breath:44:0, Nausea/Vomiting:21:0, Sore Throat:42:0, Cough:40:0, Fever:49:0
+70 |  | Prediabetes | 0 | 
+70 |  | Refugee (person) | 0 | 
+70 |  | Served in armed forces (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Refugee (person) | 0 | 
+70 |  | Served in armed forces (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 | 71 | Viral sinusitis (disorder) | 9 | Headache:45:0, Sinus Pain:62:0, Pain with Bright Lights:35:0, Facial Swelling:24:0, Nasal Discharge:42:0, Nasal Congestion:22:0, Sore Throat:48:0, Cough:49:0, Fever:5:0
+71 |  | Prediabetes | 0 | 
+71 | 71 | Part-time employment (finding) | 0 | 
+71 |  | Refugee (person) | 0 | 
+71 |  | Served in armed forces (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Refugee (person) | 0 | 
+71 |  | Served in armed forces (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 | 74 | Part-time employment (finding) | 0 | 
+72 |  | Refugee (person) | 0 | 
+72 |  | Served in armed forces (finding) | 0 | 
+72 | 75 | Limited social contact (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 | 75 | Stress (finding) | 0 | 
+72 |  | Victim of intimate partner abuse (finding) | 0 | 
+73 | 74 | Fracture subluxation of wrist | 0 | 
+73 | 73 | Viral sinusitis (disorder) | 9 | Headache:28:0, Sinus Pain:62:0, Pain with Bright Lights:45:0, Facial Swelling:21:0, Nasal Discharge:25:0, Nasal Congestion:7:0, Sore Throat:5:0, Cough:29:0, Fever:12:0
+74 |  | Prediabetes | 0 | 
+74 |  | Refugee (person) | 0 | 
+74 |  | Served in armed forces (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Refugee (person) | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 |  | Not in labor force (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

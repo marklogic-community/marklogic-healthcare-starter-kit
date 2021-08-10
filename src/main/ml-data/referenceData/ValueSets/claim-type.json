@@ -1,0 +1,18 @@
+{
+  "valueSet": {
+      "valueSetName": "ClaimTypeCodes",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/claim-type",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-claim-type.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This value set includes Claim Type codes.",
+      "valueSetConcepts": {
+          "institutional": {"code": "institutional", "display": "Institutional", "definition": "Hospital, clinic and typically inpatient claims."},
+          "oral": {"code": "oral", "display": "Oral", "definition": "Dental, Denture and Hygiene claims."},
+          "pharmacy": {"code": "pharmacy", "display": "Pharmacy", "definition": "Pharmacy claims for goods and services."},
+          "professional": {"code": "professional", "display": "Professional", "definition": "Typically, outpatient claims from Physician, Psychological, Chiropractor, Physiotherapy, Speech Pathology, rehabilitative, consulting."},
+          "vision": {"code": "vision", "display": "Vision", "definition": "Vision claims for professional services and products such as glasses and contact lenses."}
+      }
+  }
+}

@@ -1,0 +1,58 @@
+Apryl Kulas
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1961-04-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 | 51 | Acute bacterial sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:53:0, Pain with Bright Lights:25:0, Facial Swelling:12:0, Nasal Discharge:7:0, Nasal Congestion:6:0, Sore Throat:12:0, Fever:5:0, Cough:19:0
+52 |  | Prediabetes | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 |  | Victim of intimate partner abuse (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 | 59 | Victim of intimate partner abuse (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Victim of intimate partner abuse (finding) | 0 | 
+58 |  | Fever (finding) | 2 | fatigue:1, fever:1
+58 |  | Fatigue (finding) | 2 | fatigue:1, fever:1
+58 | 58 | Suspected COVID-19 | 0 | 
+58 |  | COVID-19 | 0 | 
+59 |  | Prediabetes | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 |  | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

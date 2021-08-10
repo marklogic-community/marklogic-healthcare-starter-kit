@@ -1,0 +1,672 @@
+
+2021-03-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 48 year-old non-hispanic black male. Patient has a history of muscle pain (finding), fatigue (finding), joint pain (finding), victim of intimate partner abuse (finding), suspected covid-19, covid-19, part-time employment (finding), risk activity involvement (finding), fever (finding), sputum finding (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), nasal congestion (finding), cough (finding), loss of taste (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2020-03-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 47 year-old non-hispanic black male. Patient has a history of part-time employment (finding), risk activity involvement (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with nasal congestion (finding), cough (finding), sputum finding (finding), fatigue (finding), muscle pain (finding), joint pain (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-03-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 46 year-old non-hispanic black male. Patient has a history of part-time employment (finding), risk activity involvement (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding), reports of violence in the environment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2017-03-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 44 year-old non-hispanic black male. Patient has a history of part-time employment (finding), risk activity involvement (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), limited social contact (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- peripheral blood smear interpretation
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+- review of systems (procedure)
+- medication reconciliation (procedure)
+- brief general examination (procedure)
+
+
+
+2017-03-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 44 year-old non-hispanic black male. Patient has a history of part-time employment (finding), risk activity involvement (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with anemia (disorder). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+
+
+
+2015-03-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 42 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with prediabetes, part-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free, hep a, adult. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was placed on a careplan:
+- diabetes self management plan
+
+
+
+2013-02-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 40 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hep a, adult. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2010-05-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 37 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), limited social contact (finding), not in labor force (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+
+
+
+
+2009-10-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 36 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), limited social contact (finding), not in labor force (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with chronic sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2007-05-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 34 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), limited social contact (finding), not in labor force (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+
+
+
+
+2004-05-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 31 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), limited social contact (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+
+
+
+
+1998-04-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 25 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with limited social contact (finding), refugee (person). 
+
+## Plan
+
+
+
+
+1991-04-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 18 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding). 
+
+## Plan
+
+
+
+
+1990-04-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 17 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+
+1988-03-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 15 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+
+1985-03-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 12 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+
+1982-07-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 9 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with history of appendectomy. 
+
+## Plan
+
+
+
+
+1982-07-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 9 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with appendicitis. 
+
+## Plan
+
+
+
+
+1974-04-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 1 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with shellfish (substance). 
+
+## Plan
+
+
+
+
+1974-04-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ricardo
+ is a 1 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+

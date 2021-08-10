@@ -1,0 +1,44 @@
+Luis Zapata
+===========
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1989-08-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+22 | 24 | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+24 |  | Chronic low back pain (finding) | 0 | 
+24 |  | Chronic neck pain (finding) | 0 | 
+24 | 25 | Part-time employment (finding) | 0 | 
+24 | 27 | Limited social contact (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 | 25 | Stress (finding) | 0 | 
+25 | 26 | Not in labor force (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+26 | 26 | Viral sinusitis (disorder) | 9 | Sinus Pain:55:0, Headache:15:0, Pain with Bright Lights:28:0, Facial Swelling:47:0, Nasal Discharge:34:0, Nasal Congestion:5:0, Cough:6:0, Sore Throat:27:0, Fever:12:0
+27 | 28 | Part-time employment (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 28 | Stress (finding) | 0 | 
+28 | 29 | Part-time employment (finding) | 0 | 
+28 | 31 | Victim of intimate partner abuse (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 29 | Social isolation (finding) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+30 |  | Fever (finding) | 1 | fever:1
+30 | 30 | Suspected COVID-19 | 0 | 
+30 |  | COVID-19 | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+30 | 31 | Social isolation (finding) | 0 | 
+31 |  | Refugee (person) | 0 | 
+31 |  | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

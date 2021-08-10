@@ -1,0 +1,20 @@
+Ernest Gorczany
+===============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          2003-07-22
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+9 | 9 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:12:0, Body Aches:49:0, Runny/Stuffy Nose:47:0, Fatigue:31:0, Swollen Lymph Nodes:68:0, Swollen Tonsils:35:0, Decreased Appetite:38:0, Fever:8:0, Sore Throat:10:0, Cough:0:0
+9 | 9 | Viral sinusitis (disorder) | 9 | Sinus Pain:55:0, Headache:3:0, Pain with Bright Lights:38:0, Facial Swelling:1:0, Nasal Discharge:41:0, Nasal Congestion:22:0, Fever:7:0, Sore Throat:38:0, Cough:14:0
+13 |  | Body mass index 30+ - obesity (finding) | 0 | 
+14 |  | Body mass index 30+ - obesity (finding) | 0 | 
+14 | 14 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:8:0, Fatigue:48:0, Mucus:25:0, Nasal Congestion:27:0, Shortness of Breath:51:0, Nausea/Vomiting:0:0, Fever:28:0, Sore Throat:30:0, Cough:57:0
+16 |  | Fever (finding) | 3 | fatigue:1, fever:1, sputum production:1
+16 |  | Sputum finding (finding) | 3 | fatigue:1, fever:1, sputum production:1
+16 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, sputum production:1
+16 | 16 | Suspected COVID-19 | 0 | 
+16 |  | COVID-19 | 0 | 
+17 |  | Risk activity involvement (finding) | 0 | 
+--------------------------------------------------------------------------------

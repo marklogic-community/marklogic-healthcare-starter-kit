@@ -1,0 +1,47 @@
+Marc Greenholt
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1994-07-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+17 | 17 | Viral sinusitis (disorder) | 9 | Sinus Pain:61:0, Headache:36:0, Pain with Bright Lights:27:0, Facial Swelling:19:0, Nasal Discharge:27:0, Nasal Congestion:20:0, Fever:1:0, Sore Throat:43:0, Cough:5:0
+17 |  | Risk activity involvement (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 19 | Social isolation (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 20 | Stress (finding) | 0 | 
+19 | 19 | Viral sinusitis (disorder) | 9 | Sinus Pain:79:0, Headache:34:0, Pain with Bright Lights:48:0, Facial Swelling:1:0, Nasal Discharge:12:0, Nasal Congestion:9:0, Fever:13:0, Sore Throat:8:0, Cough:35:0
+19 |  | Chronic low back pain (finding) | 0 | 
+19 |  | Fibromyalgia (disorder) | 0 | 
+19 |  | Chronic low back pain (finding) | 0 | 
+19 |  | Fibromyalgia (disorder) | 0 | 
+20 | 21 | Part-time employment (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 | 22 | Social isolation (finding) | 0 | 
+20 | 20 | Whiplash injury to neck | 0 | 
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+21 | 23 | Stress (finding) | 0 | 
+21 | 21 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:18:0, Pain with Bright Lights:25:0, Facial Swelling:37:0, Nasal Discharge:48:0, Nasal Congestion:16:0, Fever:9:0, Sore Throat:0:0, Cough:47:0
+22 | 23 | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 | 24 | Misuses drugs (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+23 |  | Social isolation (finding) | 0 | 
+24 |  | Limited social contact (finding) | 0 | 
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 | 25 | Stress (finding) | 0 | 
+25 | 26 | Limited social contact (finding) | 0 | 
+25 | 26 | Full-time employment (finding) | 0 | 
+25 | 26 | Victim of intimate partner abuse (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+26 |  | Full-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

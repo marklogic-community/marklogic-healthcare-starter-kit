@@ -1,0 +1,38 @@
+Meredith Leuschke
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1985-08-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+27 | 27 | Laceration of thigh | 0 | 
+27 | 27 | Normal pregnancy | 0 | 
+27 | 27 | Tubal pregnancy | 0 | 
+27 |  | Miscarriage in first trimester | 0 | 
+28 |  | Body mass index 30+ - obesity (finding) | 0 | 
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+28 | 31 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+28 | 28 | Viral sinusitis (disorder) | 9 | Headache:13:0, Sinus Pain:50:0, Pain with Bright Lights:38:0, Facial Swelling:4:0, Nasal Discharge:31:0, Nasal Congestion:15:0, Sore Throat:43:0, Fever:1:0, Cough:10:0
+30 | 30 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:32:0, Runny/Stuffy Nose:35:0, Fatigue:49:0, Swollen Lymph Nodes:20:0, Swollen Tonsils:12:0, Decreased Appetite:9:0, Sore Throat:32:0, Fever:39:0, Cough:4:0
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 | 34 | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 | 34 | Stress (finding) | 0 | 
+32 | 33 | Normal pregnancy | 0 | 
+34 |  | Full-time employment (finding) | 0 | 
+34 |  | Victim of intimate partner abuse (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Muscle pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1
+34 |  | Fever (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1
+34 |  | Sputum finding (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1
+34 |  | Fatigue (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1
+34 |  | Joint pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1
+34 | 34 | Suspected COVID-19 | 0 | 
+34 |  | COVID-19 | 0 | 
+35 | 35 | Normal pregnancy | 0 | 
+35 |  | Miscarriage in second trimester | 0 | 
+35 | 35 | Fetus with chromosomal abnormality | 0 | 
+--------------------------------------------------------------------------------

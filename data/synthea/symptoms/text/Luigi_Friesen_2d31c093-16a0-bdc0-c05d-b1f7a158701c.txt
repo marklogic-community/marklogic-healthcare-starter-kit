@@ -1,0 +1,68 @@
+Luigi Friesen
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+60 |  | Prediabetes | 0 | 
+60 | 61 | Part-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 69 | Social isolation (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 | 63 | Stress (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 | 68 | Part-time employment (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 68 | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 69 | Part-time employment (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+69 | 69 | Acute bacterial sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:79:0, Pain with Bright Lights:40:0, Facial Swelling:34:0, Nasal Discharge:30:0, Nasal Congestion:24:0, Sore Throat:31:0, Fever:7:0, Cough:45:0
+69 |  | Prediabetes | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 | 69 | Viral sinusitis (disorder) | 9 | Headache:44:0, Sinus Pain:77:0, Pain with Bright Lights:35:0, Facial Swelling:33:0, Nasal Discharge:44:0, Nasal Congestion:4:0, Sore Throat:11:0, Fever:11:0, Cough:12:0
+69 |  | Prediabetes | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 | 70 | Viral sinusitis (disorder) | 9 | Headache:10:0, Sinus Pain:65:0, Pain with Bright Lights:39:0, Facial Swelling:31:0, Nasal Discharge:47:0, Nasal Congestion:0:0, Sore Throat:8:0, Fever:19:0, Cough:44:0
+70 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+70 |  | Dyspnea (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+70 |  | Fever (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+70 |  | Sputum finding (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+70 |  | Wheezing (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+70 |  | Loss of taste (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+70 | 70 | Suspected COVID-19 | 0 | 
+70 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

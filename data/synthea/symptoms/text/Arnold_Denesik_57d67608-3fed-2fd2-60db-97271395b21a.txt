@@ -1,0 +1,18 @@
+Arnold Denesik
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2008-03-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+3 | 3 | Fracture of forearm | 0 | 
+6 | 6 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:11:0, Pain with Bright Lights:44:0, Facial Swelling:23:0, Nasal Discharge:36:0, Nasal Congestion:15:0, Cough:16:0, Sore Throat:18:0, Fever:13:0
+11 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+11 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+11 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+11 | 11 | Suspected COVID-19 | 0 | 
+11 |  | COVID-19 | 0 | 
+12 |  | Body mass index 30+ - obesity (finding) | 0 | 
+13 |  | Body mass index 30+ - obesity (finding) | 0 | 
+--------------------------------------------------------------------------------

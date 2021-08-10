@@ -1,0 +1,28 @@
+Foster Terry
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1976-05-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+37 | 40 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+39 | 40 | Acute bronchitis (disorder) | 10 | Body Aches:8:0, Diarrhea:5:0, Fatigue:62:0, Mucus:46:0, Nasal Congestion:48:0, Shortness of Breath:53:0, Nausea/Vomiting:21:0, Cough:38:0, Sore Throat:25:0, Fever:49:0
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 | 44 | Part-time employment (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+43 |  | Fever (finding) | 3 | fatigue:1, fever:1, loss_of_taste:1
+43 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, loss_of_taste:1
+43 |  | Loss of taste (finding) | 3 | fatigue:1, fever:1, loss_of_taste:1
+43 | 43 | Suspected COVID-19 | 0 | 
+43 |  | COVID-19 | 0 | 
+43 |  | Acute respiratory failure (disorder) | 0 | 
+43 |  | Respiratory distress (finding) | 0 | 
+43 |  | Pneumonia (disorder) | 0 | 
+43 |  | Hypoxemia (disorder) | 0 | 
+43 |  | Acute deep venous thrombosis (disorder) | 0 | 
+44 |  | Full-time employment (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

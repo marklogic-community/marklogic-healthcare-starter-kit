@@ -1,0 +1,41 @@
+Evan Witting
+============
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1997-01-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+17 |  | Risk activity involvement (finding) | 0 | 
+17 | 17 | Whiplash injury to neck | 0 | 
+18 | 19 | Not in labor force (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Social isolation (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 | 18 | Viral sinusitis (disorder) | 9 | Headache:18:0, Sinus Pain:58:0, Pain with Bright Lights:45:0, Facial Swelling:11:0, Nasal Discharge:38:0, Nasal Congestion:16:0, Sore Throat:16:0, Fever:24:0, Cough:6:0
+19 | 22 | Not in labor force (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 23 | Social isolation (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 | 19 | Acute bacterial sinusitis (disorder) | 9 | Headache:12:0, Sinus Pain:79:105:0, Pain with Bright Lights:45:0, Facial Swelling:25:0, Nasal Discharge:7:0, Nasal Congestion:12:0, Sore Throat:20:0, Fever:6:0, Cough:24:0
+22 | 22 | Part-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 | 22 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:14:0, Fatigue:57:0, Mucus:27:0, Nasal Congestion:32:0, Shortness of Breath:35:0, Nausea/Vomiting:15:0, Sore Throat:40:0, Fever:40:0, Cough:50:0
+22 | 23 | Part-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 | 23 | Stress (finding) | 0 | 
+22 |  | Misuses drugs (finding) | 0 | 
+23 |  | Muscle pain (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 |  | Fever (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 |  | Fatigue (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 |  | Headache (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 |  | Joint pain (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 |  | Cough (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 |  | Loss of taste (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 | 23 | Suspected COVID-19 | 0 | 
+23 |  | COVID-19 | 0 | 
+23 | 23 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:25:0, Body Aches:41:0, Runny/Stuffy Nose:18:0, Fatigue:5:0, Swollen Lymph Nodes:22:0, Swollen Tonsils:47:0, Decreased Appetite:49:0, Sore Throat:28:0, Fever:25:0, Cough:44:0
+23 |  | Part-time employment (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,55 @@
+Vicky Hansen
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1922-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 | 67 | Viral sinusitis (disorder) | 9 | Headache:49:0, Sinus Pain:65:0, Pain with Bright Lights:29:0, Facial Swelling:27:0, Nasal Discharge:44:0, Nasal Congestion:14:0, Sore Throat:45:0, Fever:1:0, Cough:0:0
+67 |  | Prediabetes | 0 | 
+67 | 68 | Not in labor force (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 71 | Not in labor force (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 73 | Full-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 74 | Not in labor force (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Polyp of colon | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+73 | 76 | Overlapping malignant neoplasm of colon | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+74 |  | Prediabetes | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 | 77 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:21:0, Fatigue:59:0, Mucus:29:0, Nasal Congestion:35:0, Shortness of Breath:27:0, Nausea/Vomiting:12:0, Sore Throat:41:0, Fever:36:0, Cough:65:0
+77 |  | Prediabetes | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Full-time employment (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+77 |  | Misuses drugs (finding) | 0 | 
+--------------------------------------------------------------------------------

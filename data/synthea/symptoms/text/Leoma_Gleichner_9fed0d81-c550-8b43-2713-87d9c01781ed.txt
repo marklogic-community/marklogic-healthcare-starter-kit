@@ -1,0 +1,26 @@
+Leoma Gleichner
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1989-06-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 | 19 | Not in labor force (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 19 | Stress (finding) | 0 | 
+18 | 18 | Viral sinusitis (disorder) | 9 | Sinus Pain:78:0, Headache:4:0, Pain with Bright Lights:26:0, Facial Swelling:9:0, Nasal Discharge:41:0, Nasal Congestion:9:0, Cough:9:0, Sore Throat:1:0, Fever:18:0
+19 | 22 | Part-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 19 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:31:0, Pain with Bright Lights:29:0, Facial Swelling:10:0, Nasal Discharge:23:0, Nasal Congestion:11:0, Cough:35:0, Sore Throat:18:0, Fever:1:0
+19 | 20 | Acute bacterial sinusitis (disorder) | 9 | Sinus Pain:63:0, Headache:38:0, Pain with Bright Lights:39:0, Facial Swelling:22:0, Nasal Discharge:9:0, Nasal Congestion:6:0, Cough:16:0, Sore Throat:16:0, Fever:17:0
+22 | 25 | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 | 22 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:28:0, Body Aches:8:0, Runny/Stuffy Nose:23:0, Fatigue:22:0, Swollen Lymph Nodes:3:0, Swollen Tonsils:22:0, Decreased Appetite:39:0, Cough:29:0, Sore Throat:43:0, Fever:48:0
+25 |  | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 | 25 | Concussion with no loss of consciousness | 0 | 
+27 |  | Normal pregnancy | 0 | 
+--------------------------------------------------------------------------------

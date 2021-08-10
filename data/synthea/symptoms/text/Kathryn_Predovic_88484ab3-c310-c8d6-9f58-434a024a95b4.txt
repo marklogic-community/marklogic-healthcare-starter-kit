@@ -1,0 +1,37 @@
+Kathryn Predovic
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1982-08-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+29 | 29 | Normal pregnancy | 0 | 
+29 | 29 | Viral sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:76:0, Pain with Bright Lights:25:0, Facial Swelling:38:0, Nasal Discharge:23:0, Nasal Congestion:5:0, Sore Throat:32:0, Cough:39:0, Fever:11:0
+31 | 31 | Normal pregnancy | 0 | 
+31 |  | Miscarriage in first trimester | 0 | 
+31 | 31 | Fetus with unknown complication | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 34 | Stress (finding) | 0 | 
+31 | 32 | Normal pregnancy | 0 | 
+32 | 33 | Normal pregnancy | 0 | 
+33 | 33 | Preeclampsia | 0 | 
+34 | 34 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:43:0, Runny/Stuffy Nose:48:0, Fatigue:42:0, Swollen Lymph Nodes:21:0, Swollen Tonsils:11:0, Decreased Appetite:26:0, Sore Throat:0:0, Cough:44:0, Fever:18:0
+34 | 37 | Limited social contact (finding) | 0 | 
+34 |  | Unemployed (finding) | 0 | 
+34 | 37 | Victim of intimate partner abuse (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+34 | 35 | Normal pregnancy | 0 | 
+36 | 36 | Sprain of ankle | 0 | 
+37 |  | Unemployed (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+37 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+37 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+37 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+37 | 37 | Suspected COVID-19 | 0 | 
+37 |  | COVID-19 | 0 | 
+37 | 37 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:37:0, Runny/Stuffy Nose:3:0, Fatigue:30:0, Swollen Lymph Nodes:46:0, Swollen Tonsils:30:0, Decreased Appetite:11:0, Sore Throat:15:0, Cough:14:0, Fever:27:0
+--------------------------------------------------------------------------------

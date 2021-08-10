@@ -1,0 +1,73 @@
+Seth Hintz
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1952-04-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+59 |  | Body mass index 30+ - obesity (finding) | 0 | 
+59 | 60 | Part-time employment (finding) | 0 | 
+59 |  | Housing unsatisfactory (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 | 60 | Escherichia coli urinary tract infection | 7 | Frequent Urination:5:0, Urgent Desire to Urinate:12:0, Discolored Urine:3:0, Odor of Urine:4:0, Pelvic Pain:9:0, Fever:2:0, Dysuria:9:0
+60 | 60 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:19:0, Body Aches:45:0, Runny/Stuffy Nose:3:0, Fatigue:1:0, Swollen Lymph Nodes:31:0, Swollen Tonsils:36:0, Decreased Appetite:3:0, Sore Throat:1:0, Cough:33:0, Fever:19:0
+60 |  | Body mass index 30+ - obesity (finding) | 0 | 
+60 |  | Housing unsatisfactory (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 | 68 | Social isolation (finding) | 0 | 
+61 |  | Body mass index 30+ - obesity (finding) | 0 | 
+61 |  | Housing unsatisfactory (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+62 |  | Body mass index 30+ - obesity (finding) | 0 | 
+62 |  | Housing unsatisfactory (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 | 63 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:5:0, Fatigue:37:0, Mucus:33:0, Nasal Congestion:33:0, Shortness of Breath:33:0, Nausea/Vomiting:4:0, Sore Throat:47:0, Cough:28:0, Fever:31:0
+63 |  | Body mass index 30+ - obesity (finding) | 0 | 
+63 | 64 | Not in labor force (finding) | 0 | 
+63 |  | Housing unsatisfactory (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 | 66 | Stress (finding) | 0 | 
+64 | 64 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:23:0, Fatigue:29:0, Mucus:34:0, Nasal Congestion:37:0, Shortness of Breath:36:0, Nausea/Vomiting:10:0, Sore Throat:34:0, Cough:42:0, Fever:36:0
+64 |  | Body mass index 30+ - obesity (finding) | 0 | 
+64 | 65 | Not in labor force (finding) | 0 | 
+64 |  | Housing unsatisfactory (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+65 |  | Body mass index 30+ - obesity (finding) | 0 | 
+65 |  | Housing unsatisfactory (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+66 |  | Body mass index 30+ - obesity (finding) | 0 | 
+66 |  | Housing unsatisfactory (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 | 68 | Victim of intimate partner abuse (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 67 | Viral sinusitis (disorder) | 9 | Headache:9:0, Sinus Pain:54:0, Pain with Bright Lights:42:0, Facial Swelling:30:0, Nasal Discharge:25:0, Nasal Congestion:13:0, Sore Throat:29:0, Cough:28:0, Fever:13:0
+67 | 67 | Viral sinusitis (disorder) | 9 | Headache:48:0, Sinus Pain:60:0, Pain with Bright Lights:42:0, Facial Swelling:42:0, Nasal Discharge:10:0, Nasal Congestion:15:0, Sore Throat:14:0, Cough:45:0, Fever:21:0
+67 |  | Fever (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+67 |  | Sputum finding (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+67 |  | Cough (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+67 |  | Loss of taste (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+67 | 67 | Suspected COVID-19 | 0 | 
+67 |  | COVID-19 | 0 | 
+67 |  | Respiratory distress (finding) | 0 | 
+67 |  | Pneumonia (disorder) | 0 | 
+67 |  | Hypoxemia (disorder) | 0 | 
+67 |  | Body mass index 30+ - obesity (finding) | 0 | 
+67 |  | Housing unsatisfactory (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 |  | Body mass index 30+ - obesity (finding) | 0 | 
+68 |  | Housing unsatisfactory (finding) | 0 | 
+68 |  | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

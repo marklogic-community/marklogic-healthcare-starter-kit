@@ -1,0 +1,39 @@
+Gearldine Williamson
+====================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 | 67 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:4:0, Fatigue:58:0, Mucus:42:0, Nasal Congestion:37:0, Shortness of Breath:60:0, Nausea/Vomiting:10:0, Sore Throat:40:0, Fever:40:0, Cough:60:0
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 | 69 | Part-time employment (finding) | 0 | 
+68 | 69 | Limited social contact (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 | 73 | Stress (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 70 | Fracture of rib | 0 | 
+70 | 75 | Limited social contact (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 | 72 | Part-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+75 | 75 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:27:0, Body Aches:10:0, Runny/Stuffy Nose:46:0, Fatigue:44:0, Swollen Lymph Nodes:25:0, Swollen Tonsils:12:0, Decreased Appetite:45:0, Sore Throat:23:0, Fever:37:0, Cough:16:0
+75 | 76 | Part-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Limited social contact (finding) | 0 | 
+76 |  | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+Noel Stehr
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-07-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+72 | 73 | Part-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+73 | 80 | Social isolation (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 | 76 | Viral sinusitis (disorder) | 9 | Sinus Pain:77:0, Headache:3:0, Pain with Bright Lights:29:0, Facial Swelling:14:0, Nasal Discharge:24:0, Nasal Congestion:17:0, Fever:22:0, Sore Throat:42:0, Cough:23:0
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+76 |  | Alzheimer's disease (disorder) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 |  | Part-time employment (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 | 81 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:20:0, Fatigue:53:0, Mucus:42:0, Nasal Congestion:41:0, Shortness of Breath:61:0, Nausea/Vomiting:8:0, Fever:27:0, Sore Throat:35:0, Cough:70:0
+--------------------------------------------------------------------------------

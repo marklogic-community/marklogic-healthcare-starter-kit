@@ -1,0 +1,19 @@
+Florencia McKenzie
+==================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+8 | 8 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:6:0, Runny/Stuffy Nose:12:0, Fatigue:0:0, Swollen Lymph Nodes:23:0, Swollen Tonsils:33:0, Decreased Appetite:49:0, Fever:12:0, Sore Throat:6:0, Cough:0:0
+8 | 8 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:7:0, Fatigue:73:0, Mucus:40:0, Nasal Congestion:40:0, Shortness of Breath:26:0, Nausea/Vomiting:22:0, Fever:29:0, Sore Throat:44:0, Cough:35:0
+9 | 9 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:45:0, Pain with Bright Lights:37:0, Facial Swelling:22:0, Nasal Discharge:14:0, Nasal Congestion:12:0, Fever:15:0, Sore Throat:2:0, Cough:33:0
+10 | 10 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:15:0, Fatigue:68:0, Mucus:38:0, Nasal Congestion:31:0, Shortness of Breath:58:0, Nausea/Vomiting:2:0, Fever:37:0, Sore Throat:34:0, Cough:46:0
+12 | 12 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:3:0, Fatigue:33:0, Mucus:49:0, Nasal Congestion:43:0, Shortness of Breath:71:0, Nausea/Vomiting:14:0, Fever:29:0, Sore Throat:25:0, Cough:42:0
+12 | 14 | Severe anxiety (panic) (finding | 0 | 
+13 | 13 | Fracture of ankle | 0 | 
+13 |  | History of single seizure (situation) | 0 | 
+13 |  | Seizure disorder | 0 | 
+13 |  | Epilepsy | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+{
+  "valueSet": {
+      "valueSetName": "AddressType",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/address-type",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-address-type.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "The type of an address (physical / postal).",
+      "valueSetConcepts": {
+            "postal": {"code": "postal", "display": "Postal", "definition": "Mailing addresses - PO Boxes and care-of addresses."},
+            "physical": {"code": "physical", "display": "Physical", "definition": "A physical address that can be visited."},
+            "both": {"code": "both", "display": "Postal & Physical", "definition": "An address that is both physical and postal."}
+      }
+  }
+}

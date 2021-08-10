@@ -1,0 +1,23 @@
+Carmella Schuppe
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2006-11-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+7 | 7 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:5:0, Fatigue:44:0, Mucus:41:0, Nasal Congestion:39:0, Shortness of Breath:26:0, Nausea/Vomiting:9:0, Sore Throat:49:0, Cough:51:0, Fever:43:0
+8 | 8 | Viral sinusitis (disorder) | 9 | Headache:6:0, Sinus Pain:74:0, Pain with Bright Lights:41:0, Facial Swelling:0:0, Nasal Discharge:39:0, Nasal Congestion:6:0, Sore Throat:49:0, Cough:15:0, Fever:2:0
+8 | 8 | Viral sinusitis (disorder) | 9 | Headache:34:0, Sinus Pain:68:0, Pain with Bright Lights:46:0, Facial Swelling:5:0, Nasal Discharge:15:0, Nasal Congestion:21:0, Sore Throat:39:0, Cough:14:0, Fever:18:0
+11 | 11 | Concussion with no loss of consciousness | 0 | 
+11 | 11 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:18:0, Fatigue:60:0, Mucus:37:0, Nasal Congestion:49:0, Shortness of Breath:40:0, Nausea/Vomiting:19:0, Sore Throat:28:0, Cough:39:0, Fever:32:0
+12 | 12 | First degree burn | 0 | 
+12 | 12 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:5:0, Body Aches:13:0, Runny/Stuffy Nose:28:0, Fatigue:14:0, Swollen Lymph Nodes:43:0, Swollen Tonsils:38:0, Decreased Appetite:15:0, Sore Throat:13:0, Cough:0:0, Fever:7:0
+13 |  | Fever (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+13 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+13 |  | Headache (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+13 |  | Cough (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+13 | 13 | Suspected COVID-19 | 0 | 
+13 |  | COVID-19 | 0 | 
+13 | 13 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:33:0, Body Aches:46:0, Runny/Stuffy Nose:29:0, Fatigue:45:0, Swollen Lymph Nodes:32:0, Swollen Tonsils:46:0, Decreased Appetite:22:0, Sore Throat:47:0, Cough:0:0, Fever:49:0
+--------------------------------------------------------------------------------

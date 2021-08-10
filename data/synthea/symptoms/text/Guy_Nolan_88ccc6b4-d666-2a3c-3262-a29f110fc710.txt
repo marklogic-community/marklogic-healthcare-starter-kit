@@ -1,0 +1,21 @@
+Guy Nolan
+=========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2010-09-13
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Viral sinusitis (disorder) | 9 | Sinus Pain:75:0, Headache:13:0, Pain with Bright Lights:45:0, Facial Swelling:23:0, Nasal Discharge:46:0, Nasal Congestion:1:0, Fever:8:0, Sore Throat:1:0, Cough:34:0
+7 | 7 | Acute bronchitis (disorder) | 10 | Body Aches:12:0, Diarrhea:13:0, Fatigue:33:0, Mucus:39:0, Nasal Congestion:37:0, Shortness of Breath:32:0, Nausea/Vomiting:10:0, Fever:43:0, Sore Throat:26:0, Cough:37:0
+7 | 8 | Concussion with loss of consciousness | 0 | 
+9 | 9 | Fracture of forearm | 0 | 
+9 |  | Dyspnea (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+9 |  | Fever (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+9 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+9 |  | Wheezing (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+9 |  | Cough (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+9 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+9 | 9 | Suspected COVID-19 | 0 | 
+9 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,126 @@
+Andera Schumm
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1936-04-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 | 76 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+69 | 69 | Viral sinusitis (disorder) | 9 | Headache:6:0, Sinus Pain:79:0, Pain with Bright Lights:36:0, Facial Swelling:36:0, Nasal Discharge:46:0, Nasal Congestion:11:0, Sore Throat:40:0, Cough:47:0, Fever:17:0
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 | 69 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:33:0, Runny/Stuffy Nose:24:0, Fatigue:25:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:2:0, Decreased Appetite:48:0, Sore Throat:4:0, Cough:49:0, Fever:23:0
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 70 | Not in labor force (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 | 70 | Stress (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 70 | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 | 70 | Stress (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 72 | Limited social contact (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 | 71 | Stress (finding) | 0 | 
+71 | 76 | Severe anxiety (panic) (finding | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 | 72 | Stress (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 | 73 | Stress (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 | 73 | Part-time employment (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+73 | 73 | Viral sinusitis (disorder) | 9 | Headache:48:0, Sinus Pain:51:0, Pain with Bright Lights:38:0, Facial Swelling:15:0, Nasal Discharge:37:0, Nasal Congestion:9:0, Sore Throat:24:0, Cough:29:0, Fever:6:0
+73 | 73 | Viral sinusitis (disorder) | 9 | Headache:15:0, Sinus Pain:77:0, Pain with Bright Lights:41:0, Facial Swelling:33:0, Nasal Discharge:7:0, Nasal Congestion:3:0, Sore Throat:24:0, Cough:40:0, Fever:13:0
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 | 76 | Social isolation (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+73 |  | Victim of intimate partner abuse (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 | 76 | Stress (finding) | 0 | 
+75 | 75 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:10:0, Body Aches:4:0, Runny/Stuffy Nose:18:0, Fatigue:45:0, Swollen Lymph Nodes:39:0, Swollen Tonsils:4:0, Decreased Appetite:47:0, Sore Throat:9:0, Cough:44:0, Fever:2:0
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Not in labor force (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Victim of intimate partner abuse (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+77 | 77 | Viral sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:77:0, Pain with Bright Lights:44:0, Facial Swelling:48:0, Nasal Discharge:18:0, Nasal Congestion:14:0, Sore Throat:23:0, Cough:3:0, Fever:19:0
+77 |  | Pneumonia | 0 | 
+--------------------------------------------------------------------------------

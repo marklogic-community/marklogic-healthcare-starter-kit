@@ -1,0 +1,869 @@
+
+2020-10-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 54 year-old non-hispanic white female. Patient has a history of covid-19, fever (finding), fatigue (finding), respiratory distress (finding), limited social contact (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), loss of taste (finding), suspected covid-19, stress (finding), pneumonia (disorder).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; nuvaring 0.12/0.015 mg per 24hr 21 day vaginal ring; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with reports of violence in the environment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+
+
+
+2020-03-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 53 year-old non-hispanic white female. Patient has a history of limited social contact (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; nuvaring 0.12/0.015 mg per 24hr 21 day vaginal ring; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with pneumonia (disorder), hypoxemia (disorder), respiratory distress (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- plain chest x-ray (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+The patient was prescribed the following medications:
+- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe
+- acetaminophen 500 mg oral tablet
+
+
+
+2020-03-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 53 year-old non-hispanic white female. Patient has a history of limited social contact (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; nuvaring 0.12/0.015 mg per 24hr 21 day vaginal ring; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with fatigue (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+
+
+
+2019-10-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 53 year-old non-hispanic white female. Patient has a history of limited social contact (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; nuvaring 0.12/0.015 mg per 24hr 21 day vaginal ring; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2018-10-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 52 year-old non-hispanic white female. Patient has a history of limited social contact (finding), unhealthy alcohol drinking behavior (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; nuvaring 0.12/0.015 mg per 24hr 21 day vaginal ring; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2017-09-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 51 year-old non-hispanic white female. Patient has a history of limited social contact (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; nuvaring 0.12/0.015 mg per 24hr 21 day vaginal ring; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with unhealthy alcohol drinking behavior (finding). 
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2017-02-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 50 year-old non-hispanic white female. Patient has a history of limited social contact (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; nuvaring 0.12/0.015 mg per 24hr 21 day vaginal ring; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- removal of subcutaneous contraceptive
+
+
+
+2016-09-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 50 year-old non-hispanic white female. Patient has a history of limited social contact (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; nuvaring 0.12/0.015 mg per 24hr 21 day vaginal ring; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with victim of intimate partner abuse (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- colonoscopy
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2016-09-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 50 year-old non-hispanic white female. Patient has a history of limited social contact (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; nuvaring 0.12/0.015 mg per 24hr 21 day vaginal ring; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+
+
+
+2016-02-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 49 year-old non-hispanic white female. Patient has a history of limited social contact (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- nuvaring 0.12/0.015 mg per 24hr 21 day vaginal ring
+
+
+
+2015-05-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 48 year-old non-hispanic white female. Patient has a history of limited social contact (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- removal of subcutaneous contraceptive
+- insertion of subcutaneous contraceptive
+
+
+
+2014-10-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 48 year-old non-hispanic white female. Patient has a history of limited social contact (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2014-02-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 47 year-old non-hispanic white female. Patient has a history of limited social contact (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- camila 28 day pack
+
+
+
+2012-10-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 46 year-old non-hispanic white female. Patient has a history of limited social contact (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2012-07-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 45 year-old non-hispanic white female. Patient has a history of limited social contact (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; etonogestrel 68 mg drug implant
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2012-03-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 45 year-old non-hispanic white female. Patient has a history of limited social contact (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- insertion of subcutaneous contraceptive
+The patient was prescribed the following medications:
+- etonogestrel 68 mg drug implant
+
+
+
+2011-03-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 44 year-old non-hispanic white female. Patient has a history of limited social contact (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- errin 28 day pack
+
+
+
+2008-10-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 42 year-old non-hispanic white female. Patient has a history of limited social contact (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+2000-12-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 34 year-old non-hispanic white female.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with limited social contact (finding). 
+
+## Plan
+
+
+
+
+1991-11-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 25 year-old non-hispanic white female.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with anemia (disorder). 
+
+## Plan
+
+
+
+
+1990-10-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 24 year-old non-hispanic white female.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with tubal pregnancy. 
+
+## Plan
+
+
+
+
+1988-11-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 22 year-old non-hispanic white female.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with prediabetes. 
+
+## Plan
+
+The patient was placed on a careplan:
+- diabetes self management plan
+
+
+
+1988-01-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 21 year-old non-hispanic white female.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with miscarriage in first trimester. 
+
+## Plan
+
+
+
+
+1984-11-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 18 year-old non-hispanic white female.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding), unemployed (finding). 
+
+## Plan
+
+
+
+
+1977-10-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Priscilla
+ is a 11 year-old non-hispanic white female.
+
+# Social History
+ Patient quite smoking at age 16 and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding). 
+
+## Plan
+
+
+
+

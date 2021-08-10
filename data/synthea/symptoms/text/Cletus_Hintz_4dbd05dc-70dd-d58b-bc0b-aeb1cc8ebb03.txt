@@ -1,0 +1,58 @@
+Cletus Hintz
+============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1956-06-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+44 |  | Served in armed forces (finding) | 0 | 
+44 |  | Has a criminal record (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 |  | Pulmonary emphysema (disorder) | 2 | Shortness of Breath:201, Cough:83
+45 |  | Served in armed forces (finding) | 0 | 
+45 | 50 | Limited social contact (finding) | 0 | 
+45 | 46 | Not in labor force (finding) | 0 | 
+45 |  | Has a criminal record (finding) | 0 | 
+45 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 | 47 | Not in labor force (finding) | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 | 50 | Victim of intimate partner abuse (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+47 |  | Served in armed forces (finding) | 0 | 
+47 |  | Has a criminal record (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received certificate of high school equivalency (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 | 49 | Part-time employment (finding) | 0 | 
+48 |  | Served in armed forces (finding) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 | 49 | Stress (finding) | 0 | 
+49 |  | Served in armed forces (finding) | 0 | 
+49 |  | Has a criminal record (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+49 | 49 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:5:0, Fatigue:64:0, Mucus:30:0, Nasal Congestion:32:0, Shortness of Breath:65:0, Nausea/Vomiting:0:0, Sore Throat:36:0, Cough:73:0, Fever:44:0
+50 | 51 | Part-time employment (finding) | 0 | 
+50 |  | Served in armed forces (finding) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 | 52 | Stress (finding) | 0 | 
+50 | 50 | Viral sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:57:0, Pain with Bright Lights:45:0, Facial Swelling:5:0, Nasal Discharge:32:0, Nasal Congestion:21:0, Sore Throat:20:0, Cough:28:0, Fever:24:0
+51 |  | Served in armed forces (finding) | 0 | 
+51 | 52 | Limited social contact (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 | 52 | Victim of intimate partner abuse (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Part-time employment (finding) | 0 | 
+52 |  | Served in armed forces (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 | 52 | Injury of medial collateral ligament of knee | 0 | 
+--------------------------------------------------------------------------------

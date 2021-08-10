@@ -1,0 +1,80 @@
+Ronny Ferry
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1934-04-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+75 |  | Body mass index 30+ - obesity (finding) | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+76 |  | Body mass index 30+ - obesity (finding) | 0 | 
+76 |  | Served in armed forces (finding) | 0 | 
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Body mass index 30+ - obesity (finding) | 0 | 
+77 |  | Served in armed forces (finding) | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Hyperlipidemia | 1 | weight gain:1
+78 |  | Body mass index 30+ - obesity (finding) | 0 | 
+78 |  | Served in armed forces (finding) | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 |  | Body mass index 30+ - obesity (finding) | 0 | 
+79 |  | Served in armed forces (finding) | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 | 80 | Social isolation (finding) | 0 | 
+80 |  | Body mass index 30+ - obesity (finding) | 0 | 
+80 |  | Served in armed forces (finding) | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 | 84 | Reports of violence in the environment (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+80 | 84 | Severe anxiety (panic) (finding | 0 | 
+81 |  | Body mass index 30+ - obesity (finding) | 0 | 
+81 |  | Served in armed forces (finding) | 0 | 
+81 | 82 | Not in labor force (finding) | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 | 84 | Social isolation (finding) | 0 | 
+82 |  | Served in armed forces (finding) | 0 | 
+82 |  | Housing unsatisfactory (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+83 |  | Served in armed forces (finding) | 0 | 
+83 |  | Housing unsatisfactory (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+84 |  | Served in armed forces (finding) | 0 | 
+84 |  | Housing unsatisfactory (finding) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 |  | Pneumonia | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,64 @@
+Khadijah Bergnaum
+=================
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+78 | 78 | Acute bronchitis (disorder) | 10 | Body Aches:12:0, Diarrhea:15:0, Fatigue:61:0, Mucus:30:0, Nasal Congestion:35:0, Shortness of Breath:38:0, Nausea/Vomiting:16:0, Sore Throat:41:0, Cough:60:0, Fever:27:0
+78 |  | Prediabetes | 0 | 
+78 | 78 | Part-time employment (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 | 79 | Stress (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+80 |  | Drug overdose | 0 | 
+81 |  | Prediabetes | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 | 82 | Stress (finding) | 0 | 
+82 | 82 | Viral sinusitis (disorder) | 9 | Headache:37:0, Sinus Pain:65:0, Pain with Bright Lights:48:0, Facial Swelling:41:0, Nasal Discharge:48:0, Nasal Congestion:3:0, Sore Throat:32:0, Cough:38:0, Fever:7:0
+82 |  | Prediabetes | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 | 87 | Severe anxiety (panic) (finding | 0 | 
+82 | 82 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:2:0, Fatigue:74:0, Mucus:37:0, Nasal Congestion:42:0, Shortness of Breath:64:0, Nausea/Vomiting:8:0, Sore Throat:40:0, Cough:55:0, Fever:36:0
+82 |  | Prediabetes | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 | 82 | Whiplash injury to neck | 0 | 
+83 |  | Prediabetes | 0 | 
+83 | 87 | Reports of violence in the environment (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 | 85 | Stress (finding) | 0 | 
+84 |  | Drug overdose | 0 | 
+84 |  | Prediabetes | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+85 |  | Prediabetes | 0 | 
+85 | 86 | Part-time employment (finding) | 0 | 
+85 | 87 | Victim of intimate partner abuse (finding) | 0 | 
+85 |  | Received certificate of high school equivalency (finding) | 0 | 
+86 |  | Prediabetes | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Received certificate of high school equivalency (finding) | 0 | 
+86 | 87 | Stress (finding) | 0 | 
+87 |  | Prediabetes | 0 | 
+87 |  | Not in labor force (finding) | 0 | 
+87 |  | Received certificate of high school equivalency (finding) | 0 | 
+87 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

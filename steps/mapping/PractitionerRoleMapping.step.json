@@ -1,0 +1,83 @@
+{
+  "collections": [
+    "PractitionerRoleMapping",
+    "PractitionerRole"
+  ],
+  "additionalCollections": [ ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "validateEntity": "doNotValidate",
+  "targetFormat": "JSON",
+  "attachSourceDocument": false,
+  "name": "PractitionerRoleMapping",
+  "targetEntityType": "http://example.org/PractitionerRole-1.0.0/PractitionerRole",
+  "description": "PractitionerRole Mapping",
+  "collection": "Provider",
+  "selectedSource": "collection",
+  "sourceQuery": "cts.collectionQuery(['Provider'])",
+  "targetDatabase": "data-hub-FINAL",
+  "headers": { },
+  "interceptors": [ ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "sourceDatabase": "data-hub-STAGING",
+  "stepDefinitionName": "entity-services-mapping",
+  "stepDefinitionType": "mapping",
+  "stepId": "PractitionerRoleMapping-mapping",
+  "acceptsBatch": true,
+  "lastUpdated": "2021-08-06T08:54:32.506076-06:00",
+  "uriExpression": "$URI",
+  "properties": {
+    "id": {
+      "sourcedFrom": "Id"
+    },
+    "practitioner": {
+      "sourcedFrom": ".",
+      "properties": {
+        "id": {
+          "sourcedFrom": ""
+        },
+        "type": {
+          "sourcedFrom": "\"Practitioner\""
+        },
+        "reference": {
+          "sourcedFrom": "concat(\"Practitioner/\", Id)"
+        }
+      },
+      "targetEntityType": "#/definitions/Reference"
+    },
+    "active": {
+      "sourcedFrom": "true()"
+    },
+    "organization": {
+      "sourcedFrom": ".",
+      "properties": {
+        "reference": {
+          "sourcedFrom": "concat(\"Organization/\", ORGANIZATION)"
+        },
+        "type": {
+          "sourcedFrom": "\"Organization\""
+        }
+      },
+      "targetEntityType": "#/definitions/Reference"
+    },
+    "location": {
+      "sourcedFrom": ".",
+      "properties": {
+        "reference": {
+          "sourcedFrom": "concat(\"Location/\", Id)"
+        },
+        "type": {
+          "sourcedFrom": "\"Location\""
+        }
+      },
+      "targetEntityType": "#/definitions/Reference"
+    },
+    "code__code": {
+      "sourcedFrom": "memoryLookup(SPECIALITY,'{\"GENERAL PRACTICE\": \"doctor\"}')"
+    },
+    "code__specialty": {
+      "sourcedFrom": "memoryLookup(SPECIALITY,'{\"GENERAL PRACTICE\": \"208D00000X\"}')"
+    }
+  }
+}

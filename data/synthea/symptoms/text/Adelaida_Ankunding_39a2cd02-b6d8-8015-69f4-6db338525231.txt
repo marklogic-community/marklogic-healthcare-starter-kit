@@ -1,0 +1,56 @@
+Adelaida Ankunding
+==================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1951-09-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+60 | 60 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:25:0, Body Aches:27:0, Runny/Stuffy Nose:8:0, Fatigue:20:0, Swollen Lymph Nodes:9:0, Decreased Appetite:46:0, Swollen Tonsils:16:0, Sore Throat:11:0, Fever:24:0, Cough:35:0
+60 |  | Unemployed (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 62 | Stress (finding) | 0 | 
+60 | 68 | Social isolation (finding) | 0 | 
+61 |  | Unemployed (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+62 | 62 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:53:0, Pain with Bright Lights:33:0, Facial Swelling:27:0, Nasal Discharge:44:0, Nasal Congestion:22:0, Sore Throat:36:0, Fever:19:0, Cough:46:0
+62 |  | Unemployed (finding) | 0 | 
+62 | 68 | Victim of intimate partner abuse (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Unemployed (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 | 63 | Stress (finding) | 0 | 
+62 |  | Victim of intimate partner abuse (finding) | 0 | 
+63 | 63 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:19:0, Body Aches:39:0, Runny/Stuffy Nose:26:0, Fatigue:7:0, Swollen Lymph Nodes:49:0, Decreased Appetite:13:0, Swollen Tonsils:12:0, Sore Throat:10:0, Fever:26:0, Cough:26:0
+63 |  | Unemployed (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+64 |  | Unemployed (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 66 | Stress (finding) | 0 | 
+64 | 66 | Polyp of colon | 0 | 
+65 |  | Unemployed (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 |  | Victim of intimate partner abuse (finding) | 0 | 
+66 |  | Unemployed (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+67 |  | Unemployed (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 |  | Cough (finding) | 1 | cough:1
+68 | 68 | Suspected COVID-19 | 0 | 
+68 |  | COVID-19 | 0 | 
+68 |  | Acute respiratory failure (disorder) | 0 | 
+68 |  | Respiratory distress (finding) | 0 | 
+68 |  | Sepsis caused by virus (disorder) | 0 | 
+68 |  | Heart failure (disorder) | 0 | 
+68 |  | Pneumonia (disorder) | 0 | 
+68 |  | Hypoxemia (disorder) | 0 | 
+68 | 68 | Viral sinusitis (disorder) | 9 | Headache:18:0, Sinus Pain:55:0, Pain with Bright Lights:42:0, Facial Swelling:17:0, Nasal Discharge:31:0, Nasal Congestion:19:0, Sore Throat:7:0, Fever:3:0, Cough:46:0
+68 |  | Acute deep venous thrombosis (disorder) | 0 | 
+68 | 68 | Viral sinusitis (disorder) | 9 | Headache:22:0, Sinus Pain:68:0, Pain with Bright Lights:35:0, Facial Swelling:33:0, Nasal Discharge:15:0, Nasal Congestion:11:0, Sore Throat:26:0, Fever:22:0, Cough:13:0
+68 |  | Reports of violence in the environment (finding) | 0 | 
+68 |  | Unemployed (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 | 69 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:11:0, Body Aches:31:0, Runny/Stuffy Nose:33:0, Fatigue:21:0, Swollen Lymph Nodes:34:0, Decreased Appetite:20:0, Swollen Tonsils:40:0, Sore Throat:21:0, Fever:0:0, Cough:42:0
+--------------------------------------------------------------------------------

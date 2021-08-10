@@ -1,0 +1,47 @@
+Awilda Wolff
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1932-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 | 78 | Fracture subluxation of wrist | 0 | 
+79 | 80 | Part-time employment (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Drug overdose | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 | 82 | Stress (finding) | 0 | 
+81 | 81 | Viral sinusitis (disorder) | 9 | Headache:8:0, Sinus Pain:66:0, Pain with Bright Lights:48:0, Facial Swelling:21:0, Nasal Discharge:38:0, Nasal Congestion:21:0, Sore Throat:48:0, Cough:3:0, Fever:7:0
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+83 | 84 | Part-time employment (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Drug overdose | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Only received primary school education (finding) | 0 | 
+84 | 86 | Stress (finding) | 0 | 
+84 | 84 | Viral sinusitis (disorder) | 9 | Headache:34:0, Sinus Pain:79:0, Pain with Bright Lights:48:0, Facial Swelling:42:0, Nasal Discharge:42:0, Nasal Congestion:24:0, Sore Throat:36:0, Cough:6:0, Fever:14:0
+84 |  | Drug overdose | 0 | 
+85 | 85 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:2:0, Runny/Stuffy Nose:34:0, Fatigue:32:0, Swollen Lymph Nodes:30:0, Swollen Tonsils:33:0, Decreased Appetite:23:0, Sore Throat:7:0, Cough:39:0, Fever:41:0
+85 | 85 | Fracture of forearm | 0 | 
+85 | 86 | Full-time employment (finding) | 0 | 
+85 |  | Only received primary school education (finding) | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Only received primary school education (finding) | 0 | 
+86 | 86 | Fracture subluxation of wrist | 0 | 
+87 |  | Part-time employment (finding) | 0 | 
+87 |  | Reports of violence in the environment (finding) | 0 | 
+87 |  | Victim of intimate partner abuse (finding) | 0 | 
+87 |  | Only received primary school education (finding) | 0 | 
+87 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

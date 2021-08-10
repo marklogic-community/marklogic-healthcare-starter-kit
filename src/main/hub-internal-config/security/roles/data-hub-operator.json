@@ -1,0 +1,91 @@
+{
+  "role-name": "data-hub-operator",
+  "description": "Permits operating a Data Hub application, such as running flows and viewing job data; this role is intended to replace flow-operator-role, and thus it inherits all of the privileges that flow-operator-role does",
+  "role": [
+    "data-hub-common",
+    "data-hub-common-writer",
+    "rest-extension-user",
+    "rest-reader",
+    "data-hub-module-reader",
+    "data-hub-job-reader",
+    "data-hub-job-monitor",
+    "data-hub-flow-reader",
+    "data-hub-mapping-reader",
+    "data-hub-entity-model-reader",
+    "data-hub-step-definition-reader",
+    "data-hub-ingestion-reader",
+    "data-hub-match-merge-reader",
+    "data-hub-custom-reader",
+    "tde-view",
+    "data-hub-saved-query-user",
+    "redaction-user",
+    "data-hub-temporal-user"
+  ],
+  "privilege": [
+    {
+      "privilege-name": "data-hub-run-step",
+      "action": "http://marklogic.com/data-hub/privileges/run-step",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "xdmp:set-server-field",
+      "action": "http://marklogic.com/xdmp/privileges/xdmp-set-server-field",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "xdmp:get-server-field",
+      "action": "http://marklogic.com/xdmp/privileges/xdmp-get-server-field",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "manage",
+      "action": "http://marklogic.com/xdmp/privileges/manage",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "xdmp:eval",
+      "action": "http://marklogic.com/xdmp/privileges/xdmp-eval",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "eval-search-string",
+      "action": "http://marklogic.com/xdmp/privileges/eval-search-string",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "xdmp:xslt-eval",
+      "action": "http://marklogic.com/xdmp/privileges/xslt-eval",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "xdmp:xslt-invoke",
+      "action": "http://marklogic.com/xdmp/privileges/xslt-invoke",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "xdbc:invoke",
+      "action": "http://marklogic.com/xdmp/privileges/xdbc-invoke",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "xdbc:invoke-in",
+      "action": "http://marklogic.com/xdmp/privileges/xdbc-invoke-in",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "xdmp:get-server-field-names",
+      "action": "http://marklogic.com/xdmp/privileges/xdmp-get-server-field-names",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "sem:sparql",
+      "action": "http://marklogic.com/xdmp/privileges/sem-sparql",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "data-hub-prune-provenance",
+      "action": "http://marklogic.com/data-hub/privileges/prune-provenance",
+      "kind": "execute"
+    }
+  ]
+}

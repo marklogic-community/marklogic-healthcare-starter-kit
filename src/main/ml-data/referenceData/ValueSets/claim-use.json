@@ -1,0 +1,16 @@
+{
+  "valueSet": {
+      "valueSetName": "Use",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/claim-use",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-claim-use.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "The purpose of the Claim: predetermination, preauthorization, claim.",
+      "valueSetConcepts": {
+          "claim": {"code": "claim", "display": "Claim", "definition": "The treatment is complete and this represents a Claim for the services."},
+          "preauthorization": {"code": "preauthorization", "display": "Preauthorization", "definition": "The treatment is proposed and this represents a Pre-authorization for the services."},
+          "predetermination": {"code": "predetermination", "display": "Predetermination", "definition": "The treatment is proposed and this represents a Pre-determination for the services."}
+      }
+  }
+}

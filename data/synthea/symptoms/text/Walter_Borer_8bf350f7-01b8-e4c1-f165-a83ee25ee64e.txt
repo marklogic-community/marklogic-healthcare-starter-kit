@@ -1,0 +1,54 @@
+Walter Borer
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-07-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+22 |  | Has a criminal record (finding) | 0 | 
+22 | 23 | Full-time employment (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+23 |  | Has a criminal record (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+24 | 24 | Acute bronchitis (disorder) | 10 | Body Aches:16:0, Diarrhea:9:0, Fatigue:36:0, Mucus:37:0, Nasal Congestion:25:0, Shortness of Breath:71:0, Nausea/Vomiting:3:0, Fever:44:0, Sore Throat:37:0, Cough:32:0
+24 | 25 | Not in labor force (finding) | 0 | 
+24 |  | Has a criminal record (finding) | 0 | 
+24 |  | Received certificate of high school equivalency (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+25 | 25 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:36:0, Runny/Stuffy Nose:1:0, Fatigue:45:0, Swollen Lymph Nodes:49:0, Swollen Tonsils:11:0, Decreased Appetite:41:0, Fever:41:0, Sore Throat:21:0, Cough:2:0
+25 | 26 | Part-time employment (finding) | 0 | 
+25 |  | Has a criminal record (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 | 26 | Stress (finding) | 0 | 
+25 | 25 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:39:0, Body Aches:6:0, Runny/Stuffy Nose:2:0, Fatigue:33:0, Swollen Lymph Nodes:17:0, Swollen Tonsils:39:0, Decreased Appetite:28:0, Fever:42:0, Sore Throat:23:0, Cough:31:0
+26 |  | Has a criminal record (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received certificate of high school equivalency (finding) | 0 | 
+26 | 29 | Social isolation (finding) | 0 | 
+27 | 28 | Part-time employment (finding) | 0 | 
+27 |  | Has a criminal record (finding) | 0 | 
+27 |  | Received certificate of high school equivalency (finding) | 0 | 
+27 |  | Stress (finding) | 0 | 
+28 |  | Has a criminal record (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+29 |  | Has a criminal record (finding) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Received certificate of high school equivalency (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+29 | 30 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+30 | 31 | Limited social contact (finding) | 0 | 
+30 |  | Has a criminal record (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 |  | Has a criminal record (finding) | 0 | 
+31 |  | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,44 @@
+Claude Jenkins
+==============
+Race:                Native
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1954-09-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 |  | Prediabetes | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 |  | Stress (finding) | 0 | 
+40 | 40 | Viral sinusitis (disorder) | 9 | Sinus Pain:69:0, Headache:40:0, Pain with Bright Lights:32:0, Facial Swelling:49:0, Nasal Discharge:17:0, Nasal Congestion:16:0, Fever:2:0, Sore Throat:3:0, Cough:29:0
+42 |  | Prediabetes | 0 | 
+42 |  | Anemia (disorder) | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 | 49 | Victim of intimate partner abuse (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 49 | Stress (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 | 47 | Limited social contact (finding) | 0 | 
+44 | 49 | Reports of violence in the environment (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+45 |  | Prediabetes | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 | 45 | Viral sinusitis (disorder) | 9 | Sinus Pain:65:0, Headache:19:0, Pain with Bright Lights:31:0, Facial Swelling:8:0, Nasal Discharge:24:0, Nasal Congestion:0:0, Fever:12:0, Sore Throat:30:0, Cough:13:0
+46 |  | Prediabetes | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 |  | Prediabetes | 0 | 
+47 | 48 | Not in labor force (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+48 |  | Prediabetes | 0 | 
+48 | 49 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 | 49 | Social isolation (finding) | 0 | 
+49 |  | Prediabetes | 0 | 
+49 |  | Full-time employment (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+49 |  | Sepsis (disorder) | 0 | 
+49 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+--------------------------------------------------------------------------------

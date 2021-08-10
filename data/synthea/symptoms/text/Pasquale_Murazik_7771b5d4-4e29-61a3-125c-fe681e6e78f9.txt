@@ -1,0 +1,19 @@
+Pasquale Murazik
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2004-11-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+8 |  | Child attention deficit disorder | 5 | Delayed Verbal/Language Skills:9, Poor Eye Contact:0, Hyperactive Behavior:2, Poor Socialization:0, Inability to Focus/Concentrate:8
+12 | 16 | Severe anxiety (panic) (finding | 0 | 
+12 | 13 | Otitis media | 0 | 
+14 | 14 | Laceration of foot | 0 | 
+15 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+15 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+15 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+15 | 15 | Suspected COVID-19 | 0 | 
+15 |  | COVID-19 | 0 | 
+16 |  | Risk activity involvement (finding) | 0 | 
+--------------------------------------------------------------------------------

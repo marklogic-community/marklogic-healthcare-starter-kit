@@ -1,0 +1,70 @@
+Gene Yundt
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+60 | 60 | Acute bronchitis (disorder) | 10 | Body Aches:9:0, Diarrhea:24:0, Fatigue:61:0, Mucus:35:0, Nasal Congestion:34:0, Shortness of Breath:65:0, Nausea/Vomiting:12:0, Sore Throat:36:0, Fever:42:0, Cough:55:0
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 | 62 | Polyp of colon | 0 | 
+62 |  | Limited social contact (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 | 63 | Stress (finding) | 0 | 
+63 | 64 | Not in labor force (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 | 65 | Social isolation (finding) | 0 | 
+64 |  | Body mass index 30+ - obesity (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+64 |  | Chronic neck pain (finding) | 0 | 
+64 |  | Chronic neck pain (finding) | 0 | 
+64 | 64 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:33:0, Pain with Bright Lights:34:0, Facial Swelling:12:0, Nasal Discharge:39:0, Nasal Congestion:15:0, Sore Throat:46:0, Fever:13:0, Cough:16:0
+65 |  | Body mass index 30+ - obesity (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 | 70 | Victim of intimate partner abuse (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+66 |  | Body mass index 30+ - obesity (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 |  | Social isolation (finding) | 0 | 
+66 | 66 | Second degree burn | 0 | 
+66 |  | Hyperlipidemia | 1 | weight gain:1
+67 | 67 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:24:0, Fatigue:59:0, Mucus:26:0, Nasal Congestion:26:0, Shortness of Breath:33:0, Nausea/Vomiting:4:0, Sore Throat:49:0, Fever:37:0, Cough:30:0
+67 |  | Body mass index 30+ - obesity (finding) | 0 | 
+67 | 68 | Part-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 70 | Stress (finding) | 0 | 
+67 | 70 | Social isolation (finding) | 0 | 
+68 |  | Body mass index 30+ - obesity (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+69 |  | Body mass index 30+ - obesity (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+70 |  | Drug overdose | 0 | 
+70 |  | Part-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+70 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+70 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+70 | 70 | Suspected COVID-19 | 0 | 
+70 |  | COVID-19 | 0 | 
+70 |  | Acute respiratory failure (disorder) | 0 | 
+70 |  | Respiratory distress (finding) | 0 | 
+70 |  | Sepsis caused by virus (disorder) | 0 | 
+70 |  | Injury of kidney (disorder) | 0 | 
+70 |  | Injury of heart (disorder) | 0 | 
+70 |  | Acquired coagulation disorder (disorder) | 0 | 
+70 |  | Heart failure (disorder) | 0 | 
+70 |  | Septic shock (disorder) | 0 | 
+70 |  | Pneumonia (disorder) | 0 | 
+70 |  | Hypoxemia (disorder) | 0 | 
+70 |  | Acute deep venous thrombosis (disorder) | 0 | 
+--------------------------------------------------------------------------------

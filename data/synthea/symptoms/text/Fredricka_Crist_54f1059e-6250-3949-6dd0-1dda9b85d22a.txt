@@ -1,0 +1,20 @@
+Fredricka Crist
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1999-07-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:5:0, Body Aches:9:0, Runny/Stuffy Nose:40:0, Fatigue:15:0, Swollen Lymph Nodes:40:0, Swollen Tonsils:32:0, Decreased Appetite:47:0, Cough:27:0, Sore Throat:44:0, Fever:26:0
+1 | 2 | Acute bronchitis (disorder) | 10 | Body Aches:17:0, Diarrhea:6:0, Fatigue:55:0, Mucus:32:0, Nasal Congestion:37:0, Shortness of Breath:26:0, Nausea/Vomiting:15:0, Cough:34:0, Sore Throat:29:0, Fever:35:0
+3 | 3 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:22:0, Pain with Bright Lights:43:0, Facial Swelling:16:0, Nasal Discharge:22:0, Nasal Congestion:12:0, Cough:27:0, Sore Throat:42:0, Fever:10:0
+4 | 4 | Otitis media | 0 | 
+4 | 4 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:9:0, Fatigue:57:0, Mucus:25:0, Nasal Congestion:40:0, Shortness of Breath:44:0, Nausea/Vomiting:11:0, Cough:36:0, Sore Throat:34:0, Fever:34:0
+5 | 5 | Sinusitis (disorder) | 9 | Sinus Pain:38:104:120:105:76:0, Headache:38:0, Pain with Bright Lights:39:0, Facial Swelling:6:0, Nasal Discharge:28:0, Nasal Congestion:21:0, Cough:41:0, Sore Throat:45:0, Fever:8:0
+5 |  | Chronic sinusitis (disorder) | 9 | Sinus Pain:104:120:105:76:0, Headache:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Cough:0, Sore Throat:0, Fever:0
+6 | 7 | Fracture of forearm | 0 | 
+9 |  | History of single seizure (situation) | 0 | 
+9 |  | Seizure disorder | 0 | 
+9 |  | Epilepsy | 0 | 
+--------------------------------------------------------------------------------

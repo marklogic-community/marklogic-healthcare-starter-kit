@@ -1,0 +1,22 @@
+Cliff Pfeffer
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2014-02-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:11:0, Pain with Bright Lights:33:0, Facial Swelling:27:0, Nasal Discharge:38:0, Nasal Congestion:3:0, Fever:16:0, Sore Throat:13:0, Cough:25:0
+1 | 1 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:5:0, Pain with Bright Lights:27:0, Facial Swelling:5:0, Nasal Discharge:38:0, Nasal Congestion:19:0, Fever:0:0, Sore Throat:10:0, Cough:4:0
+1 | 2 | Sprain of ankle | 0 | 
+2 | 2 | Otitis media | 0 | 
+3 | 3 | Acute bronchitis (disorder) | 10 | Body Aches:1:0, Diarrhea:4:0, Fatigue:70:0, Mucus:36:0, Nasal Congestion:49:0, Shortness of Breath:48:0, Nausea/Vomiting:16:0, Fever:35:0, Sore Throat:28:0, Cough:44:0
+4 |  | Childhood asthma | 6 | Mucus Secretion:14, Chest Pressure:19, Wheezing:27, Nasal Congestion:4, Shortness of Breath:59, Cough:13
+6 |  | Fever (finding) | 5 | fatigue:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1
+6 |  | Sputum finding (finding) | 5 | fatigue:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1
+6 |  | Fatigue (finding) | 5 | fatigue:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1
+6 |  | Sore throat symptom (finding) | 5 | fatigue:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1
+6 |  | Loss of taste (finding) | 5 | fatigue:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1
+6 | 6 | Suspected COVID-19 | 0 | 
+6 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

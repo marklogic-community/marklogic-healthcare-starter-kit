@@ -1,0 +1,67 @@
+Russ Feest
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1915-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+59 |  | Prediabetes | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+60 |  | Prediabetes | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 61 | Stress (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 62 | Part-time employment (finding) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 | 63 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:11:0, Fatigue:64:0, Mucus:47:0, Nasal Congestion:31:0, Shortness of Breath:61:0, Nausea/Vomiting:24:0, Fever:27:0, Sore Throat:28:0, Cough:33:0
+63 |  | Prediabetes | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 | 64 | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 64 | Viral sinusitis (disorder) | 9 | Sinus Pain:55:0, Headache:29:0, Pain with Bright Lights:37:0, Facial Swelling:15:0, Nasal Discharge:5:0, Nasal Congestion:5:0, Fever:3:0, Sore Throat:6:0, Cough:22:0
+65 |  | Neoplasm of prostate | 1 | urinary frequency:20
+65 |  | Metastasis from malignant tumor of prostate (disorder) | 1 | urinary frequency:20
+65 |  | Prediabetes | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 | 68 | Victim of intimate partner abuse (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 | 68 | Part-time employment (finding) | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 68 | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Served in armed forces (finding) | 0 | 
+68 |  | Reports of violence in the environment (finding) | 0 | 
+68 |  | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 | 68 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:18:0, Body Aches:43:0, Runny/Stuffy Nose:25:0, Fatigue:36:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:18:0, Decreased Appetite:12:0, Fever:6:0, Sore Throat:12:0, Cough:33:0
+--------------------------------------------------------------------------------

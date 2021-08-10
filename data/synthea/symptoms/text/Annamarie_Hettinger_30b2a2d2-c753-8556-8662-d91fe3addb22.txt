@@ -1,0 +1,47 @@
+Annamarie Hettinger
+===================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 |  | Prediabetes | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 69 | Not in labor force (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 | 71 | Social isolation (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 | 69 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:19:0, Pain with Bright Lights:49:0, Facial Swelling:31:0, Nasal Discharge:47:0, Nasal Congestion:20:0, Fever:19:0, Sore Throat:17:0, Cough:35:0
+69 | 69 | Viral sinusitis (disorder) | 9 | Sinus Pain:70:0, Headache:1:0, Pain with Bright Lights:40:0, Facial Swelling:22:0, Nasal Discharge:37:0, Nasal Congestion:13:0, Fever:13:0, Sore Throat:20:0, Cough:31:0
+69 |  | Prediabetes | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 | 74 | Stress (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 | 76 | Victim of intimate partner abuse (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 | 74 | Not in labor force (finding) | 0 | 
+72 | 75 | Limited social contact (finding) | 0 | 
+72 | 76 | Reports of violence in the environment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+73 | 73 | Fracture subluxation of wrist | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 | 76 | Stress (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Limited social contact (finding) | 0 | 
+76 |  | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

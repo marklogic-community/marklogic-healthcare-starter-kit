@@ -1,0 +1,38 @@
+Alfred West
+===========
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1956-06-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 | 28 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 | 28 | Viral sinusitis (disorder) | 9 | Headache:20:0, Sinus Pain:73:0, Pain with Bright Lights:48:0, Facial Swelling:17:0, Nasal Discharge:43:0, Nasal Congestion:14:0, Sore Throat:10:0, Fever:19:0, Cough:39:0
+28 | 28 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:8:0, Fatigue:50:0, Mucus:35:0, Nasal Congestion:38:0, Shortness of Breath:54:0, Nausea/Vomiting:13:0, Sore Throat:39:0, Fever:32:0, Cough:45:0
+28 | 31 | Not in labor force (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 | 31 | Stress (finding) | 0 | 
+28 | 28 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:13:0, Fatigue:48:0, Mucus:42:0, Nasal Congestion:40:0, Shortness of Breath:46:0, Nausea/Vomiting:15:0, Sore Throat:25:0, Fever:31:0, Cough:30:0
+30 | 31 | Fracture of rib | 0 | 
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 | 32 | Not in labor force (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 | 32 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:38:0, Body Aches:43:0, Runny/Stuffy Nose:16:0, Fatigue:29:0, Swollen Lymph Nodes:36:0, Swollen Tonsils:58:0, Decreased Appetite:10:0, Sore Throat:45:0, Fever:37:0, Cough:0:0
+32 | 34 | Part-time employment (finding) | 0 | 
+32 | 37 | Reports of violence in the environment (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 | 34 | Stress (finding) | 0 | 
+34 | 37 | Limited social contact (finding) | 0 | 
+34 | 37 | Full-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 | 34 | Viral sinusitis (disorder) | 9 | Headache:11:0, Sinus Pain:75:0, Pain with Bright Lights:30:0, Facial Swelling:4:0, Nasal Discharge:2:0, Nasal Congestion:5:0, Sore Throat:33:0, Fever:19:0, Cough:30:0
+37 | 37 | Viral sinusitis (disorder) | 9 | Headache:49:0, Sinus Pain:78:0, Pain with Bright Lights:46:0, Facial Swelling:13:0, Nasal Discharge:40:0, Nasal Congestion:23:0, Sore Throat:23:0, Fever:10:0, Cough:26:0
+37 | 37 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+37 |  | Hypertension | 0 | 
+37 |  | Part-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

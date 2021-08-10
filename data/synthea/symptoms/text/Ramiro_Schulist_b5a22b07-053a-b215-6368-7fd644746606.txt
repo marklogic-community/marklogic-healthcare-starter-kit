@@ -1,0 +1,61 @@
+Ramiro Schulist
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-07-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+64 | 64 | Laceration of forearm | 0 | 
+65 | 65 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:25:0, Body Aches:9:0, Runny/Stuffy Nose:44:0, Fatigue:47:0, Swollen Lymph Nodes:38:0, Decreased Appetite:21:0, Swollen Tonsils:9:0, Sore Throat:45:0, Fever:29:0, Cough:29:0
+65 |  | Prediabetes | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 | 69 | Stress (finding) | 0 | 
+68 | 68 | Viral sinusitis (disorder) | 9 | Headache:32:0, Sinus Pain:56:0, Pain with Bright Lights:47:0, Facial Swelling:26:0, Nasal Discharge:20:0, Nasal Congestion:15:0, Sore Throat:17:0, Fever:20:0, Cough:16:0
+69 |  | Prediabetes | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Polyp of colon | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+70 |  | Prediabetes | 0 | 
+70 |  | Osteoporosis (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 73 | Reports of violence in the environment (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 73 | Stress (finding) | 0 | 
+71 | 73 | Malignant tumor of colon | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+71 |  | Recurrent rectal polyp | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+71 |  | Prediabetes | 0 | 
+71 | 72 | Part-time employment (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 | 73 | Social isolation (finding) | 0 | 
+71 | 71 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:63:0, Pain with Bright Lights:37:0, Facial Swelling:0:0, Nasal Discharge:7:0, Nasal Congestion:18:0, Sore Throat:1:0, Fever:23:0, Cough:11:0
+72 |  | Prediabetes | 0 | 
+72 | 73 | Not in labor force (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Part-time employment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Victim of intimate partner abuse (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

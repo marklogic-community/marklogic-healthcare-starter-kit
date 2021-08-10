@@ -1,0 +1,15 @@
+Luther MacGyver
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1990-07-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+8 | 8 | Sprain of wrist | 0 | 
+10 | 10 | Viral sinusitis (disorder) | 9 | Sinus Pain:56:0, Headache:36:0, Pain with Bright Lights:36:0, Facial Swelling:27:0, Nasal Discharge:28:0, Nasal Congestion:4:0, Fever:13:0, Sore Throat:1:0, Cough:48:0
+10 |  | History of single seizure (situation) | 0 | 
+10 |  | Seizure disorder | 0 | 
+10 |  | Epilepsy | 0 | 
+12 |  | Body mass index 30+ - obesity (finding) | 0 | 
+--------------------------------------------------------------------------------

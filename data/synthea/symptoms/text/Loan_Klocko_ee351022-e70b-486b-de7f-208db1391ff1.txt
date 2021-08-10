@@ -1,0 +1,58 @@
+Loan Klocko
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1988-07-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+23 |  | Housing unsatisfactory (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Only received primary school education (finding) | 0 | 
+24 | 25 | Part-time employment (finding) | 0 | 
+24 | 32 | Limited social contact (finding) | 0 | 
+24 |  | Housing unsatisfactory (finding) | 0 | 
+24 |  | Only received primary school education (finding) | 0 | 
+24 | 28 | Stress (finding) | 0 | 
+24 | 24 | Viral sinusitis (disorder) | 9 | Sinus Pain:71:0, Headache:2:0, Pain with Bright Lights:49:0, Facial Swelling:47:0, Nasal Discharge:30:0, Nasal Congestion:19:0, Sore Throat:11:0, Fever:23:0, Cough:23:0
+24 | 24 | Viral sinusitis (disorder) | 9 | Sinus Pain:66:0, Headache:19:0, Pain with Bright Lights:35:0, Facial Swelling:27:0, Nasal Discharge:39:0, Nasal Congestion:7:0, Sore Throat:25:0, Fever:12:0, Cough:42:0
+24 | 25 | Facial laceration | 0 | 
+25 |  | Housing unsatisfactory (finding) | 0 | 
+25 | 26 | Full-time employment (finding) | 0 | 
+25 |  | Only received primary school education (finding) | 0 | 
+25 |  | Victim of intimate partner abuse (finding) | 0 | 
+26 |  | Housing unsatisfactory (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Only received primary school education (finding) | 0 | 
+27 | 27 | Fracture of clavicle | 0 | 
+27 | 28 | Not in labor force (finding) | 0 | 
+27 |  | Housing unsatisfactory (finding) | 0 | 
+27 |  | Only received primary school education (finding) | 0 | 
+27 | 30 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+28 | 28 | Normal pregnancy | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Only received primary school education (finding) | 0 | 
+29 | 30 | Part-time employment (finding) | 0 | 
+29 |  | Housing unsatisfactory (finding) | 0 | 
+29 |  | Only received primary school education (finding) | 0 | 
+29 | 30 | Stress (finding) | 0 | 
+30 |  | Housing unsatisfactory (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Only received primary school education (finding) | 0 | 
+31 | 32 | Not in labor force (finding) | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 |  | Only received primary school education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 | 32 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+31 |  | Fever (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+31 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+31 |  | Cough (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+31 |  | Loss of taste (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+31 | 31 | Suspected COVID-19 | 0 | 
+31 |  | COVID-19 | 0 | 
+32 |  | Housing unsatisfactory (finding) | 0 | 
+32 |  | Full-time employment (finding) | 0 | 
+32 |  | Only received primary school education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

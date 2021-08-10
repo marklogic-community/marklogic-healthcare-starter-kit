@@ -1,0 +1,82 @@
+Oretha Mante
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1942-09-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+68 |  | Body mass index 30+ - obesity (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Lack of access to transportation (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 | 70 | Social isolation (finding) | 0 | 
+69 |  | Body mass index 30+ - obesity (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Transport problems (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 |  | Body mass index 30+ - obesity (finding) | 0 | 
+70 | 71 | Not in labor force (finding) | 0 | 
+70 |  | Lack of access to transportation (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 |  | Body mass index 30+ - obesity (finding) | 0 | 
+71 | 77 | Limited social contact (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Lack of access to transportation (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 | 73 | Stress (finding) | 0 | 
+71 |  | Chronic low back pain (finding) | 0 | 
+71 |  | Chronic neck pain (finding) | 0 | 
+71 |  | Chronic low back pain (finding) | 0 | 
+71 |  | Chronic neck pain (finding) | 0 | 
+71 |  | Chronic low back pain (finding) | 0 | 
+71 |  | Chronic neck pain (finding) | 0 | 
+72 |  | Body mass index 30+ - obesity (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Transport problems (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Victim of intimate partner abuse (finding) | 0 | 
+73 |  | Body mass index 30+ - obesity (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Lack of access to transportation (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Body mass index 30+ - obesity (finding) | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Lack of access to transportation (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+74 | 75 | Fracture of forearm | 0 | 
+74 | 75 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+75 |  | Body mass index 30+ - obesity (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Lack of access to transportation (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Body mass index 30+ - obesity (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Transport problems (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Body mass index 30+ - obesity (finding) | 0 | 
+77 |  | Not in labor force (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Lack of access to transportation (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Muscle pain (finding) | 7 | myalgia:1, chills:1, arthralgia:1, fever:1, cough:1, vomiting:1, nausea:1
+77 |  | Vomiting symptom (finding) | 7 | myalgia:1, chills:1, arthralgia:1, fever:1, cough:1, vomiting:1, nausea:1
+77 |  | Chill (finding) | 7 | myalgia:1, chills:1, arthralgia:1, fever:1, cough:1, vomiting:1, nausea:1
+77 |  | Fever (finding) | 7 | myalgia:1, chills:1, arthralgia:1, fever:1, cough:1, vomiting:1, nausea:1
+77 |  | Joint pain (finding) | 7 | myalgia:1, chills:1, arthralgia:1, fever:1, cough:1, vomiting:1, nausea:1
+77 |  | Cough (finding) | 7 | myalgia:1, chills:1, arthralgia:1, fever:1, cough:1, vomiting:1, nausea:1
+77 |  | Nausea (finding) | 7 | myalgia:1, chills:1, arthralgia:1, fever:1, cough:1, vomiting:1, nausea:1
+77 | 77 | Suspected COVID-19 | 0 | 
+77 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

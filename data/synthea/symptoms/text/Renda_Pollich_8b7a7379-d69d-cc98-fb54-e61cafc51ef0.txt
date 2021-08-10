@@ -1,0 +1,55 @@
+Renda Pollich
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+66 |  | Prediabetes | 0 | 
+66 | 67 | Part-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 | 67 | Stress (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 | 68 | Part-time employment (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 69 | Part-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 | 71 | Stress (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 72 | Part-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 | 71 | Viral sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:58:0, Pain with Bright Lights:37:0, Facial Swelling:25:0, Nasal Discharge:17:0, Nasal Congestion:24:0, Sore Throat:8:0, Fever:3:0, Cough:20:0
+72 |  | Prediabetes | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+72 | 72 | Sprain of ankle | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 | 73 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:13:0, Fatigue:57:0, Mucus:41:0, Nasal Congestion:31:0, Shortness of Breath:38:0, Nausea/Vomiting:14:0, Sore Throat:25:0, Fever:45:0, Cough:54:0
+73 |  | Prediabetes | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 75 | Stress (finding) | 0 | 
+73 |  | Victim of intimate partner abuse (finding) | 0 | 
+74 | 74 | Laceration of thigh | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Reports of violence in the environment (finding) | 0 | 
+75 |  | Full-time employment (finding) | 0 | 
+75 |  | Victim of intimate partner abuse (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

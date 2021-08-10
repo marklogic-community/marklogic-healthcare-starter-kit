@@ -1,0 +1,64 @@
+Trey Little
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+68 |  | Drug overdose | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Transport problems (finding) | 0 | 
+68 | 72 | Stress (finding) | 0 | 
+69 |  | Lack of access to transportation (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 | 70 | Part-time employment (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:26:0, Body Aches:2:0, Runny/Stuffy Nose:18:0, Fatigue:39:0, Swollen Lymph Nodes:3:0, Swollen Tonsils:47:0, Decreased Appetite:8:0, Sore Throat:19:0, Cough:15:0, Fever:8:0
+70 | 70 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:47:0, Body Aches:1:0, Runny/Stuffy Nose:3:0, Fatigue:41:0, Swollen Lymph Nodes:27:0, Swollen Tonsils:21:0, Decreased Appetite:6:0, Sore Throat:19:0, Cough:1:0, Fever:24:0
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Transport problems (finding) | 0 | 
+70 | 77 | Social isolation (finding) | 0 | 
+71 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+71 |  | Lack of access to transportation (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Transport problems (finding) | 0 | 
+73 |  | Lack of access to transportation (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 | 74 | Severe anxiety (panic) (finding | 0 | 
+73 |  | Drug overdose | 0 | 
+74 |  | Lack of access to transportation (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Drug overdose | 0 | 
+75 |  | Lack of access to transportation (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 | 76 | Part-time employment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Reports of violence in the environment (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Transport problems (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Full-time employment (finding) | 0 | 
+77 |  | Transport problems (finding) | 0 | 
+77 |  | Polyp of colon | 0 | 
+--------------------------------------------------------------------------------

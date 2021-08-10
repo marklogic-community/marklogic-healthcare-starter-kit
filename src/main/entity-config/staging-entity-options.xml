@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search:options xml:lang="zxx" xmlns:search="http://marklogic.com/appservices/search">
+  <search:constraint name="Collection">
+    <search:collection/>
+  </search:constraint>
+  <search:constraint name="createdByJob">
+    <search:value>
+      <search:field name="datahubCreatedByJob"/>
+    </search:value>
+  </search:constraint>
+  <search:constraint name="createdByStep">
+    <search:value>
+      <search:field name="datahubCreatedByStep"/>
+    </search:value>
+  </search:constraint>
+  <search:constraint name="entity-type">
+    <search:value>
+      <search:element ns="http://marklogic.com/entity-services" name="title"/>
+    </search:value>
+  </search:constraint>
+  <search:constraint name="PatientMastering">
+    <search:container>
+      <search:json-property>PatientMastering</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="PatientMastering-xml">
+    <search:container>
+      <search:element ns="" name="PatientMastering"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Coding">
+    <search:container>
+      <search:json-property>Coding</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Coding-xml">
+    <search:container>
+      <search:element ns="" name="Coding"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="USCoreEthnicityExtension">
+    <search:container>
+      <search:json-property>USCoreEthnicityExtension</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="USCoreEthnicityExtension-xml">
+    <search:container>
+      <search:element ns="" name="USCoreEthnicityExtension"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Meta">
+    <search:container>
+      <search:json-property>Meta</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Meta-xml">
+    <search:container>
+      <search:element ns="" name="Meta"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="HumanName">
+    <search:container>
+      <search:json-property>HumanName</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="HumanName-xml">
+    <search:container>
+      <search:element ns="" name="HumanName"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="DavinciContactPointAvailableTimeExtension">
+    <search:container>
+      <search:json-property>DavinciContactPointAvailableTimeExtension</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="DavinciContactPointAvailableTimeExtension-xml">
+    <search:container>
+      <search:element ns="" name="DavinciContactPointAvailableTimeExtension"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="daysOfWeek">
+    <search:value>
+      <search:element ns="" name="daysOfWeek"/>
+    </search:value>
+  </search:constraint>
+  <search:constraint name="Claim">
+    <search:container>
+      <search:json-property>Claim</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Claim-xml">
+    <search:container>
+      <search:element ns="" name="Claim"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="SanctionMatch">
+    <search:container>
+      <search:json-property>SanctionMatch</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="SanctionMatch-xml">
+    <search:container>
+      <search:element ns="" name="SanctionMatch"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="USCoreRaceExtension">
+    <search:container>
+      <search:json-property>USCoreRaceExtension</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="USCoreRaceExtension-xml">
+    <search:container>
+      <search:element ns="" name="USCoreRaceExtension"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Payee">
+    <search:container>
+      <search:json-property>Payee</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Payee-xml">
+    <search:container>
+      <search:element ns="" name="Payee"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Procedure">
+    <search:container>
+      <search:json-property>Procedure</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Procedure-xml">
+    <search:container>
+      <search:element ns="" name="Procedure"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Narrative">
+    <search:container>
+      <search:json-property>Narrative</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Narrative-xml">
+    <search:container>
+      <search:element ns="" name="Narrative"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Period">
+    <search:container>
+      <search:json-property>Period</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Period-xml">
+    <search:container>
+      <search:element ns="" name="Period"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="DavinciQualificationExtension">
+    <search:container>
+      <search:json-property>DavinciQualificationExtension</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="DavinciQualificationExtension-xml">
+    <search:container>
+      <search:element ns="" name="DavinciQualificationExtension"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Identifier">
+    <search:container>
+      <search:json-property>Identifier</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Identifier-xml">
+    <search:container>
+      <search:element ns="" name="Identifier"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Communication">
+    <search:container>
+      <search:json-property>Communication</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Communication-xml">
+    <search:container>
+      <search:element ns="" name="Communication"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="ContactPoint">
+    <search:container>
+      <search:json-property>ContactPoint</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="ContactPoint-xml">
+    <search:container>
+      <search:element ns="" name="ContactPoint"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Practitioner">
+    <search:container>
+      <search:json-property>Practitioner</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Practitioner-xml">
+    <search:container>
+      <search:element ns="" name="Practitioner"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Attachment">
+    <search:container>
+      <search:json-property>Attachment</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Attachment-xml">
+    <search:container>
+      <search:element ns="" name="Attachment"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="SupportingInformation">
+    <search:container>
+      <search:json-property>SupportingInformation</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="SupportingInformation-xml">
+    <search:container>
+      <search:element ns="" name="SupportingInformation"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="ClaimItem">
+    <search:container>
+      <search:json-property>ClaimItem</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="ClaimItem-xml">
+    <search:container>
+      <search:element ns="" name="ClaimItem"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="RecordTracking">
+    <search:container>
+      <search:json-property>RecordTracking</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="RecordTracking-xml">
+    <search:container>
+      <search:element ns="" name="RecordTracking"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="SimpleQuantity">
+    <search:container>
+      <search:json-property>SimpleQuantity</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="SimpleQuantity-xml">
+    <search:container>
+      <search:element ns="" name="SimpleQuantity"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Extension">
+    <search:container>
+      <search:json-property>Extension</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Extension-xml">
+    <search:container>
+      <search:element ns="" name="Extension"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="HoursOfOperation">
+    <search:container>
+      <search:json-property>HoursOfOperation</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="HoursOfOperation-xml">
+    <search:container>
+      <search:element ns="" name="HoursOfOperation"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Qualification">
+    <search:container>
+      <search:json-property>Qualification</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Qualification-xml">
+    <search:container>
+      <search:element ns="" name="Qualification"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Patient">
+    <search:container>
+      <search:json-property>Patient</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Patient-xml">
+    <search:container>
+      <search:element ns="" name="Patient"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="RelatedClaim">
+    <search:container>
+      <search:json-property>RelatedClaim</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="RelatedClaim-xml">
+    <search:container>
+      <search:element ns="" name="RelatedClaim"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Diagnosis">
+    <search:container>
+      <search:json-property>Diagnosis</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Diagnosis-xml">
+    <search:container>
+      <search:element ns="" name="Diagnosis"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Position">
+    <search:container>
+      <search:json-property>Position</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Position-xml">
+    <search:container>
+      <search:element ns="" name="Position"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="CareTeamMember">
+    <search:container>
+      <search:json-property>CareTeamMember</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="CareTeamMember-xml">
+    <search:container>
+      <search:element ns="" name="CareTeamMember"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Money">
+    <search:container>
+      <search:json-property>Money</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Money-xml">
+    <search:container>
+      <search:element ns="" name="Money"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="ClaimItemSubDetail">
+    <search:container>
+      <search:json-property>ClaimItemSubDetail</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="ClaimItemSubDetail-xml">
+    <search:container>
+      <search:element ns="" name="ClaimItemSubDetail"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Sanction">
+    <search:container>
+      <search:json-property>Sanction</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Sanction-xml">
+    <search:container>
+      <search:element ns="" name="Sanction"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="PractitionerRole">
+    <search:container>
+      <search:json-property>PractitionerRole</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="PractitionerRole-xml">
+    <search:container>
+      <search:element ns="" name="PractitionerRole"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="CodeableConcept">
+    <search:container>
+      <search:json-property>CodeableConcept</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="CodeableConcept-xml">
+    <search:container>
+      <search:element ns="" name="CodeableConcept"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="ClaimItemDetail">
+    <search:container>
+      <search:json-property>ClaimItemDetail</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="ClaimItemDetail-xml">
+    <search:container>
+      <search:element ns="" name="ClaimItemDetail"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Quantity">
+    <search:container>
+      <search:json-property>Quantity</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Quantity-xml">
+    <search:container>
+      <search:element ns="" name="Quantity"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Location">
+    <search:container>
+      <search:json-property>Location</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Location-xml">
+    <search:container>
+      <search:element ns="" name="Location"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Address">
+    <search:container>
+      <search:json-property>Address</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Address-xml">
+    <search:container>
+      <search:element ns="" name="Address"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Organization">
+    <search:container>
+      <search:json-property>Organization</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Organization-xml">
+    <search:container>
+      <search:element ns="" name="Organization"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Reference">
+    <search:container>
+      <search:json-property>Reference</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Reference-xml">
+    <search:container>
+      <search:element ns="" name="Reference"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Contact">
+    <search:container>
+      <search:json-property>Contact</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Contact-xml">
+    <search:container>
+      <search:element ns="" name="Contact"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Insurance">
+    <search:container>
+      <search:json-property>Insurance</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Insurance-xml">
+    <search:container>
+      <search:element ns="" name="Insurance"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Accident">
+    <search:container>
+      <search:json-property>Accident</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="Accident-xml">
+    <search:container>
+      <search:element ns="" name="Accident"/>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="DavinciGeolocationExtension">
+    <search:container>
+      <search:json-property>DavinciGeolocationExtension</search:json-property>
+    </search:container>
+  </search:constraint>
+  <search:constraint name="DavinciGeolocationExtension-xml">
+    <search:container>
+      <search:element ns="" name="DavinciGeolocationExtension"/>
+    </search:container>
+  </search:constraint>
+  <!--Uncomment to return no results for a blank search, rather than the default of all results
+ <search:term xmlns:search="http://marklogic.com/appservices/search">
+  <search:empty apply="no-results"/>
+</search:term> 
+-->
+  <search:values name="uris">
+    <search:uri/>
+  </search:values>
+  <!--Change to 'filtered' to exclude false-positives in certain searches-->
+  <search:search-option>unfiltered</search:search-option>
+  <!--Modify document extraction to change results returned-->
+  <search:extract-document-data selected="include">
+    <search:extract-path xmlns:es="http://marklogic.com/entity-services">//*:instance/(PatientMastering|Coding|USCoreEthnicityExtension|Meta|HumanName|DavinciContactPointAvailableTimeExtension|Claim|SanctionMatch|USCoreRaceExtension|Payee|Procedure|Narrative|Period|DavinciQualificationExtension|Identifier|Communication|ContactPoint|Practitioner|Attachment|SupportingInformation|ClaimItem|RecordTracking|SimpleQuantity|Extension|HoursOfOperation|Qualification|Patient|RelatedClaim|Diagnosis|Position|CareTeamMember|Money|ClaimItemSubDetail|Sanction|PractitionerRole|CodeableConcept|ClaimItemDetail|Quantity|Location|Address|Organization|Reference|Contact|Insurance|Accident|DavinciGeolocationExtension)</search:extract-path>
+  </search:extract-document-data>
+  <!--Change or remove this additional-query to broaden search beyond entity instance documents-->
+  <!--To return facets, change this option to 'true' and edit constraints-->
+  <search:return-facets>true</search:return-facets>
+  <!--To return snippets, comment out or remove this option-->
+  <search:transform-results apply="empty-snippet"/>
+</search:options>

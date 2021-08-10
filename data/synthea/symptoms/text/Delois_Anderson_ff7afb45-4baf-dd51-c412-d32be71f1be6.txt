@@ -1,0 +1,78 @@
+Delois Anderson
+===============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1958-03-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+54 |  | Body mass index 30+ - obesity (finding) | 0 | 
+54 |  | Refugee (person) | 0 | 
+54 | 58 | Limited social contact (finding) | 0 | 
+54 |  | Housing unsatisfactory (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 |  | Refugee (person) | 0 | 
+55 |  | Housing unsatisfactory (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 57 | Stress (finding) | 0 | 
+56 |  | Body mass index 30+ - obesity (finding) | 0 | 
+56 |  | Refugee (person) | 0 | 
+56 |  | Housing unsatisfactory (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+57 |  | Body mass index 30+ - obesity (finding) | 0 | 
+57 |  | Refugee (person) | 0 | 
+57 |  | Housing unsatisfactory (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+58 |  | Body mass index 30+ - obesity (finding) | 0 | 
+58 |  | Refugee (person) | 0 | 
+58 |  | Housing unsatisfactory (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 | 60 | Stress (finding) | 0 | 
+58 | 58 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:34:0, Runny/Stuffy Nose:2:0, Fatigue:48:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:29:0, Decreased Appetite:32:0, Sore Throat:0:0, Cough:33:0, Fever:18:0
+59 |  | Refugee (person) | 0 | 
+59 | 62 | Limited social contact (finding) | 0 | 
+59 |  | Housing unsatisfactory (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 63 | Severe anxiety (panic) (finding | 0 | 
+60 |  | Refugee (person) | 0 | 
+60 |  | Housing unsatisfactory (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 | 60 | Acute bronchitis (disorder) | 10 | Body Aches:9:0, Diarrhea:7:0, Fatigue:32:0, Mucus:44:0, Nasal Congestion:42:0, Shortness of Breath:57:0, Nausea/Vomiting:4:0, Sore Throat:32:0, Cough:72:0, Fever:39:0
+61 | 62 | Part-time employment (finding) | 0 | 
+61 |  | Refugee (person) | 0 | 
+61 |  | Housing unsatisfactory (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 |  | Fever (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+61 |  | Sputum finding (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+61 |  | Sore throat symptom (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+61 |  | Cough (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+61 |  | Loss of taste (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+61 | 61 | Suspected COVID-19 | 0 | 
+61 |  | COVID-19 | 0 | 
+62 |  | Refugee (person) | 0 | 
+62 |  | Housing unsatisfactory (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 | 62 | Stress (finding) | 0 | 
+62 | 62 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:27:0, Body Aches:39:0, Runny/Stuffy Nose:39:0, Fatigue:32:0, Swollen Lymph Nodes:4:0, Swollen Tonsils:27:0, Decreased Appetite:13:0, Sore Throat:7:0, Cough:3:0, Fever:10:0
+62 |  | Refugee (person) | 0 | 
+62 | 63 | Limited social contact (finding) | 0 | 
+62 |  | Housing unsatisfactory (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+63 |  | Body mass index 30+ - obesity (finding) | 0 | 
+63 |  | Refugee (person) | 0 | 
+63 |  | Housing unsatisfactory (finding) | 0 | 
+63 |  | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

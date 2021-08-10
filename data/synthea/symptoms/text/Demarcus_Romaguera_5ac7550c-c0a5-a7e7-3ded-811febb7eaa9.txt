@@ -1,0 +1,74 @@
+Demarcus Romaguera
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1982-05-13
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+31 |  | Opioid abuse (disorder) | 0 | 
+31 |  | Served in armed forces (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 | 33 | Stress (finding) | 0 | 
+31 | 32 | Otitis media | 0 | 
+31 |  | Chronic low back pain (finding) | 0 | 
+31 |  | Chronic neck pain (finding) | 0 | 
+31 |  | Chronic low back pain (finding) | 0 | 
+31 |  | Chronic neck pain (finding) | 0 | 
+32 |  | Chronic low back pain (finding) | 0 | 
+32 |  | Chronic neck pain (finding) | 0 | 
+32 |  | Opioid abuse (disorder) | 0 | 
+32 |  | Served in armed forces (finding) | 0 | 
+32 | 33 | Not in labor force (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 |  | Chronic low back pain (finding) | 0 | 
+32 |  | Chronic neck pain (finding) | 0 | 
+32 |  | Chronic low back pain (finding) | 0 | 
+32 |  | Chronic neck pain (finding) | 0 | 
+32 |  | Chronic low back pain (finding) | 0 | 
+32 |  | Chronic neck pain (finding) | 0 | 
+32 |  | Chronic low back pain (finding) | 0 | 
+32 |  | Chronic neck pain (finding) | 0 | 
+33 | 33 | Viral sinusitis (disorder) | 9 | Headache:25:0, Sinus Pain:64:0, Pain with Bright Lights:49:0, Facial Swelling:21:0, Nasal Discharge:47:0, Nasal Congestion:3:0, Sore Throat:6:0, Cough:35:0, Fever:6:0
+33 |  | Opioid abuse (disorder) | 0 | 
+33 | 34 | Part-time employment (finding) | 0 | 
+33 |  | Served in armed forces (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+33 | 33 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:6:0, Body Aches:18:0, Runny/Stuffy Nose:38:0, Fatigue:10:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:42:0, Decreased Appetite:41:0, Sore Throat:22:0, Cough:17:0, Fever:23:0
+34 |  | Opioid abuse (disorder) | 0 | 
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 |  | Served in armed forces (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+35 |  | Opioid abuse (disorder) | 0 | 
+35 |  | Served in armed forces (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+35 |  | Posttraumatic stress disorder | 0 | 
+36 |  | Posttraumatic stress disorder | 0 | 
+36 |  | Opioid abuse (disorder) | 0 | 
+36 |  | Served in armed forces (finding) | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+37 |  | Opioid abuse (disorder) | 0 | 
+37 |  | Served in armed forces (finding) | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+37 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+37 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+37 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+37 | 37 | Suspected COVID-19 | 0 | 
+37 |  | COVID-19 | 0 | 
+38 |  | Opioid abuse (disorder) | 0 | 
+38 |  | Body mass index 30+ - obesity (finding) | 0 | 
+38 |  | Part-time employment (finding) | 0 | 
+38 |  | Served in armed forces (finding) | 0 | 
+38 |  | Limited social contact (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

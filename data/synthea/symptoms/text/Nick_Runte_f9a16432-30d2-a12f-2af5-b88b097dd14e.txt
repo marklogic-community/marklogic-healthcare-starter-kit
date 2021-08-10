@@ -1,0 +1,71 @@
+Nick Runte
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1958-01-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+54 |  | Prediabetes | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 | 55 | Stress (finding) | 0 | 
+54 | 55 | Social isolation (finding) | 0 | 
+54 | 54 | Acute bronchitis (disorder) | 10 | Body Aches:1:0, Diarrhea:1:0, Fatigue:52:0, Mucus:36:0, Nasal Congestion:31:0, Shortness of Breath:61:0, Nausea/Vomiting:18:0, Sore Throat:45:0, Cough:50:0, Fever:48:0
+55 |  | Prediabetes | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+56 |  | Chronic low back pain (finding) | 0 | 
+56 |  | Fibromyalgia (disorder) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 | 59 | Limited social contact (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+56 |  | Drug overdose | 0 | 
+57 |  | Prediabetes | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 | 59 | Part-time employment (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 | 59 | Stress (finding) | 0 | 
+58 | 58 | Sprain of ankle | 0 | 
+59 | 59 | Viral sinusitis (disorder) | 9 | Headache:22:0, Sinus Pain:79:0, Pain with Bright Lights:47:0, Facial Swelling:31:0, Nasal Discharge:7:0, Nasal Congestion:22:0, Sore Throat:2:0, Cough:0:0, Fever:6:0
+59 |  | Prediabetes | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 | 63 | Victim of intimate partner abuse (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 63 | Severe anxiety (panic) (finding | 0 | 
+60 |  | Prediabetes | 0 | 
+60 | 63 | Limited social contact (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 63 | Reports of violence in the environment (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 | 61 | Stress (finding) | 0 | 
+60 |  | Drug overdose | 0 | 
+61 |  | Prediabetes | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+62 |  | Fever (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+62 |  | Fatigue (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+62 |  | Sore throat symptom (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+62 |  | Cough (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+62 | 62 | Suspected COVID-19 | 0 | 
+62 |  | COVID-19 | 0 | 
+62 |  | Prediabetes | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 | 63 | Stress (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 |  | Not in labor force (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

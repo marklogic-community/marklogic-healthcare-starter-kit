@@ -1,0 +1,24 @@
+Valentine Stamm
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2001-10-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+11 | 11 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:20:0, Runny/Stuffy Nose:11:0, Fatigue:6:0, Swollen Lymph Nodes:12:0, Swollen Tonsils:47:0, Decreased Appetite:35:0, Cough:8:0, Sore Throat:9:0, Fever:31:0
+14 | 15 | Risk activity involvement (finding) | 0 | 
+16 | 16 | Acute allergic reaction | 0 | 
+17 |  | Risk activity involvement (finding) | 0 | 
+17 | 17 | Viral sinusitis (disorder) | 9 | Sinus Pain:77:0, Headache:14:0, Pain with Bright Lights:45:0, Facial Swelling:24:0, Nasal Discharge:30:0, Nasal Congestion:23:0, Cough:0:0, Sore Throat:15:0, Fever:21:0
+18 |  | Chronic neck pain (finding) | 0 | 
+18 | 19 | Part-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 |  | Chronic neck pain (finding) | 0 | 
+19 |  | Asthma | 0 | 
+19 |  | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 |  | Misuses drugs (finding) | 0 | 
+--------------------------------------------------------------------------------

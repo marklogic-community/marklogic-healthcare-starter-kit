@@ -1,0 +1,23 @@
+Towanda Harvey
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2002-06-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+11 | 11 | Concussion with loss of consciousness | 0 | 
+14 | 17 | Risk activity involvement (finding) | 0 | 
+16 | 16 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:26:0, Body Aches:49:0, Runny/Stuffy Nose:17:0, Fatigue:5:0, Swollen Lymph Nodes:6:0, Swollen Tonsils:47:0, Decreased Appetite:14:0, Sore Throat:33:0, Fever:35:0, Cough:49:0
+16 | 16 | Tear of meniscus of knee | 0 | 
+17 |  | Vomiting symptom (finding) | 6 | fever:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+17 |  | Fever (finding) | 6 | fever:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+17 |  | Sputum finding (finding) | 6 | fever:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+17 |  | Cough (finding) | 6 | fever:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+17 |  | Nausea (finding) | 6 | fever:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+17 |  | Loss of taste (finding) | 6 | fever:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+17 | 17 | Suspected COVID-19 | 0 | 
+17 |  | COVID-19 | 0 | 
+18 |  | Full-time employment (finding) | 0 | 
+18 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

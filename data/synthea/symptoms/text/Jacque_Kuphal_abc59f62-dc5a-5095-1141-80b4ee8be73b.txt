@@ -1,0 +1,67 @@
+Jacque Kuphal
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1962-11-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Prediabetes | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 |  | Unemployed (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 | 51 | Fracture of vertebral column without spinal cord injury | 0 | 
+51 | 51 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:63:0, Pain with Bright Lights:40:0, Facial Swelling:41:0, Nasal Discharge:30:0, Nasal Congestion:8:0, Sore Throat:30:0, Cough:32:0, Fever:24:0
+51 |  | Chronic low back pain (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Limited social contact (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 |  | Unemployed (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 |  | Unemployed (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 |  | Unemployed (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 57 | Social isolation (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 |  | Unemployed (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+55 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+56 |  | Prediabetes | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Unemployed (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 |  | Unemployed (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 |  | Fever (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+57 |  | Sore throat symptom (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+57 |  | Cough (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+57 |  | Loss of taste (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+57 | 57 | Suspected COVID-19 | 0 | 
+57 |  | COVID-19 | 0 | 
+57 |  | Respiratory distress (finding) | 0 | 
+57 |  | Pneumonia (disorder) | 0 | 
+57 |  | Hypoxemia (disorder) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 |  | Limited social contact (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 |  | Unemployed (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Victim of intimate partner abuse (finding) | 0 | 
+--------------------------------------------------------------------------------

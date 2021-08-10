@@ -1,0 +1,17 @@
+Shanell Rosenbaum
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2004-10-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+10 | 10 | Viral sinusitis (disorder) | 9 | Sinus Pain:77:0, Headache:26:0, Pain with Bright Lights:26:0, Facial Swelling:49:0, Nasal Discharge:40:0, Nasal Congestion:21:0, Fever:12:0, Sore Throat:8:0, Cough:42:0
+15 |  | Fever (finding) | 5 | nasal congestion:1, fever:1, headache:1, loss_of_taste:1, cough:1
+15 |  | Nasal congestion (finding) | 5 | nasal congestion:1, fever:1, headache:1, loss_of_taste:1, cough:1
+15 |  | Headache (finding) | 5 | nasal congestion:1, fever:1, headache:1, loss_of_taste:1, cough:1
+15 |  | Cough (finding) | 5 | nasal congestion:1, fever:1, headache:1, loss_of_taste:1, cough:1
+15 |  | Loss of taste (finding) | 5 | nasal congestion:1, fever:1, headache:1, loss_of_taste:1, cough:1
+15 | 15 | Suspected COVID-19 | 0 | 
+15 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

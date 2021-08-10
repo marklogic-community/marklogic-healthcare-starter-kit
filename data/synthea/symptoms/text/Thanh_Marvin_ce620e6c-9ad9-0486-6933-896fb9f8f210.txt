@@ -1,0 +1,40 @@
+Thanh Marvin
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1934-08-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 | 48 | Concussion with no loss of consciousness | 0 | 
+48 |  | Prediabetes | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 54 | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 56 | Limited social contact (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Cholelithiasis | 0 | 
+53 |  | Prediabetes | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 | 54 | Victim of intimate partner abuse (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 | 56 | Victim of intimate partner abuse (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

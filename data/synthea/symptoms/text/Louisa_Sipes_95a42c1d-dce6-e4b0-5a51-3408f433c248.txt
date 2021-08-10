@@ -1,0 +1,65 @@
+Louisa Sipes
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1988-11-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+23 |  | Unemployed (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+24 |  | Unemployed (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 | 24 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:19:0, Fatigue:68:0, Mucus:49:0, Nasal Congestion:35:0, Shortness of Breath:53:0, Nausea/Vomiting:7:0, Sore Throat:40:0, Fever:30:0, Cough:33:0
+24 | 25 | Normal pregnancy | 0 | 
+25 | 25 | Tubal pregnancy | 0 | 
+25 |  | Miscarriage in first trimester | 0 | 
+25 | 26 | Limited social contact (finding) | 0 | 
+25 |  | Unemployed (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 | 26 | Facial laceration | 0 | 
+26 |  | Unemployed (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+27 | 30 | Limited social contact (finding) | 0 | 
+27 |  | Unemployed (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 |  | Stress (finding) | 0 | 
+28 | 28 | Laceration of thigh | 0 | 
+28 |  | Unemployed (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 29 | Stress (finding) | 0 | 
+29 |  | Has a criminal record (finding) | 0 | 
+29 | 32 | Reports of violence in the environment (finding) | 0 | 
+29 |  | Unemployed (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+30 | 30 | Sprain of ankle | 0 | 
+30 |  | Has a criminal record (finding) | 0 | 
+30 |  | Unemployed (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 | 31 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:30:0, Body Aches:41:0, Runny/Stuffy Nose:38:0, Fatigue:28:0, Swollen Lymph Nodes:22:0, Swollen Tonsils:39:0, Decreased Appetite:6:0, Sore Throat:1:0, Fever:3:0, Cough:47:0
+31 |  | Dyspnea (finding) | 6 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, vomiting:1, nausea:1
+31 |  | Vomiting symptom (finding) | 6 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, vomiting:1, nausea:1
+31 |  | Fever (finding) | 6 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, vomiting:1, nausea:1
+31 |  | Fatigue (finding) | 6 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, vomiting:1, nausea:1
+31 |  | Wheezing (finding) | 6 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, vomiting:1, nausea:1
+31 |  | Nausea (finding) | 6 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, vomiting:1, nausea:1
+31 |  | Loss of taste (finding) | 6 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, vomiting:1, nausea:1
+31 | 31 | Suspected COVID-19 | 0 | 
+31 |  | COVID-19 | 0 | 
+31 |  | Acute respiratory failure (disorder) | 0 | 
+31 |  | Respiratory distress (finding) | 0 | 
+31 |  | Pneumonia (disorder) | 0 | 
+31 |  | Hypoxemia (disorder) | 0 | 
+31 | 32 | Limited social contact (finding) | 0 | 
+31 |  | Has a criminal record (finding) | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+32 |  | Has a criminal record (finding) | 0 | 
+32 |  | Unemployed (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

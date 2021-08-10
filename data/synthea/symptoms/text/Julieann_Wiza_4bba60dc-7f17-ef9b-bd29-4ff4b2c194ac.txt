@@ -1,0 +1,63 @@
+Julieann Wiza
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1989-12-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+22 |  | Has a criminal record (finding) | 0 | 
+22 | 31 | Reports of violence in the environment (finding) | 0 | 
+22 | 24 | Full-time employment (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 | 22 | Sprain of wrist | 0 | 
+24 |  | Transformed migraine (disorder) | 0 | 
+24 |  | Has a criminal record (finding) | 0 | 
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Received certificate of high school equivalency (finding) | 0 | 
+24 | 25 | Social isolation (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+24 | 31 | Misuses drugs (finding) | 0 | 
+24 |  | Transformed migraine (disorder) | 0 | 
+24 |  | Transformed migraine (disorder) | 0 | 
+24 |  | Transformed migraine (disorder) | 0 | 
+25 |  | Has a criminal record (finding) | 0 | 
+25 | 26 | Full-time employment (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 | 26 | Normal pregnancy | 0 | 
+26 | 27 | Limited social contact (finding) | 0 | 
+26 |  | Has a criminal record (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received certificate of high school equivalency (finding) | 0 | 
+26 | 27 | Stress (finding) | 0 | 
+26 | 26 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:22:0, Body Aches:9:0, Runny/Stuffy Nose:35:0, Fatigue:32:0, Swollen Lymph Nodes:30:0, Swollen Tonsils:46:0, Decreased Appetite:16:0, Sore Throat:15:0, Cough:0:0, Fever:42:0
+27 |  | Has a criminal record (finding) | 0 | 
+27 | 28 | Full-time employment (finding) | 0 | 
+27 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Has a criminal record (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 | 31 | Social isolation (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+29 | 30 | Part-time employment (finding) | 0 | 
+29 |  | Has a criminal record (finding) | 0 | 
+29 |  | Received certificate of high school equivalency (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+30 |  | Vomiting symptom (finding) | 6 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+30 |  | Sputum finding (finding) | 6 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+30 |  | Fatigue (finding) | 6 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+30 |  | Cough (finding) | 6 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+30 |  | Nausea (finding) | 6 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+30 |  | Loss of taste (finding) | 6 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+30 | 30 | Suspected COVID-19 | 0 | 
+30 |  | COVID-19 | 0 | 
+30 | 31 | Not in labor force (finding) | 0 | 
+30 |  | Has a criminal record (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 |  | Has a criminal record (finding) | 0 | 
+31 |  | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

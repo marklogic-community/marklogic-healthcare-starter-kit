@@ -1,0 +1,27 @@
+Augustine Jakubowski
+====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1998-06-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+13 | 13 | Fracture of clavicle | 0 | 
+13 | 13 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:1:0, Body Aches:6:0, Runny/Stuffy Nose:36:0, Fatigue:17:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:49:0, Decreased Appetite:39:0, Fever:16:0, Sore Throat:18:0, Cough:17:0
+14 | 14 | Viral sinusitis (disorder) | 9 | Sinus Pain:64:0, Headache:22:0, Pain with Bright Lights:43:0, Facial Swelling:9:0, Nasal Discharge:9:0, Nasal Congestion:19:0, Fever:14:0, Sore Throat:13:0, Cough:24:0
+16 | 16 | Whiplash injury to neck | 0 | 
+18 | 19 | Part-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 22 | Social isolation (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+21 |  | Fever (finding) | 3 | fatigue:1, sore throat:1, fever:1
+21 |  | Fatigue (finding) | 3 | fatigue:1, sore throat:1, fever:1
+21 |  | Sore throat symptom (finding) | 3 | fatigue:1, sore throat:1, fever:1
+21 | 21 | Suspected COVID-19 | 0 | 
+21 |  | COVID-19 | 0 | 
+22 |  | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

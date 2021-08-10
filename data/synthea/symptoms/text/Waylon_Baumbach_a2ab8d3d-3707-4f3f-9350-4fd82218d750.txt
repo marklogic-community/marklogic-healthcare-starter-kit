@@ -1,0 +1,32 @@
+Waylon Baumbach
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1991-04-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+21 | 21 | Acute bronchitis (disorder) | 10 | Body Aches:8:0, Diarrhea:21:0, Fatigue:34:0, Mucus:42:0, Nasal Congestion:32:0, Shortness of Breath:64:0, Nausea/Vomiting:8:0, Sore Throat:34:0, Fever:33:0, Cough:70:0
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+21 | 25 | Stress (finding) | 0 | 
+22 | 25 | Part-time employment (finding) | 0 | 
+22 |  | Limited social contact (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 | 22 | Viral sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:66:0, Pain with Bright Lights:37:0, Facial Swelling:6:0, Nasal Discharge:19:0, Nasal Congestion:23:0, Sore Throat:6:0, Fever:17:0, Cough:2:0
+25 | 28 | Limited social contact (finding) | 0 | 
+25 | 28 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+28 |  | Reports of violence in the environment (finding) | 0 | 
+28 |  | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+28 |  | Vomiting symptom (finding) | 6 | nasal congestion:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+28 |  | Fever (finding) | 6 | nasal congestion:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+28 |  | Nasal congestion (finding) | 6 | nasal congestion:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+28 |  | Cough (finding) | 6 | nasal congestion:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+28 |  | Nausea (finding) | 6 | nasal congestion:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+28 |  | Diarrhea symptom (finding) | 6 | nasal congestion:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+28 | 28 | Suspected COVID-19 | 0 | 
+28 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

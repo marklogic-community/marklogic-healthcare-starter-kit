@@ -1,0 +1,70 @@
+Josh Torp
+=========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1915-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+89 |  | Prediabetes | 0 | 
+89 | 98 | Reports of violence in the environment (finding) | 0 | 
+89 |  | Has a criminal record (finding) | 0 | 
+89 | 90 | Full-time employment (finding) | 0 | 
+89 |  | Received higher education (finding) | 0 | 
+89 |  | Stress (finding) | 0 | 
+89 | 89 | Acute bronchitis (disorder) | 10 | Body Aches:6:0, Diarrhea:9:0, Fatigue:49:0, Mucus:41:0, Nasal Congestion:32:0, Shortness of Breath:39:0, Nausea/Vomiting:16:0, Cough:74:0, Sore Throat:47:0, Fever:48:0
+90 |  | Prediabetes | 0 | 
+90 |  | Has a criminal record (finding) | 0 | 
+90 | 91 | Full-time employment (finding) | 0 | 
+90 |  | Received higher education (finding) | 0 | 
+90 |  | Stress (finding) | 0 | 
+90 | 97 | Severe anxiety (panic) (finding | 0 | 
+91 |  | Prediabetes | 0 | 
+91 |  | Has a criminal record (finding) | 0 | 
+91 | 92 | Full-time employment (finding) | 0 | 
+91 |  | Received higher education (finding) | 0 | 
+91 |  | Stress (finding) | 0 | 
+92 | 92 | Acute bronchitis (disorder) | 10 | Body Aches:3:0, Diarrhea:4:0, Fatigue:51:0, Mucus:27:0, Nasal Congestion:35:0, Shortness of Breath:68:0, Nausea/Vomiting:4:0, Cough:40:0, Sore Throat:27:0, Fever:42:0
+92 |  | Prediabetes | 0 | 
+92 | 92 | Part-time employment (finding) | 0 | 
+92 | 97 | Limited social contact (finding) | 0 | 
+92 |  | Has a criminal record (finding) | 0 | 
+92 |  | Received higher education (finding) | 0 | 
+92 | 92 | Stress (finding) | 0 | 
+92 |  | Prediabetes | 0 | 
+92 | 93 | Part-time employment (finding) | 0 | 
+92 |  | Has a criminal record (finding) | 0 | 
+92 |  | Received higher education (finding) | 0 | 
+93 |  | Prediabetes | 0 | 
+93 |  | Has a criminal record (finding) | 0 | 
+93 | 94 | Full-time employment (finding) | 0 | 
+93 |  | Received higher education (finding) | 0 | 
+93 | 95 | Stress (finding) | 0 | 
+94 |  | Prediabetes | 0 | 
+94 |  | Has a criminal record (finding) | 0 | 
+94 | 95 | Full-time employment (finding) | 0 | 
+94 |  | Received higher education (finding) | 0 | 
+95 |  | Prediabetes | 0 | 
+95 | 96 | Part-time employment (finding) | 0 | 
+95 |  | Has a criminal record (finding) | 0 | 
+95 |  | Received higher education (finding) | 0 | 
+95 | 95 | Viral sinusitis (disorder) | 9 | Sinus Pain:60:0, Headache:15:0, Pain with Bright Lights:44:0, Facial Swelling:8:0, Nasal Discharge:16:0, Nasal Congestion:1:0, Cough:30:0, Sore Throat:27:0, Fever:18:0
+96 |  | Prediabetes | 0 | 
+96 |  | Has a criminal record (finding) | 0 | 
+96 | 97 | Full-time employment (finding) | 0 | 
+96 |  | Received higher education (finding) | 0 | 
+96 | 97 | Stress (finding) | 0 | 
+97 |  | Prediabetes | 0 | 
+97 |  | Has a criminal record (finding) | 0 | 
+97 | 98 | Full-time employment (finding) | 0 | 
+97 |  | Received higher education (finding) | 0 | 
+98 |  | Chronic low back pain (finding) | 0 | 
+98 |  | Chronic neck pain (finding) | 0 | 
+98 | 98 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:22:0, Fatigue:62:0, Mucus:33:0, Nasal Congestion:42:0, Shortness of Breath:72:0, Nausea/Vomiting:3:0, Cough:36:0, Sore Throat:38:0, Fever:37:0
+98 |  | Prediabetes | 0 | 
+98 |  | Has a criminal record (finding) | 0 | 
+98 |  | Full-time employment (finding) | 0 | 
+98 |  | Received higher education (finding) | 0 | 
+98 |  | Social isolation (finding) | 0 | 
+98 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

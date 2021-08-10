@@ -1,0 +1,25 @@
+Tyrell Ullrich
+==============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2002-11-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+9 | 9 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:18:0, Body Aches:26:0, Runny/Stuffy Nose:44:0, Fatigue:42:0, Swollen Lymph Nodes:48:0, Swollen Tonsils:37:0, Decreased Appetite:44:0, Sore Throat:26:0, Fever:17:0, Cough:29:0
+11 | 11 | Viral sinusitis (disorder) | 9 | Headache:25:0, Sinus Pain:71:0, Pain with Bright Lights:37:0, Facial Swelling:1:0, Nasal Discharge:41:0, Nasal Congestion:0:0, Sore Throat:26:0, Fever:17:0, Cough:11:0
+11 | 12 | Otitis media | 0 | 
+14 | 14 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:23:0, Fatigue:46:0, Mucus:39:0, Nasal Congestion:47:0, Shortness of Breath:25:0, Nausea/Vomiting:21:0, Sore Throat:27:0, Fever:34:0, Cough:29:0
+15 | 16 | Risk activity involvement (finding) | 0 | 
+16 |  | Body mass index 30+ - obesity (finding) | 0 | 
+17 |  | Body mass index 30+ - obesity (finding) | 0 | 
+17 |  | Fever (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+17 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+17 |  | Loss of taste (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+17 | 17 | Suspected COVID-19 | 0 | 
+17 |  | COVID-19 | 0 | 
+18 |  | Full-time employment (finding) | 0 | 
+18 |  | Lack of access to transportation (finding) | 0 | 
+18 |  | Only received primary school education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

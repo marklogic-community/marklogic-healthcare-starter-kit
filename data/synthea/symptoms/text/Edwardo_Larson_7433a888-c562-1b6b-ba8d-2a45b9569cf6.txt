@@ -1,0 +1,76 @@
+Edwardo Larson
+==============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1933-05-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+79 |  | Prediabetes | 0 | 
+79 |  | Refugee (person) | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 | 87 | Stress (finding) | 0 | 
+79 | 79 | Viral sinusitis (disorder) | 9 | Headache:32:0, Sinus Pain:75:0, Pain with Bright Lights:33:0, Facial Swelling:18:0, Nasal Discharge:21:0, Nasal Congestion:9:0, Sore Throat:13:0, Fever:9:0, Cough:0:0
+79 | 80 | Sinusitis (disorder) | 9 | Headache:27:0, Sinus Pain:37:84:0, Pain with Bright Lights:27:0, Facial Swelling:6:0, Nasal Discharge:0:0, Nasal Congestion:1:0, Sore Throat:47:0, Fever:3:0, Cough:20:0
+79 | 80 | Chronic sinusitis (disorder) | 9 | Headache:0, Sinus Pain:84:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Sore Throat:0, Fever:0, Cough:0
+80 |  | Prediabetes | 0 | 
+80 |  | Refugee (person) | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:47, Memory Loss:48:92, Decreased in Judgement:27, Decreased Communication:41, Decreased Attentiveness:2, Confusion:41
+81 |  | Prediabetes | 0 | 
+81 |  | Refugee (person) | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 | 83 | Part-time employment (finding) | 0 | 
+82 |  | Refugee (person) | 0 | 
+82 |  | Housing unsatisfactory (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+83 |  | Prediabetes | 0 | 
+83 |  | Refugee (person) | 0 | 
+83 |  | Housing unsatisfactory (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+84 |  | Prediabetes | 0 | 
+84 |  | Refugee (person) | 0 | 
+84 |  | Housing unsatisfactory (finding) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 | 87 | Social isolation (finding) | 0 | 
+85 |  | Prediabetes | 0 | 
+85 |  | Refugee (person) | 0 | 
+85 |  | Housing unsatisfactory (finding) | 0 | 
+85 |  | Has a criminal record (finding) | 0 | 
+85 | 86 | Full-time employment (finding) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+86 |  | Prediabetes | 0 | 
+86 |  | Refugee (person) | 0 | 
+86 |  | Housing unsatisfactory (finding) | 0 | 
+86 |  | Has a criminal record (finding) | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Received higher education (finding) | 0 | 
+86 |  | Fever (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+86 |  | Sputum finding (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+86 |  | Cough (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+86 |  | Loss of taste (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+86 | 86 | Suspected COVID-19 | 0 | 
+86 |  | COVID-19 | 0 | 
+87 | 87 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:24:0, Fatigue:33:0, Mucus:31:0, Nasal Congestion:36:0, Shortness of Breath:45:0, Nausea/Vomiting:0:0, Sore Throat:48:0, Fever:33:0, Cough:27:0
+87 |  | Prediabetes | 0 | 
+87 |  | Refugee (person) | 0 | 
+87 |  | Housing unsatisfactory (finding) | 0 | 
+87 |  | Has a criminal record (finding) | 0 | 
+87 |  | Full-time employment (finding) | 0 | 
+87 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

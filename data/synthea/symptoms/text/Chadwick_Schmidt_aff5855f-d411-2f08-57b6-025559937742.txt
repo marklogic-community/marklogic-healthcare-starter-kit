@@ -1,0 +1,20 @@
+Chadwick Schmidt
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2013-09-11
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 1 | Otitis media | 0 | 
+1 | 1 | Viral sinusitis (disorder) | 9 | Sinus Pain:71:0, Headache:29:0, Pain with Bright Lights:41:0, Facial Swelling:45:0, Nasal Discharge:27:0, Nasal Congestion:7:0, Fever:2:0, Sore Throat:45:0, Cough:17:0
+5 | 5 | Otitis media | 0 | 
+5 | 5 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:25:0, Runny/Stuffy Nose:26:0, Fatigue:40:0, Swollen Lymph Nodes:13:0, Swollen Tonsils:44:0, Decreased Appetite:10:0, Fever:12:0, Sore Throat:32:0, Cough:2:0
+5 | 5 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:27:0, Runny/Stuffy Nose:7:0, Fatigue:40:0, Swollen Lymph Nodes:25:0, Swollen Tonsils:21:0, Decreased Appetite:29:0, Fever:32:0, Sore Throat:34:0, Cough:20:0
+6 | 6 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:5:0, Body Aches:12:0, Runny/Stuffy Nose:46:0, Fatigue:23:0, Swollen Lymph Nodes:42:0, Swollen Tonsils:39:0, Decreased Appetite:6:0, Fever:29:0, Sore Throat:0:0, Cough:37:0
+6 |  | Fever (finding) | 3 | sore throat:1, fever:1, cough:1
+6 |  | Sore throat symptom (finding) | 3 | sore throat:1, fever:1, cough:1
+6 |  | Cough (finding) | 3 | sore throat:1, fever:1, cough:1
+6 | 6 | Suspected COVID-19 | 0 | 
+6 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

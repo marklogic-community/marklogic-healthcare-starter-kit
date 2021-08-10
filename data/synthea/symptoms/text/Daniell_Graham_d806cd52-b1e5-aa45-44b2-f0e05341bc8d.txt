@@ -1,0 +1,59 @@
+Daniell Graham
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1953-10-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+57 |  | Prediabetes | 0 | 
+57 |  | Unemployed (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+58 | 58 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:47:0, Body Aches:28:0, Runny/Stuffy Nose:18:0, Fatigue:1:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:24:0, Decreased Appetite:42:0, Sore Throat:38:0, Fever:17:0, Cough:24:0
+58 |  | Prediabetes | 0 | 
+58 |  | Unemployed (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 |  | Unemployed (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 | 60 | Viral sinusitis (disorder) | 9 | Headache:8:0, Sinus Pain:64:0, Pain with Bright Lights:39:0, Facial Swelling:0:0, Nasal Discharge:18:0, Nasal Congestion:12:0, Sore Throat:35:0, Fever:1:0, Cough:24:0
+60 |  | Prediabetes | 0 | 
+60 |  | Unemployed (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 66 | Reports of violence in the environment (finding) | 0 | 
+61 |  | Unemployed (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 |  | Unemployed (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 | 63 | Stress (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 |  | Unemployed (finding) | 0 | 
+63 |  | Victim of intimate partner abuse (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 64 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:11:0, Body Aches:35:0, Runny/Stuffy Nose:43:0, Fatigue:3:0, Swollen Lymph Nodes:27:0, Swollen Tonsils:25:0, Decreased Appetite:31:0, Sore Throat:17:0, Fever:18:0, Cough:37:0
+64 |  | Prediabetes | 0 | 
+64 |  | Unemployed (finding) | 0 | 
+64 | 66 | Victim of intimate partner abuse (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+65 | 65 | Viral sinusitis (disorder) | 9 | Headache:18:0, Sinus Pain:55:0, Pain with Bright Lights:36:0, Facial Swelling:23:0, Nasal Discharge:3:0, Nasal Congestion:6:0, Sore Throat:23:0, Fever:13:0, Cough:15:0
+65 | 65 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:1:0, Body Aches:33:0, Runny/Stuffy Nose:5:0, Fatigue:40:0, Swollen Lymph Nodes:0:0, Swollen Tonsils:14:0, Decreased Appetite:14:0, Sore Throat:34:0, Fever:18:0, Cough:45:0
+65 |  | Prediabetes | 0 | 
+65 |  | Unemployed (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+66 |  | Fever (finding) | 2 | fatigue:1, fever:1
+66 |  | Fatigue (finding) | 2 | fatigue:1, fever:1
+66 | 66 | Suspected COVID-19 | 0 | 
+66 |  | COVID-19 | 0 | 
+66 |  | Prediabetes | 0 | 
+66 |  | Unemployed (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

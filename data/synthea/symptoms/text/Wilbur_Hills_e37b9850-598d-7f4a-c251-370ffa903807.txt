@@ -1,0 +1,75 @@
+Wilbur Hills
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1950-08-22
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+61 |  | Prediabetes | 0 | 
+61 |  | Limited social contact (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 | 61 | Whiplash injury to neck | 0 | 
+62 |  | Prediabetes | 0 | 
+62 | 63 | Part-time employment (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Social isolation (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 | 64 | Part-time employment (finding) | 0 | 
+63 | 70 | Limited social contact (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 | 65 | Part-time employment (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 70 | Reports of violence in the environment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 | 64 | Viral sinusitis (disorder) | 9 | Headache:12:0, Sinus Pain:68:0, Pain with Bright Lights:36:0, Facial Swelling:12:0, Nasal Discharge:2:0, Nasal Congestion:24:0, Sore Throat:17:0, Cough:42:0, Fever:3:0
+65 |  | Prediabetes | 0 | 
+65 | 66 | Part-time employment (finding) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 | 66 | Stress (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 | 67 | Part-time employment (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 | 68 | Part-time employment (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 | 67 | Viral sinusitis (disorder) | 9 | Headache:19:0, Sinus Pain:79:0, Pain with Bright Lights:33:0, Facial Swelling:29:0, Nasal Discharge:12:0, Nasal Congestion:21:0, Sore Throat:11:0, Cough:27:0, Fever:3:0
+68 | 68 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:23:0, Body Aches:41:0, Runny/Stuffy Nose:12:0, Fatigue:24:0, Swollen Lymph Nodes:36:0, Swollen Tonsils:29:0, Decreased Appetite:23:0, Sore Throat:17:0, Cough:48:0, Fever:42:0
+68 |  | Prediabetes | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 | 69 | Severe anxiety (panic) (finding | 0 | 
+69 |  | Prediabetes | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 | 69 | Laceration of forearm | 0 | 
+69 |  | Muscle pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+69 |  | Fever (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+69 |  | Joint pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+69 |  | Cough (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+69 | 69 | Suspected COVID-19 | 0 | 
+69 |  | COVID-19 | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+70 | 70 | Fracture of clavicle | 0 | 
+--------------------------------------------------------------------------------

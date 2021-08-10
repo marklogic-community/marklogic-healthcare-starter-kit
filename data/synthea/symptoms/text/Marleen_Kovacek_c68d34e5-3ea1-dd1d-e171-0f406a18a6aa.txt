@@ -1,0 +1,16 @@
+Marleen Kovacek
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2019-08-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 |  | Fever (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+0 |  | Sore throat symptom (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+0 |  | Cough (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+0 |  | Loss of taste (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+0 | 0 | Suspected COVID-19 | 0 | 
+0 |  | COVID-19 | 0 | 
+1 | 1 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:29:0, Pain with Bright Lights:49:0, Facial Swelling:0:0, Nasal Discharge:38:0, Nasal Congestion:17:0, Fever:23:0, Sore Throat:15:0, Cough:38:0
+--------------------------------------------------------------------------------

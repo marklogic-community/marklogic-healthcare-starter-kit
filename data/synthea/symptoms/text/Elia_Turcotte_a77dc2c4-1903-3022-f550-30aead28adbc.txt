@@ -1,0 +1,24 @@
+Elia Turcotte
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2005-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+6 | 6 | Acute bronchitis (disorder) | 10 | Body Aches:3:0, Diarrhea:11:0, Fatigue:28:0, Mucus:40:0, Nasal Congestion:41:0, Shortness of Breath:68:0, Nausea/Vomiting:5:0, Sore Throat:34:0, Fever:41:0, Cough:66:0
+7 | 7 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:47:0, Body Aches:24:0, Runny/Stuffy Nose:41:0, Fatigue:27:0, Swollen Lymph Nodes:42:0, Swollen Tonsils:37:0, Decreased Appetite:23:0, Sore Throat:29:0, Fever:12:0, Cough:5:0
+11 | 11 | Acute bacterial sinusitis (disorder) | 9 | Headache:9:0, Sinus Pain:72:126:0, Pain with Bright Lights:38:0, Facial Swelling:18:0, Nasal Discharge:15:0, Nasal Congestion:18:0, Sore Throat:44:0, Fever:5:0, Cough:41:0
+11 |  | Chronic sinusitis (disorder) | 9 | Headache:0, Sinus Pain:126:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Sore Throat:0, Fever:0, Cough:0
+12 | 15 | Risk activity involvement (finding) | 0 | 
+12 | 13 | Otitis media | 0 | 
+14 |  | Muscle pain (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+14 |  | Fever (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+14 |  | Fatigue (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+14 |  | Headache (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+14 |  | Joint pain (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+14 |  | Cough (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+14 |  | Loss of taste (finding) | 7 | fatigue:1, myalgia:1, arthralgia:1, fever:1, headache:1, loss_of_taste:1, cough:1
+14 | 14 | Suspected COVID-19 | 0 | 
+14 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

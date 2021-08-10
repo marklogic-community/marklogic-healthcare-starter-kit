@@ -1,0 +1,49 @@
+Darryl Bailey
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-10-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+46 |  | Prediabetes | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 | 47 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:6:0, Fatigue:70:0, Mucus:27:0, Nasal Congestion:28:0, Shortness of Breath:51:0, Nausea/Vomiting:16:0, Fever:48:0, Sore Throat:44:0, Cough:62:0
+47 |  | Prediabetes | 0 | 
+47 | 48 | Part-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 |  | Prediabetes | 0 | 
+48 | 50 | Not in labor force (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 | 51 | Stress (finding) | 0 | 
+48 | 49 | Sinusitis (disorder) | 9 | Sinus Pain:33:115:83:0, Headache:22:0, Pain with Bright Lights:43:0, Facial Swelling:42:0, Nasal Discharge:12:0, Nasal Congestion:17:0, Fever:3:0, Sore Throat:3:0, Cough:39:0
+48 |  | Chronic sinusitis (disorder) | 9 | Sinus Pain:115:83:0, Headache:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Fever:0, Sore Throat:0, Cough:0
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 50 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:9:0, Fatigue:55:0, Mucus:31:0, Nasal Congestion:35:0, Shortness of Breath:53:0, Nausea/Vomiting:12:0, Fever:35:0, Sore Throat:32:0, Cough:71:0
+51 |  | Prediabetes | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Not in labor force (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 | 52 | Laceration of hand | 0 | 
+53 |  | Prediabetes | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 | 55 | Not in labor force (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 | 54 | Second degree burn | 0 | 
+55 |  | Prediabetes | 0 | 
+55 |  | Part-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+Isiah Zulauf
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1976-02-09
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+36 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 | 41 | Stress (finding) | 0 | 
+37 |  | Chronic low back pain (finding) | 0 | 
+38 | 39 | Full-time employment (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+39 | 45 | Reports of violence in the environment (finding) | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 | 40 | Whiplash injury to neck | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 | 45 | Limited social contact (finding) | 0 | 
+42 | 43 | Full-time employment (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 | 43 | Stress (finding) | 0 | 
+43 | 44 | Full-time employment (finding) | 0 | 
+43 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 |  | Chill (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+44 |  | Fever (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+44 |  | Cough (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+44 |  | Loss of taste (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+44 | 44 | Suspected COVID-19 | 0 | 
+44 |  | COVID-19 | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 | 45 | Stress (finding) | 0 | 
+45 |  | Part-time employment (finding) | 0 | 
+45 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

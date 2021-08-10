@@ -1,0 +1,57 @@
+Reina Sarabia
+=============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1972-04-11
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+39 |  | Refugee (person) | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Received higher education (finding) | 0 | 
+39 |  | Stress (finding) | 0 | 
+40 | 41 | Part-time employment (finding) | 0 | 
+40 |  | Refugee (person) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 43 | Stress (finding) | 0 | 
+41 |  | Refugee (person) | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+42 |  | Refugee (person) | 0 | 
+42 | 43 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+43 | 43 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:13:0, Fatigue:38:0, Mucus:31:0, Nasal Congestion:31:0, Shortness of Breath:29:0, Nausea/Vomiting:10:0, Sore Throat:33:0, Cough:43:0, Fever:49:0
+43 | 43 | Viral sinusitis (disorder) | 9 | Headache:1:0, Sinus Pain:55:0, Pain with Bright Lights:45:0, Facial Swelling:13:0, Nasal Discharge:19:0, Nasal Congestion:10:0, Sore Throat:31:0, Cough:47:0, Fever:5:0
+43 |  | Refugee (person) | 0 | 
+43 | 44 | Full-time employment (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+44 | 44 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:10:0, Body Aches:30:0, Runny/Stuffy Nose:12:0, Fatigue:31:0, Swollen Lymph Nodes:23:0, Decreased Appetite:46:0, Swollen Tonsils:46:0, Sore Throat:31:0, Cough:38:0, Fever:24:0
+44 |  | Refugee (person) | 0 | 
+44 | 45 | Not in labor force (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 |  | Refugee (person) | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 | 46 | Stress (finding) | 0 | 
+45 |  | Victim of intimate partner abuse (finding) | 0 | 
+46 |  | Refugee (person) | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 |  | Refugee (person) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+47 | 47 | Concussion with loss of consciousness | 0 | 
+47 |  | Fever (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+47 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+47 |  | Cough (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+47 |  | Loss of taste (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+47 | 47 | Suspected COVID-19 | 0 | 
+47 |  | COVID-19 | 0 | 
+48 |  | Refugee (person) | 0 | 
+48 |  | Reports of violence in the environment (finding) | 0 | 
+48 |  | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

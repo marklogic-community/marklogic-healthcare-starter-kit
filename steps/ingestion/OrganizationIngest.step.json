@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "sources": [
+      {
+        "name": "OrganizationIngest",
+        "file": "data/synthea/csv/organizations.csv"
+      }
+    ]
+  },
+  "collections": [
+    "OrganizationIngest"
+  ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "name": "OrganizationIngest",
+  "description": "Ingest organization data",
+  "sourceFormat": "csv",
+  "separator": ",",
+  "targetFormat": "JSON",
+  "sourceName": "data/synthea/csv/organizations/organizations.csv",
+  "sourceType": "Organization",
+  "outputURIPrefix": "/organization/",
+  "additionalCollections": [
+    "Organization"
+  ],
+  "targetDatabase": "data-hub-STAGING",
+  "interceptors": [
+        {
+          "path": "/lib/interceptors/organization-ingest.sjs",
+          "when": "beforeContentPersisted"
+        }
+  ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "stepDefinitionName": "default-ingestion",
+  "stepDefinitionType": "ingestion",
+  "stepId": "OrganizationIngest-ingestion",
+  "lastUpdated": "2021-07-14T19:57:07.093247Z"
+}

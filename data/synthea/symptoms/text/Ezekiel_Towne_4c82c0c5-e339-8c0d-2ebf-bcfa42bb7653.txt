@@ -1,0 +1,50 @@
+Ezekiel Towne
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-07-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+61 | 62 | Full-time employment (finding) | 0 | 
+61 | 70 | Victim of intimate partner abuse (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 | 65 | Stress (finding) | 0 | 
+64 | 64 | Acute bronchitis (disorder) | 10 | Body Aches:17:0, Diarrhea:20:0, Fatigue:65:0, Mucus:28:0, Nasal Congestion:40:0, Shortness of Breath:50:0, Nausea/Vomiting:1:0, Cough:54:0, Sore Throat:34:0, Fever:42:0
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 |  | Body mass index 30+ - obesity (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 | 65 | Sprain of wrist | 0 | 
+66 | 66 | Viral sinusitis (disorder) | 9 | Sinus Pain:73:0, Headache:16:0, Pain with Bright Lights:33:0, Facial Swelling:2:0, Nasal Discharge:43:0, Nasal Congestion:19:0, Cough:47:0, Sore Throat:20:0, Fever:20:0
+66 |  | Reports of violence in the environment (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 | 66 | Whiplash injury to neck | 0 | 
+67 | 68 | Part-time employment (finding) | 0 | 
+67 | 70 | Reports of violence in the environment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 |  | Alzheimer's disease (disorder) | 0 | 
+67 | 67 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:22:0, Pain with Bright Lights:28:0, Facial Swelling:35:0, Nasal Discharge:4:0, Nasal Congestion:11:0, Cough:30:0, Sore Throat:2:0, Fever:23:0
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 | 70 | Stress (finding) | 0 | 
+69 | 69 | Acute bronchitis (disorder) | 10 | Body Aches:6:0, Diarrhea:3:0, Fatigue:29:0, Mucus:41:0, Nasal Congestion:40:0, Shortness of Breath:51:0, Nausea/Vomiting:20:0, Cough:71:0, Sore Throat:37:0, Fever:34:0
+69 | 70 | Part-time employment (finding) | 0 | 
+69 | 70 | Limited social contact (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Osteoporosis (disorder) | 0 | 
+70 |  | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

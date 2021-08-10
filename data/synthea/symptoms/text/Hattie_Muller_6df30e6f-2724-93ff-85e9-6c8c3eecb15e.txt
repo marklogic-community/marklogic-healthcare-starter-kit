@@ -1,0 +1,74 @@
+Hattie Muller
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1922-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+79 |  | Prediabetes | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 | 84 | Reports of violence in the environment (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 | 81 | Part-time employment (finding) | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 | 81 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:10:0, Fatigue:38:0, Mucus:36:0, Nasal Congestion:36:0, Shortness of Breath:51:0, Nausea/Vomiting:15:0, Fever:41:0, Sore Throat:48:0, Cough:50:0
+81 |  | Prediabetes | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Housing unsatisfactory (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Prediabetes | 0 | 
+83 |  | Housing unsatisfactory (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 | 85 | Stress (finding) | 0 | 
+84 |  | Prediabetes | 0 | 
+84 |  | Housing unsatisfactory (finding) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+85 |  | Prediabetes | 0 | 
+85 | 86 | Not in labor force (finding) | 0 | 
+85 | 88 | Limited social contact (finding) | 0 | 
+85 |  | Housing unsatisfactory (finding) | 0 | 
+85 | 88 | Reports of violence in the environment (finding) | 0 | 
+85 |  | Has a criminal record (finding) | 0 | 
+85 |  | Received certificate of high school equivalency (finding) | 0 | 
+85 | 85 | Facial laceration | 0 | 
+86 |  | Prediabetes | 0 | 
+86 | 87 | Part-time employment (finding) | 0 | 
+86 |  | Housing unsatisfactory (finding) | 0 | 
+86 |  | Has a criminal record (finding) | 0 | 
+86 |  | Received certificate of high school equivalency (finding) | 0 | 
+86 | 88 | Stress (finding) | 0 | 
+87 |  | Prediabetes | 0 | 
+87 |  | Housing unsatisfactory (finding) | 0 | 
+87 |  | Has a criminal record (finding) | 0 | 
+87 | 88 | Full-time employment (finding) | 0 | 
+87 |  | Received certificate of high school equivalency (finding) | 0 | 
+88 |  | Prediabetes | 0 | 
+88 |  | Housing unsatisfactory (finding) | 0 | 
+88 |  | Has a criminal record (finding) | 0 | 
+88 |  | Full-time employment (finding) | 0 | 
+88 |  | Victim of intimate partner abuse (finding) | 0 | 
+88 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

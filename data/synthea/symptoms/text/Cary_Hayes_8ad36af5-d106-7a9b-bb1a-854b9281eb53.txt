@@ -1,0 +1,27 @@
+Cary Hayes
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2013-04-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:47:0, Body Aches:2:0, Runny/Stuffy Nose:29:0, Fatigue:17:0, Swollen Lymph Nodes:19:0, Swollen Tonsils:16:0, Decreased Appetite:33:0, Cough:2:0, Sore Throat:38:0, Fever:19:0
+2 | 2 | Acute bronchitis (disorder) | 10 | Body Aches:16:0, Diarrhea:4:0, Fatigue:74:0, Mucus:41:0, Nasal Congestion:32:0, Shortness of Breath:56:0, Nausea/Vomiting:17:0, Cough:73:0, Sore Throat:38:0, Fever:28:0
+4 | 4 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:32:0, Body Aches:18:0, Runny/Stuffy Nose:37:0, Fatigue:3:0, Swollen Lymph Nodes:15:0, Swollen Tonsils:19:0, Decreased Appetite:37:0, Cough:19:0, Sore Throat:27:0, Fever:32:0
+4 | 4 | Acute bronchitis (disorder) | 10 | Body Aches:8:0, Diarrhea:10:0, Fatigue:38:0, Mucus:44:0, Nasal Congestion:49:0, Shortness of Breath:49:0, Nausea/Vomiting:20:0, Cough:35:0, Sore Throat:31:0, Fever:36:0
+5 | 5 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:29:0, Runny/Stuffy Nose:26:0, Fatigue:21:0, Swollen Lymph Nodes:37:0, Swollen Tonsils:16:0, Decreased Appetite:1:0, Cough:24:0, Sore Throat:6:0, Fever:27:0
+5 | 5 | Acute bronchitis (disorder) | 10 | Body Aches:1:0, Diarrhea:13:0, Fatigue:28:0, Mucus:42:0, Nasal Congestion:39:0, Shortness of Breath:29:0, Nausea/Vomiting:16:0, Cough:59:0, Sore Throat:32:0, Fever:47:0
+6 |  | Vomiting symptom (finding) | 6 | fatigue:1, chills:1, fever:1, cough:1, nausea:1, vomiting:1
+6 |  | Chill (finding) | 6 | fatigue:1, chills:1, fever:1, cough:1, nausea:1, vomiting:1
+6 |  | Fever (finding) | 6 | fatigue:1, chills:1, fever:1, cough:1, nausea:1, vomiting:1
+6 |  | Fatigue (finding) | 6 | fatigue:1, chills:1, fever:1, cough:1, nausea:1, vomiting:1
+6 |  | Cough (finding) | 6 | fatigue:1, chills:1, fever:1, cough:1, nausea:1, vomiting:1
+6 |  | Nausea (finding) | 6 | fatigue:1, chills:1, fever:1, cough:1, nausea:1, vomiting:1
+6 | 6 | Suspected COVID-19 | 0 | 
+6 |  | COVID-19 | 0 | 
+6 |  | Acute respiratory failure (disorder) | 0 | 
+6 |  | Respiratory distress (finding) | 0 | 
+6 |  | Pneumonia (disorder) | 0 | 
+6 |  | Hypoxemia (disorder) | 0 | 
+--------------------------------------------------------------------------------

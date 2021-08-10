@@ -1,0 +1,24 @@
+Rickey Stoltenberg
+==================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2009-03-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+3 | 3 | Otitis media | 0 | 
+3 | 3 | Otitis media | 0 | 
+4 | 4 | Fracture of vertebral column without spinal cord injury | 0 | 
+7 | 7 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:1:0, Fatigue:70:0, Mucus:37:0, Nasal Congestion:41:0, Shortness of Breath:50:0, Nausea/Vomiting:15:0, Sore Throat:37:0, Cough:40:0, Fever:47:0
+9 | 9 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:45:0, Runny/Stuffy Nose:0:0, Fatigue:28:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:44:0, Decreased Appetite:24:0, Sore Throat:13:0, Cough:28:0, Fever:32:0
+10 | 10 | Viral sinusitis (disorder) | 9 | Headache:30:0, Sinus Pain:60:0, Pain with Bright Lights:39:0, Facial Swelling:19:0, Nasal Discharge:11:0, Nasal Congestion:12:0, Sore Throat:49:0, Cough:40:0, Fever:9:0
+10 |  | Muscle pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1
+10 |  | Dyspnea (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1
+10 |  | Fever (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1
+10 |  | Sputum finding (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1
+10 |  | Wheezing (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1
+10 |  | Joint pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1
+10 | 10 | Suspected COVID-19 | 0 | 
+11 | 11 | Sinusitis (disorder) | 9 | Headache:26:0, Sinus Pain:43:73:82:93:0, Pain with Bright Lights:38:0, Facial Swelling:4:0, Nasal Discharge:42:0, Nasal Congestion:20:0, Sore Throat:30:0, Cough:33:0, Fever:6:0
+11 |  | Chronic sinusitis (disorder) | 9 | Headache:0, Sinus Pain:73:82:93:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Sore Throat:0, Cough:0, Fever:0
+--------------------------------------------------------------------------------

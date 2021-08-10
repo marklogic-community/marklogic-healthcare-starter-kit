@@ -1,0 +1,59 @@
+Lemuel Swaniawski
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1958-07-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+53 |  | Prediabetes | 0 | 
+53 | 62 | Reports of violence in the environment (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 | 62 | Victim of intimate partner abuse (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 |  | Chronic low back pain (finding) | 0 | 
+55 |  | Chronic low back pain (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 | 57 | Part-time employment (finding) | 0 | 
+56 | 60 | Limited social contact (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 57 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:0:0, Fatigue:72:0, Mucus:31:0, Nasal Congestion:42:0, Shortness of Breath:27:0, Nausea/Vomiting:21:0, Sore Throat:30:0, Cough:32:0, Fever:30:0
+58 |  | Prediabetes | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 | 61 | Stress (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 | 60 | Fracture subluxation of wrist | 0 | 
+60 |  | Prediabetes | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 | 62 | Social isolation (finding) | 0 | 
+61 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+61 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+61 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+61 | 61 | Suspected COVID-19 | 0 | 
+61 |  | COVID-19 | 0 | 
+62 |  | Prediabetes | 0 | 
+62 |  | Not in labor force (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 | 62 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:39:0, Runny/Stuffy Nose:47:0, Fatigue:29:0, Swollen Lymph Nodes:44:0, Swollen Tonsils:22:0, Decreased Appetite:10:0, Sore Throat:10:0, Cough:16:0, Fever:12:0
+--------------------------------------------------------------------------------

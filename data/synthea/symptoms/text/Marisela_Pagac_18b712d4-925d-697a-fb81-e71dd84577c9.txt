@@ -1,0 +1,74 @@
+Marisela Pagac
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1954-09-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+57 | 57 | Whiplash injury to neck | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Refugee (person) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 | 59 | Stress (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 |  | Refugee (person) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+59 |  | Chronic low back pain (finding) | 0 | 
+59 |  | Chronic neck pain (finding) | 0 | 
+59 |  | Chronic low back pain (finding) | 0 | 
+59 |  | Chronic neck pain (finding) | 0 | 
+59 |  | Chronic low back pain (finding) | 0 | 
+59 |  | Chronic neck pain (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 |  | Refugee (person) | 0 | 
+59 | 64 | Limited social contact (finding) | 0 | 
+59 | 60 | Not in labor force (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 |  | Chronic low back pain (finding) | 0 | 
+59 |  | Chronic neck pain (finding) | 0 | 
+60 |  | Prediabetes | 0 | 
+60 |  | Refugee (person) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 | 65 | Victim of intimate partner abuse (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 |  | Refugee (person) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+62 |  | Suspected lung cancer (situation) | 2 | Chest Pain:158, Cough:92
+62 |  | Non-small cell lung cancer (disorder) | 0 | 
+62 |  | Non-small cell carcinoma of lung  TNM stage 1 (disorder) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 | 63 | Part-time employment (finding) | 0 | 
+62 |  | Refugee (person) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 |  | Refugee (person) | 0 | 
+63 | 64 | Not in labor force (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 | 64 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:18:0, Fatigue:44:0, Mucus:39:0, Nasal Congestion:35:0, Shortness of Breath:47:0, Nausea/Vomiting:15:0, Sore Throat:27:0, Cough:38:0, Fever:39:0
+64 |  | Prediabetes | 0 | 
+64 |  | Refugee (person) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 |  | Refugee (person) | 0 | 
+64 | 65 | Limited social contact (finding) | 0 | 
+64 |  | Reports of violence in the environment (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+65 | 65 | Laceration of forearm | 0 | 
+65 |  | Prediabetes | 0 | 
+65 |  | Refugee (person) | 0 | 
+65 |  | Reports of violence in the environment (finding) | 0 | 
+65 |  | Full-time employment (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

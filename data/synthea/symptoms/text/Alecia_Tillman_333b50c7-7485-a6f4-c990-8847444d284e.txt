@@ -1,0 +1,37 @@
+Alecia Tillman
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1917-06-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+39 | 39 | Escherichia coli urinary tract infection | 7 | Frequent Urination:19:0, Urgent Desire to Urinate:19:0, Discolored Urine:3:0, Odor of Urine:4:0, Pelvic Pain:13:0, Fever:8:0, Dysuria:19:0
+39 | 40 | Normal pregnancy | 0 | 
+40 |  | Prediabetes | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 46 | Stress (finding) | 0 | 
+40 | 40 | Normal pregnancy | 0 | 
+40 |  | Miscarriage in first trimester | 0 | 
+40 | 40 | Blighted ovum | 0 | 
+41 | 41 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:28:0, Body Aches:41:0, Runny/Stuffy Nose:33:0, Fatigue:4:0, Swollen Lymph Nodes:16:0, Swollen Tonsils:31:0, Decreased Appetite:18:0, Sore Throat:41:0, Fever:32:0, Cough:13:0
+42 |  | Prediabetes | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Social isolation (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 |  | Limited social contact (finding) | 0 | 
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+45 | 45 | Normal pregnancy | 0 | 
+45 |  | Miscarriage in first trimester | 0 | 
+45 | 45 | Fetus with unknown complication | 0 | 
+45 | 45 | Viral sinusitis (disorder) | 9 | Headache:18:0, Sinus Pain:52:0, Pain with Bright Lights:38:0, Facial Swelling:7:0, Nasal Discharge:13:0, Nasal Congestion:14:0, Sore Throat:47:0, Fever:14:0, Cough:5:0
+45 | 46 | Normal pregnancy | 0 | 
+46 |  | Prediabetes | 0 | 
+46 |  | Part-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Social isolation (finding) | 0 | 
+46 | 47 | Normal pregnancy | 0 | 
+--------------------------------------------------------------------------------

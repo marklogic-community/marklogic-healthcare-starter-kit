@@ -1,0 +1,23 @@
+Joseph Mayer
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2010-03-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+4 | 4 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:0:0, Body Aches:43:0, Runny/Stuffy Nose:35:0, Fatigue:4:0, Swollen Lymph Nodes:8:0, Swollen Tonsils:22:0, Decreased Appetite:17:0, Sore Throat:17:0, Cough:37:0, Fever:44:0
+7 | 7 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:37:0, Runny/Stuffy Nose:13:0, Fatigue:15:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:23:0, Decreased Appetite:42:0, Sore Throat:8:0, Cough:48:0, Fever:46:0
+8 | 8 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:35:0, Runny/Stuffy Nose:43:0, Fatigue:26:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:46:0, Decreased Appetite:1:0, Sore Throat:22:0, Cough:0:0, Fever:36:0
+8 | 9 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:38:0, Body Aches:41:0, Runny/Stuffy Nose:8:0, Fatigue:39:0, Swollen Lymph Nodes:41:0, Swollen Tonsils:63:0, Decreased Appetite:19:0, Sore Throat:4:0, Cough:0:0, Fever:14:0
+9 | 9 | Viral sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:61:0, Pain with Bright Lights:37:0, Facial Swelling:20:0, Nasal Discharge:36:0, Nasal Congestion:8:0, Sore Throat:16:0, Cough:25:0, Fever:7:0
+9 |  | Fever (finding) | 5 | sore throat:1, fever:1, sputum production:1, headache:1, cough:1
+9 |  | Sputum finding (finding) | 5 | sore throat:1, fever:1, sputum production:1, headache:1, cough:1
+9 |  | Headache (finding) | 5 | sore throat:1, fever:1, sputum production:1, headache:1, cough:1
+9 |  | Sore throat symptom (finding) | 5 | sore throat:1, fever:1, sputum production:1, headache:1, cough:1
+9 |  | Cough (finding) | 5 | sore throat:1, fever:1, sputum production:1, headache:1, cough:1
+9 | 9 | Suspected COVID-19 | 0 | 
+9 |  | COVID-19 | 0 | 
+10 | 10 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:15:0, Fatigue:30:0, Mucus:44:0, Nasal Congestion:28:0, Shortness of Breath:72:0, Nausea/Vomiting:19:0, Sore Throat:41:0, Cough:74:0, Fever:44:0
+10 | 10 | Sprain of wrist | 0 | 
+--------------------------------------------------------------------------------

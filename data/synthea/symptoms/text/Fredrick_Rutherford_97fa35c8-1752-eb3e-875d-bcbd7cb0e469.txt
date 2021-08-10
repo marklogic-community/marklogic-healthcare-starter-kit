@@ -1,0 +1,61 @@
+Fredrick Rutherford
+===================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1971-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 42 | Stress (finding) | 0 | 
+42 | 43 | Part-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Transformed migraine (disorder) | 2 | Sweating:16, Mood Swing:78
+42 |  | Transformed migraine (disorder) | 2 | Sweating:16, Mood Swing:78
+42 |  | Transformed migraine (disorder) | 2 | Sweating:16, Mood Swing:78
+42 |  | Transformed migraine (disorder) | 2 | Sweating:16, Mood Swing:78
+42 |  | Opioid abuse (disorder) | 2 | Sweating:16, Mood Swing:78
+42 |  | Opioid abuse (disorder) | 0 | 
+42 |  | Opioid abuse (disorder) | 0 | 
+43 |  | Opioid abuse (disorder) | 0 | 
+43 | 43 | Part-time employment (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+43 |  | Opioid abuse (disorder) | 0 | 
+43 |  | Opioid abuse (disorder) | 0 | 
+43 | 44 | Acute bacterial sinusitis (disorder) | 9 | Headache:49:0, Sinus Pain:62:0, Pain with Bright Lights:37:0, Facial Swelling:7:0, Nasal Discharge:40:0, Nasal Congestion:4:0, Sore Throat:8:0, Cough:27:0, Fever:21:0
+43 | 44 | Full-time employment (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Stress (finding) | 0 | 
+45 | 45 | Viral sinusitis (disorder) | 9 | Headache:10:0, Sinus Pain:79:0, Pain with Bright Lights:47:0, Facial Swelling:33:0, Nasal Discharge:4:0, Nasal Congestion:15:0, Sore Throat:5:0, Cough:24:0, Fever:3:0
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+47 |  | Body mass index 30+ - obesity (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 | 49 | Social isolation (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 | 49 | Part-time employment (finding) | 0 | 
+48 |  | Reports of violence in the environment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 |  | Dyspnea (finding) | 5 | fever:1, dyspnea:1, headache:1, cough:1, diarrhea:1
+48 |  | Fever (finding) | 5 | fever:1, dyspnea:1, headache:1, cough:1, diarrhea:1
+48 |  | Wheezing (finding) | 5 | fever:1, dyspnea:1, headache:1, cough:1, diarrhea:1
+48 |  | Headache (finding) | 5 | fever:1, dyspnea:1, headache:1, cough:1, diarrhea:1
+48 |  | Cough (finding) | 5 | fever:1, dyspnea:1, headache:1, cough:1, diarrhea:1
+48 |  | Diarrhea symptom (finding) | 5 | fever:1, dyspnea:1, headache:1, cough:1, diarrhea:1
+48 | 48 | Suspected COVID-19 | 0 | 
+48 |  | COVID-19 | 0 | 
+49 |  | Full-time employment (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

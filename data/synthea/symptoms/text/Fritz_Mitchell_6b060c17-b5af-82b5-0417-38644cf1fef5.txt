@@ -1,0 +1,84 @@
+Fritz Mitchell
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1961-12-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+45 |  | Has a criminal record (finding) | 0 | 
+45 | 45 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 | 46 | Viral sinusitis (disorder) | 9 | Sinus Pain:78:0, Headache:0:0, Pain with Bright Lights:34:0, Facial Swelling:18:0, Nasal Discharge:40:0, Nasal Congestion:20:0, Sore Throat:35:0, Cough:28:0, Fever:23:0
+45 |  | Has a criminal record (finding) | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Stress (finding) | 0 | 
+45 | 51 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+46 | 46 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:5:0, Fatigue:31:0, Mucus:39:0, Nasal Congestion:45:0, Shortness of Breath:37:0, Nausea/Vomiting:22:0, Sore Throat:37:0, Cough:25:0, Fever:38:0
+46 | 46 | Part-time employment (finding) | 0 | 
+46 | 52 | Limited social contact (finding) | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 46 | Stress (finding) | 0 | 
+46 | 46 | Viral sinusitis (disorder) | 9 | Sinus Pain:52:0, Headache:42:0, Pain with Bright Lights:26:0, Facial Swelling:24:0, Nasal Discharge:15:0, Nasal Congestion:17:0, Sore Throat:6:0, Cough:49:0, Fever:24:0
+46 |  | Has a criminal record (finding) | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 | 48 | Not in labor force (finding) | 0 | 
+47 | 54 | Reports of violence in the environment (finding) | 0 | 
+47 |  | Has a criminal record (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 | 49 | Stress (finding) | 0 | 
+47 | 48 | Laceration of foot | 0 | 
+48 | 49 | Part-time employment (finding) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+49 |  | Has a criminal record (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+50 | 50 | Viral sinusitis (disorder) | 9 | Sinus Pain:61:0, Headache:26:0, Pain with Bright Lights:45:0, Facial Swelling:27:0, Nasal Discharge:25:0, Nasal Congestion:7:0, Sore Throat:49:0, Cough:16:0, Fever:8:0
+50 |  | Prediabetes | 0 | 
+50 |  | Anemia (disorder) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 | 50 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 | 54 | Victim of intimate partner abuse (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Not in labor force (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Chronic low back pain (finding) | 0 | 
+52 |  | Chronic neck pain (finding) | 0 | 
+52 |  | Chronic low back pain (finding) | 0 | 
+52 |  | Chronic neck pain (finding) | 0 | 
+52 |  | Chronic low back pain (finding) | 0 | 
+52 |  | Chronic neck pain (finding) | 0 | 
+52 |  | Chronic low back pain (finding) | 0 | 
+52 |  | Chronic neck pain (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Not in labor force (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 | 53 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:27:0, Pain with Bright Lights:32:0, Facial Swelling:14:0, Nasal Discharge:6:0, Nasal Congestion:21:0, Sore Throat:0:0, Cough:40:0, Fever:18:0
+53 |  | Prediabetes | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 54 | Social isolation (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+53 | 53 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:45:0, Runny/Stuffy Nose:11:0, Fatigue:15:0, Swollen Lymph Nodes:17:0, Swollen Tonsils:3:0, Decreased Appetite:38:0, Sore Throat:39:0, Cough:40:0, Fever:46:0
+54 |  | Prediabetes | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 |  | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

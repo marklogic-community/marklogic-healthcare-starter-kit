@@ -1,0 +1,48 @@
+Miguel Ángel Robles
+=======Á===========
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1962-09-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Transformed migraine (disorder) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 |  | Hyperlipidemia | 1 | weight gain:1
+53 |  | Body mass index 30+ - obesity (finding) | 0 | 
+53 |  | Refugee (person) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+53 | 53 | Laceration of hand | 0 | 
+54 |  | Refugee (person) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+55 |  | Refugee (person) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 | 55 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:16:0, Fatigue:35:0, Mucus:44:0, Nasal Congestion:36:0, Shortness of Breath:39:0, Nausea/Vomiting:23:0, Cough:60:0, Sore Throat:28:0, Fever:47:0
+55 |  | Refugee (person) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 |  | Refugee (person) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Refugee (person) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+58 |  | Body mass index 30+ - obesity (finding) | 0 | 
+58 |  | Refugee (person) | 0 | 
+58 |  | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

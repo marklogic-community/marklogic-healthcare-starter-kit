@@ -1,0 +1,46 @@
+Hilary Swaniawski
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1917-06-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 | 80 | Stress (finding) | 0 | 
+80 | 81 | Part-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 | 80 | Fracture of forearm | 0 | 
+80 | 80 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+82 | 83 | Part-time employment (finding) | 0 | 
+82 | 83 | Reports of violence in the environment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 | 87 | Victim of intimate partner abuse (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 | 84 | Fracture of rib | 0 | 
+83 | 84 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+84 | 87 | Reports of violence in the environment (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+85 | 85 | Viral sinusitis (disorder) | 9 | Headache:17:0, Sinus Pain:72:0, Pain with Bright Lights:29:0, Facial Swelling:42:0, Nasal Discharge:0:0, Nasal Congestion:18:0, Sore Throat:8:0, Cough:31:0, Fever:2:0
+85 | 86 | Full-time employment (finding) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+85 |  | Stress (finding) | 0 | 
+85 |  | Severe anxiety (panic) (finding | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Received higher education (finding) | 0 | 
+86 | 87 | Stress (finding) | 0 | 
+87 |  | Full-time employment (finding) | 0 | 
+87 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

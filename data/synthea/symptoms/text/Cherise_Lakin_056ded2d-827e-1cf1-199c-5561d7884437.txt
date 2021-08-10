@@ -1,0 +1,68 @@
+Cherise Lakin
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1992-06-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+19 |  | Limited social contact (finding) | 0 | 
+19 |  | Housing unsatisfactory (finding) | 0 | 
+19 | 21 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 21 | Stress (finding) | 0 | 
+20 | 20 | Normal pregnancy | 0 | 
+21 |  | Chronic low back pain (finding) | 0 | 
+21 |  | Limited social contact (finding) | 0 | 
+21 |  | Housing unsatisfactory (finding) | 0 | 
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+22 | 22 | Sprain of ankle | 0 | 
+22 | 23 | Part-time employment (finding) | 0 | 
+22 | 23 | Limited social contact (finding) | 0 | 
+22 |  | Housing unsatisfactory (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+23 | 24 | Not in labor force (finding) | 0 | 
+23 |  | Housing unsatisfactory (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+23 | 24 | Misuses drugs (finding) | 0 | 
+24 | 26 | Contact dermatitis | 3 | Rash:14:0, Itchiness:2:0, Red Skin:10:0
+24 | 28 | Limited social contact (finding) | 0 | 
+24 |  | Housing unsatisfactory (finding) | 0 | 
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 | 25 | Stress (finding) | 0 | 
+25 | 26 | Not in labor force (finding) | 0 | 
+25 |  | Housing unsatisfactory (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+26 | 27 | Normal pregnancy | 0 | 
+26 |  | Housing unsatisfactory (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+27 | 28 | Normal pregnancy | 0 | 
+27 |  | Dyspnea (finding) | 6 | chills:1, fever:1, dyspnea:1, headache:1, loss_of_taste:1, cough:1
+27 |  | Chill (finding) | 6 | chills:1, fever:1, dyspnea:1, headache:1, loss_of_taste:1, cough:1
+27 |  | Fever (finding) | 6 | chills:1, fever:1, dyspnea:1, headache:1, loss_of_taste:1, cough:1
+27 |  | Wheezing (finding) | 6 | chills:1, fever:1, dyspnea:1, headache:1, loss_of_taste:1, cough:1
+27 |  | Headache (finding) | 6 | chills:1, fever:1, dyspnea:1, headache:1, loss_of_taste:1, cough:1
+27 |  | Cough (finding) | 6 | chills:1, fever:1, dyspnea:1, headache:1, loss_of_taste:1, cough:1
+27 |  | Loss of taste (finding) | 6 | chills:1, fever:1, dyspnea:1, headache:1, loss_of_taste:1, cough:1
+27 | 27 | Suspected COVID-19 | 0 | 
+27 |  | COVID-19 | 0 | 
+27 | 28 | Part-time employment (finding) | 0 | 
+27 |  | Housing unsatisfactory (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 |  | Stress (finding) | 0 | 
+28 |  | Normal pregnancy | 0 | 
+28 |  | Anemia (disorder) | 0 | 
+28 | 28 | Sprain of ankle | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 |  | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+28 | 28 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:18:0, Body Aches:37:0, Runny/Stuffy Nose:42:0, Fatigue:20:0, Swollen Lymph Nodes:32:0, Swollen Tonsils:66:0, Decreased Appetite:8:0, Sore Throat:33:0, Fever:9:0, Cough:0:0
+--------------------------------------------------------------------------------

@@ -1,0 +1,17 @@
+Dannie Bosco
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2008-11-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 3 | Injury of anterior cruciate ligament | 0 | 
+2 | 3 | Otitis media | 0 | 
+3 | 3 | Viral sinusitis (disorder) | 9 | Sinus Pain:70:0, Headache:19:0, Pain with Bright Lights:40:0, Facial Swelling:15:0, Nasal Discharge:48:0, Nasal Congestion:19:0, Cough:34:0, Sore Throat:0:0, Fever:11:0
+4 |  | Rupture of appendix | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Fever:0, Loss of Appetite:0, Bloating/Gas:0
+4 |  | Appendicitis | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Fever:0, Loss of Appetite:0, Bloating/Gas:0
+4 |  | History of appendectomy | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Fever:0, Loss of Appetite:0, Bloating/Gas:0
+7 | 7 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:6:0, Body Aches:16:0, Runny/Stuffy Nose:49:0, Fatigue:30:0, Swollen Lymph Nodes:30:0, Swollen Tonsils:41:0, Decreased Appetite:12:0, Cough:15:0, Sore Throat:27:0, Fever:23:0
+8 | 8 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:13:0, Body Aches:3:0, Runny/Stuffy Nose:33:0, Fatigue:10:0, Swollen Lymph Nodes:24:0, Swollen Tonsils:5:0, Decreased Appetite:23:0, Cough:11:0, Sore Throat:15:0, Fever:7:0
+--------------------------------------------------------------------------------

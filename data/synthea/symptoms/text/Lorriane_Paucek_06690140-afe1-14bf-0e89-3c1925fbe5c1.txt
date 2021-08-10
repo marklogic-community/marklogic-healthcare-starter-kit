@@ -1,0 +1,42 @@
+Lorriane Paucek
+===============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1969-08-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+42 |  | Has a criminal record (finding) | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 44 | Stress (finding) | 0 | 
+42 | 51 | Social isolation (finding) | 0 | 
+42 | 42 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:26:0, Body Aches:6:0, Runny/Stuffy Nose:23:0, Fatigue:35:0, Swollen Lymph Nodes:43:0, Swollen Tonsils:16:0, Decreased Appetite:15:0, Sore Throat:0:0, Cough:21:0, Fever:28:0
+44 | 46 | Not in labor force (finding) | 0 | 
+44 |  | Has a criminal record (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 44 | Viral sinusitis (disorder) | 9 | Headache:27:0, Sinus Pain:72:0, Pain with Bright Lights:49:0, Facial Swelling:1:0, Nasal Discharge:16:0, Nasal Congestion:1:0, Sore Throat:21:0, Cough:45:0, Fever:1:0
+46 |  | Has a criminal record (finding) | 0 | 
+46 | 50 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 50 | Stress (finding) | 0 | 
+47 | 47 | Viral sinusitis (disorder) | 9 | Headache:28:0, Sinus Pain:53:0, Pain with Bright Lights:34:0, Facial Swelling:22:0, Nasal Discharge:21:0, Nasal Congestion:16:0, Sore Throat:29:0, Cough:26:0, Fever:24:0
+48 |  | Has a criminal record (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+49 | 50 | Acute bacterial sinusitis (disorder) | 9 | Headache:33:0, Sinus Pain:79:0, Pain with Bright Lights:48:0, Facial Swelling:31:0, Nasal Discharge:46:0, Nasal Congestion:11:0, Sore Throat:33:0, Cough:7:0, Fever:9:0
+50 |  | Has a criminal record (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Muscle pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+50 |  | Fever (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+50 |  | Fatigue (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+50 |  | Joint pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+50 |  | Loss of taste (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+50 | 50 | Suspected COVID-19 | 0 | 
+50 |  | COVID-19 | 0 | 
+50 | 51 | Viral sinusitis (disorder) | 9 | Headache:4:0, Sinus Pain:63:0, Pain with Bright Lights:28:0, Facial Swelling:41:0, Nasal Discharge:6:0, Nasal Congestion:9:0, Sore Throat:49:0, Cough:19:0, Fever:6:0
+51 |  | Has a criminal record (finding) | 0 | 
+51 |  | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

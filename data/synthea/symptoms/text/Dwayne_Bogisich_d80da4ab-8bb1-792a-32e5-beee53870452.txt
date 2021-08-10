@@ -1,0 +1,47 @@
+Dwayne Bogisich
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1912-08-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+24 | 24 | Full-time employment (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 | 24 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:37:0, Body Aches:43:0, Runny/Stuffy Nose:34:0, Fatigue:37:0, Swollen Lymph Nodes:57:0, Swollen Tonsils:66:0, Decreased Appetite:15:0, Cough:0:0, Sore Throat:16:0, Fever:32:0
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 | 25 | Stress (finding) | 0 | 
+24 | 31 | Severe anxiety (panic) (finding | 0 | 
+25 | 26 | Part-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 | 27 | Stress (finding) | 0 | 
+27 | 28 | Part-time employment (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 30 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+28 | 28 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:18:0, Body Aches:28:0, Runny/Stuffy Nose:29:0, Fatigue:10:0, Swollen Lymph Nodes:6:0, Swollen Tonsils:46:0, Decreased Appetite:35:0, Cough:2:0, Sore Throat:5:0, Fever:11:0
+28 | 28 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:9:0, Body Aches:29:0, Runny/Stuffy Nose:30:0, Fatigue:9:0, Swollen Lymph Nodes:44:0, Swollen Tonsils:9:0, Decreased Appetite:23:0, Cough:34:0, Sore Throat:5:0, Fever:13:0
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 30 | Stress (finding) | 0 | 
+30 | 31 | Part-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Victim of intimate partner abuse (finding) | 0 | 
+30 | 30 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:12:0, Body Aches:29:0, Runny/Stuffy Nose:3:0, Fatigue:21:0, Swollen Lymph Nodes:3:0, Swollen Tonsils:32:0, Decreased Appetite:33:0, Cough:15:0, Sore Throat:35:0, Fever:19:0
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 32 | Stress (finding) | 0 | 
+32 |  | Limited social contact (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 | 32 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:23:0, Body Aches:12:0, Runny/Stuffy Nose:13:0, Fatigue:44:0, Swollen Lymph Nodes:44:0, Swollen Tonsils:13:0, Decreased Appetite:23:0, Cough:32:0, Sore Throat:0:0, Fever:9:0
+33 |  | Limited social contact (finding) | 0 | 
+33 |  | Full-time employment (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

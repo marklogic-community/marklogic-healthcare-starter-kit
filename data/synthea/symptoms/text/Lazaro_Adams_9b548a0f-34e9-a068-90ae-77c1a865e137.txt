@@ -1,0 +1,57 @@
+Lazaro Adams
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1961-04-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 | 51 | Not in labor force (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 | 51 | Viral sinusitis (disorder) | 9 | Headache:21:0, Sinus Pain:58:0, Pain with Bright Lights:49:0, Facial Swelling:36:0, Nasal Discharge:28:0, Nasal Congestion:23:0, Sore Throat:26:0, Cough:9:0, Fever:9:0
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 | 54 | Not in labor force (finding) | 0 | 
+53 |  | Limited social contact (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 | 59 | Social isolation (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 59 | Stress (finding) | 0 | 
+55 | 55 | Viral sinusitis (disorder) | 9 | Headache:10:0, Sinus Pain:65:0, Pain with Bright Lights:28:0, Facial Swelling:8:0, Nasal Discharge:14:0, Nasal Congestion:17:0, Sore Throat:23:0, Cough:25:0, Fever:15:0
+56 | 56 | Sprain of wrist | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Severe anxiety (panic) (finding | 0 | 
+58 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+58 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+58 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+58 | 58 | Suspected COVID-19 | 0 | 
+58 |  | COVID-19 | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Full-time employment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 |  | Severe anxiety (panic) (finding | 0 | 
+--------------------------------------------------------------------------------

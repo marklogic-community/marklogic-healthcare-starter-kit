@@ -1,0 +1,31 @@
+{
+  "valueSet": {
+      "valueSetName": "IdentifierType",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/identifier-type",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-identifier-type.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "Identifies the purpose for this identifier, if known",
+      "valueSetConcepts": {
+          "DL": {"code": "DL", "display": "Driver's license number", "definition": null},
+          "PPN": {"code": "PPN", "display": "Passport number", "definition": null},
+          "BRN": {"code": "BRN", "display": "Breed Registry Number", "definition": null},
+          "MR": {"code": "MR", "display": "Medical record number", "definition": null},
+          "MCN": {"code": "MCN", "display": "Microchip Number", "definition": null},
+          "EN": {"code": "EN", "display": "Employer number", "definition": null},
+          "TAX": {"code": "TAX", "display": "Tax ID number", "definition": null},
+          "NIIP": {"code": "NIIP", "display": "National Insurance Payor Identifier (Payor)", "definition": null},
+          "PRN": {"code": "PRN", "display": "Provider number", "definition": null},
+          "MD": {"code": "MD", "display": "Medical License number", "definition": null},
+          "DR": {"code": "DR", "display": "Donor Registration Number", "definition": null},
+          "ACSN": {"code": "ACSN", "display": "Accession ID", "definition": null},
+          "UDI": {"code": "UDI", "display": "Universal Device Identifier", "definition": null},
+          "SNO": {"code": "SNO", "display": "Serial Number", "definition": null},
+          "SB": {"code": "SB", "display": "Social Beneficiary Identifier", "definition": null},
+          "PLAC": {"code": "PLAC", "display": "Placer Identifier", "definition": null},
+          "FILL": {"code": "FILL", "display": "Filler Identifier", "definition": null},
+          "JHN": {"code": "JHN", "display": "Jurisdictional health number (Canada)", "definition": null}
+      }
+  }
+}

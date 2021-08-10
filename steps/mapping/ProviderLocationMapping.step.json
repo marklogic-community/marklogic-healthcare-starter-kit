@@ -1,0 +1,77 @@
+{
+  "collections": [
+    "ProviderLocation",
+    "Location"
+  ],
+  "additionalCollections": [ ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "validateEntity": "doNotValidate",
+  "targetFormat": "JSON",
+  "attachSourceDocument": false,
+  "name": "ProviderLocation",
+  "targetEntityType": "http://example.org/Location-1.0.0/Location",
+  "description": "Provider to Location Mapping",
+  "collection": "Provider",
+  "selectedSource": "collection",
+  "sourceQuery": "cts.collectionQuery(['Provider'])",
+  "targetDatabase": "data-hub-FINAL",
+  "headers": { },
+  "interceptors": [ ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "sourceDatabase": "data-hub-STAGING",
+  "stepDefinitionName": "entity-services-mapping",
+  "stepDefinitionType": "mapping",
+  "stepId": "ProviderLocation-mapping",
+  "acceptsBatch": true,
+  "lastUpdated": "2021-08-03T13:49:38.607613-04:00",
+  "uriExpression": "concat(\"/provider/location/\", Id, \".json\")",
+  "properties": {
+    "id": {
+      "sourcedFrom": "Id"
+    },
+    "address": {
+      "sourcedFrom": ".",
+      "properties": {
+        "text": {
+          "sourcedFrom": "ADDRESS/normalize-space()"
+        },
+        "line": {
+          "sourcedFrom": "ADDRESS/normalize-space()"
+        },
+        "city": {
+          "sourcedFrom": "CITY/normalize-space()"
+        },
+        "state": {
+          "sourcedFrom": "STATE/normalize-space()"
+        },
+        "postalCode": {
+          "sourcedFrom": "ZIP/normalize-space()"
+        }
+      },
+      "targetEntityType": "#/definitions/Address"
+    },
+    "language": {
+      "sourcedFrom": "\"en-US\""
+    },
+    "position": {
+      "sourcedFrom": ".",
+      "properties": {
+        "latitude": {
+          "sourcedFrom": "LAT"
+        },
+        "id": {
+          "sourcedFrom": ""
+        },
+        "longitude": {
+          "sourcedFrom": "LON"
+        }
+      },
+      "targetEntityType": "#/definitions/Position"
+    },
+    "name": {
+      "sourcedFrom": "NAME"
+    }
+  }
+}

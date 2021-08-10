@@ -1,0 +1,81 @@
+Earle McClure
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+60 |  | Prediabetes | 0 | 
+60 |  | Osteoporosis (disorder) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 |  | Unemployed (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 62 | Limited social contact (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 |  | Unemployed (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 | 69 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 |  | Unemployed (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Unemployed (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 | 64 | Stress (finding) | 0 | 
+63 |  | Social isolation (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 |  | Unemployed (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 68 | Social isolation (finding) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 69 | Reports of violence in the environment (finding) | 0 | 
+65 |  | Unemployed (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Unemployed (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 67 | Stress (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Unemployed (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Victim of intimate partner abuse (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Unemployed (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 |  | Limited social contact (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Unemployed (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 |  | Dyspnea (finding) | 5 | chills:1, fever:1, dyspnea:1, sputum production:1, cough:1
+70 |  | Chill (finding) | 5 | chills:1, fever:1, dyspnea:1, sputum production:1, cough:1
+70 |  | Fever (finding) | 5 | chills:1, fever:1, dyspnea:1, sputum production:1, cough:1
+70 |  | Sputum finding (finding) | 5 | chills:1, fever:1, dyspnea:1, sputum production:1, cough:1
+70 |  | Wheezing (finding) | 5 | chills:1, fever:1, dyspnea:1, sputum production:1, cough:1
+70 |  | Cough (finding) | 5 | chills:1, fever:1, dyspnea:1, sputum production:1, cough:1
+70 | 70 | Suspected COVID-19 | 0 | 
+70 |  | COVID-19 | 0 | 
+70 |  | Acute respiratory failure (disorder) | 0 | 
+70 |  | Respiratory distress (finding) | 0 | 
+70 |  | Sepsis caused by virus (disorder) | 0 | 
+70 |  | Injury of kidney (disorder) | 0 | 
+70 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+70 |  | Injury of heart (disorder) | 0 | 
+70 |  | Heart failure (disorder) | 0 | 
+70 |  | Septic shock (disorder) | 0 | 
+70 |  | Pneumonia (disorder) | 0 | 
+70 |  | Hypoxemia (disorder) | 0 | 
+70 |  | Acute pulmonary embolism (disorder) | 0 | 
+--------------------------------------------------------------------------------

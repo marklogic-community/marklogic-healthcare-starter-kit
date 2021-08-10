@@ -1,0 +1,39 @@
+Marta Legros
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2000-09-09
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+12 | 12 | Laceration of hand | 0 | 
+13 | 13 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:55:0, Pain with Bright Lights:38:0, Facial Swelling:17:0, Nasal Discharge:33:0, Nasal Congestion:14:0, Sore Throat:1:0, Cough:20:0, Fever:12:0
+14 | 14 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:5:0, Runny/Stuffy Nose:32:0, Fatigue:32:0, Swollen Lymph Nodes:12:0, Swollen Tonsils:36:0, Decreased Appetite:25:0, Sore Throat:42:0, Cough:43:0, Fever:21:0
+14 | 14 | Sprain of ankle | 0 | 
+15 | 15 | Rupture of patellar tendon | 0 | 
+17 | 18 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:3:0, Fatigue:58:0, Mucus:30:0, Nasal Congestion:48:0, Shortness of Breath:71:0, Nausea/Vomiting:9:0, Sore Throat:33:0, Cough:50:0, Fever:48:0
+18 |  | Limited social contact (finding) | 0 | 
+18 | 18 | Full-time employment (finding) | 0 | 
+18 |  | Only received primary school education (finding) | 0 | 
+18 | 18 | Injury of tendon of the rotator cuff of shoulder | 0 | 
+18 | 19 | Part-time employment (finding) | 0 | 
+18 | 20 | Victim of intimate partner abuse (finding) | 0 | 
+18 |  | Only received primary school education (finding) | 0 | 
+18 | 19 | Social isolation (finding) | 0 | 
+18 | 20 | Stress (finding) | 0 | 
+19 | 20 | Part-time employment (finding) | 0 | 
+19 |  | Only received primary school education (finding) | 0 | 
+19 |  | Fever (finding) | 5 | fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+19 |  | Sputum finding (finding) | 5 | fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+19 |  | Headache (finding) | 5 | fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+19 |  | Cough (finding) | 5 | fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+19 |  | Loss of taste (finding) | 5 | fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+19 | 19 | Suspected COVID-19 | 0 | 
+19 |  | COVID-19 | 0 | 
+20 |  | Normal pregnancy | 0 | 
+20 |  | Asthma | 0 | 
+20 |  | Full-time employment (finding) | 0 | 
+20 |  | Only received primary school education (finding) | 0 | 
+20 |  | Social isolation (finding) | 0 | 
+20 |  | Anemia (disorder) | 0 | 
+--------------------------------------------------------------------------------

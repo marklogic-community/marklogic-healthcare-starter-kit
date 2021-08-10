@@ -1,0 +1,56 @@
+Rigoberto Kerluke
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+51 |  | Housing unsatisfactory (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Housing unsatisfactory (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 54 | Stress (finding) | 0 | 
+52 | 58 | Misuses drugs (finding) | 0 | 
+52 | 52 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:33:0, Runny/Stuffy Nose:12:0, Fatigue:33:0, Swollen Lymph Nodes:3:0, Swollen Tonsils:16:0, Decreased Appetite:40:0, Fever:0:0, Sore Throat:0:0, Cough:46:0
+53 |  | Housing unsatisfactory (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 53 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:23:0, Fatigue:39:0, Mucus:49:0, Nasal Congestion:29:0, Shortness of Breath:74:0, Nausea/Vomiting:1:0, Fever:46:0, Sore Throat:35:0, Cough:35:0
+54 |  | Housing unsatisfactory (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 54 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:6:0, Fatigue:53:0, Mucus:47:0, Nasal Congestion:42:0, Shortness of Breath:41:0, Nausea/Vomiting:9:0, Fever:40:0, Sore Throat:25:0, Cough:36:0
+54 |  | Limited social contact (finding) | 0 | 
+54 |  | Housing unsatisfactory (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+55 | 55 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:39:0, Runny/Stuffy Nose:30:0, Fatigue:48:0, Swollen Lymph Nodes:48:0, Swollen Tonsils:17:0, Decreased Appetite:0:0, Fever:25:0, Sore Throat:1:0, Cough:46:0
+55 | 59 | Limited social contact (finding) | 0 | 
+55 | 56 | Not in labor force (finding) | 0 | 
+55 |  | Housing unsatisfactory (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 |  | Housing unsatisfactory (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+57 |  | Housing unsatisfactory (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 57 | Sprain of wrist | 0 | 
+57 | 57 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:23:0, Runny/Stuffy Nose:23:0, Fatigue:45:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:29:0, Decreased Appetite:29:0, Fever:9:0, Sore Throat:40:0, Cough:43:0
+57 | 57 | Acute bronchitis (disorder) | 10 | Body Aches:4:0, Diarrhea:16:0, Fatigue:36:0, Mucus:45:0, Nasal Congestion:37:0, Shortness of Breath:73:0, Nausea/Vomiting:24:0, Fever:43:0, Sore Throat:43:0, Cough:74:0
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Housing unsatisfactory (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+58 | 59 | Part-time employment (finding) | 0 | 
+58 |  | Housing unsatisfactory (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 | 59 | Stress (finding) | 0 | 
+59 |  | Housing unsatisfactory (finding) | 0 | 
+59 |  | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

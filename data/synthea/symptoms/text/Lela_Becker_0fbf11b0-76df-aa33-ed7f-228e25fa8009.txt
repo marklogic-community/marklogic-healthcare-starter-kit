@@ -1,0 +1,18 @@
+Lela Becker
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2009-08-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+3 | 3 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:13:0, Body Aches:14:0, Runny/Stuffy Nose:24:0, Fatigue:39:0, Swollen Lymph Nodes:23:0, Decreased Appetite:1:0, Swollen Tonsils:43:0, Cough:19:0, Sore Throat:48:0, Fever:38:0
+5 | 5 | Otitis media | 0 | 
+10 |  | Dyspnea (finding) | 3 | fever:1, dyspnea:1, cough:1
+10 |  | Fever (finding) | 3 | fever:1, dyspnea:1, cough:1
+10 |  | Wheezing (finding) | 3 | fever:1, dyspnea:1, cough:1
+10 |  | Cough (finding) | 3 | fever:1, dyspnea:1, cough:1
+10 | 10 | Suspected COVID-19 | 0 | 
+10 |  | COVID-19 | 0 | 
+11 | 11 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:39:0, Body Aches:37:0, Runny/Stuffy Nose:14:0, Fatigue:6:0, Swollen Lymph Nodes:17:0, Decreased Appetite:28:0, Swollen Tonsils:24:0, Cough:23:0, Sore Throat:18:0, Fever:30:0
+--------------------------------------------------------------------------------

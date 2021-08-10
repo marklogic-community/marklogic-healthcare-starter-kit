@@ -1,0 +1,44 @@
+Tami Gulgowski
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1933-09-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+76 | 76 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:24:0, Fatigue:70:0, Mucus:43:0, Nasal Congestion:26:0, Shortness of Breath:60:0, Nausea/Vomiting:6:0, Sore Throat:31:0, Cough:66:0, Fever:38:0
+76 | 78 | Limited social contact (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Social isolation (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 | 81 | Stress (finding) | 0 | 
+80 |  | Social isolation (finding) | 0 | 
+81 | 82 | Limited social contact (finding) | 0 | 
+81 | 84 | Reports of violence in the environment (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 | 81 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:50:0, Pain with Bright Lights:38:0, Facial Swelling:26:0, Nasal Discharge:8:0, Nasal Congestion:1:0, Sore Throat:18:0, Cough:48:0, Fever:13:0
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 | 83 | Stress (finding) | 0 | 
+83 |  | Limited social contact (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+84 |  | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

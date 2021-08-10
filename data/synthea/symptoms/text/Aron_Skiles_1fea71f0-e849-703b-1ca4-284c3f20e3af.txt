@@ -1,0 +1,13 @@
+Aron Skiles
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2007-07-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+5 | 5 | Viral sinusitis (disorder) | 9 | Sinus Pain:74:0, Headache:14:0, Pain with Bright Lights:49:0, Facial Swelling:31:0, Nasal Discharge:33:0, Nasal Congestion:9:0, Fever:18:0, Sore Throat:49:0, Cough:30:0
+12 |  | Sore throat symptom (finding) | 1 | sore throat:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

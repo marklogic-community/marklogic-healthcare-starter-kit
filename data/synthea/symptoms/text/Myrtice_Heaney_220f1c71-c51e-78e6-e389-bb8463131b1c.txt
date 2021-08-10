@@ -1,0 +1,80 @@
+Myrtice Heaney
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+72 | 72 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:18:0, Body Aches:4:0, Runny/Stuffy Nose:41:0, Fatigue:20:0, Swollen Lymph Nodes:17:0, Swollen Tonsils:40:0, Decreased Appetite:47:0, Sore Throat:18:0, Fever:12:0, Cough:23:0
+72 |  | Prediabetes | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 74 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 | 74 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:39:0, Body Aches:1:0, Runny/Stuffy Nose:18:0, Fatigue:1:0, Swollen Lymph Nodes:36:0, Swollen Tonsils:13:0, Decreased Appetite:46:0, Sore Throat:41:0, Fever:46:0, Cough:47:0
+75 |  | Prediabetes | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+77 | 80 | Social isolation (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 82 | Reports of violence in the environment (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 82 | Severe anxiety (panic) (finding | 0 | 
+78 |  | Chronic intractable migraine without aura | 0 | 
+78 |  | Chronic pain | 0 | 
+78 |  | Chronic intractable migraine without aura | 0 | 
+78 |  | Chronic pain | 0 | 
+78 | 78 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:3:0, Fatigue:71:0, Mucus:25:0, Nasal Congestion:45:0, Shortness of Breath:29:0, Nausea/Vomiting:1:0, Sore Throat:35:0, Fever:26:0, Cough:44:0
+79 |  | Prediabetes | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Victim of intimate partner abuse (finding) | 0 | 
+79 |  | Chronic pain | 0 | 
+80 |  | Prediabetes | 0 | 
+80 | 81 | Not in labor force (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+80 |  | Chronic pain | 0 | 
+80 |  | Impacted molars | 0 | 
+80 | 80 | Viral sinusitis (disorder) | 9 | Headache:4:0, Sinus Pain:67:0, Pain with Bright Lights:34:0, Facial Swelling:21:0, Nasal Discharge:13:0, Nasal Congestion:6:0, Sore Throat:31:0, Fever:1:0, Cough:0:0
+80 |  | Chronic intractable migraine without aura | 0 | 
+80 |  | Impacted molars | 0 | 
+81 |  | Impacted molars | 0 | 
+81 |  | Prediabetes | 0 | 
+81 | 82 | Part-time employment (finding) | 0 | 
+81 | 82 | Limited social contact (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 |  | Chronic intractable migraine without aura | 0 | 
+81 |  | Impacted molars | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Part-time employment (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 |  | Chronic intractable migraine without aura | 0 | 
+--------------------------------------------------------------------------------

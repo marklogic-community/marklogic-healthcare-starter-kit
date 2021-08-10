@@ -1,0 +1,28 @@
+Alvin Ebert
+===========
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1996-11-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 |  | Chronic low back pain (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+19 | 22 | Part-time employment (finding) | 0 | 
+19 | 22 | Limited social contact (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+22 | 22 | Viral sinusitis (disorder) | 9 | Sinus Pain:69:0, Headache:2:0, Pain with Bright Lights:40:0, Facial Swelling:31:0, Nasal Discharge:31:0, Nasal Congestion:5:0, Fever:13:0, Sore Throat:46:0, Cough:22:0
+22 |  | Full-time employment (finding) | 0 | 
+22 |  | Victim of intimate partner abuse (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 | 22 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:0:0, Fatigue:27:0, Mucus:45:0, Nasal Congestion:30:0, Shortness of Breath:29:0, Nausea/Vomiting:4:0, Fever:32:0, Sore Throat:48:0, Cough:34:0
+23 |  | Fever (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+23 |  | Fatigue (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+23 |  | Sore throat symptom (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+23 |  | Cough (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+23 | 23 | Suspected COVID-19 | 0 | 
+23 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

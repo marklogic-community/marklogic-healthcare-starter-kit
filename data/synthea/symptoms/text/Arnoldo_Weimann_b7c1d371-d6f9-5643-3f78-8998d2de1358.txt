@@ -1,0 +1,67 @@
+Arnoldo Weimann
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-07-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 |  | Alcoholism | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received certificate of high school equivalency (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 |  | Alcoholism | 0 | 
+48 |  | Served in armed forces (finding) | 0 | 
+48 | 49 | Full-time employment (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 | 49 | Stress (finding) | 0 | 
+49 |  | Alcoholism | 0 | 
+49 |  | Served in armed forces (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Alcoholism | 0 | 
+50 |  | Served in armed forces (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+51 | 51 | Viral sinusitis (disorder) | 9 | Sinus Pain:79:0, Headache:27:0, Pain with Bright Lights:35:0, Facial Swelling:46:0, Nasal Discharge:33:0, Nasal Congestion:22:0, Cough:46:0, Sore Throat:1:0, Fever:22:0
+51 |  | Alcoholism | 0 | 
+51 | 51 | Part-time employment (finding) | 0 | 
+51 |  | Served in armed forces (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Alcoholism | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Served in armed forces (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 | 51 | Viral sinusitis (disorder) | 9 | Sinus Pain:53:0, Headache:21:0, Pain with Bright Lights:40:0, Facial Swelling:46:0, Nasal Discharge:7:0, Nasal Congestion:20:0, Cough:0:0, Sore Throat:19:0, Fever:2:0
+51 |  | Chronic obstructive bronchitis (disorder) | 2 | Shortness of Breath:207, Cough:71
+52 |  | Alcoholism | 0 | 
+52 |  | Served in armed forces (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 |  | Alcoholism | 0 | 
+53 |  | Served in armed forces (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+54 | 54 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:19:0, Fatigue:50:0, Mucus:26:0, Nasal Congestion:48:0, Shortness of Breath:62:0, Nausea/Vomiting:19:0, Cough:54:0, Sore Throat:47:0, Fever:34:0
+54 |  | Alcoholism | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 | 55 | Fracture of clavicle | 0 | 
+55 | 55 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:21:0, Fatigue:41:0, Mucus:34:0, Nasal Congestion:45:0, Shortness of Breath:30:0, Nausea/Vomiting:20:0, Cough:52:0, Sore Throat:47:0, Fever:25:0
+55 |  | Alcoholism | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 | 55 | Reports of violence in the environment (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 |  | Alcoholism | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 |  | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

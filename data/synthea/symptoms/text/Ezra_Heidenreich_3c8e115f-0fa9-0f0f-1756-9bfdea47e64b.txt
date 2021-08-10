@@ -1,0 +1,40 @@
+Ezra Heidenreich
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1987-11-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 |  | Prediabetes | 0 | 
+25 |  | Has a criminal record (finding) | 0 | 
+25 | 28 | Full-time employment (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 | 25 | Fracture of clavicle | 0 | 
+25 | 25 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:1:0, Runny/Stuffy Nose:30:0, Fatigue:0:0, Swollen Lymph Nodes:21:0, Decreased Appetite:31:0, Swollen Tonsils:20:0, Sore Throat:47:0, Cough:16:0, Fever:0:0
+26 |  | Chronic low back pain (finding) | 0 | 
+28 |  | Prediabetes | 0 | 
+28 |  | Anemia (disorder) | 0 | 
+28 |  | Has a criminal record (finding) | 0 | 
+28 | 28 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 | 28 | Viral sinusitis (disorder) | 9 | Headache:47:0, Sinus Pain:58:0, Pain with Bright Lights:40:0, Facial Swelling:41:0, Nasal Discharge:26:0, Nasal Congestion:14:0, Sore Throat:37:0, Cough:36:0, Fever:7:0
+28 |  | Prediabetes | 0 | 
+28 |  | Has a criminal record (finding) | 0 | 
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+29 | 29 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:48:0, Runny/Stuffy Nose:2:0, Fatigue:10:0, Swollen Lymph Nodes:39:0, Decreased Appetite:12:0, Swollen Tonsils:56:0, Sore Throat:41:0, Cough:0:0, Fever:9:0
+30 | 30 | Acute bronchitis (disorder) | 10 | Body Aches:9:0, Diarrhea:0:0, Fatigue:33:0, Mucus:30:0, Nasal Congestion:44:0, Shortness of Breath:34:0, Nausea/Vomiting:10:0, Sore Throat:31:0, Cough:45:0, Fever:30:0
+31 |  | Prediabetes | 0 | 
+31 |  | Has a criminal record (finding) | 0 | 
+31 |  | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 |  | Social isolation (finding) | 0 | 
+32 |  | Chill (finding) | 3 | chills:1, fever:1, cough:1
+32 |  | Fever (finding) | 3 | chills:1, fever:1, cough:1
+32 |  | Cough (finding) | 3 | chills:1, fever:1, cough:1
+32 | 32 | Suspected COVID-19 | 0 | 
+32 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

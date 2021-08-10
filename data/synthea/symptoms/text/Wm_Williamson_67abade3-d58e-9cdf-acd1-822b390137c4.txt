@@ -1,0 +1,80 @@
+Wm Williamson
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1947-05-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+63 |  | Body mass index 30+ - obesity (finding) | 0 | 
+63 | 64 | Not in labor force (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Victim of intimate partner abuse (finding) | 0 | 
+64 |  | Body mass index 30+ - obesity (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+65 | 65 | Viral sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:77:0, Pain with Bright Lights:44:0, Facial Swelling:25:0, Nasal Discharge:9:0, Nasal Congestion:16:0, Sore Throat:44:0, Fever:10:0, Cough:15:0
+65 | 65 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:19:0, Body Aches:19:0, Runny/Stuffy Nose:40:0, Fatigue:27:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:37:0, Decreased Appetite:48:0, Sore Throat:9:0, Fever:48:0, Cough:18:0
+65 |  | Body mass index 30+ - obesity (finding) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+66 |  | Body mass index 30+ - obesity (finding) | 0 | 
+66 | 67 | Not in labor force (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 68 | Stress (finding) | 0 | 
+67 |  | Body mass index 30+ - obesity (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+68 | 68 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:69:0, Pain with Bright Lights:46:0, Facial Swelling:40:0, Nasal Discharge:3:0, Nasal Congestion:1:0, Sore Throat:42:0, Fever:1:0, Cough:25:0
+68 |  | Body mass index 30+ - obesity (finding) | 0 | 
+68 | 69 | Not in labor force (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+69 | 69 | Acute bronchitis (disorder) | 10 | Body Aches:6:0, Diarrhea:1:0, Fatigue:51:0, Mucus:25:0, Nasal Congestion:30:0, Shortness of Breath:59:0, Nausea/Vomiting:22:0, Sore Throat:47:0, Fever:38:0, Cough:53:0
+69 |  | Body mass index 30+ - obesity (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 71 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 | 72 | Social isolation (finding) | 0 | 
+71 |  | Body mass index 30+ - obesity (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 | 72 | Stress (finding) | 0 | 
+72 |  | Body mass index 30+ - obesity (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 | 72 | Victim of intimate partner abuse (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 | 72 | Viral sinusitis (disorder) | 9 | Headache:37:0, Sinus Pain:73:0, Pain with Bright Lights:29:0, Facial Swelling:0:0, Nasal Discharge:29:0, Nasal Congestion:2:0, Sore Throat:5:0, Fever:1:0, Cough:39:0
+72 |  | Body mass index 30+ - obesity (finding) | 0 | 
+72 |  | Part-time employment (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Dyspnea (finding) | 4 | sore throat:1, fever:1, dyspnea:1, headache:1
+72 |  | Fever (finding) | 4 | sore throat:1, fever:1, dyspnea:1, headache:1
+72 |  | Wheezing (finding) | 4 | sore throat:1, fever:1, dyspnea:1, headache:1
+72 |  | Headache (finding) | 4 | sore throat:1, fever:1, dyspnea:1, headache:1
+72 |  | Sore throat symptom (finding) | 4 | sore throat:1, fever:1, dyspnea:1, headache:1
+72 | 72 | Suspected COVID-19 | 0 | 
+72 |  | COVID-19 | 0 | 
+72 |  | Acute respiratory failure (disorder) | 0 | 
+72 |  | Respiratory distress (finding) | 0 | 
+72 |  | Sepsis caused by virus (disorder) | 0 | 
+72 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+72 |  | Injury of heart (disorder) | 0 | 
+72 |  | Acquired coagulation disorder (disorder) | 0 | 
+72 |  | Heart failure (disorder) | 0 | 
+72 |  | Septic shock (disorder) | 0 | 
+72 |  | Pneumonia (disorder) | 0 | 
+72 |  | Hypoxemia (disorder) | 0 | 
+72 |  | Acute deep venous thrombosis (disorder) | 0 | 
+--------------------------------------------------------------------------------

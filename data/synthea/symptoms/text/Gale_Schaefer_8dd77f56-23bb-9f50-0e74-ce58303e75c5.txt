@@ -1,0 +1,62 @@
+Gale Schaefer
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1920-09-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+76 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:34, Memory Loss:41:78, Decreased in Judgement:48, Decreased Communication:16, Decreased Attentiveness:7, Confusion:43
+76 |  | Lack of access to transportation (finding) | 0 | 
+76 | 80 | Limited social contact (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Lack of access to transportation (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 | 85 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+77 | 77 | Acute bronchitis (disorder) | 10 | Body Aches:6:0, Diarrhea:12:0, Fatigue:44:0, Mucus:25:0, Nasal Congestion:44:0, Shortness of Breath:26:0, Nausea/Vomiting:8:0, Sore Throat:40:0, Fever:38:0, Cough:32:0
+78 |  | Lack of access to transportation (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 | 80 | Part-time employment (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Transport problems (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 | 80 | Stress (finding) | 0 | 
+80 |  | Osteoporosis (disorder) | 0 | 
+80 |  | Lack of access to transportation (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+81 |  | Lack of access to transportation (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 | 85 | Social isolation (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Transport problems (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 | 85 | Stress (finding) | 0 | 
+83 | 83 | Viral sinusitis (disorder) | 9 | Headache:4:0, Sinus Pain:50:0, Pain with Bright Lights:47:0, Facial Swelling:31:0, Nasal Discharge:28:0, Nasal Congestion:6:0, Sore Throat:44:0, Fever:4:0, Cough:19:0
+83 |  | Lack of access to transportation (finding) | 0 | 
+83 | 84 | Part-time employment (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Transport problems (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 | 84 | Acute bronchitis (disorder) | 10 | Body Aches:1:0, Diarrhea:10:0, Fatigue:25:0, Mucus:35:0, Nasal Congestion:41:0, Shortness of Breath:45:0, Nausea/Vomiting:10:0, Sore Throat:25:0, Fever:34:0, Cough:67:0
+85 |  | Has a criminal record (finding) | 0 | 
+85 |  | Full-time employment (finding) | 0 | 
+85 |  | Transport problems (finding) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

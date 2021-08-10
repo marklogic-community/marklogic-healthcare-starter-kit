@@ -1,0 +1,36 @@
+Eryn Jones
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1980-04-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+31 |  | Drug overdose | 0 | 
+31 |  | Drug overdose | 0 | 
+33 |  | Drug overdose | 0 | 
+34 | 40 | Limited social contact (finding) | 0 | 
+34 |  | Unemployed (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 |  | Drug overdose | 0 | 
+37 |  | Drug overdose | 0 | 
+37 |  | Unemployed (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+38 |  | Drug overdose | 0 | 
+38 | 38 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:11:0, Fatigue:47:0, Mucus:45:0, Nasal Congestion:27:0, Shortness of Breath:56:0, Nausea/Vomiting:5:0, Sore Throat:39:0, Fever:29:0, Cough:61:0
+38 |  | Body mass index 30+ - obesity (finding) | 0 | 
+38 |  | Unemployed (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 |  | Stress (finding) | 0 | 
+38 | 39 | Concussion with no loss of consciousness | 0 | 
+39 |  | Fever (finding) | 1 | fever:1
+39 | 39 | Suspected COVID-19 | 0 | 
+39 |  | COVID-19 | 0 | 
+39 |  | Respiratory distress (finding) | 0 | 
+39 |  | Pneumonia (disorder) | 0 | 
+39 |  | Hypoxemia (disorder) | 0 | 
+40 |  | Unemployed (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,544 @@
+
+2021-01-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 59 year-old non-hispanic black male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2020-06-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 58 year-old non-hispanic black male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+
+
+
+2020-05-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 58 year-old non-hispanic black male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- measurement of respiratory function (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2020-02-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 58 year-old non-hispanic black male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+
+
+2020-01-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 58 year-old non-hispanic black male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), has a criminal record (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2019-01-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 57 year-old non-hispanic black male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2018-01-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 56 year-old non-hispanic black male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2016-12-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 55 year-old non-hispanic black male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2015-12-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 54 year-old non-hispanic black male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2014-12-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 53 year-old non-hispanic black male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2013-12-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 52 year-old non-hispanic black male. Patient has a history of part-time employment (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2012-12-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 51 year-old non-hispanic black male. Patient has a history of part-time employment (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2011-12-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 50 year-old non-hispanic black male. Patient has a history of part-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2009-12-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 48 year-old non-hispanic black male.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), stress (finding). 
+
+## Plan
+
+
+
+
+1980-01-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Marcos
+ is a 18 year-old non-hispanic black male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding). 
+
+## Plan
+
+
+
+

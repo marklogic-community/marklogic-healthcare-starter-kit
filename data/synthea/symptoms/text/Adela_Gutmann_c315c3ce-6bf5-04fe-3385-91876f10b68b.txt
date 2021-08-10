@@ -1,0 +1,69 @@
+Adela Gutmann
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+78 |  | Impacted molars | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+78 |  | Impacted molars | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+78 |  | Chronic pain | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+78 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+78 |  | Chronic pain | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 | 80 | Not in labor force (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+79 |  | Impacted molars | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+79 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+79 |  | Chronic pain | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+79 |  | Chronic pain | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+79 |  | Chronic pain | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Osteoporosis (disorder) | 0 | 
+80 | 81 | Not in labor force (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Impacted molars | 10 | Reduced Sex Drive:7, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:11, Pain Sensitivity:5, Confusion:9, Cognitive Difficulties:1, Shallow Breathing:10, Mood Swing:5, Nausea/Vomiting:8
+80 |  | Drug overdose | 0 | 
+80 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+80 |  | Drug overdose | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 | 87 | Social isolation (finding) | 0 | 
+81 |  | Drug overdose | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 | 84 | Stress (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Only received primary school education (finding) | 0 | 
+83 |  | Victim of intimate partner abuse (finding) | 0 | 
+84 |  | Metabolic syndrome X (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 | 87 | Victim of intimate partner abuse (finding) | 0 | 
+84 |  | Only received primary school education (finding) | 0 | 
+85 |  | Metabolic syndrome X (disorder) | 0 | 
+85 |  | Has a criminal record (finding) | 0 | 
+85 | 86 | Full-time employment (finding) | 0 | 
+85 |  | Only received primary school education (finding) | 0 | 
+85 |  | Stress (finding) | 0 | 
+86 |  | Metabolic syndrome X (disorder) | 0 | 
+86 |  | Has a criminal record (finding) | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Only received primary school education (finding) | 0 | 
+86 |  | Stress (finding) | 0 | 
+87 |  | Metabolic syndrome X (disorder) | 0 | 
+87 |  | Has a criminal record (finding) | 0 | 
+87 |  | Full-time employment (finding) | 0 | 
+87 |  | Only received primary school education (finding) | 0 | 
+87 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

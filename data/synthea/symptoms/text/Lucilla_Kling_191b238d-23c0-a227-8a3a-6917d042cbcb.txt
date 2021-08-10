@@ -1,0 +1,49 @@
+Lucilla Kling
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1917-06-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+71 |  | Prediabetes | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 | 72 | Viral sinusitis (disorder) | 9 | Headache:17:0, Sinus Pain:63:0, Pain with Bright Lights:25:0, Facial Swelling:9:0, Nasal Discharge:13:0, Nasal Congestion:4:0, Sore Throat:3:0, Fever:13:0, Cough:21:0
+72 |  | Prediabetes | 0 | 
+72 | 73 | Part-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 74 | Not in labor force (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 | 75 | Stress (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Victim of intimate partner abuse (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 | 79 | Victim of intimate partner abuse (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Reports of violence in the environment (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 | 77 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:19:0, Body Aches:38:0, Runny/Stuffy Nose:7:0, Fatigue:33:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:15:0, Decreased Appetite:7:0, Sore Throat:30:0, Fever:35:0, Cough:22:0
+78 | 78 | Laceration of hand | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 79 | Reports of violence in the environment (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 79 | Stress (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

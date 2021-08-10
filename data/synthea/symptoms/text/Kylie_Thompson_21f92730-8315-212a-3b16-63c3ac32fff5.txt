@@ -1,0 +1,16 @@
+Kylie Thompson
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2018-07-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:45:0, Runny/Stuffy Nose:22:0, Fatigue:22:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:34:0, Decreased Appetite:22:0, Cough:0:0, Sore Throat:10:0, Fever:22:0
+1 | 1 | Acute bronchitis (disorder) | 10 | Body Aches:4:0, Diarrhea:20:0, Fatigue:49:0, Mucus:43:0, Nasal Congestion:30:0, Shortness of Breath:65:0, Nausea/Vomiting:8:0, Cough:30:0, Sore Throat:47:0, Fever:48:0
+1 |  | Fever (finding) | 2 | fever:1, cough:1
+1 |  | Cough (finding) | 2 | fever:1, cough:1
+1 | 1 | Suspected COVID-19 | 0 | 
+1 |  | COVID-19 | 0 | 
+2 | 2 | Otitis media | 0 | 
+--------------------------------------------------------------------------------

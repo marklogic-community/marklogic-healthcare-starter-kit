@@ -1,0 +1,555 @@
+
+2021-07-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 25 year-old non-hispanic white male. Patient has a history of covid-19, streptococcal sore throat (disorder), acute bronchitis (disorder), fever (finding), full-time employment (finding), acute viral pharyngitis (disorder), cough (finding), viral sinusitis (disorder), suspected covid-19, facial laceration, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; naproxen sodium 220 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+
+
+
+2020-12-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 24 year-old non-hispanic white male. Patient has a history of covid-19, streptococcal sore throat (disorder), acute bronchitis (disorder), fever (finding), full-time employment (finding), acute viral pharyngitis (disorder), cough (finding), viral sinusitis (disorder), suspected covid-19, facial laceration, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; naproxen sodium 220 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2020-03-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 23 year-old non-hispanic white male. Patient has a history of streptococcal sore throat (disorder), acute bronchitis (disorder), full-time employment (finding), acute viral pharyngitis (disorder), viral sinusitis (disorder), facial laceration, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; naproxen sodium 220 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2018-09-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 22 year-old non-hispanic white male. Patient has a history of streptococcal sore throat (disorder), acute bronchitis (disorder), full-time employment (finding), acute viral pharyngitis (disorder), viral sinusitis (disorder), facial laceration, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; penicillin v potassium 500 mg oral tablet; naproxen sodium 220 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), limited social contact (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hep b, adult. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2018-08-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 22 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), acute viral pharyngitis (disorder), viral sinusitis (disorder), facial laceration, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; naproxen sodium 220 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with streptococcal sore throat (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- penicillin v potassium 500 mg oral tablet
+
+
+
+2018-07-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 22 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), acute viral pharyngitis (disorder), viral sinusitis (disorder), facial laceration, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; naproxen sodium 220 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), unhealthy alcohol drinking behavior (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free, hep b, adult, meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2018-06-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 22 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), viral sinusitis (disorder), facial laceration, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; naproxen sodium 220 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+
+
+
+2015-07-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 19 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), viral sinusitis (disorder), facial laceration.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; naproxen sodium 220 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), social isolation (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2015-03-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 18 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), viral sinusitis (disorder).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with facial laceration. 
+
+## Plan
+
+The following procedures were conducted:
+- suture open wound
+- injection of tetanus antitoxin
+The patient was prescribed the following medications:
+- naproxen sodium 220 mg oral tablet
+The patient was placed on a careplan:
+- wound care
+
+
+
+2015-02-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 18 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+
+
+2014-06-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 18 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with served in armed forces (finding), received higher education (finding), full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+
+
+
+2013-07-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 17 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2013-07-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 17 year-old non-hispanic white male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2013-07-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 17 year-old non-hispanic white male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2013-06-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 17 year-old non-hispanic white male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2012-06-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zackary
+ is a 16 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+

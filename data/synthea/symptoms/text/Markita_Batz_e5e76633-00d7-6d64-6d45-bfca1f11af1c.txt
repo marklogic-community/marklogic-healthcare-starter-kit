@@ -1,0 +1,40 @@
+Markita Batz
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1983-12-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 |  | Prediabetes | 0 | 
+28 | 30 | Full-time employment (finding) | 0 | 
+28 |  | Only received primary school education (finding) | 0 | 
+28 | 30 | Stress (finding) | 0 | 
+28 | 29 | Normal pregnancy | 0 | 
+30 | 30 | Acute bronchitis (disorder) | 10 | Body Aches:17:0, Diarrhea:18:0, Fatigue:48:0, Mucus:25:0, Nasal Congestion:38:0, Shortness of Breath:63:0, Nausea/Vomiting:13:0, Cough:31:0, Sore Throat:37:0, Fever:31:0
+30 |  | Prediabetes | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Only received primary school education (finding) | 0 | 
+31 |  | Prediabetes | 0 | 
+31 | 34 | Full-time employment (finding) | 0 | 
+31 |  | Only received primary school education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 | 32 | Normal pregnancy | 0 | 
+33 | 33 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:28:0, Body Aches:36:0, Runny/Stuffy Nose:40:0, Fatigue:21:0, Swollen Lymph Nodes:20:0, Swollen Tonsils:8:0, Decreased Appetite:30:0, Cough:6:0, Sore Throat:46:0, Fever:42:0
+33 | 33 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:6:0, Pain with Bright Lights:36:0, Facial Swelling:37:0, Nasal Discharge:17:0, Nasal Congestion:4:0, Cough:36:0, Sore Throat:7:0, Fever:11:0
+34 |  | Prediabetes | 0 | 
+34 | 37 | Full-time employment (finding) | 0 | 
+34 |  | Only received primary school education (finding) | 0 | 
+34 | 37 | Stress (finding) | 0 | 
+34 |  | Misuses drugs (finding) | 0 | 
+34 | 35 | Normal pregnancy | 0 | 
+35 | 35 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:38:0, Pain with Bright Lights:31:0, Facial Swelling:29:0, Nasal Discharge:19:0, Nasal Congestion:7:0, Cough:45:0, Sore Throat:40:0, Fever:9:0
+36 |  | Fever (finding) | 3 | sore throat:1, fever:1, loss_of_taste:1
+36 |  | Sore throat symptom (finding) | 3 | sore throat:1, fever:1, loss_of_taste:1
+36 |  | Loss of taste (finding) | 3 | sore throat:1, fever:1, loss_of_taste:1
+36 | 36 | Suspected COVID-19 | 0 | 
+36 |  | COVID-19 | 0 | 
+37 |  | Prediabetes | 0 | 
+37 |  | Full-time employment (finding) | 0 | 
+37 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

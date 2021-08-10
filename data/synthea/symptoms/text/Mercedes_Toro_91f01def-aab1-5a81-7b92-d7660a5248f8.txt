@@ -1,0 +1,46 @@
+Mercedes Toro
+=============
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1971-06-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 | 40 | Normal pregnancy | 0 | 
+41 | 41 | Viral sinusitis (disorder) | 9 | Headache:47:0, Sinus Pain:59:0, Pain with Bright Lights:40:0, Facial Swelling:49:0, Nasal Discharge:39:0, Nasal Congestion:19:0, Sore Throat:31:0, Cough:21:0, Fever:19:0
+41 | 42 | Limited social contact (finding) | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 | 50 | Victim of intimate partner abuse (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+41 | 44 | Stress (finding) | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+43 | 44 | Normal pregnancy | 0 | 
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 46 | Social isolation (finding) | 0 | 
+44 | 45 | Viral sinusitis (disorder) | 9 | Headache:39:0, Sinus Pain:68:0, Pain with Bright Lights:30:0, Facial Swelling:26:0, Nasal Discharge:41:0, Nasal Congestion:5:0, Sore Throat:7:0, Cough:42:0, Fever:7:0
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 | 47 | Normal pregnancy | 0 | 
+48 |  | Body mass index 30+ - obesity (finding) | 0 | 
+48 | 50 | Limited social contact (finding) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 |  | Muscle pain (finding) | 6 | myalgia:1, chills:1, arthralgia:1, sore throat:1, fever:1, cough:1
+48 |  | Chill (finding) | 6 | myalgia:1, chills:1, arthralgia:1, sore throat:1, fever:1, cough:1
+48 |  | Fever (finding) | 6 | myalgia:1, chills:1, arthralgia:1, sore throat:1, fever:1, cough:1
+48 |  | Sore throat symptom (finding) | 6 | myalgia:1, chills:1, arthralgia:1, sore throat:1, fever:1, cough:1
+48 |  | Joint pain (finding) | 6 | myalgia:1, chills:1, arthralgia:1, sore throat:1, fever:1, cough:1
+48 |  | Cough (finding) | 6 | myalgia:1, chills:1, arthralgia:1, sore throat:1, fever:1, cough:1
+48 | 48 | Suspected COVID-19 | 0 | 
+48 |  | COVID-19 | 0 | 
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 |  | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

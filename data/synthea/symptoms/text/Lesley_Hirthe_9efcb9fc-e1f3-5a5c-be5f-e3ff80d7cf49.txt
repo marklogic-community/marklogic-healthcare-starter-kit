@@ -1,0 +1,107 @@
+Lesley Hirthe
+=============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1923-05-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+55 |  | Prediabetes | 0 | 
+55 |  | Opioid abuse (disorder) | 0 | 
+55 |  | Alcoholism | 0 | 
+55 |  | Refugee (person) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 |  | Housing unsatisfactory (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Opioid abuse (disorder) | 0 | 
+56 |  | Alcoholism | 0 | 
+56 |  | Refugee (person) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 |  | Housing unsatisfactory (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 60 | Social isolation (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Opioid abuse (disorder) | 0 | 
+57 |  | Alcoholism | 0 | 
+57 |  | Refugee (person) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 |  | Housing unsatisfactory (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 59 | Stress (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 |  | Opioid abuse (disorder) | 0 | 
+58 |  | Alcoholism | 0 | 
+58 |  | Refugee (person) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 | 64 | Victim of intimate partner abuse (finding) | 0 | 
+58 | 59 | Not in labor force (finding) | 0 | 
+58 |  | Housing unsatisfactory (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 |  | Opioid abuse (disorder) | 0 | 
+59 |  | Alcoholism | 0 | 
+59 |  | Refugee (person) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 60 | Part-time employment (finding) | 0 | 
+59 |  | Housing unsatisfactory (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 | 59 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:44:0, Body Aches:11:0, Runny/Stuffy Nose:39:0, Fatigue:12:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:43:0, Decreased Appetite:38:0, Fever:13:0, Sore Throat:46:0, Cough:16:0
+60 |  | Prediabetes | 0 | 
+60 |  | Opioid abuse (disorder) | 0 | 
+60 |  | Alcoholism | 0 | 
+60 |  | Refugee (person) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Housing unsatisfactory (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 62 | Stress (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 |  | Opioid abuse (disorder) | 0 | 
+61 |  | Alcoholism | 0 | 
+61 |  | Refugee (person) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 | 64 | Limited social contact (finding) | 0 | 
+61 |  | Housing unsatisfactory (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 |  | Opioid abuse (disorder) | 0 | 
+62 |  | Alcoholism | 0 | 
+62 |  | Refugee (person) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Housing unsatisfactory (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 |  | Opioid abuse (disorder) | 0 | 
+63 |  | Alcoholism | 0 | 
+63 |  | Refugee (person) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Housing unsatisfactory (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 | 64 | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 |  | Opioid abuse (disorder) | 0 | 
+64 |  | Alcoholism | 0 | 
+64 |  | Refugee (person) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 |  | Housing unsatisfactory (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 |  | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,75 @@
+Cierra Koss
+===========
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 | 67 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:10:0, Runny/Stuffy Nose:30:0, Fatigue:15:0, Swollen Lymph Nodes:23:0, Swollen Tonsils:36:0, Decreased Appetite:18:0, Sore Throat:47:0, Fever:29:0, Cough:26:0
+67 |  | Prediabetes | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Unemployed (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Served in armed forces (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Unemployed (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 | 69 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:8:0, Body Aches:6:0, Runny/Stuffy Nose:32:0, Fatigue:42:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:18:0, Decreased Appetite:29:0, Sore Throat:31:0, Fever:16:0, Cough:41:0
+69 |  | Prediabetes | 0 | 
+69 |  | Served in armed forces (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 76 | Reports of violence in the environment (finding) | 0 | 
+69 |  | Unemployed (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 |  | Served in armed forces (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Unemployed (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Served in armed forces (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Unemployed (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 71 | Stress (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Served in armed forces (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Unemployed (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Served in armed forces (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Unemployed (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 75 | Stress (finding) | 0 | 
+73 | 73 | Viral sinusitis (disorder) | 9 | Headache:39:0, Sinus Pain:68:0, Pain with Bright Lights:32:0, Facial Swelling:16:0, Nasal Discharge:8:0, Nasal Congestion:1:0, Sore Throat:47:0, Fever:10:0, Cough:45:0
+73 |  | Prediabetes | 0 | 
+73 |  | Served in armed forces (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Unemployed (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Served in armed forces (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Unemployed (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Unemployed (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Served in armed forces (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Pneumonia | 0 | 
+--------------------------------------------------------------------------------

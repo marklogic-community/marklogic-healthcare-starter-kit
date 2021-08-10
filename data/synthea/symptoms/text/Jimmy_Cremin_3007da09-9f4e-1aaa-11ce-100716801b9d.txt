@@ -1,0 +1,73 @@
+Jimmy Cremin
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1936-04-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+75 | 76 | Part-time employment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+77 | 77 | Not in labor force (finding) | 0 | 
+77 | 82 | Limited social contact (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 | 77 | Stress (finding) | 0 | 
+77 | 77 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:14:0, Fatigue:69:0, Mucus:25:0, Nasal Congestion:41:0, Shortness of Breath:71:0, Nausea/Vomiting:23:0, Sore Throat:37:0, Cough:60:0, Fever:47:0
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 | 81 | Stress (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+81 | 81 | Viral sinusitis (disorder) | 9 | Headache:23:0, Sinus Pain:77:0, Pain with Bright Lights:35:0, Facial Swelling:32:0, Nasal Discharge:40:0, Nasal Congestion:17:0, Sore Throat:13:0, Cough:1:0, Fever:6:0
+81 | 82 | Not in labor force (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+82 | 83 | Part-time employment (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 | 83 | Stress (finding) | 0 | 
+83 | 84 | Limited social contact (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+83 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+83 |  | Dyspnea (finding) | 7 | chills:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+83 |  | Chill (finding) | 7 | chills:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+83 |  | Fever (finding) | 7 | chills:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+83 |  | Sputum finding (finding) | 7 | chills:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+83 |  | Wheezing (finding) | 7 | chills:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+83 |  | Headache (finding) | 7 | chills:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+83 |  | Cough (finding) | 7 | chills:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+83 |  | Loss of taste (finding) | 7 | chills:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+83 | 83 | Suspected COVID-19 | 0 | 
+83 |  | COVID-19 | 0 | 
+83 |  | Acute respiratory failure (disorder) | 0 | 
+83 |  | Respiratory distress (finding) | 0 | 
+83 |  | Pneumonia (disorder) | 0 | 
+83 |  | Hypoxemia (disorder) | 0 | 
+83 |  | Acute deep venous thrombosis (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 | 84 | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 | 84 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:5:0, Body Aches:20:0, Runny/Stuffy Nose:43:0, Fatigue:45:0, Swollen Lymph Nodes:43:0, Swollen Tonsils:52:0, Decreased Appetite:48:0, Sore Throat:37:0, Cough:0:0, Fever:39:0
+84 |  | Part-time employment (finding) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

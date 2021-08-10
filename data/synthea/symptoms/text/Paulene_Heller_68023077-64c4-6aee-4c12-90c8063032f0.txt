@@ -1,0 +1,28 @@
+Paulene Heller
+==============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1981-03-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+30 | 31 | Normal pregnancy | 0 | 
+31 | 34 | Full-time employment (finding) | 0 | 
+31 |  | Transport problems (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 | 33 | Normal pregnancy | 0 | 
+34 | 37 | Full-time employment (finding) | 0 | 
+34 |  | Lack of access to transportation (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 | 40 | Stress (finding) | 0 | 
+35 | 35 | Normal pregnancy | 0 | 
+37 | 40 | Full-time employment (finding) | 0 | 
+37 |  | Transport problems (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+39 |  | Fever (finding) | 2 | fever:1, headache:1
+39 |  | Headache (finding) | 2 | fever:1, headache:1
+39 | 39 | Suspected COVID-19 | 0 | 
+40 |  | Full-time employment (finding) | 0 | 
+40 |  | Transport problems (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

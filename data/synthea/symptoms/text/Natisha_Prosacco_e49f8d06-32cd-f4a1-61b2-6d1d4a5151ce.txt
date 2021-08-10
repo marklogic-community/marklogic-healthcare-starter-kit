@@ -1,0 +1,66 @@
+Natisha Prosacco
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1966-07-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+44 |  | Housing unsatisfactory (finding) | 0 | 
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Only received primary school education (finding) | 0 | 
+46 | 48 | Part-time employment (finding) | 0 | 
+46 |  | Housing unsatisfactory (finding) | 0 | 
+46 |  | Only received primary school education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 | 47 | Viral sinusitis (disorder) | 9 | Headache:7:0, Sinus Pain:61:0, Pain with Bright Lights:45:0, Facial Swelling:48:0, Nasal Discharge:27:0, Nasal Congestion:2:0, Sore Throat:37:0, Cough:32:0, Fever:10:0
+48 |  | Body mass index 30+ - obesity (finding) | 0 | 
+48 | 53 | Limited social contact (finding) | 0 | 
+48 |  | Housing unsatisfactory (finding) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 |  | Housing unsatisfactory (finding) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+50 | 50 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:12:0, Body Aches:10:0, Runny/Stuffy Nose:37:0, Fatigue:25:0, Swollen Lymph Nodes:57:0, Swollen Tonsils:58:0, Decreased Appetite:20:0, Sore Throat:40:0, Cough:0:0, Fever:6:0
+50 | 50 | Laceration of foot | 0 | 
+50 | 50 | Viral sinusitis (disorder) | 9 | Headache:10:0, Sinus Pain:72:0, Pain with Bright Lights:34:0, Facial Swelling:19:0, Nasal Discharge:16:0, Nasal Congestion:9:0, Sore Throat:48:0, Cough:24:0, Fever:2:0
+51 |  | Body mass index 30+ - obesity (finding) | 0 | 
+51 |  | Housing unsatisfactory (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Body mass index 30+ - obesity (finding) | 0 | 
+52 |  | Housing unsatisfactory (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 |  | Body mass index 30+ - obesity (finding) | 0 | 
+53 |  | Housing unsatisfactory (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 |  | Full-time employment (finding) | 0 | 
+53 |  | Victim of intimate partner abuse (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+53 |  | Fever (finding) | 1 | fever:1
+53 | 53 | Suspected COVID-19 | 0 | 
+53 |  | COVID-19 | 0 | 
+53 |  | Acute respiratory failure (disorder) | 0 | 
+53 |  | Respiratory distress (finding) | 0 | 
+53 |  | Sepsis caused by virus (disorder) | 0 | 
+53 |  | Injury of kidney (disorder) | 0 | 
+53 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+53 |  | Injury of heart (disorder) | 0 | 
+53 |  | Heart failure (disorder) | 0 | 
+53 |  | Septic shock (disorder) | 0 | 
+53 |  | Pneumonia (disorder) | 0 | 
+53 |  | Hypoxemia (disorder) | 0 | 
+53 |  | Acute deep venous thrombosis (disorder) | 0 | 
+--------------------------------------------------------------------------------

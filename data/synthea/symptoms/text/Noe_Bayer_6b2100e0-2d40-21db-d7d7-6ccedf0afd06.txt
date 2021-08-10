@@ -1,0 +1,55 @@
+Noe Bayer
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1920-09-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 |  | Prediabetes | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 69 | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 69 | Part-time employment (finding) | 0 | 
+68 | 69 | Limited social contact (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+69 | 69 | Acute bacterial sinusitis (disorder) | 9 | Sinus Pain:71:109:125:0, Headache:7:0, Pain with Bright Lights:46:0, Facial Swelling:43:0, Nasal Discharge:28:0, Nasal Congestion:12:0, Fever:14:0, Sore Throat:7:0, Cough:39:0
+69 |  | Chronic sinusitis (disorder) | 9 | Sinus Pain:109:125:0:54:0:70:0, Headache:0:12:0:41:0, Pain with Bright Lights:0:41:0:40:0, Facial Swelling:0:33:0:45:0, Nasal Discharge:0:8:0:36:0, Nasal Congestion:0:13:0:8:0, Fever:0:19:0:1:0, Sore Throat:0:17:0:20:0, Cough:0:7:0:25:0
+69 |  | Prediabetes | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 | 74 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 | 75 | Limited social contact (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 72 | Part-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 | 72 | Stress (finding) | 0 | 
+72 | 72 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:12:0, Pain with Bright Lights:41:0, Facial Swelling:33:0, Nasal Discharge:8:0, Nasal Congestion:13:0, Fever:19:0, Sore Throat:17:0, Cough:7:0
+72 |  | Prediabetes | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 74 | Part-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 | 76 | Viral sinusitis (disorder) | 9 | Sinus Pain:70:0, Headache:41:0, Pain with Bright Lights:40:0, Facial Swelling:45:0, Nasal Discharge:36:0, Nasal Congestion:8:0, Fever:1:0, Sore Throat:20:0, Cough:25:0
+--------------------------------------------------------------------------------

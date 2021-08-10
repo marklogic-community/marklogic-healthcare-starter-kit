@@ -1,0 +1,33 @@
+Lyman Kozey
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2002-04-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+9 | 9 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:20:0, Runny/Stuffy Nose:19:0, Fatigue:43:0, Swollen Lymph Nodes:13:0, Swollen Tonsils:10:0, Decreased Appetite:11:0, Cough:38:0, Sore Throat:19:0, Fever:48:0
+12 | 17 | Risk activity involvement (finding) | 0 | 
+13 | 13 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:40:0, Pain with Bright Lights:36:0, Facial Swelling:43:0, Nasal Discharge:40:0, Nasal Congestion:2:0, Cough:39:0, Sore Throat:37:0, Fever:15:0
+17 |  | Muscle pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1
+17 |  | Fever (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1
+17 |  | Sputum finding (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1
+17 |  | Fatigue (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1
+17 |  | Joint pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1
+17 | 17 | Suspected COVID-19 | 0 | 
+17 |  | COVID-19 | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 | 19 | Part-time employment (finding) | 0 | 
+18 |  | Limited social contact (finding) | 0 | 
+18 |  | Only received primary school education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+19 |  | Chronic low back pain (finding) | 0 | 
+19 |  | Full-time employment (finding) | 0 | 
+19 |  | Only received primary school education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 |  | Social isolation (finding) | 0 | 
+19 |  | Chronic low back pain (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,69 @@
+Leigh Nikolaus
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1964-04-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 |  | Metabolic syndrome X (disorder) | 0 | 
+47 |  | Prediabetes | 0 | 
+47 | 48 | Part-time employment (finding) | 0 | 
+47 |  | Received certificate of high school equivalency (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+47 | 47 | Laceration of hand | 0 | 
+48 |  | Metabolic syndrome X (disorder) | 0 | 
+48 |  | Prediabetes | 0 | 
+48 | 49 | Full-time employment (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+49 |  | Metabolic syndrome X (disorder) | 0 | 
+49 |  | Prediabetes | 0 | 
+49 | 56 | Reports of violence in the environment (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+49 | 50 | Stress (finding) | 0 | 
+50 |  | Macular edema and retinopathy due to type 2 diabetes mellitus (disorder) | 0 | 
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 51 | Part-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Appendicitis | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Loss of Appetite:0, Fever:0, Bloating/Gas:0
+50 |  | History of appendectomy | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Loss of Appetite:0, Fever:0, Bloating/Gas:0
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Not in labor force (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 | 56 | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Muscle pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, headache:1
+55 |  | Dyspnea (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, headache:1
+55 |  | Fever (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, headache:1
+55 |  | Wheezing (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, headache:1
+55 |  | Headache (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, headache:1
+55 |  | Joint pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, headache:1
+55 | 55 | Suspected COVID-19 | 0 | 
+55 |  | COVID-19 | 0 | 
+56 |  | Neuropathy due to type 2 diabetes mellitus (disorder) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

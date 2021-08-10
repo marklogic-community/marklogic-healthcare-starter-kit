@@ -1,0 +1,43 @@
+Ali Lehner
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1936-04-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+51 |  | Body mass index 30+ - obesity (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Body mass index 30+ - obesity (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 58 | Stress (finding) | 0 | 
+53 |  | Body mass index 30+ - obesity (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 53 | Escherichia coli urinary tract infection | 7 | Frequent Urination:11:0, Urgent Desire to Urinate:5:0, Discolored Urine:9:0, Odor of Urine:0:0, Pelvic Pain:12:0, Fever:4:0, Dysuria:6:0
+54 |  | Body mass index 30+ - obesity (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 | 54 | Viral sinusitis (disorder) | 9 | Headache:33:0, Sinus Pain:54:0, Pain with Bright Lights:48:0, Facial Swelling:8:0, Nasal Discharge:18:0, Nasal Congestion:15:0, Sore Throat:46:0, Fever:6:0, Cough:20:0
+55 | 55 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:52:0, Pain with Bright Lights:48:0, Facial Swelling:11:0, Nasal Discharge:49:0, Nasal Congestion:3:0, Sore Throat:30:0, Fever:15:0, Cough:11:0
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 56 | Social isolation (finding) | 0 | 
+56 |  | Body mass index 30+ - obesity (finding) | 0 | 
+56 | 57 | Not in labor force (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+57 |  | Body mass index 30+ - obesity (finding) | 0 | 
+57 | 58 | Not in labor force (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 58 | Social isolation (finding) | 0 | 
+57 | 57 | Escherichia coli urinary tract infection | 7 | Frequent Urination:18:0, Urgent Desire to Urinate:11:0, Discolored Urine:8:0, Odor of Urine:3:0, Pelvic Pain:7:0, Fever:9:0, Dysuria:9:0
+58 |  | Body mass index 30+ - obesity (finding) | 0 | 
+58 |  | Not in labor force (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

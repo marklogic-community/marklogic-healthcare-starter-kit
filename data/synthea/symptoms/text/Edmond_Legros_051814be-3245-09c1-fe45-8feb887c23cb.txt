@@ -1,0 +1,41 @@
+Edmond Legros
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1994-03-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+17 | 18 | Otitis media | 0 | 
+18 | 20 | Limited social contact (finding) | 0 | 
+18 |  | Unemployed (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 | 19 | Fracture of ankle | 0 | 
+19 |  | Asthma | 0 | 
+19 |  | Unemployed (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 |  | Chronic low back pain (finding) | 0 | 
+20 |  | Unemployed (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 | 21 | Stress (finding) | 0 | 
+20 | 20 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:27:0, Runny/Stuffy Nose:14:0, Fatigue:14:0, Swollen Lymph Nodes:13:0, Swollen Tonsils:0:0, Decreased Appetite:30:0, Sore Throat:17:0, Cough:35:0, Fever:30:0
+21 |  | Unemployed (finding) | 0 | 
+21 |  | Received certificate of high school equivalency (finding) | 0 | 
+21 | 26 | Social isolation (finding) | 0 | 
+22 |  | Unemployed (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+23 |  | Unemployed (finding) | 0 | 
+23 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+24 |  | Unemployed (finding) | 0 | 
+24 |  | Received certificate of high school equivalency (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+25 |  | Unemployed (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 | 26 | Stress (finding) | 0 | 
+26 |  | Unemployed (finding) | 0 | 
+26 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

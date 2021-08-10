@@ -1,0 +1,652 @@
+
+2021-04-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 17 year-old non-hispanic black female. Patient has a history of covid-19, dyspnea (finding), acute bronchitis (disorder), risk activity involvement (finding), fever (finding), sputum finding (finding), wheezing (finding), suspected covid-19.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; jolivette 28 day pack; trinessa 28 day pack; levora 0.15/30 28 day pack
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- depression screening (procedure)
+- medication reconciliation (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- health risks education (procedure)
+
+
+
+2020-04-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 16 year-old non-hispanic black female. Patient has a history of covid-19, dyspnea (finding), acute bronchitis (disorder), risk activity involvement (finding), fever (finding), sputum finding (finding), wheezing (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; jolivette 28 day pack; trinessa 28 day pack; levora 0.15/30 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2020-03-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 15 year-old non-hispanic black female. Patient has a history of acute bronchitis (disorder), risk activity involvement (finding).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; jolivette 28 day pack; trinessa 28 day pack; levora 0.15/30 28 day pack
+
+# Assessment and Plan
+Patient is presenting with sputum finding (finding), dyspnea (finding), wheezing (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2020-02-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 15 year-old non-hispanic black female. Patient has a history of acute bronchitis (disorder), risk activity involvement (finding).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; jolivette 28 day pack; trinessa 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- levora 0.15/30 28 day pack
+
+
+
+2019-04-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 15 year-old non-hispanic black female. Patient has a history of acute bronchitis (disorder), risk activity involvement (finding).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; jolivette 28 day pack; trinessa 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2019-04-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 15 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+jolivette 28 day pack; trinessa 28 day pack
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- measurement of respiratory function (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2019-04-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 15 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+jolivette 28 day pack; trinessa 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2019-03-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 14 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+jolivette 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- trinessa 28 day pack
+
+
+
+2018-04-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 14 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+jolivette 28 day pack
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- health risks education (procedure)
+
+
+
+2018-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 14 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- jolivette 28 day pack
+
+
+
+2017-04-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 13 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- assessment of substance use (procedure)
+- medication reconciliation (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2017-03-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 13 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2016-03-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 12 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- depression screening (procedure)
+- medication reconciliation (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2015-03-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 11 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2014-03-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 10 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2013-03-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 9 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2012-03-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 7 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2005-02-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 10 month-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with mold (organism), lisinopril, aspirin, peanut (substance). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- loratadine 5 mg chewable tablet
+- nda020800 0.3 ml epinephrine 1 mg/ml auto-injector
+
+
+
+2005-01-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hildegard
+ is a 10 month-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+

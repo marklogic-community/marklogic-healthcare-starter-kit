@@ -1,0 +1,37 @@
+Larry Beier
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 |  | Prediabetes | 0 | 
+28 |  | Served in armed forces (finding) | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 31 | Stress (finding) | 0 | 
+28 | 29 | Viral sinusitis (disorder) | 9 | Sinus Pain:61:0, Headache:18:0, Pain with Bright Lights:44:0, Facial Swelling:28:0, Nasal Discharge:40:0, Nasal Congestion:2:0, Fever:23:0, Sore Throat:34:0, Cough:4:0
+31 |  | Prediabetes | 0 | 
+31 |  | Served in armed forces (finding) | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 | 34 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Social isolation (finding) | 0 | 
+34 |  | Prediabetes | 0 | 
+34 |  | Served in armed forces (finding) | 0 | 
+34 | 37 | Limited social contact (finding) | 0 | 
+34 |  | Housing unsatisfactory (finding) | 0 | 
+34 | 37 | Full-time employment (finding) | 0 | 
+34 | 37 | Victim of intimate partner abuse (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+34 | 35 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:7:0, Runny/Stuffy Nose:21:0, Fatigue:31:0, Swollen Lymph Nodes:34:0, Swollen Tonsils:36:0, Decreased Appetite:24:0, Fever:0:0, Sore Throat:46:0, Cough:38:0
+37 |  | Prediabetes | 0 | 
+37 |  | Served in armed forces (finding) | 0 | 
+37 |  | Housing unsatisfactory (finding) | 0 | 
+37 |  | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

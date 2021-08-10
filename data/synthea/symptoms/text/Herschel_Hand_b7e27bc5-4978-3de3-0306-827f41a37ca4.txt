@@ -1,0 +1,23 @@
+Herschel Hand
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2013-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 |  | Atopic dermatitis | 3 | Rash:9, Red Skin:18, Itchiness:2
+1 | 1 | Sprain of wrist | 0 | 
+2 | 2 | Laceration of hand | 0 | 
+2 | 2 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:30:0, Pain with Bright Lights:48:0, Facial Swelling:37:0, Nasal Discharge:18:0, Nasal Congestion:14:0, Fever:3:0, Sore Throat:48:0, Cough:34:0
+3 |  | Seasonal allergic rhinitis | 5 | Nasal Discharge:24, Ear Pressure:2, Nasal Congestion:11, Sneezing Fits:6, Itching:3
+4 | 4 | Otitis media | 0 | 
+5 | 5 | Viral sinusitis (disorder) | 9 | Sinus Pain:67:0, Headache:48:0, Pain with Bright Lights:32:0, Facial Swelling:35:0, Nasal Discharge:46:0, Nasal Congestion:10:0, Fever:12:0, Sore Throat:2:0, Cough:47:0
+7 |  | Chill (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+7 |  | Fever (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+7 |  | Cough (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+7 |  | Loss of taste (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+7 | 7 | Suspected COVID-19 | 0 | 
+7 |  | COVID-19 | 0 | 
+8 | 8 | Whiplash injury to neck | 0 | 
+--------------------------------------------------------------------------------

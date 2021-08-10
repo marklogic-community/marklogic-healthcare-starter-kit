@@ -1,0 +1,61 @@
+Ella Greenfelder
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1981-03-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+30 | 31 | Normal pregnancy | 0 | 
+31 |  | Prediabetes | 0 | 
+31 | 39 | Limited social contact (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 | 31 | Viral sinusitis (disorder) | 9 | Headache:30:0, Sinus Pain:63:0, Pain with Bright Lights:28:0, Facial Swelling:12:0, Nasal Discharge:37:0, Nasal Congestion:22:0, Sore Throat:13:0, Cough:22:0, Fever:5:0
+32 |  | Chronic low back pain (finding) | 0 | 
+32 |  | Prediabetes | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 | 33 | Stress (finding) | 0 | 
+33 |  | Chronic low back pain (finding) | 0 | 
+33 |  | Prediabetes | 0 | 
+33 | 33 | Full-time employment (finding) | 0 | 
+33 | 34 | Victim of intimate partner abuse (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+33 | 33 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:19:0, Fatigue:35:0, Mucus:40:0, Nasal Congestion:34:0, Shortness of Breath:35:0, Nausea/Vomiting:15:0, Sore Throat:35:0, Cough:26:0, Fever:44:0
+33 |  | Prediabetes | 0 | 
+33 | 34 | Not in labor force (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+33 | 34 | Stress (finding) | 0 | 
+34 | 35 | Normal pregnancy | 0 | 
+34 |  | Prediabetes | 0 | 
+34 | 35 | Not in labor force (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 | 35 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:48:0, Body Aches:17:0, Runny/Stuffy Nose:42:0, Fatigue:27:0, Swollen Lymph Nodes:0:0, Swollen Tonsils:43:0, Decreased Appetite:31:0, Sore Throat:47:0, Cough:13:0, Fever:10:0
+35 |  | Prediabetes | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 | 39 | Victim of intimate partner abuse (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+36 |  | Prediabetes | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 | 39 | Stress (finding) | 0 | 
+37 | 37 | Viral sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:64:0, Pain with Bright Lights:42:0, Facial Swelling:35:0, Nasal Discharge:0:0, Nasal Congestion:21:0, Sore Throat:18:0, Cough:6:0, Fever:16:0
+37 |  | Prediabetes | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 | 38 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:62:0, Pain with Bright Lights:46:0, Facial Swelling:1:0, Nasal Discharge:5:0, Nasal Congestion:21:0, Sore Throat:10:0, Cough:45:0, Fever:5:0
+38 |  | Fever (finding) | 3 | fever:1, sputum production:1, cough:1
+38 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, cough:1
+38 |  | Cough (finding) | 3 | fever:1, sputum production:1, cough:1
+38 | 38 | Suspected COVID-19 | 0 | 
+38 |  | COVID-19 | 0 | 
+38 |  | Prediabetes | 0 | 
+38 | 39 | Full-time employment (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+39 |  | Normal pregnancy | 0 | 
+39 |  | Prediabetes | 0 | 
+39 |  | Full-time employment (finding) | 0 | 
+39 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

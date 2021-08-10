@@ -1,0 +1,726 @@
+
+2020-12-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 57 year-old non-hispanic white male. Patient has a history of covid-19, part-time employment (finding), acute bacterial sinusitis (disorder), not in labor force (finding), full-time employment (finding), headache (finding), cough (finding), victim of intimate partner abuse (finding), loss of taste (finding), suspected covid-19, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2020-02-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 56 year-old non-hispanic white male. Patient has a history of part-time employment (finding), acute bacterial sinusitis (disorder), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with headache (finding), cough (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-12-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 56 year-old non-hispanic white male. Patient has a history of part-time employment (finding), acute bacterial sinusitis (disorder), not in labor force (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2018-12-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 55 year-old non-hispanic white male. Patient has a history of part-time employment (finding), acute bacterial sinusitis (disorder), not in labor force (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2018-11-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 55 year-old non-hispanic white male. Patient has a history of part-time employment (finding), acute bacterial sinusitis (disorder), not in labor force (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- colonoscopy
+
+
+
+2017-12-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 54 year-old non-hispanic white male. Patient has a history of part-time employment (finding), acute bacterial sinusitis (disorder), not in labor force (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2016-11-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 53 year-old non-hispanic white male. Patient has a history of part-time employment (finding), acute bacterial sinusitis (disorder), not in labor force (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2015-11-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 52 year-old non-hispanic white male. Patient has a history of part-time employment (finding), acute bacterial sinusitis (disorder), not in labor force (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2014-12-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 51 year-old non-hispanic white male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute bacterial sinusitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 250 mg / clavulanate 125 mg oral tablet
+
+
+
+2014-11-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 51 year-old non-hispanic white male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2013-11-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 50 year-old non-hispanic white male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- colonoscopy
+- assessment of anxiety (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2013-11-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 50 year-old non-hispanic white male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+
+
+
+2011-12-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 48 year-old non-hispanic white male. Patient has a history of not in labor force (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), social isolation (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2009-12-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 46 year-old non-hispanic white male. Patient has a history of not in labor force (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+2007-11-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 44 year-old non-hispanic white male. Patient has a history of not in labor force (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+
+
+
+
+1995-01-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 31 year-old non-hispanic white male. Patient has a history of not in labor force (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding). 
+
+## Plan
+
+
+
+
+1992-01-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 28 year-old non-hispanic white male. Patient has a history of not in labor force (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding), stress (finding). 
+
+## Plan
+
+
+
+
+1988-12-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 25 year-old non-hispanic white male. Patient has a history of stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+
+
+
+
+1986-01-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 22 year-old non-hispanic white male.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1982-01-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 18 year-old non-hispanic white male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with only received primary school education (finding). 
+
+## Plan
+
+
+
+
+1980-12-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jessie
+ is a 17 year-old non-hispanic white male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+

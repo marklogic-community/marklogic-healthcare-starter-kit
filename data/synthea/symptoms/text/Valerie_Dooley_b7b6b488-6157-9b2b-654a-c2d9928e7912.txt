@@ -1,0 +1,41 @@
+Valerie Dooley
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1999-07-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+15 | 15 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:16:0, Pain with Bright Lights:48:0, Facial Swelling:21:0, Nasal Discharge:22:0, Nasal Congestion:10:0, Fever:5:0, Sore Throat:18:0, Cough:1:0
+17 | 17 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:41:0, Pain with Bright Lights:43:0, Facial Swelling:14:0, Nasal Discharge:42:0, Nasal Congestion:12:0, Fever:9:0, Sore Throat:32:0, Cough:12:0
+17 | 17 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:3:0, Fatigue:28:0, Mucus:32:0, Nasal Congestion:47:0, Shortness of Breath:41:0, Nausea/Vomiting:6:0, Fever:29:0, Sore Throat:29:0, Cough:39:0
+18 | 18 | Normal pregnancy | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Housing unsatisfactory (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 |  | Anemia (disorder) | 0 | 
+19 |  | Housing unsatisfactory (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+20 |  | Prediabetes | 0 | 
+20 | 21 | Part-time employment (finding) | 0 | 
+20 |  | Housing unsatisfactory (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 |  | Stress (finding) | 0 | 
+20 |  | Fever (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+20 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+20 |  | Headache (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+20 |  | Cough (finding) | 4 | fatigue:1, fever:1, headache:1, cough:1
+20 | 20 | Suspected COVID-19 | 0 | 
+20 |  | COVID-19 | 0 | 
+21 |  | Prediabetes | 0 | 
+21 |  | Housing unsatisfactory (finding) | 0 | 
+21 |  | Full-time employment (finding) | 0 | 
+21 |  | Received certificate of high school equivalency (finding) | 0 | 
+21 |  | Stress (finding) | 0 | 
+21 |  | Social isolation (finding) | 0 | 
+21 |  | Victim of intimate partner abuse (finding) | 0 | 
+--------------------------------------------------------------------------------

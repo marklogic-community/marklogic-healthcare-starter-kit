@@ -1,0 +1,33 @@
+{
+  "valueSet": {
+      "valueSetName": "USCLSCodes",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/service-uscls",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-service-uscls.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This value set includes a smattering of USCLS codes.",
+      "valueSetConcepts": {
+            "1101": {"code": "1101", "display": "Exam, comp, primary", "definition": "Exam, comp, primary"},
+            "1102": {"code": "1102", "display": "Exam, comp, mixed", "definition": "Exam, comp, mixed"},
+            "1103": {"code": "1103", "display": "Exam, comp, permanent", "definition": "Exam, comp, permanent"},
+            "1201": {"code": "1201", "display": "Exam, recall", "definition": "Exam, recall"},
+            "1205": {"code": "1205", "display": "Exam, emergency", "definition": "Exam, emergency"},
+            "2101": {"code": "2101", "display": "Radiograph, series (12)", "definition": "Radiograph, series (12)"},
+            "2102": {"code": "2102", "display": "Radiograph, series (16)", "definition": "Radiograph, series (16)"},
+            "2141": {"code": "2141", "display": "Radiograph, bitewing", "definition": "Radiograph, bitewing"},
+            "2601": {"code": "2601", "display": "Radiograph, panoramic", "definition": "Radiograph, panoramic"},
+            "11101": {"code": "11101", "display": "Polishing, 1 unit", "definition": "Polishing, 1 unit"},
+            "11102": {"code": "11102", "display": "Polishing, 2 unit", "definition": "Polishing, 2 unit"},
+            "11103": {"code": "11103", "display": "Polishing, 3 unit", "definition": "Polishing, 3 unit"},
+            "11104": {"code": "11104", "display": "Polishing, 4 unit", "definition": "Polishing, 4 unit"},
+            "21211": {"code": "21211", "display": "Amalgam, 1 surface", "definition": "Amalgam, 1 surface"},
+            "21212": {"code": "21212", "display": "Amalgam, 2 surface", "definition": "Amalgam, 2 surface"},
+            "27211": {"code": "27211", "display": "Crown, PFM", "definition": "Crown, PFM"},
+            "67211": {"code": "67211", "display": "Maryland Bridge", "definition": "Maryland Bridge"},
+            "99111": {"code": "99111", "display": "Lab, commercial", "definition": "Lab, commercial"},
+            "99333": {"code": "99333", "display": "Lab, in office", "definition": "Lab, in office"},
+            "99555": {"code": "99555", "display": "Expense", "definition": "Expense"}
+      }
+  }
+}

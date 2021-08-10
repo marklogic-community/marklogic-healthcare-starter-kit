@@ -1,0 +1,761 @@
+
+2021-02-03
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 4 year-old non-hispanic black male. Patient has a history of covid-19, streptococcal sore throat (disorder), chill (finding), fever (finding), otitis media, sore throat symptom (finding), diarrhea symptom (finding), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; 120 actuat fluticasone propionate 0.044 mg/actuat metered dose inhaler; nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler; cefuroxime 250 mg oral tablet; ibuprofen 100 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2020-08-19
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 3 year-old non-hispanic black male. Patient has a history of covid-19, streptococcal sore throat (disorder), chill (finding), fever (finding), otitis media, sore throat symptom (finding), diarrhea symptom (finding), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; 120 actuat fluticasone propionate 0.044 mg/actuat metered dose inhaler; nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler; cefuroxime 250 mg oral tablet; ibuprofen 100 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The patient was prescribed the following medications:
+- 120 actuat fluticasone propionate 0.044 mg/actuat metered dose inhaler
+- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler
+
+
+
+2020-03-13
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 3 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; 120 actuat fluticasone propionate 0.044 mg/actuat metered dose inhaler; nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler; cefuroxime 250 mg oral tablet; ibuprofen 100 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with sore throat symptom (finding), diarrhea symptom (finding), chill (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2020-02-19
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 3 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; 120 actuat fluticasone propionate 0.044 mg/actuat metered dose inhaler; nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler; cefuroxime 250 mg oral tablet; ibuprofen 100 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+The patient was prescribed the following medications:
+- 120 actuat fluticasone propionate 0.044 mg/actuat metered dose inhaler
+- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler
+
+
+
+2020-02-09
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 3 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; cefuroxime 250 mg oral tablet; ibuprofen 100 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with childhood asthma. 
+
+## Plan
+
+The following procedures were conducted:
+- asthma screening
+The patient was prescribed the following medications:
+- 120 actuat fluticasone propionate 0.044 mg/actuat metered dose inhaler
+- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler
+The patient was placed on a careplan:
+- asthma self management
+
+
+
+2019-08-21
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 2 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; cefuroxime 250 mg oral tablet; ibuprofen 100 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2019-02-20
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 2 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; cefuroxime 250 mg oral tablet; ibuprofen 100 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep a, ped/adol, 2 dose. 
+
+
+
+2018-12-17
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 2 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- cefuroxime 250 mg oral tablet
+- acetaminophen 160 mg chewable tablet
+
+
+
+2018-08-22
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 1 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2018-02-21
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 1 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: dtap. 
+
+
+
+2017-11-22
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 1 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), varicella, mmr, pneumococcal conjugate pcv 13, hep a, ped/adol, 2 dose. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-10-20
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 1 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with mold (organism), house dust mite (organism), animal dander (substance), tree pollen (substance), cow's milk (substance), shellfish (substance). 
+
+## Plan
+
+The following procedures were conducted:
+- allergy screening test
+The patient was prescribed the following medications:
+- loratadine 5 mg chewable tablet
+- nda020800 0.3 ml epinephrine 1 mg/ml auto-injector
+
+
+
+2017-10-10
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 1 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+
+2017-09-09
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 11 month-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- ibuprofen 100 mg oral tablet
+
+
+
+2017-08-23
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 11 month-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-05-24
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 8 month-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: ipv, influenza, seasonal, injectable, preservative free, dtap, pneumococcal conjugate pcv 13, hep b, adolescent or pediatric. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-02-22
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 5 month-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2016-12-18
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 3 month-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with streptococcal sore throat (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+The patient was prescribed the following medications:
+- penicillin v potassium 250 mg oral tablet
+
+
+
+2016-12-21
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 3 month-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+
+
+
+2016-10-19
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a 1 month-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+
+
+
+2016-09-14
+
+# Chief Complaint
+- Wheezing
+- Chest Pressure
+- Shortness of Breath
+
+
+# History of Present Illness
+Lionel
+ is a newborn non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has unknown insurance coverage.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+
+
+

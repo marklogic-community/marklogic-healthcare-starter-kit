@@ -1,0 +1,94 @@
+Roland Weissnat
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1958-01-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Transport problems (finding) | 0 | 
+50 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+50 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+50 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+51 |  | Body mass index 30+ - obesity (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Lack of access to transportation (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+51 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+51 |  | Bleeding from anus | 5 | Cramping:98:0, Weight Loss:39:0, Fatigue:4:0, Abdominal Pain:113:0, Constipation:107:0
+51 |  | Protracted diarrhea | 5 | Cramping:98:0, Weight Loss:39:0, Fatigue:4:0, Abdominal Pain:113:0, Constipation:107:0
+51 | 54 | Malignant tumor of colon | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+51 |  | Anemia (disorder) | 0 | 
+52 |  | Body mass index 30+ - obesity (finding) | 0 | 
+52 | 53 | Limited social contact (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Lack of access to transportation (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+52 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+52 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+52 | 52 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:19:0, Fatigue:64:0, Mucus:44:0, Nasal Congestion:32:0, Shortness of Breath:51:0, Nausea/Vomiting:24:0, Sore Throat:33:0, Cough:59:0, Fever:39:0
+52 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+53 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+53 |  | Body mass index 30+ - obesity (finding) | 0 | 
+53 | 54 | Part-time employment (finding) | 0 | 
+53 |  | Lack of access to transportation (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+53 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+53 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+53 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+53 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+53 | 53 | Viral sinusitis (disorder) | 9 | Headache:28:0, Sinus Pain:77:0, Pain with Bright Lights:39:0, Facial Swelling:1:0, Nasal Discharge:25:0, Nasal Congestion:6:0, Sore Throat:15:0, Cough:39:0, Fever:2:0
+53 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+54 |  | Body mass index 30+ - obesity (finding) | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Transport problems (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 | 55 | Stress (finding) | 0 | 
+54 | 58 | Social isolation (finding) | 0 | 
+54 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+54 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+55 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+55 |  | Prediabetes | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Transport problems (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+55 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+55 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+56 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+56 |  | Prediabetes | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Transport problems (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 58 | Stress (finding) | 0 | 
+56 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:8, Shortness Constipation Breath:2, Anxiety:13, Pain Sensitivity:4, Confusion:6, Cognitive Difficulties:12, Shallow Breathing:5, Mood Swing:3, Nausea/Vomiting:8
+57 |  | Prediabetes | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Transport problems (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Suspected lung cancer (situation) | 2 | Chest Pain:193, Cough:95
+57 |  | Non-small cell lung cancer (disorder) | 0 | 
+57 |  | Non-small cell carcinoma of lung  TNM stage 1 (disorder) | 0 | 
+58 |  | Drug overdose | 0 | 
+58 |  | Prediabetes | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Lack of access to transportation (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 |  | Full-time employment (finding) | 0 | 
+59 |  | Lack of access to transportation (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 |  | Social isolation (finding) | 0 | 
+59 | 59 | Laceration of thigh | 0 | 
+59 |  | Drug overdose | 0 | 
+59 |  | Drug overdose | 0 | 
+--------------------------------------------------------------------------------

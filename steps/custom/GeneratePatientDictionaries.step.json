@@ -1,0 +1,19 @@
+{
+  "collections": [
+    "GeneratePatientDictionaries"
+  ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "sourceDatabase": "data-hub-FINAL",
+  "targetDatabase": "data-hub-FINAL",
+  "provenanceGranularityLevel": "off",
+  "name": "GeneratePatientDictionaries",
+  "description": "",
+  "stepDefinitionType": "custom",
+  "stepDefinitionName": "GeneratePatientDictionaries",
+  "selectedSource": "query",
+  "sourceQuery": "cts.documentQuery('/flows/Patient.flow.json')",
+  "stepId": "GeneratePatientDictionaries-custom",
+  "targetEntityType": "http://example.org/Patient-1.0.0/Patient",
+  "lastUpdated": "2021-07-29T12:07:59.2126484-06:00"
+}

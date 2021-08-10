@@ -1,0 +1,56 @@
+John Wiegand
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1978-12-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+34 | 35 | Full-time employment (finding) | 0 | 
+34 | 42 | Victim of intimate partner abuse (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+34 | 35 | Misuses drugs (finding) | 0 | 
+35 |  | Chronic low back pain (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+35 |  | Chronic low back pain (finding) | 0 | 
+35 |  | Chronic low back pain (finding) | 0 | 
+35 |  | Chronic low back pain (finding) | 0 | 
+35 |  | Chronic low back pain (finding) | 0 | 
+35 |  | Chronic low back pain (finding) | 0 | 
+36 |  | Chronic low back pain (finding) | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+36 |  | Chronic low back pain (finding) | 0 | 
+36 |  | Chronic low back pain (finding) | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+38 | 38 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:20:0, Runny/Stuffy Nose:46:0, Fatigue:7:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:47:0, Decreased Appetite:44:0, Sore Throat:12:0, Fever:13:0, Cough:27:0
+38 | 39 | Full-time employment (finding) | 0 | 
+38 |  | Received higher education (finding) | 0 | 
+38 |  | Stress (finding) | 0 | 
+38 | 38 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:35:0, Runny/Stuffy Nose:14:0, Fatigue:40:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:37:0, Decreased Appetite:42:0, Sore Throat:9:0, Fever:4:0, Cough:13:0
+39 | 40 | Part-time employment (finding) | 0 | 
+39 |  | Received higher education (finding) | 0 | 
+39 |  | Stress (finding) | 0 | 
+39 | 39 | Concussion with no loss of consciousness | 0 | 
+40 | 41 | Part-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 |  | Stress (finding) | 0 | 
+41 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+41 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+41 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+41 | 41 | Suspected COVID-19 | 0 | 
+41 |  | COVID-19 | 0 | 
+41 | 42 | Not in labor force (finding) | 0 | 
+41 | 42 | Limited social contact (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+41 |  | Stress (finding) | 0 | 
+42 |  | Part-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

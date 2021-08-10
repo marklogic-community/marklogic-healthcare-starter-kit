@@ -1,0 +1,70 @@
+Williams Borer
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1985-04-04
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+26 |  | Drug overdose | 0 | 
+27 |  | Drug overdose | 0 | 
+27 | 28 | Full-time employment (finding) | 0 | 
+27 |  | Transport problems (finding) | 0 | 
+27 |  | Only received primary school education (finding) | 0 | 
+27 | 30 | Stress (finding) | 0 | 
+27 | 28 | Social isolation (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Transport problems (finding) | 0 | 
+28 |  | Only received primary school education (finding) | 0 | 
+29 | 30 | Part-time employment (finding) | 0 | 
+29 |  | Limited social contact (finding) | 0 | 
+29 |  | Has a criminal record (finding) | 0 | 
+29 |  | Lack of access to transportation (finding) | 0 | 
+29 | 35 | Victim of intimate partner abuse (finding) | 0 | 
+29 |  | Only received primary school education (finding) | 0 | 
+29 |  | Drug overdose | 0 | 
+30 |  | Has a criminal record (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Lack of access to transportation (finding) | 0 | 
+30 |  | Only received primary school education (finding) | 0 | 
+30 |  | Social isolation (finding) | 0 | 
+30 | 30 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:15:0, Body Aches:19:0, Runny/Stuffy Nose:32:0, Fatigue:36:0, Swollen Lymph Nodes:16:0, Swollen Tonsils:2:0, Decreased Appetite:7:0, Sore Throat:25:0, Fever:4:0, Cough:13:0
+31 | 32 | Part-time employment (finding) | 0 | 
+31 |  | Has a criminal record (finding) | 0 | 
+31 |  | Transport problems (finding) | 0 | 
+31 |  | Only received primary school education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 | 33 | Social isolation (finding) | 0 | 
+32 |  | Has a criminal record (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Lack of access to transportation (finding) | 0 | 
+32 |  | Only received primary school education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+33 |  | Drug overdose | 0 | 
+33 |  | Has a criminal record (finding) | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Transport problems (finding) | 0 | 
+33 |  | Only received primary school education (finding) | 0 | 
+33 | 34 | Stress (finding) | 0 | 
+34 | 35 | Part-time employment (finding) | 0 | 
+34 |  | Limited social contact (finding) | 0 | 
+34 |  | Has a criminal record (finding) | 0 | 
+34 |  | Lack of access to transportation (finding) | 0 | 
+34 |  | Only received primary school education (finding) | 0 | 
+34 |  | Fever (finding) | 2 | fever:1, cough:1
+34 |  | Cough (finding) | 2 | fever:1, cough:1
+34 | 34 | Suspected COVID-19 | 0 | 
+34 |  | COVID-19 | 0 | 
+34 |  | Respiratory distress (finding) | 0 | 
+34 |  | Sepsis caused by virus (disorder) | 0 | 
+34 |  | Heart failure (disorder) | 0 | 
+34 |  | Pneumonia (disorder) | 0 | 
+34 |  | Hypoxemia (disorder) | 0 | 
+34 |  | Acute deep venous thrombosis (disorder) | 0 | 
+35 |  | Has a criminal record (finding) | 0 | 
+35 |  | Full-time employment (finding) | 0 | 
+35 |  | Transport problems (finding) | 0 | 
+35 |  | Only received primary school education (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+35 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,95 @@
+Ervin Spencer
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1915-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+48 |  | Lack of access to transportation (finding) | 0 | 
+48 | 49 | Part-time employment (finding) | 0 | 
+48 |  | Housing unsatisfactory (finding) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+49 |  | Lack of access to transportation (finding) | 0 | 
+49 | 50 | Not in labor force (finding) | 0 | 
+49 |  | Housing unsatisfactory (finding) | 0 | 
+49 |  | Has a criminal record (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+50 | 50 | Laceration of hand | 0 | 
+50 |  | Housing unsatisfactory (finding) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Transport problems (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 | 51 | Acute bronchitis (disorder) | 10 | Body Aches:12:0, Diarrhea:8:0, Fatigue:44:0, Mucus:32:0, Nasal Congestion:32:0, Shortness of Breath:38:0, Nausea/Vomiting:6:0, Fever:43:0, Sore Throat:43:0, Cough:62:0
+51 | 51 | Part-time employment (finding) | 0 | 
+51 |  | Housing unsatisfactory (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 |  | Transport problems (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 | 51 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:12:0, Body Aches:49:0, Runny/Stuffy Nose:26:0, Fatigue:47:0, Swollen Lymph Nodes:22:0, Swollen Tonsils:29:0, Decreased Appetite:48:0, Fever:25:0, Sore Throat:23:0, Cough:43:0
+51 | 51 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:40:0, Pain with Bright Lights:26:0, Facial Swelling:8:0, Nasal Discharge:14:0, Nasal Congestion:15:0, Fever:15:0, Sore Throat:16:0, Cough:38:0
+51 |  | Lack of access to transportation (finding) | 0 | 
+51 |  | Housing unsatisfactory (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 51 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 |  | Lack of access to transportation (finding) | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Housing unsatisfactory (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Social isolation (finding) | 0 | 
+51 | 53 | Stress (finding) | 0 | 
+52 |  | Housing unsatisfactory (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Transport problems (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 56 | Social isolation (finding) | 0 | 
+52 | 52 | Injury of medial collateral ligament of knee | 0 | 
+53 |  | Housing unsatisfactory (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Transport problems (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+54 |  | Lack of access to transportation (finding) | 0 | 
+54 |  | Housing unsatisfactory (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 | 56 | Not in labor force (finding) | 0 | 
+55 |  | Housing unsatisfactory (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 |  | Transport problems (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 | 56 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:47:0, Body Aches:17:0, Runny/Stuffy Nose:22:0, Fatigue:27:0, Swollen Lymph Nodes:3:0, Swollen Tonsils:41:0, Decreased Appetite:30:0, Fever:45:0, Sore Throat:37:0, Cough:32:0
+56 | 56 | Part-time employment (finding) | 0 | 
+56 |  | Housing unsatisfactory (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Transport problems (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+56 |  | Housing unsatisfactory (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Transport problems (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+57 | 57 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:42:0, Pain with Bright Lights:49:0, Facial Swelling:28:0, Nasal Discharge:5:0, Nasal Congestion:11:0, Fever:12:0, Sore Throat:19:0, Cough:24:0
+57 |  | Limited social contact (finding) | 0 | 
+57 |  | Housing unsatisfactory (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 |  | Full-time employment (finding) | 0 | 
+57 |  | Transport problems (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

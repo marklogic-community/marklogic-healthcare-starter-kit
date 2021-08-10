@@ -1,0 +1,1010 @@
+{
+  "info": {
+    "title": "Claim",
+    "version": "1.0.0",
+    "baseUri": "http://example.org/"
+  },
+  "definitions": {
+    "Claim": {
+      "properties": {
+        "id": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "identifier": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/Identifier"
+          }
+        },
+        "status": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "type": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "subType": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "use": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "patient": {
+          "$ref": "#/definitions/Reference"
+        },
+        "billablePeriod": {
+          "$ref": "#/definitions/Period"
+        },
+        "created": {
+          "datatype": "dateTime",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "enterer": {
+          "$ref": "#/definitions/Reference"
+        },
+        "insurer": {
+          "$ref": "#/definitions/Reference"
+        },
+        "provider": {
+          "$ref": "#/definitions/Reference"
+        },
+        "priority": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "fundsReserve": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "related": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/RelatedClaim"
+          }
+        },
+        "prescription": {
+          "$ref": "#/definitions/Reference"
+        },
+        "originalPrescription": {
+          "$ref": "#/definitions/Reference"
+        },
+        "payee": {
+          "$ref": "#/definitions/Payee"
+        },
+        "referral": {
+          "$ref": "#/definitions/Reference"
+        },
+        "facility": {
+          "$ref": "#/definitions/Reference"
+        },
+        "careTeam": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/CareTeamMember"
+          }
+        },
+        "supportingInfo": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/SupportingInformation"
+          }
+        },
+        "diagnosis": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/Diagnosis"
+          }
+        },
+        "procedure": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/Procedure"
+          }
+        },
+        "insurance": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/Insurance"
+          }
+        },
+        "accident": {
+          "$ref": "#/definitions/Accident"
+        },
+        "item": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/ClaimItem"
+          }
+        },
+        "total": {
+          "$ref": "#/definitions/Money"
+        }
+      }
+    },
+    "Meta": {
+      "properties": {
+        "id": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "versionId": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "lastUpdated": {
+          "datatype": "dateTime",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "source": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "profile": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "datatype": "anyURI",
+            "collation": "http://marklogic.com/collation/codepoint"
+          }
+        },
+        "security": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/Coding"
+          }
+        },
+        "tag": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/Coding"
+          }
+        }
+      }
+    },
+    "Identifier": {
+      "properties": {
+        "id": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "use": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "type": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "system": {
+          "datatype": "anyURI",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "value": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "period": {
+          "$ref": "#/definitions/Period"
+        }
+      }
+    },
+    "CodeableConcept": {
+      "properties": {
+        "id": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "coding": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/Coding"
+          }
+        },
+        "text": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        }
+      }
+    },
+    "Coding": {
+      "properties": {
+        "id": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "system": {
+          "datatype": "anyURI",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "version": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "code": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "display": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "userSelected": {
+          "datatype": "boolean",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        }
+      }
+    },
+    "Reference": {
+      "properties": {
+        "id": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "joinPropertyName": "id"
+        },
+        "reference": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "type": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "identifier": {
+          "$ref": "#/definitions/Identifier"
+        },
+        "display": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        }
+      }
+    },
+    "Period": {
+      "properties": {
+        "id": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "start": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "end": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        }
+      }
+    },
+    "RelatedClaim": {
+      "properties": {
+        "claim": {
+          "$ref": "#/definitions/Reference"
+        },
+        "relationship": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "reference": {
+          "$ref": "#/definitions/Identifier"
+        }
+      }
+    },
+    "Payee": {
+      "properties": {
+        "type": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "party": {
+          "$ref": "#/definitions/Reference"
+        }
+      }
+    },
+    "CareTeamMember": {
+      "properties": {
+        "sequence": {
+          "datatype": "positiveInteger",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "provider": {
+          "$ref": "#/definitions/Reference"
+        },
+        "responsible": {
+          "datatype": "boolean",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "role": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "qualification": {
+          "$ref": "#/definitions/CodeableConcept"
+        }
+      }
+    },
+    "SupportingInformation": {
+      "properties": {
+        "sequence": {
+          "datatype": "positiveInteger",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "category": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "code": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "timingDate": {
+          "datatype": "date",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "timingPeriod": {
+          "$ref": "#/definitions/Period"
+        },
+        "valueBoolean": {
+          "datatype": "boolean",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "valueString": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "valueQuantity": {
+          "$ref": "#/definitions/Quantity"
+        },
+        "valueAttachment": {
+          "$ref": "#/definitions/Attachment"
+        },
+        "valueReference": {
+          "$ref": "#/definitions/Reference"
+        }
+      }
+    },
+    "Quantity": {
+      "properties": {
+        "value": {
+          "datatype": "decimal",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "comaprator": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "unit": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "system": {
+          "datatype": "anyURI",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "code": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        }
+      }
+    },
+    "Attachment": {
+      "properties": {
+        "id": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "contentType": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "language": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "data": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "url": {
+          "datatype": "anyURI",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "size": {
+          "datatype": "unsignedInt",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "hash": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "title": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "creation": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        }
+      }
+    },
+    "Diagnosis": {
+      "properties": {
+        "sequence": {
+          "datatype": "positiveInteger",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "diagnosisCodeableConcept": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "diagnosisReference": {
+          "$ref": "#/definitions/Reference"
+        },
+        "type": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "onAdmission": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "packageCode": {
+          "$ref": "#/definitions/CodeableConcept"
+        }
+      }
+    },
+    "Procedure": {
+      "properties": {
+        "sequence": {
+          "datatype": "positiveInteger",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "type": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "date": {
+          "datatype": "date",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "procedureCodeableConcept": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "procedureReference": {
+          "$ref": "#/definitions/Reference"
+        },
+        "udi": {
+          "$ref": "#/definitions/Reference"
+        }
+      }
+    },
+    "Insurance": {
+      "properties": {
+        "sequence": {
+          "datatype": "positiveInteger",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "focal": {
+          "datatype": "boolean",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "identifier": {
+          "$ref": "#/definitions/Identifier"
+        },
+        "coverage": {
+          "$ref": "#/definitions/Reference"
+        },
+        "businessArrangement": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "preAuthRef": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "claimResponse": {
+          "$ref": "#/definitions/Reference"
+        }
+      }
+    },
+    "Accident": {
+      "properties": {
+        "date": {
+          "datatype": "date",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "type": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "locationAddress": {
+          "$ref": "#/definitions/Address"
+        },
+        "locationReference": {
+          "$ref": "#/definitions/Reference"
+        }
+      }
+    },
+    "ClaimItem": {
+      "properties": {
+        "sequence": {
+          "datatype": "positiveInteger",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "careTeamSequence": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "datatype": "positiveInteger",
+            "collation": "http://marklogic.com/collation/codepoint"
+          }
+        },
+        "diagnosisSequence": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "datatype": "positiveInteger",
+            "collation": "http://marklogic.com/collation/codepoint"
+          }
+        },
+        "procedureSequence": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "datatype": "positiveInteger",
+            "collation": "http://marklogic.com/collation/codepoint"
+          }
+        },
+        "informationSequence": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "datatype": "positiveInteger",
+            "collation": "http://marklogic.com/collation/codepoint"
+          }
+        },
+        "revenue": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "category": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "productOrService": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "modifier": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/CodeableConcept"
+          }
+        },
+        "programCode": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/CodeableConcept"
+          }
+        },
+        "servicedDate": {
+          "datatype": "date",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "servicedPeriod": {
+          "$ref": "#/definitions/Period"
+        },
+        "locationCodeableConcept": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "locationAddress": {
+          "$ref": "#/definitions/Address"
+        },
+        "locationReference": {
+          "$ref": "#/definitions/Reference"
+        },
+        "quantity": {
+          "$ref": "#/definitions/SimpleQuantity"
+        },
+        "unitPrice": {
+          "$ref": "#/definitions/Money"
+        },
+        "factor": {
+          "datatype": "decimal",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "net": {
+          "$ref": "#/definitions/Money"
+        },
+        "udi": {
+          "$ref": "#/definitions/Reference"
+        },
+        "bodySite": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "subSite": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/CodeableConcept"
+          }
+        },
+        "encounter": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/Reference"
+          }
+        },
+        "detail": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/ClaimItemDetail"
+          }
+        }
+      }
+    },
+    "Money": {
+      "properties": {
+        "value": {
+          "datatype": "decimal",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "currency": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        }
+      }
+    },
+    "Address": {
+      "properties": {
+        "id": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "use": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "type": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "text": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "line": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "datatype": "string",
+            "collation": "http://marklogic.com/collation/codepoint"
+          }
+        },
+        "city": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "district": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "state": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "postalCode": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "country": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "period": {
+          "$ref": "#/definitions/Period"
+        }
+      }
+    },
+    "SimpleQuantity": {
+      "properties": {
+        "value": {
+          "datatype": "decimal",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "unit": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "system": {
+          "datatype": "anyURI",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "code": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        }
+      }
+    },
+    "ClaimItemDetail": {
+      "properties": {
+        "sequence": {
+          "datatype": "positiveInteger",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "revenue": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "category": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "productOrService": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "modifier": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/CodeableConcept"
+          }
+        },
+        "programCode": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/CodeableConcept"
+          }
+        },
+        "quantity": {
+          "$ref": "#/definitions/SimpleQuantity"
+        },
+        "unitPrice": {
+          "$ref": "#/definitions/Money"
+        },
+        "factor": {
+          "datatype": "decimal",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "net": {
+          "$ref": "#/definitions/Money"
+        },
+        "udi": {
+          "$ref": "#/definitions/Reference"
+        },
+        "subDetail": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/ClaimItemSubDetail"
+          }
+        }
+      }
+    },
+    "ClaimItemSubDetail": {
+      "properties": {
+        "sequence": {
+          "datatype": "positiveInteger",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "revenue": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "category": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "productOrService": {
+          "$ref": "#/definitions/CodeableConcept"
+        },
+        "modifier": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/CodeableConcept"
+          }
+        },
+        "programCode": {
+          "datatype": "array",
+          "facetable": false,
+          "sortable": false,
+          "items": {
+            "$ref": "#/definitions/CodeableConcept"
+          }
+        },
+        "quantity": {
+          "$ref": "#/definitions/SimpleQuantity"
+        },
+        "unitPrice": {
+          "$ref": "#/definitions/Money"
+        },
+        "factor": {
+          "datatype": "decimal",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "net": {
+          "$ref": "#/definitions/Money"
+        },
+        "udi": {
+          "$ref": "#/definitions/Reference"
+        }
+      }
+    }
+  }
+}

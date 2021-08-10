@@ -1,0 +1,74 @@
+Lisbeth Hills
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1957-04-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 | 56 | Not in labor force (finding) | 0 | 
+55 |  | Housing unsatisfactory (finding) | 0 | 
+55 |  | Transport problems (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+56 |  | Body mass index 30+ - obesity (finding) | 0 | 
+56 |  | Housing unsatisfactory (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Transport problems (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+57 |  | Body mass index 30+ - obesity (finding) | 0 | 
+57 |  | Housing unsatisfactory (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Lack of access to transportation (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+58 | 58 | Viral sinusitis (disorder) | 9 | Sinus Pain:66:0, Headache:13:0, Pain with Bright Lights:42:0, Facial Swelling:48:0, Nasal Discharge:4:0, Nasal Congestion:19:0, Fever:8:0, Sore Throat:44:0, Cough:25:0
+58 |  | Body mass index 30+ - obesity (finding) | 0 | 
+58 |  | Housing unsatisfactory (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Lack of access to transportation (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Body mass index 30+ - obesity (finding) | 0 | 
+59 |  | Housing unsatisfactory (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Transport problems (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 | 60 | Stress (finding) | 0 | 
+60 |  | Body mass index 30+ - obesity (finding) | 0 | 
+60 |  | Housing unsatisfactory (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Transport problems (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+61 |  | Body mass index 30+ - obesity (finding) | 0 | 
+61 |  | Housing unsatisfactory (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Lack of access to transportation (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+62 | 62 | Sinusitis (disorder) | 9 | Sinus Pain:37:0, Headache:42:0, Pain with Bright Lights:29:0, Facial Swelling:37:0, Nasal Discharge:43:0, Nasal Congestion:13:0, Fever:4:0, Sore Throat:47:0, Cough:6:0
+62 | 62 | Fracture of vertebral column without spinal cord injury | 0 | 
+62 |  | Body mass index 30+ - obesity (finding) | 0 | 
+62 |  | Housing unsatisfactory (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Transport problems (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Fever (finding) | 2 | fever:1, loss_of_taste:1
+62 |  | Loss of taste (finding) | 2 | fever:1, loss_of_taste:1
+62 | 62 | Suspected COVID-19 | 0 | 
+62 |  | COVID-19 | 0 | 
+63 |  | Body mass index 30+ - obesity (finding) | 0 | 
+63 |  | Housing unsatisfactory (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Lack of access to transportation (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 | 64 | Acute bronchitis (disorder) | 10 | Body Aches:17:0, Diarrhea:15:0, Fatigue:64:0, Mucus:43:0, Nasal Congestion:37:0, Shortness of Breath:54:0, Nausea/Vomiting:2:0, Fever:48:0, Sore Throat:32:0, Cough:40:0
+64 |  | Body mass index 30+ - obesity (finding) | 0 | 
+64 |  | Part-time employment (finding) | 0 | 
+64 |  | Housing unsatisfactory (finding) | 0 | 
+64 |  | Lack of access to transportation (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

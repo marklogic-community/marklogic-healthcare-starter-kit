@@ -1,0 +1,61 @@
+Ahmed Heaney
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1993-08-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 |  | Body mass index 30+ - obesity (finding) | 0 | 
+18 |  | Hypertension | 0 | 
+18 |  | Unemployed (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Social isolation (finding) | 0 | 
+18 | 20 | Stress (finding) | 0 | 
+18 | 18 | Viral sinusitis (disorder) | 9 | Headache:24:0, Sinus Pain:54:0, Pain with Bright Lights:41:0, Facial Swelling:4:0, Nasal Discharge:8:0, Nasal Congestion:7:0, Sore Throat:16:0, Cough:5:0, Fever:7:0
+19 |  | Body mass index 30+ - obesity (finding) | 0 | 
+19 |  | Unemployed (finding) | 0 | 
+19 | 27 | Victim of intimate partner abuse (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 | 20 | Social isolation (finding) | 0 | 
+20 |  | Body mass index 30+ - obesity (finding) | 0 | 
+20 | 24 | Reports of violence in the environment (finding) | 0 | 
+20 |  | Unemployed (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+21 |  | Body mass index 30+ - obesity (finding) | 0 | 
+21 | 27 | Limited social contact (finding) | 0 | 
+21 |  | Unemployed (finding) | 0 | 
+21 |  | Received certificate of high school equivalency (finding) | 0 | 
+21 | 22 | Stress (finding) | 0 | 
+21 | 21 | Second degree burn | 0 | 
+22 |  | Body mass index 30+ - obesity (finding) | 0 | 
+22 |  | Unemployed (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 |  | Body mass index 30+ - obesity (finding) | 0 | 
+23 |  | Unemployed (finding) | 0 | 
+23 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+23 | 24 | Acute bronchitis (disorder) | 10 | Body Aches:4:0, Diarrhea:7:0, Fatigue:52:0, Mucus:44:0, Nasal Congestion:37:0, Shortness of Breath:59:0, Nausea/Vomiting:13:0, Sore Throat:39:0, Cough:69:0, Fever:42:0
+24 |  | Body mass index 30+ - obesity (finding) | 0 | 
+24 |  | Unemployed (finding) | 0 | 
+24 |  | Received certificate of high school equivalency (finding) | 0 | 
+24 | 26 | Stress (finding) | 0 | 
+25 |  | Body mass index 30+ - obesity (finding) | 0 | 
+25 | 27 | Reports of violence in the environment (finding) | 0 | 
+25 |  | Unemployed (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+26 |  | Body mass index 30+ - obesity (finding) | 0 | 
+26 |  | Unemployed (finding) | 0 | 
+26 |  | Received certificate of high school equivalency (finding) | 0 | 
+26 |  | Fever (finding) | 5 | fatigue:1, nasal congestion:1, fever:1, headache:1, loss_of_taste:1
+26 |  | Fatigue (finding) | 5 | fatigue:1, nasal congestion:1, fever:1, headache:1, loss_of_taste:1
+26 |  | Nasal congestion (finding) | 5 | fatigue:1, nasal congestion:1, fever:1, headache:1, loss_of_taste:1
+26 |  | Headache (finding) | 5 | fatigue:1, nasal congestion:1, fever:1, headache:1, loss_of_taste:1
+26 |  | Loss of taste (finding) | 5 | fatigue:1, nasal congestion:1, fever:1, headache:1, loss_of_taste:1
+26 | 26 | Suspected COVID-19 | 0 | 
+26 |  | COVID-19 | 0 | 
+27 |  | Body mass index 30+ - obesity (finding) | 0 | 
+27 |  | Unemployed (finding) | 0 | 
+27 |  | Received certificate of high school equivalency (finding) | 0 | 
+27 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

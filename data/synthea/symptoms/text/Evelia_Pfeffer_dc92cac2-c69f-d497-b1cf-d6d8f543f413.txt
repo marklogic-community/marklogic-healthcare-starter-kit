@@ -1,0 +1,59 @@
+Evelia Pfeffer
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1959-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+52 |  | Prediabetes | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 | 54 | Stress (finding) | 0 | 
+53 |  | Drug overdose | 0 | 
+53 |  | Prediabetes | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Limited social contact (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+55 | 56 | Viral sinusitis (disorder) | 9 | Headache:4:0, Sinus Pain:78:0, Pain with Bright Lights:45:0, Facial Swelling:1:0, Nasal Discharge:4:0, Nasal Congestion:24:0, Sore Throat:16:0, Cough:20:0, Fever:18:0
+56 |  | Prediabetes | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 | 60 | Limited social contact (finding) | 0 | 
+57 | 60 | Victim of intimate partner abuse (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Drug overdose | 0 | 
+59 |  | Prediabetes | 0 | 
+59 | 60 | Part-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 |  | Muscle pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+60 |  | Fever (finding) | 5 | myalgia:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+60 |  | Joint pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+60 |  | Cough (finding) | 5 | myalgia:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+60 |  | Loss of taste (finding) | 5 | myalgia:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+60 | 60 | Suspected COVID-19 | 0 | 
+60 |  | COVID-19 | 0 | 
+60 | 60 | Viral sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:76:0, Pain with Bright Lights:49:0, Facial Swelling:46:0, Nasal Discharge:28:0, Nasal Congestion:21:0, Sore Throat:23:0, Cough:6:0, Fever:20:0
+60 |  | Prediabetes | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 |  | Prediabetes | 0 | 
+60 |  | Full-time employment (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

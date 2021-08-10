@@ -1,0 +1,81 @@
+Jonas Nicolas
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1961-09-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 |  | Hypertriglyceridemia (disorder) | 0 | 
+50 |  | Diabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+51 |  | Hypertriglyceridemia (disorder) | 0 | 
+51 |  | Diabetes | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 | 52 | Stress (finding) | 0 | 
+51 | 52 | Viral sinusitis (disorder) | 9 | Headache:48:0, Sinus Pain:60:0, Pain with Bright Lights:43:0, Facial Swelling:12:0, Nasal Discharge:49:0, Nasal Congestion:14:0, Sore Throat:19:0, Cough:9:0, Fever:1:0
+52 |  | Hypertriglyceridemia (disorder) | 0 | 
+52 |  | Diabetes | 0 | 
+52 | 52 | Full-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Hypertriglyceridemia (disorder) | 0 | 
+52 |  | Diabetes | 0 | 
+52 | 53 | Not in labor force (finding) | 0 | 
+52 | 59 | Reports of violence in the environment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 |  | Hypertriglyceridemia (disorder) | 0 | 
+53 |  | Diabetes | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 |  | Victim of intimate partner abuse (finding) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Diabetes | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Hypertriglyceridemia (disorder) | 0 | 
+55 |  | Diabetes | 0 | 
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 | 59 | Misuses drugs (finding) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 |  | Diabetes | 0 | 
+56 | 59 | Limited social contact (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+56 | 56 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:77:0, Pain with Bright Lights:47:0, Facial Swelling:23:0, Nasal Discharge:6:0, Nasal Congestion:2:0, Sore Throat:16:0, Cough:12:0, Fever:13:0
+56 | 56 | Viral sinusitis (disorder) | 9 | Headache:10:0, Sinus Pain:62:0, Pain with Bright Lights:40:0, Facial Swelling:34:0, Nasal Discharge:30:0, Nasal Congestion:15:0, Sore Throat:12:0, Cough:6:0, Fever:18:0
+56 | 56 | Viral sinusitis (disorder) | 9 | Headache:20:0, Sinus Pain:60:0, Pain with Bright Lights:35:0, Facial Swelling:5:0, Nasal Discharge:32:0, Nasal Congestion:15:0, Sore Throat:23:0, Cough:31:0, Fever:1:0
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Diabetes | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 57 | Acute bronchitis (disorder) | 10 | Body Aches:1:0, Diarrhea:1:0, Fatigue:64:0, Mucus:47:0, Nasal Congestion:36:0, Shortness of Breath:44:0, Nausea/Vomiting:8:0, Sore Throat:31:0, Cough:74:0, Fever:42:0
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Diabetes | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Diabetes | 0 | 
+58 | 59 | Part-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Muscle pain (finding) | 3 | myalgia:1, arthralgia:1, cough:1
+58 |  | Joint pain (finding) | 3 | myalgia:1, arthralgia:1, cough:1
+58 |  | Cough (finding) | 3 | myalgia:1, arthralgia:1, cough:1
+58 | 58 | Suspected COVID-19 | 0 | 
+58 |  | COVID-19 | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Diabetes | 0 | 
+59 |  | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

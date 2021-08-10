@@ -1,0 +1,58 @@
+Bev Pollich
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1922-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+51 | 51 | Full-time employment (finding) | 0 | 
+51 |  | Lack of access to transportation (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 | 51 | Viral sinusitis (disorder) | 9 | Headache:11:0, Sinus Pain:60:0, Pain with Bright Lights:46:0, Facial Swelling:18:0, Nasal Discharge:49:0, Nasal Congestion:12:0, Sore Throat:48:0, Cough:31:0, Fever:0:0
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Lack of access to transportation (finding) | 0 | 
+51 | 60 | Victim of intimate partner abuse (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Transport problems (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 | 56 | Stress (finding) | 0 | 
+52 |  | Social isolation (finding) | 0 | 
+53 | 59 | Limited social contact (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Lack of access to transportation (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Lack of access to transportation (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Lack of access to transportation (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 | 56 | Escherichia coli urinary tract infection | 7 | Frequent Urination:17:0, Urgent Desire to Urinate:14:0, Discolored Urine:4:0, Odor of Urine:0:0, Pelvic Pain:13:0, Fever:6:0, Dysuria:20:0
+56 |  | Body mass index 30+ - obesity (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Lack of access to transportation (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Body mass index 30+ - obesity (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Transport problems (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 60 | Stress (finding) | 0 | 
+58 |  | Body mass index 30+ - obesity (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Lack of access to transportation (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Body mass index 30+ - obesity (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Lack of access to transportation (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 | 60 | Acute bronchitis (disorder) | 10 | Body Aches:17:0, Diarrhea:3:0, Fatigue:66:0, Mucus:35:0, Nasal Congestion:35:0, Shortness of Breath:72:0, Nausea/Vomiting:7:0, Sore Throat:47:0, Cough:59:0, Fever:26:0
+60 |  | Body mass index 30+ - obesity (finding) | 0 | 
+60 |  | Part-time employment (finding) | 0 | 
+60 |  | Lack of access to transportation (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

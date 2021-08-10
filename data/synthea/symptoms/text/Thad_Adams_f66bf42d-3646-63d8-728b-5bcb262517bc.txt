@@ -1,0 +1,171 @@
+Thad Adams
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1961-10-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 |  | Served in armed forces (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Served in armed forces (finding) | 0 | 
+51 | 59 | Reports of violence in the environment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 |  | Served in armed forces (finding) | 0 | 
+52 | 52 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 | 52 | Stress (finding) | 0 | 
+52 |  | Chronic low back pain (finding) | 0 | 
+52 | 52 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:20:0, Fatigue:46:0, Mucus:43:0, Nasal Congestion:34:0, Shortness of Breath:45:0, Nausea/Vomiting:0:0, Sore Throat:36:0, Cough:74:0, Fever:29:0
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 |  | Served in armed forces (finding) | 0 | 
+52 | 53 | Limited social contact (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Served in armed forces (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 |  | Diabetic renal disease (disorder) | 0 | 
+54 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Social isolation (finding) | 0 | 
+54 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 | 54 | Part-time employment (finding) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 | 54 | Social isolation (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 | 54 | Viral sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:70:0, Pain with Bright Lights:29:0, Facial Swelling:34:0, Nasal Discharge:32:0, Nasal Congestion:3:0, Sore Throat:9:0, Cough:6:0, Fever:16:0
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 | 58 | Social isolation (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 55 | Stress (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 | 56 | Part-time employment (finding) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 | 57 | Part-time employment (finding) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 | 57 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 | 57 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:18:0, Body Aches:44:0, Runny/Stuffy Nose:7:0, Fatigue:23:0, Swollen Lymph Nodes:10:0, Swollen Tonsils:3:0, Decreased Appetite:21:0, Sore Throat:14:0, Cough:43:0, Fever:0:0
+57 | 58 | Viral sinusitis (disorder) | 9 | Headache:7:0, Sinus Pain:53:0, Pain with Bright Lights:31:0, Facial Swelling:21:0, Nasal Discharge:15:0, Nasal Congestion:11:0, Sore Throat:25:0, Cough:46:0, Fever:13:0
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 | 58 | Not in labor force (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Dyspnea (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+58 |  | Fever (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+58 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+58 |  | Wheezing (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+58 |  | Cough (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+58 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+58 | 58 | Suspected COVID-19 | 0 | 
+58 |  | COVID-19 | 0 | 
+58 |  | Acute respiratory failure (disorder) | 0 | 
+58 |  | Respiratory distress (finding) | 0 | 
+58 |  | Pneumonia (disorder) | 0 | 
+58 |  | Hypoxemia (disorder) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 | 58 | Stress (finding) | 0 | 
+58 | 58 | Viral sinusitis (disorder) | 9 | Headache:46:0, Sinus Pain:74:0, Pain with Bright Lights:27:0, Facial Swelling:44:0, Nasal Discharge:28:0, Nasal Congestion:19:0, Sore Throat:14:0, Cough:39:0, Fever:13:0
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Part-time employment (finding) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Limited social contact (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+Elton Ernser
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1986-04-27
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 | 26 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+26 | 27 | Not in labor force (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+27 | 28 | Full-time employment (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 28 | Stress (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 31 | Stress (finding) | 0 | 
+30 | 30 | Viral sinusitis (disorder) | 9 | Headache:27:0, Sinus Pain:78:0, Pain with Bright Lights:26:0, Facial Swelling:5:0, Nasal Discharge:14:0, Nasal Congestion:9:0, Sore Throat:6:0, Fever:12:0, Cough:35:0
+30 | 34 | Reports of violence in the environment (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+31 | 32 | Not in labor force (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 | 33 | Limited social contact (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 | 34 | Stress (finding) | 0 | 
+33 | 33 | Full-time employment (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 | 33 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:8:0, Fatigue:60:0, Mucus:39:0, Nasal Congestion:38:0, Shortness of Breath:32:0, Nausea/Vomiting:12:0, Sore Throat:39:0, Fever:48:0, Cough:41:0
+33 | 34 | Not in labor force (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 | 34 | Social isolation (finding) | 0 | 
+33 |  | Fever (finding) | 4 | nasal congestion:1, fever:1, sputum production:1, cough:1
+33 |  | Sputum finding (finding) | 4 | nasal congestion:1, fever:1, sputum production:1, cough:1
+33 |  | Nasal congestion (finding) | 4 | nasal congestion:1, fever:1, sputum production:1, cough:1
+33 |  | Cough (finding) | 4 | nasal congestion:1, fever:1, sputum production:1, cough:1
+33 | 33 | Suspected COVID-19 | 0 | 
+33 |  | COVID-19 | 0 | 
+34 |  | Part-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 | 34 | Fracture subluxation of wrist | 0 | 
+--------------------------------------------------------------------------------

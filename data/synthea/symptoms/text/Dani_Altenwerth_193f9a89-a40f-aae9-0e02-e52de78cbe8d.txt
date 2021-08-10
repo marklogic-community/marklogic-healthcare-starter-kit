@@ -1,0 +1,18 @@
+Dani Altenwerth
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2013-04-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:9:0, Fatigue:62:0, Mucus:49:0, Nasal Congestion:37:0, Shortness of Breath:62:0, Nausea/Vomiting:17:0, Cough:40:0, Sore Throat:31:0, Fever:33:0
+2 | 2 | Sprain of ankle | 0 | 
+5 | 5 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:10:0, Runny/Stuffy Nose:14:0, Fatigue:44:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:32:0, Decreased Appetite:27:0, Cough:18:0, Sore Throat:36:0, Fever:15:0
+5 | 5 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:33:0, Runny/Stuffy Nose:9:0, Fatigue:10:0, Swollen Lymph Nodes:64:0, Swollen Tonsils:61:0, Decreased Appetite:34:0, Cough:0:0, Sore Throat:43:0, Fever:23:0
+6 |  | Fever (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+6 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+6 |  | Loss of taste (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+6 | 6 | Suspected COVID-19 | 0 | 
+6 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

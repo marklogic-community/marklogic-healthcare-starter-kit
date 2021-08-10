@@ -1,0 +1,7 @@
+{
+  "group-name": "Default",
+  "events-activated": true,
+  "event": [
+    "HSK-MALFORMED-SSN"
+  ]
+}

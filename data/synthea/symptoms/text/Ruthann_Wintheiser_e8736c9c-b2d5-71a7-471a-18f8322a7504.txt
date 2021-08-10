@@ -1,0 +1,22 @@
+Ruthann Wintheiser
+==================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2012-10-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 2 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:9:0, Fatigue:65:0, Mucus:40:0, Nasal Congestion:38:0, Shortness of Breath:68:0, Nausea/Vomiting:21:0, Cough:30:0, Sore Throat:49:0, Fever:42:0
+3 | 3 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:11:0, Fatigue:50:0, Mucus:49:0, Nasal Congestion:44:0, Shortness of Breath:55:0, Nausea/Vomiting:10:0, Cough:45:0, Sore Throat:46:0, Fever:30:0
+3 | 3 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:22:0, Pain with Bright Lights:25:0, Facial Swelling:7:0, Nasal Discharge:19:0, Nasal Congestion:9:0, Cough:7:0, Sore Throat:45:0, Fever:16:0
+7 |  | Fever (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+7 |  | Sputum finding (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+7 |  | Fatigue (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+7 |  | Nasal congestion (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+7 |  | Cough (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+7 |  | Loss of taste (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+7 | 7 | Suspected COVID-19 | 0 | 
+7 |  | COVID-19 | 0 | 
+7 | 7 | Viral sinusitis (disorder) | 9 | Sinus Pain:60:0, Headache:33:0, Pain with Bright Lights:45:0, Facial Swelling:27:0, Nasal Discharge:9:0, Nasal Congestion:14:0, Cough:47:0, Sore Throat:13:0, Fever:2:0
+8 | 8 | Viral sinusitis (disorder) | 9 | Sinus Pain:66:0, Headache:32:0, Pain with Bright Lights:31:0, Facial Swelling:13:0, Nasal Discharge:11:0, Nasal Congestion:0:0, Cough:38:0, Sore Throat:10:0, Fever:9:0
+--------------------------------------------------------------------------------

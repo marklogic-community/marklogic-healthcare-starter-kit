@@ -1,0 +1,383 @@
+Helene Hahn
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1936-04-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 74 | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 | 74 | Limited social contact (finding) | 0 | 
+74 | 77 | Reports of violence in the environment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 | 74 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 74 | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 | 74 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 | 76 | Limited social contact (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 | 75 | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 | 76 | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 | 75 | Not in labor force (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Victim of intimate partner abuse (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 | 76 | Viral sinusitis (disorder) | 9 | Headache:32:0, Sinus Pain:76:0, Pain with Bright Lights:25:0, Facial Swelling:15:0, Nasal Discharge:29:0, Nasal Congestion:12:0, Sore Throat:9:0, Cough:19:0, Fever:22:0
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 | 76 | Part-time employment (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 | 76 | Limited social contact (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 | 77 | Victim of intimate partner abuse (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 | 76 | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 | 78 | Limited social contact (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 | 82 | Victim of intimate partner abuse (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 | 82 | Reports of violence in the environment (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+77 |  | Chronic low back pain (finding) | 0 | 
+77 |  | Chronic neck pain (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 | 78 | Not in labor force (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 78 | Stress (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 83 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Limited social contact (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 | 81 | Limited social contact (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 79 | Stress (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 | 79 | Part-time employment (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 | 79 | Stress (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 | 80 | Stress (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 | 80 | Part-time employment (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 | 80 | Not in labor force (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 80 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 | 80 | Viral sinusitis (disorder) | 9 | Headache:4:0, Sinus Pain:66:0, Pain with Bright Lights:37:0, Facial Swelling:10:0, Nasal Discharge:23:0, Nasal Congestion:10:0, Sore Throat:31:0, Cough:46:0, Fever:10:0
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 80 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 | 80 | Stress (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 | 80 | Not in labor force (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 80 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 | 81 | Part-time employment (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 | 81 | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 | 81 | Not in labor force (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 | 81 | Social isolation (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 | 82 | Social isolation (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 | 81 | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 | 82 | Limited social contact (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 | 83 | Victim of intimate partner abuse (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 |  | Social isolation (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 | 82 | Stress (finding) | 0 | 
+82 | 82 | Social isolation (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 | 83 | Reports of violence in the environment (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 | 83 | Social isolation (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 | 82 | Not in labor force (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 | 83 | Stress (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 83 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 | 83 | Part-time employment (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 | 83 | Stress (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 | 83 | Part-time employment (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 83 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 | 83 | Not in labor force (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 83 | Victim of intimate partner abuse (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 | 83 | Not in labor force (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Fever (finding) | 4 | sore throat:1, fever:1, headache:1, loss_of_taste:1
+83 |  | Headache (finding) | 4 | sore throat:1, fever:1, headache:1, loss_of_taste:1
+83 |  | Sore throat symptom (finding) | 4 | sore throat:1, fever:1, headache:1, loss_of_taste:1
+83 |  | Loss of taste (finding) | 4 | sore throat:1, fever:1, headache:1, loss_of_taste:1
+83 | 83 | Suspected COVID-19 | 0 | 
+83 |  | COVID-19 | 0 | 
+83 |  | Acute respiratory failure (disorder) | 0 | 
+83 |  | Respiratory distress (finding) | 0 | 
+83 |  | Sepsis caused by virus (disorder) | 0 | 
+83 |  | Injury of kidney (disorder) | 0 | 
+83 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+83 |  | Septic shock (disorder) | 0 | 
+83 |  | Pneumonia (disorder) | 0 | 
+83 |  | Hypoxemia (disorder) | 0 | 
+83 |  | Acute pulmonary embolism (disorder) | 0 | 
+--------------------------------------------------------------------------------

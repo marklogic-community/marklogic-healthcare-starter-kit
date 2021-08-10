@@ -1,0 +1,60 @@
+Clinton Dibbert
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1964-10-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 | 47 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:44:0, Body Aches:11:0, Runny/Stuffy Nose:15:0, Fatigue:29:0, Swollen Lymph Nodes:45:0, Swollen Tonsils:30:0, Decreased Appetite:6:0, Sore Throat:28:0, Cough:20:0, Fever:35:0
+47 |  | Prediabetes | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received certificate of high school equivalency (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 |  | Prediabetes | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+49 | 49 | Acute bronchitis (disorder) | 10 | Body Aches:3:0, Diarrhea:23:0, Fatigue:74:0, Mucus:33:0, Nasal Congestion:37:0, Shortness of Breath:61:0, Nausea/Vomiting:16:0, Sore Throat:46:0, Cough:71:0, Fever:34:0
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+50 |  | Victim of intimate partner abuse (finding) | 0 | 
+50 | 51 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:36:0, Body Aches:9:0, Runny/Stuffy Nose:18:0, Fatigue:17:0, Swollen Lymph Nodes:11:0, Swollen Tonsils:15:0, Decreased Appetite:49:0, Sore Throat:17:0, Cough:11:0, Fever:2:0
+51 |  | Prediabetes | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Drug overdose | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Part-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 | 52 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:25:0, Body Aches:16:0, Runny/Stuffy Nose:6:0, Fatigue:9:0, Swollen Lymph Nodes:35:0, Swollen Tonsils:9:0, Decreased Appetite:7:0, Sore Throat:22:0, Cough:40:0, Fever:34:0
+53 |  | Prediabetes | 0 | 
+53 |  | Limited social contact (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+53 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+53 | 53 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:3:0, Fatigue:71:0, Mucus:30:0, Nasal Congestion:33:0, Shortness of Breath:27:0, Nausea/Vomiting:6:0, Sore Throat:25:0, Cough:40:0, Fever:41:0
+54 |  | Prediabetes | 0 | 
+54 | 55 | Limited social contact (finding) | 0 | 
+54 | 55 | Not in labor force (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Drug overdose | 0 | 
+55 | 56 | Polyp of colon | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 |  | Fever (finding) | 2 | fatigue:1, fever:1
+55 |  | Fatigue (finding) | 2 | fatigue:1, fever:1
+55 | 55 | Suspected COVID-19 | 0 | 
+55 |  | COVID-19 | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Limited social contact (finding) | 0 | 
+56 |  | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+Shirley Mosciski
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1917-06-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 | 51 | Polyp of colon | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Transport problems (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 54 | Stress (finding) | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Transport problems (finding) | 0 | 
+51 | 58 | Victim of intimate partner abuse (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 | 53 | Part-time employment (finding) | 0 | 
+52 |  | Lack of access to transportation (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+53 |  | Localized  primary osteoarthritis of the hand | 2 | Joint Pain:0, Joint Stiffness:0
+53 | 54 | Not in labor force (finding) | 0 | 
+53 |  | Lack of access to transportation (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Transport problems (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Suspected lung cancer (situation) | 2 | Chest Pain:237, Cough:61
+54 |  | Non-small cell lung cancer (disorder) | 0 | 
+54 |  | Anemia (disorder) | 0 | 
+54 |  | Non-small cell carcinoma of lung  TNM stage 1 (disorder) | 0 | 
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Lack of access to transportation (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 55 | Stress (finding) | 0 | 
+55 | 55 | Viral sinusitis (disorder) | 9 | Headache:16:0, Sinus Pain:66:0, Pain with Bright Lights:25:0, Facial Swelling:33:0, Nasal Discharge:46:0, Nasal Congestion:23:0, Sore Throat:25:0, Fever:12:0, Cough:29:0
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Transport problems (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Lack of access to transportation (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Lack of access to transportation (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+58 |  | Part-time employment (finding) | 0 | 
+58 |  | Transport problems (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+Merrill Schroeder
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1920-09-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+69 |  | Prediabetes | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 73 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 | 75 | Stress (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 75 | Fracture of forearm | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Part-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 | 78 | Stress (finding) | 0 | 
+77 | 77 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:44:0, Runny/Stuffy Nose:0:0, Fatigue:1:0, Swollen Lymph Nodes:49:0, Swollen Tonsils:33:0, Decreased Appetite:1:0, Sore Throat:34:0, Fever:31:0, Cough:37:0
+78 |  | Prediabetes | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 78 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:32:0, Body Aches:45:0, Runny/Stuffy Nose:17:0, Fatigue:14:0, Swollen Lymph Nodes:16:0, Swollen Tonsils:41:0, Decreased Appetite:27:0, Sore Throat:4:0, Fever:13:0, Cough:35:0
+79 |  | Prediabetes | 0 | 
+79 |  | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

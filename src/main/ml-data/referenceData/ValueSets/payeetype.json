@@ -1,0 +1,16 @@
+{
+  "valueSet": {
+      "valueSetName": "PayeeType",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/payeetype",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-payeetype.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This value set includes sample Payee Type codes.",
+      "valueSetConcepts": {
+          "subscriber": {"code": "subscriber", "display": "Subscriber", "definition": "The subscriber (policy holder) will be reimbursed."},
+          "provider": {"code": "provider", "display": "Provider", "definition": "Any benefit payable will be paid to the provider (Assignment of Benefit)."},
+          "other": {"code": "other", "display": "Provider", "definition": "Any benefit payable will be paid to a third party such as a guarrantor."}
+      }
+  }
+}

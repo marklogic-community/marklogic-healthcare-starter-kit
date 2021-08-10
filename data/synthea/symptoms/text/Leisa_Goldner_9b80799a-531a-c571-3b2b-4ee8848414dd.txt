@@ -1,0 +1,75 @@
+Leisa Goldner
+=============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+59 |  | Prediabetes | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 | 59 | Concussion with no loss of consciousness | 0 | 
+60 |  | Prediabetes | 0 | 
+60 |  | Osteoporosis (disorder) | 0 | 
+60 | 61 | Part-time employment (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 62 | Not in labor force (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 | 61 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:11:0, Runny/Stuffy Nose:10:0, Fatigue:32:0, Swollen Lymph Nodes:41:0, Swollen Tonsils:36:0, Decreased Appetite:22:0, Fever:35:0, Sore Throat:35:0, Cough:20:0
+62 |  | Prediabetes | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 | 64 | Sinusitis (disorder) | 9 | Sinus Pain:40:97:73:128:127:0, Headache:34:0, Pain with Bright Lights:41:0, Facial Swelling:32:0, Nasal Discharge:38:0, Nasal Congestion:8:0, Fever:6:0, Sore Throat:37:0, Cough:16:0
+63 | 64 | Chronic sinusitis (disorder) | 9 | Sinus Pain:97:73:128:127:0, Headache:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Fever:0, Sore Throat:0, Cough:0
+63 |  | Prediabetes | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Received certificate of high school equivalency (finding) | 0 | 
+64 | 64 | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 | 66 | Part-time employment (finding) | 0 | 
+65 | 68 | Reports of violence in the environment (finding) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+65 | 65 | Whiplash injury to neck | 0 | 
+66 |  | Prediabetes | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 | 67 | Viral sinusitis (disorder) | 9 | Sinus Pain:67:0, Headache:1:0, Pain with Bright Lights:38:0, Facial Swelling:4:0, Nasal Discharge:40:0, Nasal Congestion:22:0, Fever:6:0, Sore Throat:16:0, Cough:12:0
+67 |  | Prediabetes | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 | 68 | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

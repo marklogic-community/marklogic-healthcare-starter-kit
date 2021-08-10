@@ -1,0 +1,21 @@
+{
+  "role-name": "data-hub-mapping-writer",
+  "description": "Permits updating mapping documents",
+  "role": [
+    "data-hub-common-writer",
+    "data-hub-mapping-reader",
+    "data-hub-step-definition-reader"
+  ],
+  "privilege": [
+    {
+      "privilege-name": "any-uri",
+      "action": "http://marklogic.com/xdmp/privileges/any-uri",
+      "kind": "execute"
+    },
+    {
+      "privilege-name": "data-hub-write-mapping",
+      "action": "http://marklogic.com/data-hub/privileges/write-mapping",
+      "kind": "execute"
+    }
+  ]
+}

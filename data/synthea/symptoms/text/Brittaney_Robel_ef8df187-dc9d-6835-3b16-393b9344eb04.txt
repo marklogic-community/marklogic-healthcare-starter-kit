@@ -1,0 +1,69 @@
+Brittaney Robel
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1984-10-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+26 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:2, Slurred Speech:8, Shortness Constipation Breath:3, Anxiety:3, Pain Sensitivity:4, Confusion:4, Cognitive Difficulties:17, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:7
+27 | 28 | Full-time employment (finding) | 0 | 
+27 | 31 | Victim of intimate partner abuse (finding) | 0 | 
+27 |  | Only received primary school education (finding) | 0 | 
+27 | 28 | Stress (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Only received primary school education (finding) | 0 | 
+28 | 29 | Normal pregnancy | 0 | 
+28 |  | Drug overdose | 0 | 
+28 |  | Anemia (disorder) | 0 | 
+29 | 30 | Part-time employment (finding) | 0 | 
+29 |  | Only received primary school education (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+29 |  | Drug overdose | 0 | 
+29 | 30 | Normal pregnancy | 0 | 
+30 |  | Body mass index 30+ - obesity (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Only received primary school education (finding) | 0 | 
+30 | 31 | Stress (finding) | 0 | 
+30 | 31 | Normal pregnancy | 0 | 
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 | 31 | Full-time employment (finding) | 0 | 
+31 |  | Only received primary school education (finding) | 0 | 
+31 |  | Social isolation (finding) | 0 | 
+31 | 31 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:25:0, Runny/Stuffy Nose:7:0, Fatigue:19:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:17:0, Decreased Appetite:39:0, Sore Throat:45:0, Fever:43:0, Cough:40:0
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 | 36 | Limited social contact (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 | 36 | Victim of intimate partner abuse (finding) | 0 | 
+31 |  | Only received primary school education (finding) | 0 | 
+32 |  | Body mass index 30+ - obesity (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Only received primary school education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+32 | 33 | Normal pregnancy | 0 | 
+32 |  | Drug overdose | 0 | 
+33 |  | Body mass index 30+ - obesity (finding) | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Only received primary school education (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 | 35 | Not in labor force (finding) | 0 | 
+34 |  | Only received primary school education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+34 | 34 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:47:0, Runny/Stuffy Nose:24:0, Fatigue:12:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:37:0, Decreased Appetite:2:0, Sore Throat:4:0, Fever:12:0, Cough:0:0
+35 |  | Fever (finding) | 3 | fever:1, sputum production:1, cough:1
+35 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, cough:1
+35 |  | Cough (finding) | 3 | fever:1, sputum production:1, cough:1
+35 | 35 | Suspected COVID-19 | 0 | 
+35 |  | COVID-19 | 0 | 
+35 |  | Body mass index 30+ - obesity (finding) | 0 | 
+35 | 36 | Part-time employment (finding) | 0 | 
+35 |  | Only received primary school education (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+36 | 36 | Escherichia coli urinary tract infection | 7 | Frequent Urination:19:0, Urgent Desire to Urinate:13:0, Discolored Urine:3:0, Odor of Urine:6:0, Pelvic Pain:7:0, Fever:8:0, Dysuria:16:0
+36 |  | Body mass index 30+ - obesity (finding) | 0 | 
+36 |  | Full-time employment (finding) | 0 | 
+36 |  | Only received primary school education (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+36 |  | Drug overdose | 0 | 
+--------------------------------------------------------------------------------

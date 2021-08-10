@@ -1,0 +1,21 @@
+Samella Von
+===========
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          2004-08-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+7 | 7 | Fracture of ankle | 0 | 
+11 | 11 | Viral sinusitis (disorder) | 9 | Sinus Pain:67:0, Headache:5:0, Pain with Bright Lights:46:0, Facial Swelling:21:0, Nasal Discharge:16:0, Nasal Congestion:20:0, Fever:4:0, Sore Throat:13:0, Cough:41:0
+12 |  | Risk activity involvement (finding) | 0 | 
+13 | 13 | Viral sinusitis (disorder) | 9 | Sinus Pain:77:0, Headache:15:0, Pain with Bright Lights:38:0, Facial Swelling:49:0, Nasal Discharge:31:0, Nasal Congestion:15:0, Fever:12:0, Sore Throat:44:0, Cough:45:0
+13 |  | Risk activity involvement (finding) | 0 | 
+13 | 14 | Risk activity involvement (finding) | 0 | 
+15 | 15 | Sprain of wrist | 0 | 
+15 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+15 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+15 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+15 | 15 | Suspected COVID-19 | 0 | 
+15 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

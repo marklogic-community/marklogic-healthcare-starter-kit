@@ -1,0 +1,48 @@
+Salley Bahringer
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1932-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+62 | 69 | Reports of violence in the environment (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 64 | Stress (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+65 |  | Drug overdose | 0 | 
+65 | 65 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:13:0, Body Aches:16:0, Runny/Stuffy Nose:32:0, Fatigue:20:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:42:0, Decreased Appetite:33:0, Sore Throat:42:0, Cough:6:0, Fever:31:0
+65 | 65 | Part-time employment (finding) | 0 | 
+65 | 71 | Victim of intimate partner abuse (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 | 67 | Stress (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+66 | 67 | Part-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 | 69 | Stress (finding) | 0 | 
+69 |  | Drug overdose | 0 | 
+69 | 70 | Part-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+70 | 71 | Reports of violence in the environment (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 | 71 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:46:0, Runny/Stuffy Nose:45:0, Fatigue:29:0, Swollen Lymph Nodes:25:0, Swollen Tonsils:7:0, Decreased Appetite:42:0, Sore Throat:48:0, Cough:49:0, Fever:27:0
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 |  | Drug overdose | 0 | 
+71 |  | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

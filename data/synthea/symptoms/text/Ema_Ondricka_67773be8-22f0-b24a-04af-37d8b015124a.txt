@@ -1,0 +1,42 @@
+Ema Ondricka
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1959-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+30 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+30 |  | Impacted molars | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+30 | 31 | Normal pregnancy | 0 | 
+30 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+31 | 34 | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+31 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+31 |  | Impacted molars | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+31 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+32 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+32 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+32 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+32 |  | Impacted molars | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+33 |  | Impacted molars | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+33 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+33 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+33 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+33 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+34 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:0, Slurred Speech:6, Shortness Constipation Breath:1, Anxiety:5, Pain Sensitivity:1, Confusion:8, Cognitive Difficulties:13, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:1
+34 | 36 | Full-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 | 37 | Stress (finding) | 0 | 
+34 |  | Drug overdose | 0 | 
+34 |  | Drug overdose | 0 | 
+36 | 36 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:24:0, Body Aches:41:0, Runny/Stuffy Nose:42:0, Fatigue:20:0, Swollen Lymph Nodes:45:0, Swollen Tonsils:44:0, Decreased Appetite:40:0, Sore Throat:0:0, Cough:0:0, Fever:16:0
+36 | 37 | Not in labor force (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 | 38 | Normal pregnancy | 0 | 
+39 |  | Drug overdose | 0 | 
+--------------------------------------------------------------------------------

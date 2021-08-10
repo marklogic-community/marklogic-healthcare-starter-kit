@@ -1,0 +1,30 @@
+Calvin Parisian
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1920-09-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 |  | Served in armed forces (finding) | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 41 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:15:0, Body Aches:16:0, Runny/Stuffy Nose:23:0, Fatigue:24:0, Swollen Lymph Nodes:44:0, Swollen Tonsils:0:0, Decreased Appetite:29:0, Fever:18:0, Sore Throat:9:0, Cough:37:0
+42 |  | Served in armed forces (finding) | 0 | 
+42 | 44 | Not in labor force (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 42 | Viral sinusitis (disorder) | 9 | Sinus Pain:60:0, Headache:36:0, Pain with Bright Lights:34:0, Facial Swelling:24:0, Nasal Discharge:21:0, Nasal Congestion:3:0, Fever:14:0, Sore Throat:46:0, Cough:29:0
+43 | 43 | Viral sinusitis (disorder) | 9 | Sinus Pain:66:0, Headache:37:0, Pain with Bright Lights:37:0, Facial Swelling:14:0, Nasal Discharge:39:0, Nasal Congestion:20:0, Fever:17:0, Sore Throat:21:0, Cough:12:0
+44 |  | Served in armed forces (finding) | 0 | 
+44 | 48 | Reports of violence in the environment (finding) | 0 | 
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 48 | Stress (finding) | 0 | 
+48 |  | Served in armed forces (finding) | 0 | 
+48 |  | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Viral sinusitis (disorder) | 9 | Sinus Pain:53, Headache:41, Pain with Bright Lights:37, Facial Swelling:39, Nasal Discharge:31, Nasal Congestion:18, Fever:22, Sore Throat:5, Cough:2
+--------------------------------------------------------------------------------

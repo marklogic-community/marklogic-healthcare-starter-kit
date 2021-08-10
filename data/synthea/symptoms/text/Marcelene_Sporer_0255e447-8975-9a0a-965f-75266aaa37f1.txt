@@ -1,0 +1,50 @@
+Marcelene Sporer
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1998-08-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+16 | 16 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:20:0, Fatigue:40:0, Mucus:39:0, Nasal Congestion:48:0, Shortness of Breath:53:0, Nausea/Vomiting:18:0, Fever:47:0, Sore Throat:49:0, Cough:52:0
+16 | 17 | Risk activity involvement (finding) | 0 | 
+18 |  | Hypertension | 0 | 
+18 | 19 | Limited social contact (finding) | 0 | 
+18 |  | Housing unsatisfactory (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Lack of access to transportation (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+19 |  | Housing unsatisfactory (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Transport problems (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+20 | 21 | Limited social contact (finding) | 0 | 
+20 |  | Housing unsatisfactory (finding) | 0 | 
+20 | 21 | Full-time employment (finding) | 0 | 
+20 |  | Transport problems (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 | 21 | Stress (finding) | 0 | 
+21 |  | Housing unsatisfactory (finding) | 0 | 
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Transport problems (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+21 |  | Fever (finding) | 4 | hemoptysis:1, sore throat:1, fever:1, cough:1
+21 |  | Sore throat symptom (finding) | 4 | hemoptysis:1, sore throat:1, fever:1, cough:1
+21 |  | Cough (finding) | 4 | hemoptysis:1, sore throat:1, fever:1, cough:1
+21 |  | Hemoptysis (finding) | 4 | hemoptysis:1, sore throat:1, fever:1, cough:1
+21 | 21 | Suspected COVID-19 | 0 | 
+21 |  | COVID-19 | 0 | 
+21 |  | Respiratory distress (finding) | 0 | 
+21 |  | Injury of heart (disorder) | 0 | 
+21 |  | Pneumonia (disorder) | 0 | 
+21 |  | Hypoxemia (disorder) | 0 | 
+21 |  | Acute deep venous thrombosis (disorder) | 0 | 
+22 | 22 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:44:0, Pain with Bright Lights:26:0, Facial Swelling:0:0, Nasal Discharge:35:0, Nasal Congestion:17:0, Fever:8:0, Sore Throat:13:0, Cough:20:0
+22 |  | Limited social contact (finding) | 0 | 
+22 |  | Housing unsatisfactory (finding) | 0 | 
+22 |  | Full-time employment (finding) | 0 | 
+22 |  | Transport problems (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

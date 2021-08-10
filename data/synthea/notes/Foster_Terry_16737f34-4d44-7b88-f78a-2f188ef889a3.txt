@@ -1,0 +1,532 @@
+
+2020-06-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 44 year-old non-hispanic white male. Patient has a history of acute respiratory failure (disorder), fatigue (finding), respiratory distress (finding), suspected covid-19, pneumonia (disorder), covid-19, acute bronchitis (disorder), part-time employment (finding), fever (finding), full-time employment (finding), loss of taste (finding), acute deep venous thrombosis (disorder), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2020-03-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 43 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), part-time employment (finding), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with pneumonia (disorder), hypoxemia (disorder), respiratory distress (finding), acute respiratory failure (disorder), acute deep venous thrombosis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- plain chest x-ray (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+The patient was prescribed the following medications:
+- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe
+- acetaminophen 500 mg oral tablet
+- 1 ml enoxaparin sodium 150 mg/ml prefilled syringe
+
+
+
+2020-03-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 43 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), part-time employment (finding), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with fatigue (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+
+
+
+2018-06-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 42 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free, hep a, adult. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2016-06-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 40 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2016-05-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 40 year-old non-hispanic white male. Patient has a history of full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder), full-time employment (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- plain chest x-ray (procedure)
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2016-06-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 40 year-old non-hispanic white male. Patient has a history of full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hep a, adult. 
+
+
+
+2013-08-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 37 year-old non-hispanic white male. Patient has a history of full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2010-08-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 34 year-old non-hispanic white male. Patient has a history of full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+2004-08-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 28 year-old non-hispanic white male. Patient has a history of full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+2001-08-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 25 year-old non-hispanic white male. Patient has a history of full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+2001-01-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 24 year-old non-hispanic white male. Patient has a history of full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+1998-07-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 22 year-old non-hispanic white male. Patient has a history of full-time employment (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), social isolation (finding). 
+
+## Plan
+
+
+
+
+1995-07-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 19 year-old non-hispanic white male. Patient has a history of full-time employment (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+1994-07-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Foster
+ is a 18 year-old non-hispanic white male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received certificate of high school equivalency (finding), full-time employment (finding). 
+
+## Plan
+
+
+
+

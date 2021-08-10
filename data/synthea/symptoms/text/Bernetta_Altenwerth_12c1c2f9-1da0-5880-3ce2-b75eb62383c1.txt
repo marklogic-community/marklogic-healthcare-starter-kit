@@ -1,0 +1,85 @@
+Bernetta Altenwerth
+===================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1932-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:1, Slurred Speech:2, Shortness Constipation Breath:7, Anxiety:7, Pain Sensitivity:8, Confusion:9, Cognitive Difficulties:6, Shallow Breathing:4, Mood Swing:6, Nausea/Vomiting:9
+67 | 68 | Not in labor force (finding) | 0 | 
+67 |  | Housing unsatisfactory (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Impacted molars | 10 | Reduced Sex Drive:1, Slurred Speech:2, Shortness Constipation Breath:7, Anxiety:7, Pain Sensitivity:8, Confusion:9, Cognitive Difficulties:6, Shallow Breathing:4, Mood Swing:6, Nausea/Vomiting:9
+67 |  | Impacted molars | 10 | Reduced Sex Drive:1, Slurred Speech:2, Shortness Constipation Breath:7, Anxiety:7, Pain Sensitivity:8, Confusion:9, Cognitive Difficulties:6, Shallow Breathing:4, Mood Swing:6, Nausea/Vomiting:9
+67 |  | Chronic pain | 10 | Reduced Sex Drive:1, Slurred Speech:2, Shortness Constipation Breath:7, Anxiety:7, Pain Sensitivity:8, Confusion:9, Cognitive Difficulties:6, Shallow Breathing:4, Mood Swing:6, Nausea/Vomiting:9
+67 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:1, Slurred Speech:2, Shortness Constipation Breath:7, Anxiety:7, Pain Sensitivity:8, Confusion:9, Cognitive Difficulties:6, Shallow Breathing:4, Mood Swing:6, Nausea/Vomiting:9
+68 |  | Impacted molars | 10 | Reduced Sex Drive:1, Slurred Speech:2, Shortness Constipation Breath:7, Anxiety:7, Pain Sensitivity:8, Confusion:9, Cognitive Difficulties:6, Shallow Breathing:4, Mood Swing:6, Nausea/Vomiting:9
+68 | 70 | Limited social contact (finding) | 0 | 
+68 |  | Housing unsatisfactory (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 |  | Impacted molars | 10 | Reduced Sex Drive:1, Slurred Speech:2, Shortness Constipation Breath:7, Anxiety:7, Pain Sensitivity:8, Confusion:9, Cognitive Difficulties:6, Shallow Breathing:4, Mood Swing:6, Nausea/Vomiting:9
+69 |  | Impacted molars | 10 | Reduced Sex Drive:1, Slurred Speech:2, Shortness Constipation Breath:7, Anxiety:7, Pain Sensitivity:8, Confusion:9, Cognitive Difficulties:6, Shallow Breathing:4, Mood Swing:6, Nausea/Vomiting:9
+69 |  | Impacted molars | 10 | Reduced Sex Drive:1, Slurred Speech:2, Shortness Constipation Breath:7, Anxiety:7, Pain Sensitivity:8, Confusion:9, Cognitive Difficulties:6, Shallow Breathing:4, Mood Swing:6, Nausea/Vomiting:9
+69 |  | Housing unsatisfactory (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 |  | Chronic pain | 10 | Reduced Sex Drive:1, Slurred Speech:2, Shortness Constipation Breath:7, Anxiety:7, Pain Sensitivity:8, Confusion:9, Cognitive Difficulties:6, Shallow Breathing:4, Mood Swing:6, Nausea/Vomiting:9
+69 | 69 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:32:0, Body Aches:26:0, Runny/Stuffy Nose:32:0, Fatigue:3:0, Swollen Lymph Nodes:21:0, Swollen Tonsils:18:0, Decreased Appetite:47:0, Sore Throat:36:0, Fever:12:0, Cough:31:0
+70 |  | Housing unsatisfactory (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 | 71 | Stress (finding) | 0 | 
+70 | 70 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:8:0, Body Aches:1:0, Runny/Stuffy Nose:20:0, Fatigue:5:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:36:0, Decreased Appetite:31:0, Sore Throat:10:0, Fever:17:0, Cough:0:0
+71 | 76 | Limited social contact (finding) | 0 | 
+71 |  | Housing unsatisfactory (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 | 74 | Victim of intimate partner abuse (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+72 | 72 | Part-time employment (finding) | 0 | 
+72 |  | Housing unsatisfactory (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 | 73 | Stress (finding) | 0 | 
+72 | 72 | Viral sinusitis (disorder) | 9 | Headache:12:0, Sinus Pain:67:0, Pain with Bright Lights:37:0, Facial Swelling:33:0, Nasal Discharge:20:0, Nasal Congestion:17:0, Sore Throat:17:0, Fever:19:0, Cough:49:0
+72 |  | Housing unsatisfactory (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Drug overdose | 0 | 
+73 |  | Housing unsatisfactory (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Drug overdose | 0 | 
+73 | 74 | Sinusitis (disorder) | 9 | Headache:49:0, Sinus Pain:46:0, Pain with Bright Lights:33:0, Facial Swelling:8:0, Nasal Discharge:19:0, Nasal Congestion:22:0, Sore Throat:30:0, Fever:20:0, Cough:46:0
+73 |  | Housing unsatisfactory (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 75 | Stress (finding) | 0 | 
+74 |  | Housing unsatisfactory (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 | 76 | Reports of violence in the environment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 | 76 | Victim of intimate partner abuse (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Drug overdose | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

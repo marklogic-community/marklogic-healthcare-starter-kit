@@ -1,0 +1,21 @@
+Marc Batz
+=========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1978-04-13
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+23 | 23 | Acute bacterial sinusitis (disorder) | 9 | Sinus Pain:79:86:0, Headache:41:0, Pain with Bright Lights:39:0, Facial Swelling:6:0, Nasal Discharge:29:0, Nasal Congestion:13:0, Fever:2:0, Sore Throat:5:0, Cough:11:0
+23 | 23 | Chronic sinusitis (disorder) | 9 | Sinus Pain:86:0, Headache:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Fever:0, Sore Throat:0, Cough:0
+24 | 24 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:11:0, Pain with Bright Lights:48:0, Facial Swelling:23:0, Nasal Discharge:27:0, Nasal Congestion:3:0, Fever:20:0, Sore Throat:33:0, Cough:32:0
+24 | 24 | Sprain of ankle | 0 | 
+25 | 28 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Rheumatoid arthritis | 5 | Joint Pain:0, Joint Stiffness:43, Fatigue:11, Fever:4, Joint Swelling:6
+28 | 31 | Part-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+31 |  | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

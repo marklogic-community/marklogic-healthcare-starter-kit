@@ -1,0 +1,58 @@
+Carol Parisian
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1912-08-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+75 | 76 | Part-time employment (finding) | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 |  | Served in armed forces (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Served in armed forces (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+78 |  | Served in armed forces (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 |  | Served in armed forces (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+80 |  | Served in armed forces (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 | 81 | Stress (finding) | 0 | 
+81 | 82 | Part-time employment (finding) | 0 | 
+81 |  | Served in armed forces (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+82 |  | Served in armed forces (finding) | 0 | 
+82 | 84 | Limited social contact (finding) | 0 | 
+82 | 83 | Not in labor force (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+83 |  | Served in armed forces (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+84 |  | Served in armed forces (finding) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

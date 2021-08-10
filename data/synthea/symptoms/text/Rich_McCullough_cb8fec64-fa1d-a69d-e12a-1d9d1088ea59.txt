@@ -1,0 +1,41 @@
+Rich McCullough
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1999-03-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+14 | 14 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:1:0, Fatigue:57:0, Mucus:48:0, Nasal Congestion:31:0, Shortness of Breath:29:0, Nausea/Vomiting:12:0, Cough:29:0, Sore Throat:29:0, Fever:46:0
+14 |  | History of single seizure (situation) | 0 | 
+14 |  | Seizure disorder | 0 | 
+16 |  | Risk activity involvement (finding) | 0 | 
+16 | 16 | Sprain of ankle | 0 | 
+17 |  | Risk activity involvement (finding) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Body mass index 30+ - obesity (finding) | 0 | 
+18 | 19 | Part-time employment (finding) | 0 | 
+18 | 22 | Limited social contact (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 20 | Stress (finding) | 0 | 
+20 | 21 | Not in labor force (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 |  | Fever (finding) | 5 | nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+20 |  | Sputum finding (finding) | 5 | nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+20 |  | Nasal congestion (finding) | 5 | nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+20 |  | Cough (finding) | 5 | nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+20 |  | Loss of taste (finding) | 5 | nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+20 | 20 | Suspected COVID-19 | 0 | 
+20 |  | COVID-19 | 0 | 
+21 | 22 | Part-time employment (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+21 | 22 | Stress (finding) | 0 | 
+22 |  | Prediabetes | 0 | 
+22 |  | Anemia (disorder) | 0 | 
+22 |  | Part-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

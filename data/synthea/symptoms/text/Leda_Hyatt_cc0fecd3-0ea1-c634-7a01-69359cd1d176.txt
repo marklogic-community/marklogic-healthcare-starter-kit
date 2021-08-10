@@ -1,0 +1,24 @@
+Leda Hyatt
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1991-12-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+20 | 20 | Whiplash injury to neck | 0 | 
+22 | 25 | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 | 22 | Normal pregnancy | 0 | 
+25 |  | Body mass index 30+ - obesity (finding) | 0 | 
+25 | 28 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+26 | 26 | Normal pregnancy | 0 | 
+27 | 27 | Normal pregnancy | 0 | 
+27 | 27 | Normal pregnancy | 0 | 
+27 | 28 | Normal pregnancy | 0 | 
+28 |  | Body mass index 30+ - obesity (finding) | 0 | 
+28 |  | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

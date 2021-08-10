@@ -1,0 +1,17 @@
+Jimmie Willms
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2006-11-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+8 | 8 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:8:0, Runny/Stuffy Nose:45:0, Fatigue:0:0, Swollen Lymph Nodes:4:0, Swollen Tonsils:13:0, Decreased Appetite:4:0, Fever:34:0, Sore Throat:7:0, Cough:14:0
+11 | 11 | Fracture of clavicle | 0 | 
+12 | 12 | Viral sinusitis (disorder) | 9 | Sinus Pain:79:0, Headache:24:0, Pain with Bright Lights:49:0, Facial Swelling:4:0, Nasal Discharge:11:0, Nasal Congestion:8:0, Fever:12:0, Sore Throat:11:0, Cough:25:0
+13 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+13 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+13 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+13 | 13 | Suspected COVID-19 | 0 | 
+13 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

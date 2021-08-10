@@ -1,0 +1,156 @@
+Velma Bechtelar
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1932-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+49 |  | Metabolic syndrome X (disorder) | 0 | 
+49 |  | Prediabetes | 0 | 
+49 | 50 | Not in labor force (finding) | 0 | 
+49 |  | Only received primary school education (finding) | 0 | 
+49 | 49 | Normal pregnancy | 0 | 
+49 |  | Miscarriage in first trimester | 0 | 
+49 | 49 | Blighted ovum | 0 | 
+49 | 49 | Viral sinusitis (disorder) | 9 | Headache:8:0, Sinus Pain:58:0, Pain with Bright Lights:34:0, Facial Swelling:5:0, Nasal Discharge:13:0, Nasal Congestion:17:0, Sore Throat:0:0, Fever:0:0, Cough:20:0
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 50 | Not in labor force (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 | 50 | Stress (finding) | 0 | 
+50 | 50 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:71:0, Pain with Bright Lights:39:0, Facial Swelling:48:0, Nasal Discharge:5:0, Nasal Congestion:12:0, Sore Throat:1:0, Fever:6:0, Cough:45:0
+50 |  | Diabetic renal disease (disorder) | 0 | 
+50 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 55 | Reports of violence in the environment (finding) | 0 | 
+50 | 50 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 | 51 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 | 51 | Stress (finding) | 0 | 
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 | 51 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 | 51 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 | 52 | Stress (finding) | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 | 52 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 | 52 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 | 52 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 | 52 | Not in labor force (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 | 53 | Part-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 | 53 | Part-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 | 53 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 | 53 | Stress (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 | 53 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 | 54 | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 | 54 | Part-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Polyp of colon | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 55 | Stress (finding) | 0 | 
+55 | 58 | Social isolation (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 55 | Injury of anterior cruciate ligament | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 55 | Stress (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 | 55 | Part-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 | 58 | Reports of violence in the environment (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 56 | Stress (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Recurrent rectal polyp | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+56 | 58 | Overlapping malignant neoplasm of colon | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+56 | 56 | Acute Cholecystitis | 4 | Jaundice:0, Upper Abdominal Pain:0, Nausea/Vomiting:0, Fever:0
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 | 57 | Part-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+56 | 56 | Laceration of forearm | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 | 57 | Part-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Chronic intractable migraine without aura | 0 | 
+--------------------------------------------------------------------------------

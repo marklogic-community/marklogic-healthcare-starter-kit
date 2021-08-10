@@ -1,0 +1,44 @@
+Jessie Runte
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1963-11-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+48 | 50 | Part-time employment (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 | 51 | Stress (finding) | 0 | 
+48 | 57 | Social isolation (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+51 |  | Body mass index 30+ - obesity (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 | 51 | Acute bacterial sinusitis (disorder) | 9 | Sinus Pain:53:0, Headache:44:0, Pain with Bright Lights:38:0, Facial Swelling:13:0, Nasal Discharge:39:0, Nasal Congestion:13:0, Fever:16:0, Sore Throat:21:0, Cough:5:0
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 | 57 | Victim of intimate partner abuse (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 |  | Body mass index 30+ - obesity (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+56 |  | Headache (finding) | 3 | headache:1, loss_of_taste:1, cough:1
+56 |  | Cough (finding) | 3 | headache:1, loss_of_taste:1, cough:1
+56 |  | Loss of taste (finding) | 3 | headache:1, loss_of_taste:1, cough:1
+56 | 56 | Suspected COVID-19 | 0 | 
+56 |  | COVID-19 | 0 | 
+57 |  | Body mass index 30+ - obesity (finding) | 0 | 
+57 |  | Not in labor force (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

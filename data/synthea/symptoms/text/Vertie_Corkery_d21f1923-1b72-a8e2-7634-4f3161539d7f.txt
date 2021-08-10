@@ -1,0 +1,44 @@
+Vertie Corkery
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1917-06-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+52 | 53 | Not in labor force (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 54 | Stress (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 | 57 | Stress (finding) | 0 | 
+56 |  | Body mass index 30+ - obesity (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+57 |  | Body mass index 30+ - obesity (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 57 | Viral sinusitis (disorder) | 9 | Headache:9:0, Sinus Pain:79:0, Pain with Bright Lights:32:0, Facial Swelling:5:0, Nasal Discharge:40:0, Nasal Congestion:19:0, Sore Throat:6:0, Cough:29:0, Fever:18:0
+58 |  | Body mass index 30+ - obesity (finding) | 0 | 
+58 | 59 | Part-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Body mass index 30+ - obesity (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 | 61 | Victim of intimate partner abuse (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 |  | Polyp of colon | 0 | 
+60 | 61 | Part-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+61 |  | Part-time employment (finding) | 0 | 
+61 |  | Reports of violence in the environment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 |  | Recurrent rectal polyp | 0 | 
+--------------------------------------------------------------------------------

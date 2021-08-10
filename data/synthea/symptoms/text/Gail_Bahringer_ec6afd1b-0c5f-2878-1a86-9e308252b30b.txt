@@ -1,0 +1,57 @@
+Gail Bahringer
+==============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-09-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Only received primary school education (finding) | 0 | 
+46 | 48 | Stress (finding) | 0 | 
+48 |  | Body mass index 30+ - obesity (finding) | 0 | 
+48 |  | Served in armed forces (finding) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 | 50 | Social isolation (finding) | 0 | 
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 | 52 | Polyp of colon | 0 | 
+50 |  | Served in armed forces (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Anemia (disorder) | 0 | 
+51 |  | Served in armed forces (finding) | 0 | 
+51 | 54 | Limited social contact (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 | 52 | Stress (finding) | 0 | 
+51 | 52 | Recurrent rectal polyp | 0 | 
+51 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:4, Slurred Speech:1, Shortness Constipation Breath:2, Anxiety:10, Pain Sensitivity:9, Confusion:3, Cognitive Difficulties:1, Shallow Breathing:14, Mood Swing:0, Nausea/Vomiting:4
+51 |  | Impacted molars | 10 | Reduced Sex Drive:4, Slurred Speech:1, Shortness Constipation Breath:2, Anxiety:10, Pain Sensitivity:9, Confusion:3, Cognitive Difficulties:1, Shallow Breathing:14, Mood Swing:0, Nausea/Vomiting:4
+51 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:4, Slurred Speech:1, Shortness Constipation Breath:2, Anxiety:10, Pain Sensitivity:9, Confusion:3, Cognitive Difficulties:1, Shallow Breathing:14, Mood Swing:0, Nausea/Vomiting:4
+52 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:4, Slurred Speech:1, Shortness Constipation Breath:2, Anxiety:10, Pain Sensitivity:9, Confusion:3, Cognitive Difficulties:1, Shallow Breathing:14, Mood Swing:0, Nausea/Vomiting:4
+52 |  | Prediabetes | 0 | 
+52 |  | Served in armed forces (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 | 52 | Viral sinusitis (disorder) | 9 | Headache:9:0, Sinus Pain:57:0, Pain with Bright Lights:44:0, Facial Swelling:15:0, Nasal Discharge:1:0, Nasal Congestion:21:0, Sore Throat:27:0, Cough:47:0, Fever:0:0
+52 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:4, Slurred Speech:1, Shortness Constipation Breath:2, Anxiety:10, Pain Sensitivity:9, Confusion:3, Cognitive Difficulties:1, Shallow Breathing:14, Mood Swing:0, Nausea/Vomiting:4
+52 |  | Impacted molars | 10 | Reduced Sex Drive:4, Slurred Speech:1, Shortness Constipation Breath:2, Anxiety:10, Pain Sensitivity:9, Confusion:3, Cognitive Difficulties:1, Shallow Breathing:14, Mood Swing:0, Nausea/Vomiting:4
+52 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:4, Slurred Speech:1, Shortness Constipation Breath:2, Anxiety:10, Pain Sensitivity:9, Confusion:3, Cognitive Difficulties:1, Shallow Breathing:14, Mood Swing:0, Nausea/Vomiting:4
+52 |  | Impacted molars | 10 | Reduced Sex Drive:4, Slurred Speech:1, Shortness Constipation Breath:2, Anxiety:10, Pain Sensitivity:9, Confusion:3, Cognitive Difficulties:1, Shallow Breathing:14, Mood Swing:0, Nausea/Vomiting:4
+52 |  | Chronic pain | 10 | Reduced Sex Drive:4, Slurred Speech:1, Shortness Constipation Breath:2, Anxiety:10, Pain Sensitivity:9, Confusion:3, Cognitive Difficulties:1, Shallow Breathing:14, Mood Swing:0, Nausea/Vomiting:4
+53 |  | Prediabetes | 0 | 
+53 |  | Served in armed forces (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+Laura Steuber
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1922-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 | 73 | Stress (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 | 76 | Otitis media | 0 | 
+76 |  | Body mass index 30+ - obesity (finding) | 0 | 
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 | 81 | Stress (finding) | 0 | 
+77 |  | Body mass index 30+ - obesity (finding) | 0 | 
+77 | 78 | Part-time employment (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Body mass index 30+ - obesity (finding) | 0 | 
+78 | 79 | Part-time employment (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 | 79 | Viral sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:79:0, Pain with Bright Lights:45:0, Facial Swelling:13:0, Nasal Discharge:18:0, Nasal Congestion:14:0, Sore Throat:21:0, Cough:17:0, Fever:7:0
+79 |  | Body mass index 30+ - obesity (finding) | 0 | 
+79 | 80 | Part-time employment (finding) | 0 | 
+79 | 81 | Victim of intimate partner abuse (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Body mass index 30+ - obesity (finding) | 0 | 
+80 |  | Osteoporosis (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Body mass index 30+ - obesity (finding) | 0 | 
+81 |  | Not in labor force (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

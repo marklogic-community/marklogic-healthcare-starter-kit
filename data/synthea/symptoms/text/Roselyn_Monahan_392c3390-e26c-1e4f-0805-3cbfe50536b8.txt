@@ -1,0 +1,92 @@
+Roselyn Monahan
+===============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1983-08-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 | 28 | Normal pregnancy | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+28 | 30 | Social isolation (finding) | 0 | 
+29 |  | Body mass index 30+ - obesity (finding) | 0 | 
+29 |  | Housing unsatisfactory (finding) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 | 37 | Victim of intimate partner abuse (finding) | 0 | 
+29 |  | Received certificate of high school equivalency (finding) | 0 | 
+29 | 30 | Stress (finding) | 0 | 
+30 | 30 | Acute bronchitis (disorder) | 10 | Body Aches:1:0, Diarrhea:15:0, Fatigue:50:0, Mucus:27:0, Nasal Congestion:31:0, Shortness of Breath:64:0, Nausea/Vomiting:9:0, Sore Throat:32:0, Cough:55:0, Fever:40:0
+30 |  | Body mass index 30+ - obesity (finding) | 0 | 
+30 |  | Refugee (person) | 0 | 
+30 |  | Housing unsatisfactory (finding) | 0 | 
+30 | 30 | Full-time employment (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 | 30 | Normal pregnancy | 0 | 
+30 |  | Anemia (disorder) | 0 | 
+30 |  | Body mass index 30+ - obesity (finding) | 0 | 
+30 |  | Refugee (person) | 0 | 
+30 |  | Housing unsatisfactory (finding) | 0 | 
+30 | 30 | Full-time employment (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 | 31 | Stress (finding) | 0 | 
+30 | 30 | Acute bacterial sinusitis (disorder) | 9 | Headache:35:0, Sinus Pain:73:126:0, Pain with Bright Lights:46:0, Facial Swelling:44:0, Nasal Discharge:1:0, Nasal Congestion:12:0, Sore Throat:16:0, Cough:14:0, Fever:24:0
+30 |  | Chronic sinusitis (disorder) | 9 | Headache:0:15:0, Sinus Pain:126:0:76:0, Pain with Bright Lights:0:45:0, Facial Swelling:0:36:0, Nasal Discharge:0:11:0, Nasal Congestion:0:8:0, Sore Throat:0:20:0, Cough:0:39:0, Fever:0:12:0
+30 |  | Body mass index 30+ - obesity (finding) | 0 | 
+30 | 31 | Part-time employment (finding) | 0 | 
+30 |  | Refugee (person) | 0 | 
+30 | 31 | Limited social contact (finding) | 0 | 
+30 |  | Housing unsatisfactory (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 | 30 | Laceration of thigh | 0 | 
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 |  | Refugee (person) | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 |  | Body mass index 30+ - obesity (finding) | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 |  | Refugee (person) | 0 | 
+32 |  | Housing unsatisfactory (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+32 | 34 | Social isolation (finding) | 0 | 
+33 |  | Body mass index 30+ - obesity (finding) | 0 | 
+33 |  | Refugee (person) | 0 | 
+33 |  | Housing unsatisfactory (finding) | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 |  | Refugee (person) | 0 | 
+34 |  | Housing unsatisfactory (finding) | 0 | 
+34 | 37 | Reports of violence in the environment (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+35 | 36 | Part-time employment (finding) | 0 | 
+35 |  | Refugee (person) | 0 | 
+35 |  | Housing unsatisfactory (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+35 | 37 | Social isolation (finding) | 0 | 
+36 |  | Refugee (person) | 0 | 
+36 |  | Housing unsatisfactory (finding) | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 | 37 | Stress (finding) | 0 | 
+36 | 36 | Viral sinusitis (disorder) | 9 | Headache:15:0, Sinus Pain:76:0, Pain with Bright Lights:45:0, Facial Swelling:36:0, Nasal Discharge:11:0, Nasal Congestion:8:0, Sore Throat:20:0, Cough:39:0, Fever:12:0
+36 |  | Fever (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+36 |  | Sputum finding (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+36 |  | Sore throat symptom (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+36 |  | Cough (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+36 |  | Loss of taste (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+36 | 36 | Suspected COVID-19 | 0 | 
+36 |  | COVID-19 | 0 | 
+37 |  | Refugee (person) | 0 | 
+37 |  | Housing unsatisfactory (finding) | 0 | 
+37 |  | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,65 @@
+Hipolito Satterfield
+====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+60 |  | Body mass index 30+ - obesity (finding) | 0 | 
+60 | 68 | Limited social contact (finding) | 0 | 
+60 | 69 | Reports of violence in the environment (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 | 62 | Stress (finding) | 0 | 
+60 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:3, Slurred Speech:6, Shortness Constipation Breath:6, Anxiety:4, Pain Sensitivity:2, Confusion:3, Cognitive Difficulties:10, Shallow Breathing:2, Mood Swing:9, Nausea/Vomiting:1
+60 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:3, Slurred Speech:6, Shortness Constipation Breath:6, Anxiety:4, Pain Sensitivity:2, Confusion:3, Cognitive Difficulties:10, Shallow Breathing:2, Mood Swing:9, Nausea/Vomiting:1
+60 |  | Chronic pain | 10 | Reduced Sex Drive:3, Slurred Speech:6, Shortness Constipation Breath:6, Anxiety:4, Pain Sensitivity:2, Confusion:3, Cognitive Difficulties:10, Shallow Breathing:2, Mood Swing:9, Nausea/Vomiting:1
+60 | 60 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:20:0, Runny/Stuffy Nose:49:0, Fatigue:41:0, Swollen Lymph Nodes:8:0, Swollen Tonsils:49:0, Decreased Appetite:8:0, Sore Throat:0:0, Fever:42:0, Cough:3:0
+60 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:3, Slurred Speech:6, Shortness Constipation Breath:6, Anxiety:4, Pain Sensitivity:2, Confusion:3, Cognitive Difficulties:10, Shallow Breathing:2, Mood Swing:9, Nausea/Vomiting:1
+61 |  | Impacted molars | 10 | Reduced Sex Drive:3, Slurred Speech:6, Shortness Constipation Breath:6, Anxiety:4, Pain Sensitivity:2, Confusion:3, Cognitive Difficulties:10, Shallow Breathing:2, Mood Swing:9, Nausea/Vomiting:1
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Impacted molars | 10 | Reduced Sex Drive:3, Slurred Speech:6, Shortness Constipation Breath:6, Anxiety:4, Pain Sensitivity:2, Confusion:3, Cognitive Difficulties:10, Shallow Breathing:2, Mood Swing:9, Nausea/Vomiting:1
+61 |  | Impacted molars | 10 | Reduced Sex Drive:3, Slurred Speech:6, Shortness Constipation Breath:6, Anxiety:4, Pain Sensitivity:2, Confusion:3, Cognitive Difficulties:10, Shallow Breathing:2, Mood Swing:9, Nausea/Vomiting:1
+61 |  | Impacted molars | 10 | Reduced Sex Drive:3, Slurred Speech:6, Shortness Constipation Breath:6, Anxiety:4, Pain Sensitivity:2, Confusion:3, Cognitive Difficulties:10, Shallow Breathing:2, Mood Swing:9, Nausea/Vomiting:1
+61 |  | Chronic pain | 10 | Reduced Sex Drive:3, Slurred Speech:6, Shortness Constipation Breath:6, Anxiety:4, Pain Sensitivity:2, Confusion:3, Cognitive Difficulties:10, Shallow Breathing:2, Mood Swing:9, Nausea/Vomiting:1
+61 | 61 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:47:0, Body Aches:45:0, Runny/Stuffy Nose:29:0, Fatigue:25:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:3:0, Decreased Appetite:30:0, Sore Throat:23:0, Fever:13:0, Cough:33:0
+61 |  | Chronic pain | 10 | Reduced Sex Drive:3, Slurred Speech:6, Shortness Constipation Breath:6, Anxiety:4, Pain Sensitivity:2, Confusion:3, Cognitive Difficulties:10, Shallow Breathing:2, Mood Swing:9, Nausea/Vomiting:1
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 | 62 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:58:0, Pain with Bright Lights:40:0, Facial Swelling:44:0, Nasal Discharge:23:0, Nasal Congestion:11:0, Sore Throat:41:0, Fever:5:0, Cough:32:0
+62 | 63 | Not in labor force (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 | 65 | Stress (finding) | 0 | 
+63 | 63 | Part-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 67 | Severe anxiety (panic) (finding | 0 | 
+63 | 63 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:45:0, Runny/Stuffy Nose:29:0, Fatigue:26:0, Swollen Lymph Nodes:41:0, Swollen Tonsils:13:0, Decreased Appetite:30:0, Sore Throat:39:0, Fever:21:0, Cough:13:0
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 63 | Viral sinusitis (disorder) | 9 | Headache:8:0, Sinus Pain:56:0, Pain with Bright Lights:33:0, Facial Swelling:11:0, Nasal Discharge:38:0, Nasal Congestion:0:0, Sore Throat:32:0, Fever:5:0, Cough:13:0
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 | 64 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:9:0, Runny/Stuffy Nose:48:0, Fatigue:21:0, Swollen Lymph Nodes:27:0, Swollen Tonsils:33:0, Decreased Appetite:7:0, Sore Throat:16:0, Fever:3:0, Cough:0:0
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+66 | 67 | Polyp of colon | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 | 67 | Stress (finding) | 0 | 
+67 |  | Drug overdose | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+68 |  | Drug overdose | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 | 69 | Stress (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 | 69 | Social isolation (finding) | 0 | 
+69 | 69 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:24:0, Body Aches:44:0, Runny/Stuffy Nose:10:0, Fatigue:47:0, Swollen Lymph Nodes:45:0, Swollen Tonsils:45:0, Decreased Appetite:22:0, Sore Throat:43:0, Fever:30:0, Cough:0:0
+69 |  | Not in labor force (finding) | 0 | 
+69 |  | Victim of intimate partner abuse (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

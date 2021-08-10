@@ -1,0 +1,16 @@
+{
+  "name": "Organization",
+  "steps": {
+    "1": {
+      "stepId": "OrganizationIngest-ingestion"
+    },
+    "2": {
+      "stepId": "OrganizationMapping-mapping"
+    },  
+    "3": {
+        "stepId": "OrganizationLocationMapping-mapping"
+    }
+  },
+  "description": "Organization Flow",
+  "lastUpdated": "2021-07-14T19:57:40.746701Z"
+}

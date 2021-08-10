@@ -1,0 +1,43 @@
+Arnold Hamill
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Transport problems (finding) | 0 | 
+46 | 54 | Victim of intimate partner abuse (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 | 46 | Concussion with no loss of consciousness | 0 | 
+48 | 50 | Part-time employment (finding) | 0 | 
+48 |  | Transport problems (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+49 | 49 | Viral sinusitis (disorder) | 9 | Sinus Pain:75:0, Headache:0:0, Pain with Bright Lights:27:0, Facial Swelling:7:0, Nasal Discharge:42:0, Nasal Congestion:17:0, Cough:32:0, Sore Throat:44:0, Fever:13:0
+50 | 51 | Polyp of colon | 0 | 
+50 | 51 | Part-time employment (finding) | 0 | 
+50 |  | Transport problems (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Lack of access to transportation (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 | 53 | Stress (finding) | 0 | 
+51 |  | Suspected lung cancer (situation) | 2 | Chest Pain:73, Cough:91
+51 |  | Non-small cell lung cancer (disorder) | 0 | 
+51 |  | Anemia (disorder) | 0 | 
+51 |  | Non-small cell carcinoma of lung  TNM stage 1 (disorder) | 0 | 
+52 | 54 | Not in labor force (finding) | 0 | 
+52 |  | Transport problems (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+53 |  | Transport problems (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 53 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:25:0, Pain with Bright Lights:26:0, Facial Swelling:49:0, Nasal Discharge:24:0, Nasal Congestion:7:0, Cough:21:0, Sore Throat:4:0, Fever:3:0
+54 |  | Full-time employment (finding) | 0 | 
+54 |  | Lack of access to transportation (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

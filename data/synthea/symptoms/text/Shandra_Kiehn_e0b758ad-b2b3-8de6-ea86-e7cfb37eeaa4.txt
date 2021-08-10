@@ -1,0 +1,54 @@
+Shandra Kiehn
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1944-03-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+30 | 30 | Normal pregnancy | 0 | 
+30 | 30 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:9:0, Body Aches:20:0, Runny/Stuffy Nose:3:0, Fatigue:37:0, Swollen Lymph Nodes:36:0, Swollen Tonsils:23:0, Decreased Appetite:41:0, Sore Throat:2:0, Cough:0:0, Fever:38:0
+31 |  | Prediabetes | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Only received primary school education (finding) | 0 | 
+34 |  | Diabetes | 0 | 
+34 |  | Anemia (disorder) | 0 | 
+34 |  | Hypertension | 0 | 
+34 |  | Housing unsatisfactory (finding) | 0 | 
+34 |  | Unemployed (finding) | 0 | 
+34 |  | Only received primary school education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+35 |  | Metabolic syndrome X (disorder) | 0 | 
+35 |  | Hypertriglyceridemia (disorder) | 0 | 
+35 |  | Diabetes | 0 | 
+35 |  | Housing unsatisfactory (finding) | 0 | 
+35 |  | Unemployed (finding) | 0 | 
+35 |  | Only received primary school education (finding) | 0 | 
+35 | 36 | Stress (finding) | 0 | 
+36 |  | Metabolic syndrome X (disorder) | 0 | 
+36 |  | Hypertriglyceridemia (disorder) | 0 | 
+36 |  | Prediabetes | 0 | 
+36 |  | Housing unsatisfactory (finding) | 0 | 
+36 |  | Unemployed (finding) | 0 | 
+36 |  | Only received primary school education (finding) | 0 | 
+36 | 36 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:41:0, Body Aches:29:0, Runny/Stuffy Nose:31:0, Fatigue:8:0, Swollen Lymph Nodes:7:0, Swollen Tonsils:16:0, Decreased Appetite:11:0, Sore Throat:33:0, Cough:47:0, Fever:4:0
+37 |  | Prediabetes | 0 | 
+37 |  | Housing unsatisfactory (finding) | 0 | 
+37 |  | Unemployed (finding) | 0 | 
+37 |  | Only received primary school education (finding) | 0 | 
+37 | 38 | Stress (finding) | 0 | 
+37 | 38 | Viral sinusitis (disorder) | 9 | Headache:10:0, Sinus Pain:64:0, Pain with Bright Lights:27:0, Facial Swelling:4:0, Nasal Discharge:47:0, Nasal Congestion:6:0, Sore Throat:39:0, Cough:49:0, Fever:9:0
+38 |  | Diabetic renal disease (disorder) | 0 | 
+38 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+38 |  | Prediabetes | 0 | 
+38 |  | Housing unsatisfactory (finding) | 0 | 
+38 |  | Unemployed (finding) | 0 | 
+38 |  | Only received primary school education (finding) | 0 | 
+38 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+38 |  | Prediabetes | 0 | 
+38 |  | Housing unsatisfactory (finding) | 0 | 
+38 |  | Unemployed (finding) | 0 | 
+38 |  | Only received primary school education (finding) | 0 | 
+38 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

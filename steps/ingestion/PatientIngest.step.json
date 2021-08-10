@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "sources": [
+      {
+        "name": "PatientIngest",
+        "file": "data/synthea/csv/patients.csv"
+      }
+    ],
+    "createdOn": "currentDateTime",
+    "createdBy": "currentUser"
+  },
+  "collections": [
+    "PatientIngest"
+  ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "name": "PatientIngest",
+  "description": "Ingestion for Patients data",
+  "stepDefinitionType": "ingestion",
+  "sourceFormat": "csv",
+  "targetFormat": "JSON",
+  "stepDefinitionName": "default-ingestion",
+  "stepId": "PatientIngest-ingestion",
+  "targetDatabase": "data-hub-STAGING",
+  "provenanceGranularityLevel": "coarse",
+  "lastUpdated": "2021-07-14T19:32:44.454592Z",
+  "separator": ",",
+  "sourceName": "data/synthea/csv/patients/patients.csv",
+  "sourceType": "Patient",
+  "outputURIPrefix": "/patient/",
+  "additionalCollections": [
+    "Patient"
+  ],
+  "interceptors": [
+    {
+      "path": "/lib/interceptors/patient-ingest.sjs",
+      "when": "beforeContentPersisted"
+    }
+  ],
+  "customHook": { }
+}

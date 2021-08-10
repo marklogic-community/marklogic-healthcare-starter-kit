@@ -1,0 +1,42 @@
+Kandi Swaniawski
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1965-08-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 55 | Social isolation (finding) | 0 | 
+47 | 47 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:43:0, Body Aches:26:0, Runny/Stuffy Nose:3:0, Fatigue:47:0, Swollen Lymph Nodes:69:0, Swollen Tonsils:39:0, Decreased Appetite:28:0, Sore Throat:39:0, Cough:0:0, Fever:1:0
+47 | 47 | Sprain of ankle | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 | 48 | Viral sinusitis (disorder) | 9 | Headache:49:0, Sinus Pain:76:0, Pain with Bright Lights:41:0, Facial Swelling:7:0, Nasal Discharge:17:0, Nasal Congestion:19:0, Sore Throat:12:0, Cough:49:0, Fever:21:0
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 | 55 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 | 54 | Not in labor force (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 | 55 | Reports of violence in the environment (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 55 | Stress (finding) | 0 | 
+54 |  | Fever (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+54 |  | Sputum finding (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+54 |  | Cough (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+54 |  | Loss of taste (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+54 | 54 | Suspected COVID-19 | 0 | 
+55 |  | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

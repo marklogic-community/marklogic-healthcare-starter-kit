@@ -1,0 +1,23 @@
+Cary Jaskolski
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2005-08-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+5 | 6 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:73:0, Pain with Bright Lights:44:0, Facial Swelling:4:0, Nasal Discharge:30:0, Nasal Congestion:6:0, Sore Throat:12:0, Cough:30:0, Fever:2:0
+7 | 7 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:11:0, Runny/Stuffy Nose:47:0, Fatigue:6:0, Swollen Lymph Nodes:35:0, Swollen Tonsils:39:0, Decreased Appetite:15:0, Sore Throat:44:0, Cough:0:0, Fever:22:0
+7 | 7 | Laceration of forearm | 0 | 
+7 | 7 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:0:0, Body Aches:26:0, Runny/Stuffy Nose:21:0, Fatigue:37:0, Swollen Lymph Nodes:48:0, Swollen Tonsils:39:0, Decreased Appetite:27:0, Sore Throat:47:0, Cough:0:0, Fever:42:0
+11 | 11 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:32:0, Runny/Stuffy Nose:1:0, Fatigue:17:0, Swollen Lymph Nodes:45:0, Swollen Tonsils:48:0, Decreased Appetite:12:0, Sore Throat:23:0, Cough:17:0, Fever:29:0
+13 | 13 | Fracture of clavicle | 0 | 
+14 |  | Muscle pain (finding) | 6 | myalgia:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 |  | Fever (finding) | 6 | myalgia:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 |  | Sputum finding (finding) | 6 | myalgia:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 |  | Joint pain (finding) | 6 | myalgia:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 |  | Cough (finding) | 6 | myalgia:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 |  | Loss of taste (finding) | 6 | myalgia:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 | 14 | Suspected COVID-19 | 0 | 
+14 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

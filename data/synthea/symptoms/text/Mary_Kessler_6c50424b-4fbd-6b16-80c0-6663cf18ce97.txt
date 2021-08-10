@@ -1,0 +1,23 @@
+Mary Kessler
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2004-09-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+6 | 6 | Acute bacterial sinusitis (disorder) | 9 | Headache:42:0, Sinus Pain:73:0, Pain with Bright Lights:40:0, Facial Swelling:15:0, Nasal Discharge:22:0, Nasal Congestion:20:0, Sore Throat:34:0, Cough:4:0, Fever:16:0
+9 | 9 | Viral sinusitis (disorder) | 9 | Headache:22:0, Sinus Pain:51:0, Pain with Bright Lights:36:0, Facial Swelling:24:0, Nasal Discharge:39:0, Nasal Congestion:23:0, Sore Throat:14:0, Cough:14:0, Fever:2:0
+10 | 10 | Child attention deficit disorder | 5 | Delayed Verbal/Language Skills:2:0, Poor Eye Contact:22:0, Hyperactive Behavior:8:0, Poor Socialization:13:0, Inability to Focus/Concentrate:12:0
+12 | 16 | Risk activity involvement (finding) | 0 | 
+15 |  | Chill (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+15 |  | Fever (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+15 |  | Sputum finding (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+15 |  | Headache (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+15 |  | Cough (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+15 |  | Loss of taste (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+15 | 15 | Suspected COVID-19 | 0 | 
+15 |  | COVID-19 | 0 | 
+15 | 15 | Fracture of forearm | 0 | 
+16 | 16 | Viral sinusitis (disorder) | 9 | Headache:28:0, Sinus Pain:70:0, Pain with Bright Lights:41:0, Facial Swelling:19:0, Nasal Discharge:41:0, Nasal Congestion:12:0, Sore Throat:42:0, Cough:42:0, Fever:22:0
+--------------------------------------------------------------------------------

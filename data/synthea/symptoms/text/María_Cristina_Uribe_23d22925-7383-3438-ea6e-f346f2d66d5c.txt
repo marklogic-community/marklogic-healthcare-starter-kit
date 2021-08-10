@@ -1,0 +1,25 @@
+María Cristina Uribe
+===í================
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          2007-09-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+6 | 6 | Viral sinusitis (disorder) | 9 | Headache:23:0, Sinus Pain:67:0, Pain with Bright Lights:39:0, Facial Swelling:34:0, Nasal Discharge:38:0, Nasal Congestion:9:0, Sore Throat:4:0, Fever:14:0, Cough:11:0
+8 | 8 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:16:0, Fatigue:63:0, Mucus:38:0, Nasal Congestion:33:0, Shortness of Breath:65:0, Nausea/Vomiting:4:0, Sore Throat:29:0, Fever:38:0, Cough:30:0
+8 |  | Body mass index 30+ - obesity (finding) | 0 | 
+9 |  | Body mass index 30+ - obesity (finding) | 0 | 
+10 |  | Body mass index 30+ - obesity (finding) | 0 | 
+11 |  | Body mass index 30+ - obesity (finding) | 0 | 
+11 | 11 | Whiplash injury to neck | 0 | 
+11 | 11 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:36:0, Body Aches:37:0, Runny/Stuffy Nose:15:0, Fatigue:43:0, Swollen Lymph Nodes:44:0, Swollen Tonsils:25:0, Decreased Appetite:32:0, Sore Throat:40:0, Fever:20:0, Cough:0:0
+12 |  | Body mass index 30+ - obesity (finding) | 0 | 
+12 |  | Fever (finding) | 4 | fever:1, sputum production:1, cough:1, diarrhea:1
+12 |  | Sputum finding (finding) | 4 | fever:1, sputum production:1, cough:1, diarrhea:1
+12 |  | Cough (finding) | 4 | fever:1, sputum production:1, cough:1, diarrhea:1
+12 |  | Diarrhea symptom (finding) | 4 | fever:1, sputum production:1, cough:1, diarrhea:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+13 | 13 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:26:0, Body Aches:3:0, Runny/Stuffy Nose:21:0, Fatigue:27:0, Swollen Lymph Nodes:56:0, Swollen Tonsils:58:0, Decreased Appetite:23:0, Sore Throat:42:0, Fever:1:0, Cough:0:0
+--------------------------------------------------------------------------------

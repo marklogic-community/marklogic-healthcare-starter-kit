@@ -1,0 +1,1042 @@
+
+2020-09-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 35 year-old non-hispanic black male. Patient has a history of covid-19, part-time employment (finding), fever (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), viral sinusitis (disorder), suspected covid-19, stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; tramadol hydrochloride 50 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding), full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- tramadol hydrochloride 50 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2020-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 35 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; tramadol hydrochloride 50 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-08-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 34 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; tramadol hydrochloride 50 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- screening for domestic abuse (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- tramadol hydrochloride 50 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2019-08-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 34 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder), not in labor force (finding), social isolation (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- tramadol hydrochloride 50 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2019-08-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 34 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2018-08-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 33 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- tramadol hydrochloride 50 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2017-08-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 32 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- tramadol hydrochloride 50 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2016-08-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 31 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- tramadol hydrochloride 50 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2015-08-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 30 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- tramadol hydrochloride 50 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2014-09-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 29 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- acetaminophen 300 mg / hydrocodone bitartrate 5 mg oral tablet
+
+
+
+2014-07-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 29 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- tramadol hydrochloride 50 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2014-07-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 29 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- tramadol hydrochloride 50 mg oral tablet
+The patient was placed on a careplan:
+- therapy (regime/therapy)
+
+
+
+2014-05-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 29 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2014-04-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 29 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2014-01-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 29 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with chronic low back pain (finding). 
+
+## Plan
+
+
+
+
+2013-02-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 28 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), reports of violence in the environment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2012-02-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 27 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), limited social contact (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2011-02-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 26 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2010-02-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 25 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2009-02-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 24 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2008-07-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 23 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2008-07-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 23 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2008-01-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 23 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2007-01-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 22 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), social isolation (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2006-01-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 21 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2005-01-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 20 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), refugee (person). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2004-01-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 19 year-old non-hispanic black male.
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- lisinopril 10 mg oral tablet
+
+
+
+2003-01-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 18 year-old non-hispanic black male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- lisinopril 10 mg oral tablet
+
+
+
+2003-01-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Alberto
+ is a 18 year-old non-hispanic black male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with hypertension, received certificate of high school equivalency (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+The patient was placed on a careplan:
+- lifestyle education regarding hypertension
+
+
+

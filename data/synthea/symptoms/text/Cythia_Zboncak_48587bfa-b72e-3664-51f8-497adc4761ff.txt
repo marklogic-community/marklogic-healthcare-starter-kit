@@ -1,0 +1,61 @@
+Cythia Zboncak
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1956-11-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+55 |  | Prediabetes | 0 | 
+55 | 56 | Limited social contact (finding) | 0 | 
+55 |  | Unemployed (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Unemployed (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Unemployed (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 64 | Social isolation (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+57 |  | Chronic low back pain (finding) | 0 | 
+57 |  | Chronic low back pain (finding) | 0 | 
+57 | 57 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:20:0, Body Aches:30:0, Runny/Stuffy Nose:45:0, Fatigue:46:0, Swollen Lymph Nodes:25:0, Swollen Tonsils:13:0, Decreased Appetite:37:0, Sore Throat:6:0, Cough:13:0, Fever:45:0
+58 |  | Prediabetes | 0 | 
+58 |  | Unemployed (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 | 61 | Reports of violence in the environment (finding) | 0 | 
+59 |  | Unemployed (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 | 63 | Stress (finding) | 0 | 
+60 |  | Prediabetes | 0 | 
+60 |  | Unemployed (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 |  | Unemployed (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 | 61 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:27:0, Body Aches:36:0, Runny/Stuffy Nose:14:0, Fatigue:36:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:1:0, Decreased Appetite:2:0, Sore Throat:14:0, Cough:12:0, Fever:40:0
+62 |  | Prediabetes | 0 | 
+62 | 64 | Reports of violence in the environment (finding) | 0 | 
+62 |  | Unemployed (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 |  | Unemployed (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Muscle pain (finding) | 4 | myalgia:1, arthralgia:1, sore throat:1, fever:1
+63 |  | Fever (finding) | 4 | myalgia:1, arthralgia:1, sore throat:1, fever:1
+63 |  | Sore throat symptom (finding) | 4 | myalgia:1, arthralgia:1, sore throat:1, fever:1
+63 |  | Joint pain (finding) | 4 | myalgia:1, arthralgia:1, sore throat:1, fever:1
+63 | 63 | Suspected COVID-19 | 0 | 
+63 |  | COVID-19 | 0 | 
+63 |  | Respiratory distress (finding) | 0 | 
+63 |  | Pneumonia (disorder) | 0 | 
+63 |  | Hypoxemia (disorder) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 |  | Unemployed (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,64 @@
+Brock Dickinson
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1964-11-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 | 47 | Viral sinusitis (disorder) | 9 | Headache:48:0, Sinus Pain:53:0, Pain with Bright Lights:38:0, Facial Swelling:37:0, Nasal Discharge:38:0, Nasal Congestion:24:0, Sore Throat:8:0, Cough:18:0, Fever:3:0
+47 |  | Prediabetes | 0 | 
+47 | 50 | Limited social contact (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Only received primary school education (finding) | 0 | 
+47 |  | Drug overdose | 0 | 
+48 |  | Prediabetes | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 |  | Victim of intimate partner abuse (finding) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 56 | Limited social contact (finding) | 0 | 
+51 | 51 | Full-time employment (finding) | 0 | 
+51 | 56 | Victim of intimate partner abuse (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 | 54 | Stress (finding) | 0 | 
+51 | 51 | Viral sinusitis (disorder) | 9 | Headache:45:0, Sinus Pain:51:0, Pain with Bright Lights:33:0, Facial Swelling:29:0, Nasal Discharge:27:0, Nasal Congestion:4:0, Sore Throat:25:0, Cough:19:0, Fever:10:0
+51 |  | Prediabetes | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Drug overdose | 0 | 
+54 |  | Osteoarthritis of hip | 2 | Joint Pain:0, Joint Stiffness:0
+54 |  | Prediabetes | 0 | 
+54 | 54 | Part-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 | 54 | Viral sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:56:0, Pain with Bright Lights:33:0, Facial Swelling:18:0, Nasal Discharge:45:0, Nasal Congestion:2:0, Sore Throat:0:0, Cough:47:0, Fever:3:0
+54 |  | Prediabetes | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Drug overdose | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 |  | Dyspnea (finding) | 3 | fever:1, dyspnea:1, loss_of_taste:1
+55 |  | Fever (finding) | 3 | fever:1, dyspnea:1, loss_of_taste:1
+55 |  | Wheezing (finding) | 3 | fever:1, dyspnea:1, loss_of_taste:1
+55 |  | Loss of taste (finding) | 3 | fever:1, dyspnea:1, loss_of_taste:1
+55 | 55 | Suspected COVID-19 | 0 | 
+55 |  | COVID-19 | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

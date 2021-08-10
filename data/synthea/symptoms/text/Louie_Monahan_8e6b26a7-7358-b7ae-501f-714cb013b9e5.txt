@@ -1,0 +1,62 @@
+Louie Monahan
+=============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1923-05-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+80 |  | Refugee (person) | 0 | 
+80 | 81 | Not in labor force (finding) | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+81 |  | Refugee (person) | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 | 88 | Reports of violence in the environment (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 | 84 | Stress (finding) | 0 | 
+82 |  | Refugee (person) | 0 | 
+82 |  | Housing unsatisfactory (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+83 | 83 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:21:0, Body Aches:2:0, Runny/Stuffy Nose:30:0, Fatigue:17:0, Swollen Lymph Nodes:59:0, Swollen Tonsils:66:0, Decreased Appetite:25:0, Fever:22:0, Sore Throat:34:0, Cough:0:0
+83 |  | Refugee (person) | 0 | 
+83 |  | Housing unsatisfactory (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+84 | 84 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:9:0, Pain with Bright Lights:41:0, Facial Swelling:36:0, Nasal Discharge:20:0, Nasal Congestion:4:0, Fever:10:0, Sore Throat:2:0, Cough:9:0
+84 |  | Refugee (person) | 0 | 
+84 |  | Housing unsatisfactory (finding) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+85 |  | Refugee (person) | 0 | 
+85 | 87 | Limited social contact (finding) | 0 | 
+85 | 86 | Not in labor force (finding) | 0 | 
+85 |  | Housing unsatisfactory (finding) | 0 | 
+85 |  | Has a criminal record (finding) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+85 |  | Stress (finding) | 0 | 
+86 |  | Refugee (person) | 0 | 
+86 | 87 | Part-time employment (finding) | 0 | 
+86 |  | Housing unsatisfactory (finding) | 0 | 
+86 |  | Has a criminal record (finding) | 0 | 
+86 |  | Received higher education (finding) | 0 | 
+86 | 88 | Stress (finding) | 0 | 
+87 |  | Refugee (person) | 0 | 
+87 | 88 | Part-time employment (finding) | 0 | 
+87 |  | Housing unsatisfactory (finding) | 0 | 
+87 |  | Has a criminal record (finding) | 0 | 
+87 |  | Received higher education (finding) | 0 | 
+88 |  | Refugee (person) | 0 | 
+88 |  | Limited social contact (finding) | 0 | 
+88 |  | Housing unsatisfactory (finding) | 0 | 
+88 |  | Has a criminal record (finding) | 0 | 
+88 |  | Full-time employment (finding) | 0 | 
+88 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

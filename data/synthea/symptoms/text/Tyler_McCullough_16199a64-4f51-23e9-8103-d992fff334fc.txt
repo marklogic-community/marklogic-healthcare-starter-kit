@@ -1,0 +1,52 @@
+Tyler McCullough
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1992-12-09
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+20 | 21 | Part-time employment (finding) | 0 | 
+20 | 22 | Limited social contact (finding) | 0 | 
+20 | 28 | Victim of intimate partner abuse (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 | 21 | Stress (finding) | 0 | 
+20 | 20 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:44:0, Body Aches:30:0, Runny/Stuffy Nose:9:0, Fatigue:36:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:29:0, Decreased Appetite:5:0, Sore Throat:5:0, Cough:0:0, Fever:34:0
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+22 | 23 | Part-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+23 |  | Social isolation (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+24 | 28 | Limited social contact (finding) | 0 | 
+24 | 25 | Not in labor force (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+25 | 26 | Part-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 | 27 | Severe anxiety (panic) (finding | 0 | 
+26 | 27 | Part-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 | 27 | Stress (finding) | 0 | 
+27 |  | Fever (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+27 |  | Fatigue (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+27 |  | Sore throat symptom (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+27 |  | Cough (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+27 | 27 | Suspected COVID-19 | 0 | 
+27 |  | COVID-19 | 0 | 
+27 |  | Respiratory distress (finding) | 0 | 
+27 |  | Pneumonia (disorder) | 0 | 
+27 |  | Hypoxemia (disorder) | 0 | 
+27 |  | Acute pulmonary embolism (disorder) | 0 | 
+27 | 28 | Not in labor force (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+28 |  | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

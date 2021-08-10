@@ -1,0 +1,547 @@
+
+2021-07-01
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 13 year-old non-hispanic white male. Patient has a history of covid-19, fever (finding), risk activity involvement (finding), viral sinusitis (disorder), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2021-06-24
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 13 year-old non-hispanic white male. Patient has a history of covid-19, fever (finding), risk activity involvement (finding), viral sinusitis (disorder), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2020-12-04
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 12 year-old non-hispanic white male. Patient has a history of covid-19, fever (finding), risk activity involvement (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2020-06-25
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 12 year-old non-hispanic white male. Patient has a history of covid-19, fever (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- health risks education (procedure)
+
+
+
+2020-03-06
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 11 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-06-20
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 11 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2018-06-14
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 10 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-06-08
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 9 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2016-06-02
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 7 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2015-05-28
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 6 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2014-05-22
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 5 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2013-05-16
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 4 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: varicella, ipv, influenza, seasonal, injectable, preservative free, dtap, mmr. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2012-05-10
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 3 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2011-11-10
+
+# Chief Complaint
+- Sinus Pain
+- Pain with Bright Lights
+- Nasal Discharge
+- Nasal Congestion
+- Sore Throat
+- Cough
+
+
+# History of Present Illness
+Frederic
+ is a 3 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a low socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: pneumococcal conjugate pcv 13. 
+
+
+

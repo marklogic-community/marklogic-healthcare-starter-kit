@@ -1,0 +1,25 @@
+Helena Becker
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2002-02-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 |  | Fever (finding) | 5 | fever:1, sputum production:1, headache:1, cough:1, diarrhea:1
+18 |  | Sputum finding (finding) | 5 | fever:1, sputum production:1, headache:1, cough:1, diarrhea:1
+18 |  | Headache (finding) | 5 | fever:1, sputum production:1, headache:1, cough:1, diarrhea:1
+18 |  | Cough (finding) | 5 | fever:1, sputum production:1, headache:1, cough:1, diarrhea:1
+18 |  | Diarrhea symptom (finding) | 5 | fever:1, sputum production:1, headache:1, cough:1, diarrhea:1
+18 | 18 | Suspected COVID-19 | 0 | 
+18 |  | COVID-19 | 0 | 
+18 |  | Hypertension | 0 | 
+18 | 19 | Part-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 19 | Social isolation (finding) | 0 | 
+18 | 19 | Stress (finding) | 0 | 
+19 |  | Not in labor force (finding) | 0 | 
+19 |  | Reports of violence in the environment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Victim of intimate partner abuse (finding) | 0 | 
+--------------------------------------------------------------------------------

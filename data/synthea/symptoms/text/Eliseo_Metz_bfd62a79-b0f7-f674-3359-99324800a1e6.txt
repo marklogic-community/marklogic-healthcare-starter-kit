@@ -1,0 +1,73 @@
+Eliseo Metz
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1944-03-11
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 | 77 | Victim of intimate partner abuse (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Transport problems (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 |  | Lack of access to transportation (finding) | 0 | 
+68 | 69 | Not in labor force (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 | 73 | Social isolation (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Transport problems (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 | 70 | Viral sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:63:0, Pain with Bright Lights:31:0, Facial Swelling:12:0, Nasal Discharge:46:0, Nasal Congestion:3:0, Sore Throat:35:0, Fever:0:0, Cough:33:0
+70 |  | Osteoporosis (disorder) | 0 | 
+70 |  | Lack of access to transportation (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:12, Memory Loss:2:29, Decreased in Judgement:28, Decreased Communication:35, Decreased Attentiveness:17, Confusion:7
+71 |  | Lack of access to transportation (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 73 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+73 |  | Lack of access to transportation (finding) | 0 | 
+73 | 74 | Part-time employment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Transport problems (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 76 | Social isolation (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 | 74 | Laceration of thigh | 0 | 
+75 |  | Lack of access to transportation (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 |  | Chill (finding) | 4 | chills:1, nasal congestion:1, fever:1, cough:1
+75 |  | Fever (finding) | 4 | chills:1, nasal congestion:1, fever:1, cough:1
+75 |  | Nasal congestion (finding) | 4 | chills:1, nasal congestion:1, fever:1, cough:1
+75 |  | Cough (finding) | 4 | chills:1, nasal congestion:1, fever:1, cough:1
+75 | 75 | Suspected COVID-19 | 0 | 
+75 |  | COVID-19 | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Transport problems (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Lack of access to transportation (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Social isolation (finding) | 0 | 
+77 | 77 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:19:0, Fatigue:72:0, Mucus:31:0, Nasal Congestion:49:0, Shortness of Breath:60:0, Nausea/Vomiting:19:0, Sore Throat:26:0, Fever:33:0, Cough:40:0
+--------------------------------------------------------------------------------

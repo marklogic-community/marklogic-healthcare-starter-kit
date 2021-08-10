@@ -1,0 +1,27 @@
+Starr Ziemann
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1998-02-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+14 | 14 | Fracture of ankle | 0 | 
+17 | 17 | Viral sinusitis (disorder) | 9 | Sinus Pain:55:0, Headache:36:0, Pain with Bright Lights:34:0, Facial Swelling:34:0, Nasal Discharge:10:0, Nasal Congestion:17:0, Fever:3:0, Sore Throat:41:0, Cough:46:0
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+21 | 21 | Viral sinusitis (disorder) | 9 | Sinus Pain:69:0, Headache:4:0, Pain with Bright Lights:26:0, Facial Swelling:39:0, Nasal Discharge:31:0, Nasal Congestion:4:0, Fever:9:0, Sore Throat:32:0, Cough:40:0
+21 | 21 | Viral sinusitis (disorder) | 9 | Sinus Pain:70:0, Headache:11:0, Pain with Bright Lights:33:0, Facial Swelling:9:0, Nasal Discharge:49:0, Nasal Congestion:3:0, Fever:0:0, Sore Throat:48:0, Cough:24:0
+22 |  | Muscle pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, headache:1, cough:1
+22 |  | Fever (finding) | 5 | myalgia:1, arthralgia:1, fever:1, headache:1, cough:1
+22 |  | Headache (finding) | 5 | myalgia:1, arthralgia:1, fever:1, headache:1, cough:1
+22 |  | Joint pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, headache:1, cough:1
+22 |  | Cough (finding) | 5 | myalgia:1, arthralgia:1, fever:1, headache:1, cough:1
+22 | 22 | Suspected COVID-19 | 0 | 
+22 |  | COVID-19 | 0 | 
+22 |  | Not in labor force (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 |  | Normal pregnancy | 0 | 
+--------------------------------------------------------------------------------

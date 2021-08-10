@@ -1,0 +1,65 @@
+Angelo Conn
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-10-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+62 | 62 | Viral sinusitis (disorder) | 9 | Sinus Pain:55:0, Headache:22:0, Pain with Bright Lights:31:0, Facial Swelling:2:0, Nasal Discharge:1:0, Nasal Congestion:21:0, Cough:1:0, Sore Throat:47:0, Fever:17:0
+62 |  | Prediabetes | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Victim of intimate partner abuse (finding) | 0 | 
+62 | 67 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 | 66 | Limited social contact (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 |  | Chronic neck pain (finding) | 0 | 
+65 | 67 | Polyp of colon | 0 | 
+65 |  | Prediabetes | 0 | 
+65 | 66 | Part-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 | 67 | Part-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 67 | Stress (finding) | 0 | 
+66 | 67 | Recurrent rectal polyp | 0 | 
+67 |  | Prediabetes | 0 | 
+67 | 67 | Part-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 68 | Social isolation (finding) | 0 | 
+67 | 67 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:17:0, Fatigue:63:0, Mucus:36:0, Nasal Congestion:25:0, Shortness of Breath:55:0, Nausea/Vomiting:0:0, Cough:52:0, Sore Throat:25:0, Fever:37:0
+67 |  | Prediabetes | 0 | 
+67 | 68 | Not in labor force (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 | 70 | Social isolation (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+70 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+70 |  | Fever (finding) | 1 | fever:1
+70 | 70 | Suspected COVID-19 | 0 | 
+70 |  | COVID-19 | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+Ramiro Lebsack
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2017-12-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 2 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:10:0, Pain with Bright Lights:25:0, Facial Swelling:30:0, Nasal Discharge:23:0, Nasal Congestion:3:0, Fever:10:0, Sore Throat:10:0, Cough:27:0
+3 |  | Childhood asthma | 6 | Mucus Secretion:17, Chest Pressure:6, Wheezing:48, Nasal Congestion:3, Shortness of Breath:36, Cough:10
+3 | 3 | Viral sinusitis (disorder) | 9 | Sinus Pain:55:0, Headache:4:0, Pain with Bright Lights:46:0, Facial Swelling:42:0, Nasal Discharge:36:0, Nasal Congestion:4:0, Fever:16:0, Sore Throat:15:0, Cough:45:0
+--------------------------------------------------------------------------------

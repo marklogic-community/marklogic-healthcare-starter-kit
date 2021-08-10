@@ -1,0 +1,18 @@
+Sarai Kunde
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1971-07-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+8 | 8 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:4:0, Fatigue:45:0, Mucus:29:0, Nasal Congestion:41:0, Shortness of Breath:26:0, Nausea/Vomiting:13:0, Fever:39:0, Sore Throat:39:0, Cough:50:0
+11 | 11 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:31:0, Runny/Stuffy Nose:17:0, Fatigue:4:0, Swollen Lymph Nodes:31:0, Swollen Tonsils:47:0, Decreased Appetite:24:0, Fever:10:0, Sore Throat:20:0, Cough:0:0
+11 | 11 | Viral sinusitis (disorder) | 9 | Sinus Pain:63:0, Headache:22:0, Pain with Bright Lights:31:0, Facial Swelling:8:0, Nasal Discharge:47:0, Nasal Congestion:15:0, Fever:3:0, Sore Throat:40:0, Cough:30:0
+12 | 12 | Concussion with no loss of consciousness | 0 | 
+16 |  | Risk activity involvement (finding) | 0 | 
+16 | 17 | Otitis media | 0 | 
+18 |  | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

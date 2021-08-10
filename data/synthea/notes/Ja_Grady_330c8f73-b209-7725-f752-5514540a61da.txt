@@ -1,0 +1,737 @@
+
+2021-05-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 26 year-old non-hispanic black female. Patient has a history of covid-19, normal pregnancy, risk activity involvement (finding), fever (finding), limited social contact (finding), sore throat symptom (finding), misuses drugs (finding), loss of taste (finding), suspected covid-19, cystitis, stress (finding), social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; errin 28 day pack; phenazopyridine hydrochloride 100 mg oral tablet; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with social isolation (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- amlodipine 2.5 mg oral tablet
+
+
+
+2020-04-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 25 year-old non-hispanic black female. Patient has a history of covid-19, normal pregnancy, risk activity involvement (finding), fever (finding), limited social contact (finding), sore throat symptom (finding), misuses drugs (finding), loss of taste (finding), suspected covid-19, cystitis, stress (finding), social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; errin 28 day pack; phenazopyridine hydrochloride 100 mg oral tablet; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- amlodipine 2.5 mg oral tablet
+
+
+
+2020-03-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 25 year-old non-hispanic black female. Patient has a history of normal pregnancy, risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), cystitis, stress (finding), social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; errin 28 day pack; phenazopyridine hydrochloride 100 mg oral tablet; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with sore throat symptom (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-04-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 24 year-old non-hispanic black female. Patient has a history of normal pregnancy, risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), cystitis, stress (finding), social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; errin 28 day pack; phenazopyridine hydrochloride 100 mg oral tablet; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with limited social contact (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- amlodipine 2.5 mg oral tablet
+
+
+
+2019-03-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 24 year-old non-hispanic black female. Patient has a history of normal pregnancy, risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), stress (finding), social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with cystitis. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- nitrofurantoin 5 mg/ml oral suspension
+- phenazopyridine hydrochloride 100 mg oral tablet
+The patient was placed on a careplan:
+- urinary tract infection care
+
+
+
+2018-04-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 23 year-old non-hispanic black female. Patient has a history of normal pregnancy, risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), stress (finding), social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- amlodipine 2.5 mg oral tablet
+
+
+
+2017-06-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 22 year-old non-hispanic black female. Patient has a history of normal pregnancy, risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), stress (finding), social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- pregnancy termination care
+- physical exam following abortion
+- depression screening
+
+
+
+2017-06-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 22 year-old non-hispanic black female. Patient has a history of normal pregnancy, risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), stress (finding), social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- counseling for termination of pregnancy
+- induced termination of pregnancy
+
+
+
+2017-05-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 22 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), stress (finding), social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with normal pregnancy. 
+
+## Plan
+
+The following procedures were conducted:
+- standard pregnancy test
+- ultrasound scan for fetal viability
+
+
+
+2017-04-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 22 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), stress (finding), social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with stress (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hep b, adult. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+The patient was prescribed the following medications:
+- amlodipine 2.5 mg oral tablet
+
+
+
+2016-04-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 21 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+errin 28 day pack; amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with social isolation (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free, hep b, adult, meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- amlodipine 2.5 mg oral tablet
+
+
+
+2015-12-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 20 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- errin 28 day pack
+
+
+
+2015-04-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 20 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amlodipine 2.5 mg oral tablet; jolivette 28 day pack; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hep b, adult. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- amlodipine 2.5 mg oral tablet
+
+
+
+2014-12-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 19 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amlodipine 2.5 mg oral tablet; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- jolivette 28 day pack
+
+
+
+2014-03-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 19 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding), limited social contact (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+amlodipine 2.5 mg oral tablet; levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with misuses drugs (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- amlodipine 2.5 mg oral tablet
+
+
+
+2013-03-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 18 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+levora 0.15/30 28 day pack; camila 28 day pack
+
+# Assessment and Plan
+Patient is presenting with hypertension, received certificate of high school equivalency (finding), unemployed (finding), limited social contact (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- amlodipine 2.5 mg oral tablet
+The patient was placed on a careplan:
+- lifestyle education regarding hypertension
+
+
+
+2013-01-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 17 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+levora 0.15/30 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- camila 28 day pack
+
+
+
+2012-03-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 17 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+levora 0.15/30 28 day pack
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- depression screening (procedure)
+- medication reconciliation (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2012-01-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 16 year-old non-hispanic black female. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- levora 0.15/30 28 day pack
+
+
+
+2011-03-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ja
+ is a 16 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+

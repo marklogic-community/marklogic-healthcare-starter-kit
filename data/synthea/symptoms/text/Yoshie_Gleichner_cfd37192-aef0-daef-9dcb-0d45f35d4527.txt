@@ -1,0 +1,37 @@
+Yoshie Gleichner
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1936-04-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+69 | 70 | Part-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 | 71 | Polyp of colon | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 | 71 | Stress (finding) | 0 | 
+70 | 70 | Viral sinusitis (disorder) | 9 | Sinus Pain:58:0, Headache:14:0, Pain with Bright Lights:35:0, Facial Swelling:37:0, Nasal Discharge:6:0, Nasal Congestion:21:0, Cough:31:0, Sore Throat:41:0, Fever:10:0
+71 | 72 | Part-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 | 74 | Stress (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 | 78 | Victim of intimate partner abuse (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 | 78 | Stress (finding) | 0 | 
+77 | 78 | Part-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+78 |  | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

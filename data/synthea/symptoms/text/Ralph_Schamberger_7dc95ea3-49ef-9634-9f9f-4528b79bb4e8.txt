@@ -1,0 +1,33 @@
+Ralph Schamberger
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1978-01-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+34 | 37 | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Victim of intimate partner abuse (finding) | 0 | 
+37 | 37 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 | 37 | Acute bronchitis (disorder) | 10 | Body Aches:12:0, Diarrhea:5:0, Fatigue:45:0, Mucus:29:0, Nasal Congestion:41:0, Shortness of Breath:47:0, Nausea/Vomiting:8:0, Cough:50:0, Sore Throat:48:0, Fever:47:0
+37 |  | Body mass index 30+ - obesity (finding) | 0 | 
+37 | 40 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 | 42 | Stress (finding) | 0 | 
+37 | 37 | Viral sinusitis (disorder) | 9 | Sinus Pain:51:0, Headache:38:0, Pain with Bright Lights:27:0, Facial Swelling:29:0, Nasal Discharge:40:0, Nasal Congestion:24:0, Cough:6:0, Sore Throat:23:0, Fever:2:0
+38 | 38 | Viral sinusitis (disorder) | 9 | Sinus Pain:53:0, Headache:4:0, Pain with Bright Lights:28:0, Facial Swelling:49:0, Nasal Discharge:23:0, Nasal Congestion:19:0, Cough:32:0, Sore Throat:41:0, Fever:24:0
+38 | 38 | Viral sinusitis (disorder) | 9 | Sinus Pain:61:0, Headache:0:0, Pain with Bright Lights:28:0, Facial Swelling:33:0, Nasal Discharge:22:0, Nasal Congestion:20:0, Cough:1:0, Sore Throat:19:0, Fever:11:0
+40 |  | Limited social contact (finding) | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+41 | 41 | Viral sinusitis (disorder) | 9 | Sinus Pain:62:0, Headache:49:0, Pain with Bright Lights:31:0, Facial Swelling:33:0, Nasal Discharge:3:0, Nasal Congestion:5:0, Cough:0:0, Sore Throat:26:0, Fever:4:0
+42 |  | Limited social contact (finding) | 0 | 
+42 |  | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Fever (finding) | 2 | fever:1, loss_of_taste:1
+42 |  | Loss of taste (finding) | 2 | fever:1, loss_of_taste:1
+42 | 42 | Suspected COVID-19 | 0 | 
+42 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

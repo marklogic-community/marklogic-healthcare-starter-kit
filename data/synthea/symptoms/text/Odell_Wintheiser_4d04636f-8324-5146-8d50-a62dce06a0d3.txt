@@ -1,0 +1,35 @@
+Odell Wintheiser
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2009-02-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 |  | Childhood asthma | 6 | Mucus Secretion:23, Chest Pressure:24, Wheezing:43, Nasal Congestion:17, Shortness of Breath:72, Cough:2
+3 | 3 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:24:0, Fatigue:51:0, Mucus:28:0, Nasal Congestion:25:0, Shortness of Breath:31:0, Nausea/Vomiting:14:0, Sore Throat:39:0, Fever:36:0, Cough:58:0
+3 |  | Urinary tract infectious disease (disorder) | 0 | 
+3 | 3 | Otitis media | 0 | 
+3 |  | Pressure ulcer (disorder) | 0 | 
+3 |  | Urinary tract infectious disease (disorder) | 0 | 
+4 |  | Urinary tract infectious disease (disorder) | 0 | 
+4 |  | Perennial allergic rhinitis with seasonal variation | 5 | Nasal Discharge:23, Ear Pressure:13, Nasal Congestion:7, Sneezing Fits:3, Itching:0
+4 |  | Urinary tract infectious disease (disorder) | 0 | 
+5 |  | Urinary tract infectious disease (disorder) | 0 | 
+5 | 5 | Viral sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:59:0, Pain with Bright Lights:41:0, Facial Swelling:29:0, Nasal Discharge:26:0, Nasal Congestion:14:0, Sore Throat:14:0, Fever:10:0, Cough:47:0
+7 |  | Atopic dermatitis | 3 | Rash:16, Itchiness:0, Red Skin:5
+7 |  | Urinary tract infectious disease (disorder) | 0 | 
+7 | 7 | Closed fracture of hip | 0 | 
+8 |  | Pressure ulcer (disorder) | 0 | 
+9 |  | Urinary tract infectious disease (disorder) | 0 | 
+10 | 10 | Viral sinusitis (disorder) | 9 | Headache:12:0, Sinus Pain:65:0, Pain with Bright Lights:39:0, Facial Swelling:40:0, Nasal Discharge:27:0, Nasal Congestion:11:0, Sore Throat:27:0, Fever:1:0, Cough:1:0
+10 | 10 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:47:0, Body Aches:36:0, Runny/Stuffy Nose:34:0, Fatigue:10:0, Swollen Lymph Nodes:40:0, Swollen Tonsils:43:0, Decreased Appetite:32:0, Sore Throat:49:0, Fever:32:0, Cough:13:0
+11 |  | Fever (finding) | 6 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+11 |  | Sputum finding (finding) | 6 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+11 |  | Fatigue (finding) | 6 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+11 |  | Cough (finding) | 6 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+11 |  | Diarrhea symptom (finding) | 6 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+11 |  | Loss of taste (finding) | 6 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+11 | 11 | Suspected COVID-19 | 0 | 
+11 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

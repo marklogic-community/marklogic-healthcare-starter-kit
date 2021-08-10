@@ -1,0 +1,66 @@
+Nathan Pouros
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Prediabetes | 0 | 
+50 | 51 | Polyp of colon | 0 | 
+50 | 51 | Part-time employment (finding) | 0 | 
+50 |  | Served in armed forces (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Served in armed forces (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 |  | Served in armed forces (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+52 |  | Chronic pain | 10 | Reduced Sex Drive:6, Slurred Speech:3, Shortness Constipation Breath:7, Anxiety:0, Pain Sensitivity:1, Confusion:0, Cognitive Difficulties:5, Shallow Breathing:0, Mood Swing:8, Nausea/Vomiting:8
+52 | 52 | Viral sinusitis (disorder) | 9 | Headache:29:0, Sinus Pain:53:0, Pain with Bright Lights:36:0, Facial Swelling:41:0, Nasal Discharge:34:0, Nasal Congestion:19:0, Sore Throat:1:0, Cough:23:0, Fever:12:0
+52 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:6, Slurred Speech:3, Shortness Constipation Breath:7, Anxiety:0, Pain Sensitivity:1, Confusion:0, Cognitive Difficulties:5, Shallow Breathing:0, Mood Swing:8, Nausea/Vomiting:8
+52 | 52 | Fracture of forearm | 0 | 
+53 |  | Prediabetes | 0 | 
+53 | 54 | Part-time employment (finding) | 0 | 
+53 |  | Served in armed forces (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 | 55 | Not in labor force (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+55 |  | Drug overdose | 0 | 
+56 |  | Prediabetes | 0 | 
+56 | 57 | Part-time employment (finding) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 | 58 | Limited social contact (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Drug overdose | 0 | 
+56 |  | Drug overdose | 0 | 
+57 |  | Prediabetes | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 | 59 | Part-time employment (finding) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 |  | Part-time employment (finding) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

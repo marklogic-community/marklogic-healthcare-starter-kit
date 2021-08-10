@@ -1,0 +1,21 @@
+Ruthanne Hills
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2005-01-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+6 | 6 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:46:0, Runny/Stuffy Nose:4:0, Fatigue:28:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:35:0, Decreased Appetite:32:0, Cough:0:0, Sore Throat:46:0, Fever:22:0
+14 |  | Body mass index 30+ - obesity (finding) | 0 | 
+14 | 14 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:19:0, Body Aches:37:0, Runny/Stuffy Nose:1:0, Fatigue:23:0, Swollen Lymph Nodes:35:0, Swollen Tonsils:1:0, Decreased Appetite:47:0, Cough:25:0, Sore Throat:19:0, Fever:5:0
+14 | 14 | First degree burn | 0 | 
+15 |  | Fever (finding) | 4 | sore throat:1, fever:1, sputum production:1, cough:1
+15 |  | Sputum finding (finding) | 4 | sore throat:1, fever:1, sputum production:1, cough:1
+15 |  | Sore throat symptom (finding) | 4 | sore throat:1, fever:1, sputum production:1, cough:1
+15 |  | Cough (finding) | 4 | sore throat:1, fever:1, sputum production:1, cough:1
+15 | 15 | Suspected COVID-19 | 0 | 
+15 |  | COVID-19 | 0 | 
+16 |  | Body mass index 30+ - obesity (finding) | 0 | 
+16 |  | Severe anxiety (panic) (finding | 0 | 
+--------------------------------------------------------------------------------

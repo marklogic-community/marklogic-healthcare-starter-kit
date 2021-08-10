@@ -1,0 +1,850 @@
+
+2021-03-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 60 year-old non-hispanic white female. Patient has a history of dyspnea (finding), wheezing (finding), sore throat symptom (finding), victim of intimate partner abuse (finding), suspected covid-19, covid-19, part-time employment (finding), chill (finding), risk activity involvement (finding), fever (finding), sputum finding (finding), reports of violence in the environment (finding), full-time employment (finding), cough (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2020-03-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 59 year-old non-hispanic white female. Patient has a history of dyspnea (finding), wheezing (finding), sore throat symptom (finding), victim of intimate partner abuse (finding), suspected covid-19, covid-19, part-time employment (finding), chill (finding), risk activity involvement (finding), fever (finding), sputum finding (finding), reports of violence in the environment (finding), full-time employment (finding), cough (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2020-03-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 59 year-old non-hispanic white female. Patient has a history of part-time employment (finding), risk activity involvement (finding), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with cough (finding), sore throat symptom (finding), sputum finding (finding), dyspnea (finding), wheezing (finding), chill (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-03-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 58 year-old non-hispanic white female. Patient has a history of part-time employment (finding), risk activity involvement (finding), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2018-03-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 57 year-old non-hispanic white female. Patient has a history of part-time employment (finding), risk activity involvement (finding), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2017-03-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 56 year-old non-hispanic white female. Patient has a history of part-time employment (finding), risk activity involvement (finding), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), social isolation (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2016-02-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 55 year-old non-hispanic white female. Patient has a history of part-time employment (finding), risk activity involvement (finding), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2015-02-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 54 year-old non-hispanic white female. Patient has a history of part-time employment (finding), risk activity involvement (finding), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2014-02-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 53 year-old non-hispanic white female. Patient has a history of part-time employment (finding), risk activity involvement (finding), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2013-02-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 52 year-old non-hispanic white female. Patient has a history of part-time employment (finding), risk activity involvement (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding), reports of violence in the environment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2012-02-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 51 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), full-time employment (finding), victim of intimate partner abuse (finding), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2011-01-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 50 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), social isolation (finding). 
+
+## Plan
+
+
+
+
+2007-02-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 46 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+2005-08-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 44 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with miscarriage in first trimester. 
+
+## Plan
+
+
+
+
+2001-02-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 40 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+2000-07-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 39 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with history of appendectomy. 
+
+## Plan
+
+
+
+
+2000-07-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 39 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with appendicitis. 
+
+## Plan
+
+
+
+
+1998-04-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 37 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with victim of intimate partner abuse (finding). 
+
+## Plan
+
+
+
+
+1995-04-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 34 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), victim of intimate partner abuse (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding), stress (finding). 
+
+## Plan
+
+
+
+
+1992-04-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 31 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with victim of intimate partner abuse (finding). 
+
+## Plan
+
+
+
+
+1989-04-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 28 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1983-04-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 22 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1979-03-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 18 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding), stress (finding). 
+
+## Plan
+
+
+
+
+1976-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 15 year-old non-hispanic white female. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient quite smoking at age 16 and is an alcoholic.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+
+1974-02-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Milly
+ is a 13 year-old non-hispanic white female.
+
+# Social History
+ Patient quite smoking at age 16 and is an alcoholic.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+

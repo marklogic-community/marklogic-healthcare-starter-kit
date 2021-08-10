@@ -1,0 +1,67 @@
+Elliott Hayes
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1994-02-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 |  | Hypertension | 0 | 
+18 | 19 | Limited social contact (finding) | 0 | 
+18 |  | Housing unsatisfactory (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Only received primary school education (finding) | 0 | 
+18 |  | Victim of intimate partner abuse (finding) | 0 | 
+18 | 18 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:0:0, Body Aches:29:0, Runny/Stuffy Nose:2:0, Fatigue:26:0, Swollen Lymph Nodes:16:0, Swollen Tonsils:19:0, Decreased Appetite:33:0, Sore Throat:33:0, Cough:4:0, Fever:39:0
+19 |  | Asthma | 0 | 
+19 |  | Housing unsatisfactory (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 | 27 | Victim of intimate partner abuse (finding) | 0 | 
+19 |  | Only received primary school education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+20 |  | Housing unsatisfactory (finding) | 0 | 
+20 | 21 | Full-time employment (finding) | 0 | 
+20 |  | Only received primary school education (finding) | 0 | 
+20 | 24 | Stress (finding) | 0 | 
+20 |  | Social isolation (finding) | 0 | 
+21 |  | Housing unsatisfactory (finding) | 0 | 
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Only received primary school education (finding) | 0 | 
+21 | 22 | Social isolation (finding) | 0 | 
+22 |  | Housing unsatisfactory (finding) | 0 | 
+22 | 23 | Full-time employment (finding) | 0 | 
+22 |  | Only received primary school education (finding) | 0 | 
+22 | 22 | Facial laceration | 0 | 
+22 | 22 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:68:0, Pain with Bright Lights:42:0, Facial Swelling:3:0, Nasal Discharge:1:0, Nasal Congestion:4:0, Sore Throat:42:0, Cough:20:0, Fever:21:0
+22 | 23 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:15:0, Body Aches:41:0, Runny/Stuffy Nose:24:0, Fatigue:10:0, Swollen Lymph Nodes:34:0, Swollen Tonsils:46:0, Decreased Appetite:8:0, Sore Throat:13:0, Cough:7:0, Fever:46:0
+23 | 24 | Part-time employment (finding) | 0 | 
+23 | 24 | Limited social contact (finding) | 0 | 
+23 |  | Housing unsatisfactory (finding) | 0 | 
+23 |  | Only received primary school education (finding) | 0 | 
+24 |  | Housing unsatisfactory (finding) | 0 | 
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Only received primary school education (finding) | 0 | 
+25 |  | Limited social contact (finding) | 0 | 
+25 | 26 | Not in labor force (finding) | 0 | 
+25 |  | Housing unsatisfactory (finding) | 0 | 
+25 |  | Only received primary school education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 | 25 | First degree burn | 0 | 
+26 |  | Fever (finding) | 5 | sore throat:1, fever:1, sputum production:1, headache:1, loss_of_taste:1
+26 |  | Sputum finding (finding) | 5 | sore throat:1, fever:1, sputum production:1, headache:1, loss_of_taste:1
+26 |  | Headache (finding) | 5 | sore throat:1, fever:1, sputum production:1, headache:1, loss_of_taste:1
+26 |  | Sore throat symptom (finding) | 5 | sore throat:1, fever:1, sputum production:1, headache:1, loss_of_taste:1
+26 |  | Loss of taste (finding) | 5 | sore throat:1, fever:1, sputum production:1, headache:1, loss_of_taste:1
+26 | 26 | Suspected COVID-19 | 0 | 
+26 |  | COVID-19 | 0 | 
+26 |  | Housing unsatisfactory (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Only received primary school education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+26 | 27 | Social isolation (finding) | 0 | 
+26 |  | Misuses drugs (finding) | 0 | 
+27 |  | Housing unsatisfactory (finding) | 0 | 
+27 |  | Full-time employment (finding) | 0 | 
+27 |  | Only received primary school education (finding) | 0 | 
+27 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,61 @@
+Sung Torp
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1922-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+68 |  | Body mass index 30+ - obesity (finding) | 0 | 
+68 |  | Housing unsatisfactory (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Unemployed (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 | 69 | Stress (finding) | 0 | 
+68 | 69 | Acute bacterial sinusitis (disorder) | 9 | Headache:2:0, Sinus Pain:71:118:0, Pain with Bright Lights:26:0, Facial Swelling:15:0, Nasal Discharge:5:0, Nasal Congestion:7:0, Sore Throat:24:0, Cough:14:0, Fever:7:0
+68 |  | Chronic sinusitis (disorder) | 9 | Headache:0, Sinus Pain:118:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Sore Throat:0, Cough:0, Fever:0
+69 |  | Body mass index 30+ - obesity (finding) | 0 | 
+69 |  | Housing unsatisfactory (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Unemployed (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Body mass index 30+ - obesity (finding) | 0 | 
+70 |  | Housing unsatisfactory (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Unemployed (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 76 | Stress (finding) | 0 | 
+70 | 77 | Social isolation (finding) | 0 | 
+71 |  | Housing unsatisfactory (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Unemployed (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Housing unsatisfactory (finding) | 0 | 
+72 | 77 | Reports of violence in the environment (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Unemployed (finding) | 0 | 
+72 | 77 | Victim of intimate partner abuse (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Housing unsatisfactory (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Unemployed (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Housing unsatisfactory (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Unemployed (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Body mass index 30+ - obesity (finding) | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Unemployed (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

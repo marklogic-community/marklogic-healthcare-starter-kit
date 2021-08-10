@@ -1,0 +1,70 @@
+Raymond Lindgren
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1942-09-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+69 |  | Prediabetes | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 | 71 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:9:0, Body Aches:6:0, Runny/Stuffy Nose:42:0, Fatigue:27:0, Swollen Lymph Nodes:11:0, Swollen Tonsils:26:0, Decreased Appetite:31:0, Sore Throat:23:0, Cough:33:0, Fever:45:0
+71 |  | Prediabetes | 0 | 
+71 | 71 | Part-time employment (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 78 | Victim of intimate partner abuse (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 | 71 | Acute bronchitis (disorder) | 10 | Body Aches:4:0, Diarrhea:20:0, Fatigue:56:0, Mucus:34:0, Nasal Congestion:34:0, Shortness of Breath:61:0, Nausea/Vomiting:1:0, Sore Throat:30:0, Cough:64:0, Fever:29:0
+71 |  | Prediabetes | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 74 | Part-time employment (finding) | 0 | 
+73 | 78 | Reports of violence in the environment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 76 | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Part-time employment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 | 77 | Social isolation (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 | 77 | Sprain of ankle | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Part-time employment (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 | 78 | Stress (finding) | 0 | 
+77 |  | Fever (finding) | 3 | fever:1, headache:1, cough:1
+77 |  | Headache (finding) | 3 | fever:1, headache:1, cough:1
+77 |  | Cough (finding) | 3 | fever:1, headache:1, cough:1
+77 | 77 | Suspected COVID-19 | 0 | 
+77 |  | COVID-19 | 0 | 
+78 |  | Prediabetes | 0 | 
+78 |  | Limited social contact (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

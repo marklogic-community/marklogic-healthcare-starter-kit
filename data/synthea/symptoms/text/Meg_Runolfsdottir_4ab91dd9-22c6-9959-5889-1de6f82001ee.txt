@@ -1,0 +1,86 @@
+Meg Runolfsdottir
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1936-04-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+74 |  | Prediabetes | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 | 74 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:15:0, Runny/Stuffy Nose:9:0, Fatigue:49:0, Swollen Lymph Nodes:48:0, Swollen Tonsils:27:0, Decreased Appetite:18:0, Sore Throat:22:0, Fever:18:0, Cough:33:0
+75 |  | Prediabetes | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 | 78 | Polyp of colon | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Social isolation (finding) | 0 | 
+77 | 78 | Recurrent rectal polyp | 0 | 
+77 |  | Prediabetes | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+77 |  | Social isolation (finding) | 0 | 
+77 |  | Chronic low back pain (finding) | 0 | 
+77 |  | Chronic neck pain (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 82 | Social isolation (finding) | 0 | 
+79 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:25, Memory Loss:3:11:40, Decreased in Judgement:21, Decreased Communication:19, Decreased Attentiveness:15, Confusion:16
+79 |  | Rupture of appendix | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Loss of Appetite:0, Fever:0, Bloating/Gas:0
+79 |  | Appendicitis | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Loss of Appetite:0, Fever:0, Bloating/Gas:0
+79 |  | History of appendectomy | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Loss of Appetite:0, Fever:0, Bloating/Gas:0
+79 |  | Prediabetes | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 | 79 | Stress (finding) | 0 | 
+79 | 79 | Viral sinusitis (disorder) | 9 | Headache:39:0, Sinus Pain:79:0, Pain with Bright Lights:46:0, Facial Swelling:31:0, Nasal Discharge:29:0, Nasal Congestion:13:0, Sore Throat:43:0, Fever:5:0, Cough:41:0
+79 |  | Prediabetes | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 | 80 | Viral sinusitis (disorder) | 9 | Headache:19:0, Sinus Pain:69:0, Pain with Bright Lights:49:0, Facial Swelling:45:0, Nasal Discharge:28:0, Nasal Congestion:16:0, Sore Throat:2:0, Fever:8:0, Cough:26:0
+80 |  | Prediabetes | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 | 82 | Victim of intimate partner abuse (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+83 |  | Prediabetes | 0 | 
+83 |  | Part-time employment (finding) | 0 | 
+83 |  | Limited social contact (finding) | 0 | 
+83 |  | Victim of intimate partner abuse (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Vomiting symptom (finding) | 6 | fatigue:1, fever:1, headache:1, cough:1, vomiting:1, nausea:1
+83 |  | Fever (finding) | 6 | fatigue:1, fever:1, headache:1, cough:1, vomiting:1, nausea:1
+83 |  | Fatigue (finding) | 6 | fatigue:1, fever:1, headache:1, cough:1, vomiting:1, nausea:1
+83 |  | Headache (finding) | 6 | fatigue:1, fever:1, headache:1, cough:1, vomiting:1, nausea:1
+83 |  | Cough (finding) | 6 | fatigue:1, fever:1, headache:1, cough:1, vomiting:1, nausea:1
+83 |  | Nausea (finding) | 6 | fatigue:1, fever:1, headache:1, cough:1, vomiting:1, nausea:1
+83 | 83 | Suspected COVID-19 | 0 | 
+83 |  | COVID-19 | 0 | 
+83 |  | Acute respiratory failure (disorder) | 0 | 
+83 |  | Respiratory distress (finding) | 0 | 
+83 |  | Sepsis caused by virus (disorder) | 0 | 
+83 |  | Injury of kidney (disorder) | 0 | 
+83 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+83 |  | Acquired coagulation disorder (disorder) | 0 | 
+83 |  | Heart failure (disorder) | 0 | 
+83 |  | Pneumonia (disorder) | 0 | 
+83 |  | Hypoxemia (disorder) | 0 | 
+83 |  | Acute deep venous thrombosis (disorder) | 0 | 
+--------------------------------------------------------------------------------

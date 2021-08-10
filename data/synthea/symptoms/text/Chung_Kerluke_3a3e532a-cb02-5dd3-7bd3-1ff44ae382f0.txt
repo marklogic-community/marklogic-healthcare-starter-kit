@@ -1,0 +1,55 @@
+Chung Kerluke
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-07-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+62 | 63 | Part-time employment (finding) | 0 | 
+62 |  | Housing unsatisfactory (finding) | 0 | 
+62 | 70 | Reports of violence in the environment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 |  | Housing unsatisfactory (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 | 64 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:11:0, Fatigue:46:0, Mucus:27:0, Nasal Congestion:45:0, Shortness of Breath:70:0, Nausea/Vomiting:17:0, Sore Throat:40:0, Cough:50:0, Fever:36:0
+64 | 64 | Not in labor force (finding) | 0 | 
+64 | 66 | Limited social contact (finding) | 0 | 
+64 |  | Housing unsatisfactory (finding) | 0 | 
+64 |  | Received certificate of high school equivalency (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 |  | Housing unsatisfactory (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received certificate of high school equivalency (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+65 | 65 | Sprain of ankle | 0 | 
+65 | 66 | Not in labor force (finding) | 0 | 
+65 |  | Housing unsatisfactory (finding) | 0 | 
+65 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Housing unsatisfactory (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+67 |  | Limited social contact (finding) | 0 | 
+67 |  | Housing unsatisfactory (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 | 69 | Stress (finding) | 0 | 
+68 | 69 | Not in labor force (finding) | 0 | 
+68 |  | Housing unsatisfactory (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 | 70 | Social isolation (finding) | 0 | 
+69 |  | Housing unsatisfactory (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Fever (finding) | 2 | fever:1, loss_of_taste:1
+70 |  | Loss of taste (finding) | 2 | fever:1, loss_of_taste:1
+70 | 70 | Suspected COVID-19 | 0 | 
+70 |  | COVID-19 | 0 | 
+70 |  | Housing unsatisfactory (finding) | 0 | 
+70 |  | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

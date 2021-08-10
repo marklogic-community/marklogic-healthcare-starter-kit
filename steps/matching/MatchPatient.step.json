@@ -1,0 +1,95 @@
+{
+  "batchSize": 100,
+  "sourceDatabase": "data-hub-FINAL",
+  "targetDatabase": "data-hub-FINAL",
+  "targetEntityType": "Patient",
+  "sourceQuery": "cts.collectionQuery(['Patient'])",
+  "collections": [
+    "MatchPatient"
+  ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "targetFormat": "JSON",
+  "matchRulesets": [
+    {
+      "name": "identifier__ssn - Exact",
+      "weight": 25,
+      "reduce": false,
+      "matchRules": [
+        {
+          "entityPropertyPath": "identifier__ssn",
+          "matchType": "exact",
+          "options": { }
+        }
+      ]
+    },
+    {
+      "name": "birthDate - Exact",
+      "weight": 10,
+      "reduce": false,
+      "matchRules": [
+        {
+          "entityPropertyPath": "birthDate",
+          "matchType": "exact",
+          "options": { }
+        }
+      ]
+    },
+    {
+      "name": "name.given - Double Metaphone",
+      "weight": 7,
+      "reduce": false,
+      "matchRules": [
+        {
+          "entityPropertyPath": "name.given",
+          "matchType": "doubleMetaphone",
+          "options": {
+            "dictionaryURI": "/dictionary/first-names.xml",
+            "distanceThreshold": "100"
+          }
+        }
+      ]
+    },
+    {
+      "name": "name.family - Double Metaphone",
+      "weight": 8,
+      "reduce": false,
+      "matchRules": [
+        {
+          "entityPropertyPath": "name.family",
+          "matchType": "doubleMetaphone",
+          "options": {
+            "dictionaryURI": "/dictionary/last-names.xml",
+            "distanceThreshold": "100"
+          }
+        }
+      ]
+    }
+  ],
+  "thresholds": [
+    {
+      "thresholdName": "autoMerge",
+      "action": "merge",
+      "score": 35
+    },
+    {
+      "thresholdName": "notify",
+      "action": "notify",
+      "score": 20
+    }
+  ],
+  "name": "MatchPatient",
+  "description": "",
+  "collection": "Patient",
+  "selectedSource": "collection",
+  "additionalCollections": [ ],
+  "headers": { },
+  "interceptors": [ ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "stepDefinitionName": "default-matching",
+  "stepDefinitionType": "matching",
+  "stepId": "MatchPatient-matching",
+  "acceptsBatch": true,
+  "stepUpdate": false,
+  "lastUpdated": "2021-07-29T12:07:59.9776021-06:00"
+}

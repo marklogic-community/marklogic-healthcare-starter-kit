@@ -1,0 +1,45 @@
+Sid Effertz
+===========
+Race:                Hawaiian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1969-04-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+43 | 43 | Acute bronchitis (disorder) | 10 | Body Aches:16:0, Diarrhea:19:0, Fatigue:50:0, Mucus:41:0, Nasal Congestion:47:0, Shortness of Breath:44:0, Nausea/Vomiting:12:0, Sore Throat:27:0, Cough:74:0, Fever:36:0
+43 | 43 | Viral sinusitis (disorder) | 9 | Headache:9:0, Sinus Pain:72:0, Pain with Bright Lights:25:0, Facial Swelling:23:0, Nasal Discharge:4:0, Nasal Congestion:21:0, Sore Throat:13:0, Cough:43:0, Fever:2:0
+44 |  | Prediabetes | 0 | 
+44 | 46 | Part-time employment (finding) | 0 | 
+44 | 51 | Limited social contact (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 44 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:18:0, Runny/Stuffy Nose:19:0, Fatigue:43:0, Swollen Lymph Nodes:67:0, Swollen Tonsils:33:0, Decreased Appetite:24:0, Sore Throat:5:0, Cough:0:0, Fever:46:0
+44 |  | Chronic low back pain (finding) | 0 | 
+44 |  | Fibromyalgia (disorder) | 0 | 
+44 | 44 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:49:0, Body Aches:5:0, Runny/Stuffy Nose:16:0, Fatigue:40:0, Swollen Lymph Nodes:43:0, Swollen Tonsils:15:0, Decreased Appetite:3:0, Sore Throat:6:0, Cough:16:0, Fever:40:0
+44 | 44 | Viral sinusitis (disorder) | 9 | Headache:32:0, Sinus Pain:72:0, Pain with Bright Lights:42:0, Facial Swelling:49:0, Nasal Discharge:21:0, Nasal Congestion:14:0, Sore Throat:27:0, Cough:15:0, Fever:11:0
+44 |  | Chronic low back pain (finding) | 0 | 
+44 |  | Fibromyalgia (disorder) | 0 | 
+46 |  | Prediabetes | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 | 47 | Viral sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:51:0, Pain with Bright Lights:45:0, Facial Swelling:4:0, Nasal Discharge:14:0, Nasal Congestion:17:0, Sore Throat:42:0, Cough:39:0, Fever:6:0
+48 |  | Prediabetes | 0 | 
+48 | 50 | Part-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Fever (finding) | 4 | fatigue:1, nasal congestion:1, fever:1, sputum production:1
+50 |  | Sputum finding (finding) | 4 | fatigue:1, nasal congestion:1, fever:1, sputum production:1
+50 |  | Fatigue (finding) | 4 | fatigue:1, nasal congestion:1, fever:1, sputum production:1
+50 |  | Nasal congestion (finding) | 4 | fatigue:1, nasal congestion:1, fever:1, sputum production:1
+50 | 50 | Suspected COVID-19 | 0 | 
+50 |  | COVID-19 | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 |  | Limited social contact (finding) | 0 | 
+52 |  | Not in labor force (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

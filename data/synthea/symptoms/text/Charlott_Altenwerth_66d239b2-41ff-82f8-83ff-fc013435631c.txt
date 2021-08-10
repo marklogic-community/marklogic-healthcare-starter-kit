@@ -1,0 +1,81 @@
+Charlott Altenwerth
+===================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1932-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+70 | 70 | Viral sinusitis (disorder) | 9 | Sinus Pain:51:0, Headache:31:0, Pain with Bright Lights:41:0, Facial Swelling:40:0, Nasal Discharge:48:0, Nasal Congestion:17:0, Sore Throat:29:0, Cough:18:0, Fever:17:0
+70 |  | Prediabetes | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 | 71 | Social isolation (finding) | 0 | 
+71 |  | Drug overdose | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+72 |  | Drug overdose | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Social isolation (finding) | 0 | 
+72 | 72 | Viral sinusitis (disorder) | 9 | Sinus Pain:69:0, Headache:7:0, Pain with Bright Lights:45:0, Facial Swelling:42:0, Nasal Discharge:14:0, Nasal Congestion:1:0, Sore Throat:27:0, Cough:39:0, Fever:21:0
+72 |  | Prediabetes | 0 | 
+72 | 73 | Part-time employment (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+72 | 76 | Social isolation (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+74 | 74 | Laceration of hand | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 | 77 | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Drug overdose | 0 | 
+76 |  | Drug overdose | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Drug overdose | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 | 80 | Victim of intimate partner abuse (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Social isolation (finding) | 0 | 
+77 |  | Drug overdose | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 79 | Not in labor force (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 |  | Social isolation (finding) | 0 | 
+79 | 79 | Laceration of thigh | 0 | 
+79 |  | Prediabetes | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 | 80 | Stress (finding) | 0 | 
+79 |  | Social isolation (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Full-time employment (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Social isolation (finding) | 0 | 
+80 |  | Victim of intimate partner abuse (finding) | 0 | 
+--------------------------------------------------------------------------------

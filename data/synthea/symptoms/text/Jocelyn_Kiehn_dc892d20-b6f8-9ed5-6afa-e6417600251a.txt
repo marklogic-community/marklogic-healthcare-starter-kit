@@ -1,0 +1,36 @@
+Jocelyn Kiehn
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1971-07-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 |  | Unemployed (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+19 |  | Unemployed (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 24 | Social isolation (finding) | 0 | 
+19 | 20 | Stress (finding) | 0 | 
+20 | 20 | Normal pregnancy | 0 | 
+20 |  | Unemployed (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+21 |  | Unemployed (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+21 |  | Stress (finding) | 0 | 
+21 | 21 | Normal pregnancy | 0 | 
+22 |  | Unemployed (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 | 23 | Stress (finding) | 0 | 
+22 | 22 | Normal pregnancy | 0 | 
+22 | 23 | Normal pregnancy | 0 | 
+23 | 23 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:38:0, Body Aches:3:0, Runny/Stuffy Nose:9:0, Fatigue:45:0, Swollen Lymph Nodes:35:0, Swollen Tonsils:34:0, Decreased Appetite:0:0, Fever:36:0, Sore Throat:30:0, Cough:8:0
+23 |  | Unemployed (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+23 | 23 | Antepartum eclampsia | 0 | 
+23 | 23 | Second degree burn | 0 | 
+24 |  | Unemployed (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+25 |  | Normal pregnancy | 0 | 
+--------------------------------------------------------------------------------

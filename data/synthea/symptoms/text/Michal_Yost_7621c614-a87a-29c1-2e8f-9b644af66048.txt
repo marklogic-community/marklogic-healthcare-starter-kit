@@ -1,0 +1,41 @@
+Michal Yost
+===========
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1984-11-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+27 |  | Drug overdose | 0 | 
+28 |  | Unemployed (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Social isolation (finding) | 0 | 
+29 |  | Drug overdose | 0 | 
+30 | 31 | Normal pregnancy | 0 | 
+31 | 31 | Preeclampsia | 0 | 
+31 |  | Limited social contact (finding) | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 | 34 | Stress (finding) | 0 | 
+31 | 31 | Normal pregnancy | 0 | 
+31 |  | Drug overdose | 0 | 
+32 | 33 | Normal pregnancy | 0 | 
+33 | 33 | Preeclampsia | 0 | 
+33 | 34 | Normal pregnancy | 0 | 
+34 |  | Unemployed (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Social isolation (finding) | 0 | 
+34 |  | Drug overdose | 0 | 
+35 | 35 | Normal pregnancy | 0 | 
+35 |  | Dyspnea (finding) | 4 | chills:1, fever:1, dyspnea:1, cough:1
+35 |  | Chill (finding) | 4 | chills:1, fever:1, dyspnea:1, cough:1
+35 |  | Fever (finding) | 4 | chills:1, fever:1, dyspnea:1, cough:1
+35 |  | Wheezing (finding) | 4 | chills:1, fever:1, dyspnea:1, cough:1
+35 |  | Cough (finding) | 4 | chills:1, fever:1, dyspnea:1, cough:1
+35 | 35 | Suspected COVID-19 | 0 | 
+35 |  | COVID-19 | 0 | 
+35 |  | Miscarriage in first trimester | 0 | 
+35 | 35 | Blighted ovum | 0 | 
+35 | 35 | Escherichia coli urinary tract infection | 7 | Frequent Urination:5:0, Urgent Desire to Urinate:7:0, Discolored Urine:8:0, Odor of Urine:7:0, Pelvic Pain:6:0, Fever:7:0, Dysuria:23:0
+36 |  | Drug overdose | 0 | 
+--------------------------------------------------------------------------------

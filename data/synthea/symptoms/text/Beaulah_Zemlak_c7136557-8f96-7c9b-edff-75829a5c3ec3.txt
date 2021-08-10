@@ -1,0 +1,15 @@
+Beaulah Zemlak
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2019-10-04
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Viral sinusitis (disorder) | 9 | Sinus Pain:64:0, Headache:34:0, Pain with Bright Lights:34:0, Facial Swelling:43:0, Nasal Discharge:32:0, Nasal Congestion:7:0, Fever:5:0, Sore Throat:42:0, Cough:7:0
+0 |  | Fever (finding) | 3 | fever:1, sputum production:1, cough:1
+0 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, cough:1
+0 |  | Cough (finding) | 3 | fever:1, sputum production:1, cough:1
+0 | 0 | Suspected COVID-19 | 0 | 
+0 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

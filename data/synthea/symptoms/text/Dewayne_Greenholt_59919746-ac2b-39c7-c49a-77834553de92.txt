@@ -1,0 +1,75 @@
+Dewayne Greenholt
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1915-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+62 |  | Prediabetes | 0 | 
+62 |  | Neoplasm of prostate | 1 | urinary frequency:20
+62 |  | Carcinoma in situ of prostate (disorder) | 1 | urinary frequency:20
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 |  | Carcinoma in situ of prostate (disorder) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 | 65 | Not in labor force (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+65 | 65 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:41:0, Pain with Bright Lights:43:0, Facial Swelling:49:0, Nasal Discharge:40:0, Nasal Congestion:22:0, Fever:1:0, Sore Throat:22:0, Cough:35:0
+65 |  | Prediabetes | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 | 65 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 | 67 | Stress (finding) | 0 | 
+65 |  | Social isolation (finding) | 0 | 
+65 | 66 | Viral sinusitis (disorder) | 9 | Sinus Pain:65:0, Headache:44:0, Pain with Bright Lights:28:0, Facial Swelling:32:0, Nasal Discharge:48:0, Nasal Congestion:15:0, Fever:7:0, Sore Throat:8:0, Cough:14:0
+66 |  | Prediabetes | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 71 | Social isolation (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+68 | 68 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:6:0, Body Aches:24:0, Runny/Stuffy Nose:27:0, Fatigue:8:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:38:0, Decreased Appetite:20:0, Fever:10:0, Sore Throat:12:0, Cough:3:0
+68 |  | Prediabetes | 0 | 
+68 | 69 | Part-time employment (finding) | 0 | 
+68 |  | Served in armed forces (finding) | 0 | 
+68 | 69 | Stress (finding) | 0 | 
+69 | 69 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:17:0, Runny/Stuffy Nose:45:0, Fatigue:5:0, Swollen Lymph Nodes:24:0, Swollen Tonsils:32:0, Decreased Appetite:16:0, Fever:47:0, Sore Throat:17:0, Cough:45:0
+69 |  | Prediabetes | 0 | 
+69 | 69 | Part-time employment (finding) | 0 | 
+69 |  | Served in armed forces (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 |  | Served in armed forces (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Served in armed forces (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Part-time employment (finding) | 0 | 
+71 |  | Served in armed forces (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+72 |  | Polyp of colon | 0 | 
+72 |  | Primary malignant neoplasm of colon | 0 | 
+--------------------------------------------------------------------------------

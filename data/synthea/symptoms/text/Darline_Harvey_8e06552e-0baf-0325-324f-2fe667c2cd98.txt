@@ -1,0 +1,27 @@
+Darline Harvey
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2002-11-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+10 | 10 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:8:0, Body Aches:30:0, Runny/Stuffy Nose:14:0, Fatigue:12:0, Swollen Lymph Nodes:15:0, Swollen Tonsils:39:0, Decreased Appetite:10:0, Cough:32:0, Sore Throat:5:0, Fever:30:0
+11 | 11 | Sprain of ankle | 0 | 
+12 |  | Risk activity involvement (finding) | 0 | 
+13 | 17 | Risk activity involvement (finding) | 0 | 
+13 | 13 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:25:0, Runny/Stuffy Nose:7:0, Fatigue:27:0, Swollen Lymph Nodes:12:0, Swollen Tonsils:32:0, Decreased Appetite:20:0, Cough:48:0, Sore Throat:29:0, Fever:10:0
+14 | 14 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:17:0, Runny/Stuffy Nose:16:0, Fatigue:19:0, Swollen Lymph Nodes:68:0, Swollen Tonsils:52:0, Decreased Appetite:0:0, Cough:0:0, Sore Throat:26:0, Fever:24:0
+16 | 16 | Acute bacterial sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:23:0, Pain with Bright Lights:31:0, Facial Swelling:32:0, Nasal Discharge:0:0, Nasal Congestion:2:0, Cough:21:0, Sore Throat:39:0, Fever:21:0
+17 |  | Fever (finding) | 4 | fatigue:1, fever:1, cough:1, diarrhea:1
+17 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, cough:1, diarrhea:1
+17 |  | Cough (finding) | 4 | fatigue:1, fever:1, cough:1, diarrhea:1
+17 |  | Diarrhea symptom (finding) | 4 | fatigue:1, fever:1, cough:1, diarrhea:1
+17 | 17 | Suspected COVID-19 | 0 | 
+17 |  | COVID-19 | 0 | 
+18 |  | Hypertension | 0 | 
+18 |  | Limited social contact (finding) | 0 | 
+18 |  | Unemployed (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Normal pregnancy | 0 | 
+--------------------------------------------------------------------------------

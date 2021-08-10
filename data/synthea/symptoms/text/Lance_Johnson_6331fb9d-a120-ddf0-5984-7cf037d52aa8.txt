@@ -1,0 +1,40 @@
+Lance Johnson
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1988-02-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 |  | Has a criminal record (finding) | 0 | 
+25 | 28 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+27 | 27 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:8:0, Runny/Stuffy Nose:17:0, Fatigue:31:0, Swollen Lymph Nodes:60:0, Swollen Tonsils:55:0, Decreased Appetite:10:0, Sore Throat:44:0, Fever:43:0, Cough:0:0
+28 |  | Has a criminal record (finding) | 0 | 
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 31 | Stress (finding) | 0 | 
+28 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+29 | 29 | Viral sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:50:0, Pain with Bright Lights:25:0, Facial Swelling:35:0, Nasal Discharge:49:0, Nasal Congestion:2:0, Sore Throat:24:0, Fever:21:0, Cough:22:0
+31 |  | Has a criminal record (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+32 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+32 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+32 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+32 | 32 | Suspected COVID-19 | 0 | 
+32 |  | COVID-19 | 0 | 
+32 |  | Respiratory distress (finding) | 0 | 
+32 |  | Sepsis caused by virus (disorder) | 0 | 
+32 |  | Acquired coagulation disorder (disorder) | 0 | 
+32 |  | Pneumonia (disorder) | 0 | 
+32 |  | Hypoxemia (disorder) | 0 | 
+32 |  | Acute deep venous thrombosis (disorder) | 0 | 
+32 | 32 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:20:0, Fatigue:64:0, Mucus:40:0, Nasal Congestion:33:0, Shortness of Breath:33:0, Nausea/Vomiting:13:0, Sore Throat:44:0, Fever:37:0, Cough:35:0
+32 |  | Has a criminal record (finding) | 0 | 
+32 |  | Full-time employment (finding) | 0 | 
+32 |  | Victim of intimate partner abuse (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

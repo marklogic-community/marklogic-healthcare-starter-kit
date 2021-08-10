@@ -1,0 +1,69 @@
+Ellsworth Wisozk
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1915-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+64 |  | Prediabetes | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 | 72 | Victim of intimate partner abuse (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 66 | Stress (finding) | 0 | 
+64 | 64 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:23:0, Body Aches:22:0, Runny/Stuffy Nose:6:0, Fatigue:3:0, Swollen Lymph Nodes:31:0, Swollen Tonsils:11:0, Decreased Appetite:32:0, Fever:40:0, Sore Throat:7:0, Cough:28:0
+64 | 65 | Fracture of clavicle | 0 | 
+65 |  | Prediabetes | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 66 | Reports of violence in the environment (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 67 | Part-time employment (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 72 | Reports of violence in the environment (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Served in armed forces (finding) | 0 | 
+68 | 69 | Not in labor force (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 | 70 | Stress (finding) | 0 | 
+68 | 70 | Social isolation (finding) | 0 | 
+68 | 70 | Severe anxiety (panic) (finding | 0 | 
+68 | 68 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:37:0, Body Aches:27:0, Runny/Stuffy Nose:20:0, Fatigue:45:0, Swollen Lymph Nodes:12:0, Swollen Tonsils:17:0, Decreased Appetite:4:0, Fever:43:0, Sore Throat:27:0, Cough:30:0
+69 |  | Prediabetes | 0 | 
+69 |  | Served in armed forces (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Served in armed forces (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Served in armed forces (finding) | 0 | 
+71 | 72 | Part-time employment (finding) | 0 | 
+71 | 72 | Limited social contact (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Served in armed forces (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+72 | 72 | Viral sinusitis (disorder) | 9 | Sinus Pain:78:0, Headache:48:0, Pain with Bright Lights:34:0, Facial Swelling:40:0, Nasal Discharge:9:0, Nasal Congestion:12:0, Fever:11:0, Sore Throat:23:0, Cough:27:0
+--------------------------------------------------------------------------------

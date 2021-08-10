@@ -1,0 +1,52 @@
+Merlene Rogahn
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+69 |  | Body mass index 30+ - obesity (finding) | 0 | 
+69 | 70 | Not in labor force (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 | 69 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:22:0, Body Aches:37:0, Runny/Stuffy Nose:46:0, Fatigue:19:0, Swollen Lymph Nodes:48:0, Swollen Tonsils:13:0, Decreased Appetite:39:0, Sore Throat:13:0, Cough:26:0, Fever:5:0
+70 | 71 | Not in labor force (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+71 | 72 | Part-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 | 71 | Laceration of forearm | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+72 | 72 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:48:0, Body Aches:21:0, Runny/Stuffy Nose:13:0, Fatigue:27:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:2:0, Decreased Appetite:3:0, Sore Throat:33:0, Cough:31:0, Fever:35:0
+72 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:45, Memory Loss:1:5, Decreased in Judgement:12, Decreased Communication:24, Decreased Attentiveness:38, Confusion:26
+73 | 73 | Viral sinusitis (disorder) | 9 | Headache:30:0, Sinus Pain:66:0, Pain with Bright Lights:44:0, Facial Swelling:47:0, Nasal Discharge:41:0, Nasal Congestion:20:0, Sore Throat:46:0, Cough:39:0, Fever:12:0
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+74 |  | Body mass index 30+ - obesity (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+75 | 75 | Part-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 | 75 | Stress (finding) | 0 | 
+75 | 75 | Viral sinusitis (disorder) | 9 | Headache:13:0, Sinus Pain:72:0, Pain with Bright Lights:37:0, Facial Swelling:30:0, Nasal Discharge:47:0, Nasal Congestion:22:0, Sore Throat:48:0, Cough:38:0, Fever:11:0
+75 | 78 | Limited social contact (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+78 |  | Impacted molars | 0 | 
+78 |  | Part-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 |  | Chronic pain | 0 | 
+78 |  | Impacted molars | 0 | 
+--------------------------------------------------------------------------------

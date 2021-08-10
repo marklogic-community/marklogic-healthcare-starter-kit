@@ -1,0 +1,460 @@
+Hank Turner
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1954-12-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 | 58 | Social isolation (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 | 54 | Not in labor force (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 | 55 | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 | 55 | Laceration of foot | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 |  | Hypertriglyceridemia (disorder) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Hypertriglyceridemia (disorder) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Hypertriglyceridemia (disorder) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 | 63 | Severe anxiety (panic) (finding | 0 | 
+55 |  | Hypertriglyceridemia (disorder) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 | 56 | Part-time employment (finding) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 | 56 | Not in labor force (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 | 56 | Stress (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 | 56 | Part-time employment (finding) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 | 56 | Part-time employment (finding) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 | 63 | Victim of intimate partner abuse (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 | 57 | Not in labor force (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 | 57 | Part-time employment (finding) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 57 | Stress (finding) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 57 | Concussion with no loss of consciousness | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 | 58 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:5:0, Runny/Stuffy Nose:33:0, Fatigue:25:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:39:0, Decreased Appetite:22:0, Sore Throat:30:0, Fever:10:0, Cough:34:0
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 | 58 | Stress (finding) | 0 | 
+58 | 59 | Social isolation (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 59 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 | 59 | Stress (finding) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 59 | Reports of violence in the environment (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 59 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 | 59 | Acute bacterial sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:62:0, Pain with Bright Lights:41:0, Facial Swelling:37:0, Nasal Discharge:33:0, Nasal Congestion:22:0, Sore Throat:15:0, Fever:4:0, Cough:10:0
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 59 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 60 | Reports of violence in the environment (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 59 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 | 59 | Part-time employment (finding) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 59 | Limited social contact (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 59 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 60 | Limited social contact (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 60 | Not in labor force (finding) | 0 | 
+60 | 60 | Reports of violence in the environment (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 | 60 | Stress (finding) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 60 | Not in labor force (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 | 61 | Social isolation (finding) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 63 | Reports of violence in the environment (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 60 | Not in labor force (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 | 60 | Stress (finding) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 61 | Not in labor force (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 | 60 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:9:0, Body Aches:11:0, Runny/Stuffy Nose:35:0, Fatigue:46:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:38:0, Decreased Appetite:10:0, Sore Throat:40:0, Fever:37:0, Cough:32:0
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 | 61 | Stress (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 | 61 | Stress (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 | 61 | Part-time employment (finding) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 | 61 | Stress (finding) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 | 61 | Part-time employment (finding) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 | 62 | Stress (finding) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 62 | Limited social contact (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 | 62 | Stress (finding) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Neoplasm of prostate | 1 | urinary frequency:20
+62 |  | Metastasis from malignant tumor of prostate (disorder) | 1 | urinary frequency:20
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 | 62 | Part-time employment (finding) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 | 63 | Part-time employment (finding) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 | 63 | Stress (finding) | 0 | 
+63 | 63 | Social isolation (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Reports of violence in the environment (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 63 | Reports of violence in the environment (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 | 63 | Stress (finding) | 0 | 
+63 | 63 | Social isolation (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 63 | Not in labor force (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Full-time employment (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+Lyle Armstrong
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1973-03-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 |  | Prediabetes | 0 | 
+40 |  | Served in armed forces (finding) | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 |  | Stress (finding) | 0 | 
+42 |  | Prediabetes | 0 | 
+42 |  | Served in armed forces (finding) | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 | 46 | Stress (finding) | 0 | 
+46 |  | Prediabetes | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 | 48 | Victim of intimate partner abuse (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Victim of intimate partner abuse (finding) | 0 | 
+46 |  | Fever (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+46 |  | Sputum finding (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+46 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+46 |  | Cough (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+46 | 46 | Suspected COVID-19 | 0 | 
+46 |  | COVID-19 | 0 | 
+48 |  | Prediabetes | 0 | 
+48 |  | Served in armed forces (finding) | 0 | 
+48 |  | Full-time employment (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 | 48 | Viral sinusitis (disorder) | 9 | Headache:7:0, Sinus Pain:62:0, Pain with Bright Lights:48:0, Facial Swelling:34:0, Nasal Discharge:36:0, Nasal Congestion:14:0, Sore Throat:11:0, Cough:23:0, Fever:0:0
+--------------------------------------------------------------------------------

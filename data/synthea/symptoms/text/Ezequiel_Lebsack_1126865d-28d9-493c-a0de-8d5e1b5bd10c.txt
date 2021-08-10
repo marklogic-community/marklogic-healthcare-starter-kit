@@ -1,0 +1,66 @@
+Ezequiel Lebsack
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1915-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+60 |  | Neoplasm of prostate | 1 | urinary frequency:20
+60 |  | Carcinoma in situ of prostate (disorder) | 1 | urinary frequency:20
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 |  | Carcinoma in situ of prostate (disorder) | 0 | 
+60 | 60 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:19:0, Fatigue:42:0, Mucus:39:0, Nasal Congestion:32:0, Shortness of Breath:32:0, Nausea/Vomiting:14:0, Cough:62:0, Sore Throat:28:0, Fever:28:0
+60 | 61 | Part-time employment (finding) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 61 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:39:0, Runny/Stuffy Nose:47:0, Fatigue:30:0, Swollen Lymph Nodes:34:0, Swollen Tonsils:41:0, Decreased Appetite:3:0, Cough:1:0, Sore Throat:10:0, Fever:11:0
+61 |  | Served in armed forces (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 | 62 | Stress (finding) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 | 64 | Stress (finding) | 0 | 
+64 | 65 | Part-time employment (finding) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Victim of intimate partner abuse (finding) | 0 | 
+64 | 66 | Polyp of colon | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 | 66 | Stress (finding) | 0 | 
+66 | 66 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:6:0, Fatigue:42:0, Mucus:27:0, Nasal Congestion:48:0, Shortness of Breath:44:0, Nausea/Vomiting:3:0, Cough:55:0, Sore Throat:25:0, Fever:36:0
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Social isolation (finding) | 0 | 
+66 | 66 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:10:0, Body Aches:28:0, Runny/Stuffy Nose:28:0, Fatigue:45:0, Swollen Lymph Nodes:68:0, Swollen Tonsils:50:0, Decreased Appetite:20:0, Cough:0:0, Sore Throat:26:0, Fever:39:0
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 | 69 | Social isolation (finding) | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 68 | Stress (finding) | 0 | 
+68 |  | Served in armed forces (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+69 |  | Served in armed forces (finding) | 0 | 
+69 |  | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 | 69 | Viral sinusitis (disorder) | 9 | Sinus Pain:65:0, Headache:4:0, Pain with Bright Lights:45:0, Facial Swelling:8:0, Nasal Discharge:20:0, Nasal Congestion:17:0, Cough:35:0, Sore Throat:23:0, Fever:0:0
+--------------------------------------------------------------------------------

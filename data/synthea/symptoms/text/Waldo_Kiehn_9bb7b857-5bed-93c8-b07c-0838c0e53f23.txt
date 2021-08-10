@@ -1,0 +1,41 @@
+Waldo Kiehn
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1957-12-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 |  | Unemployed (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Social isolation (finding) | 0 | 
+29 | 29 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:5:0, Fatigue:31:0, Mucus:27:0, Nasal Congestion:44:0, Shortness of Breath:73:0, Nausea/Vomiting:12:0, Cough:74:0, Sore Throat:32:0, Fever:49:0
+29 |  | Unemployed (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 35 | Social isolation (finding) | 0 | 
+30 |  | Unemployed (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 | 30 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:41:0, Runny/Stuffy Nose:23:0, Fatigue:2:0, Swollen Lymph Nodes:41:0, Swollen Tonsils:45:0, Decreased Appetite:23:0, Cough:34:0, Sore Throat:8:0, Fever:19:0
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+32 |  | Unemployed (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+33 |  | Unemployed (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+34 |  | Unemployed (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+35 |  | Unemployed (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+35 |  | Victim of intimate partner abuse (finding) | 0 | 
+36 |  | Unemployed (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+37 |  | Unemployed (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+37 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

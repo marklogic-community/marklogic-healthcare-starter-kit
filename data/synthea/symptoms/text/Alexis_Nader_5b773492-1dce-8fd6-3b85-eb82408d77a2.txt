@@ -1,0 +1,75 @@
+Alexis Nader
+============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1923-05-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+70 |  | Prediabetes | 0 | 
+70 |  | Refugee (person) | 0 | 
+70 |  | Served in armed forces (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 | 72 | Polyp of colon | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Refugee (person) | 0 | 
+71 |  | Served in armed forces (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 | 71 | Sprain of ankle | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Refugee (person) | 0 | 
+72 |  | Served in armed forces (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 | 73 | Social isolation (finding) | 0 | 
+72 | 73 | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 74 | Part-time employment (finding) | 0 | 
+73 |  | Refugee (person) | 0 | 
+73 |  | Served in armed forces (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Refugee (person) | 0 | 
+74 |  | Served in armed forces (finding) | 0 | 
+74 |  | Limited social contact (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Refugee (person) | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 | 78 | Limited social contact (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 | 76 | Stress (finding) | 0 | 
+75 |  | Suspected lung cancer (situation) | 2 | Chest Pain:57, Cough:99
+75 |  | Non-small cell lung cancer (disorder) | 0 | 
+76 |  | Non-small cell carcinoma of lung  TNM stage 1 (disorder) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Refugee (person) | 0 | 
+76 |  | Served in armed forces (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Refugee (person) | 0 | 
+77 |  | Served in armed forces (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 | 78 | Stress (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 |  | Refugee (person) | 0 | 
+78 |  | Served in armed forces (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 |  | Refugee (person) | 0 | 
+79 |  | Served in armed forces (finding) | 0 | 
+79 |  | Limited social contact (finding) | 0 | 
+79 |  | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

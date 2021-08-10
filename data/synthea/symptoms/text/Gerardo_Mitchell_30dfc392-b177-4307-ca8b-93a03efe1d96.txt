@@ -1,0 +1,48 @@
+Gerardo Mitchell
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1982-12-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+29 | 30 | Part-time employment (finding) | 0 | 
+29 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 | 33 | Stress (finding) | 0 | 
+31 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 | 33 | Social isolation (finding) | 0 | 
+32 | 32 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:8:0, Body Aches:27:0, Runny/Stuffy Nose:30:0, Fatigue:19:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:12:0, Decreased Appetite:44:0, Fever:8:0, Sore Throat:16:0, Cough:39:0
+33 | 34 | Part-time employment (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 | 38 | Limited social contact (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 | 35 | Victim of intimate partner abuse (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+34 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+36 | 37 | Part-time employment (finding) | 0 | 
+36 | 38 | Reports of violence in the environment (finding) | 0 | 
+36 | 38 | Victim of intimate partner abuse (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+37 |  | Fever (finding) | 2 | fever:1, cough:1
+37 |  | Cough (finding) | 2 | fever:1, cough:1
+37 | 37 | Suspected COVID-19 | 0 | 
+37 |  | COVID-19 | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+38 |  | Not in labor force (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

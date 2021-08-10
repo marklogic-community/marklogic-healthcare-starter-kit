@@ -1,0 +1,551 @@
+
+2020-05-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 23 year-old non-hispanic asian male. Patient has a history of muscle pain (finding), acute bacterial sinusitis (disorder), whiplash injury to neck, fatigue (finding), headache (finding), joint pain (finding), acute viral pharyngitis (disorder), viral sinusitis (disorder), suspected covid-19, covid-19, part-time employment (finding), acute bronchitis (disorder), fever (finding), not in labor force (finding), cough (finding), loss of taste (finding), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hep b, adult. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2020-04-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 23 year-old non-hispanic asian male. Patient has a history of muscle pain (finding), acute bacterial sinusitis (disorder), whiplash injury to neck, fatigue (finding), headache (finding), joint pain (finding), viral sinusitis (disorder), suspected covid-19, covid-19, part-time employment (finding), acute bronchitis (disorder), fever (finding), not in labor force (finding), cough (finding), loss of taste (finding), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+
+
+
+2020-03-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 23 year-old non-hispanic asian male. Patient has a history of acute bacterial sinusitis (disorder), part-time employment (finding), acute bronchitis (disorder), whiplash injury to neck, not in labor force (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with headache (finding), cough (finding), fatigue (finding), muscle pain (finding), joint pain (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-06-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 22 year-old non-hispanic asian male. Patient has a history of acute bacterial sinusitis (disorder), part-time employment (finding), whiplash injury to neck, not in labor force (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder), part-time employment (finding), misuses drugs (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- sputum examination (procedure)
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2019-06-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 22 year-old non-hispanic asian male. Patient has a history of acute bacterial sinusitis (disorder), part-time employment (finding), whiplash injury to neck, not in labor force (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hep b, adult. 
+
+
+
+2019-03-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 22 year-old non-hispanic asian male. Patient has a history of acute bacterial sinusitis (disorder), whiplash injury to neck, not in labor force (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free, hep b, adult, meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2016-07-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 19 year-old non-hispanic asian male. Patient has a history of acute bacterial sinusitis (disorder), whiplash injury to neck, not in labor force (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2016-05-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 19 year-old non-hispanic asian male. Patient has a history of whiplash injury to neck, not in labor force (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute bacterial sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2016-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 19 year-old non-hispanic asian male. Patient has a history of whiplash injury to neck, not in labor force (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2015-09-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 18 year-old non-hispanic asian male. Patient has a history of whiplash injury to neck, not in labor force (finding), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2015-03-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 18 year-old non-hispanic asian male. Patient has a history of whiplash injury to neck.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding), not in labor force (finding), social isolation (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+
+
+
+2014-09-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 17 year-old non-hispanic asian male.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with whiplash injury to neck. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- ibuprofen 200 mg oral tablet
+The patient was placed on a careplan:
+- musculoskeletal care
+
+
+
+2014-02-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 17 year-old non-hispanic asian male.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- health risks education (procedure)
+
+
+
+2013-02-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 16 year-old non-hispanic asian male.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, meningococcal mcv4p. 
+
+
+
+2012-02-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 15 year-old non-hispanic asian male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2003-08-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Evan
+ is a 6 year-old non-hispanic asian male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with chronic sinusitis (disorder). 
+
+## Plan
+
+
+
+

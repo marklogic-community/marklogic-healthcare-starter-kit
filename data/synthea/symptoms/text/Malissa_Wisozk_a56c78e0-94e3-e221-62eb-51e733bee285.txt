@@ -1,0 +1,11 @@
+Malissa Wisozk
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2019-09-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 1 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:13:0, Pain with Bright Lights:41:0, Facial Swelling:46:0, Nasal Discharge:0:0, Nasal Congestion:9:0, Fever:22:0, Sore Throat:29:0, Cough:46:0
+1 |  | Otitis media | 0 | 
+--------------------------------------------------------------------------------

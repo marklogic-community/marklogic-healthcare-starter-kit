@@ -1,0 +1,65 @@
+Lashunda Little
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1964-05-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 | 47 | Viral sinusitis (disorder) | 9 | Headache:4:0, Sinus Pain:66:0, Pain with Bright Lights:36:0, Facial Swelling:5:0, Nasal Discharge:18:0, Nasal Congestion:12:0, Sore Throat:10:0, Cough:37:0, Fever:21:0
+48 |  | Prediabetes | 0 | 
+48 |  | Unemployed (finding) | 0 | 
+48 | 57 | Victim of intimate partner abuse (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 | 57 | Social isolation (finding) | 0 | 
+48 | 48 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:7:0, Fatigue:58:0, Mucus:33:0, Nasal Congestion:31:0, Shortness of Breath:58:0, Nausea/Vomiting:22:0, Sore Throat:33:0, Cough:60:0, Fever:39:0
+48 |  | Prediabetes | 0 | 
+48 |  | Unemployed (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 |  | Unemployed (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 | 51 | Cystitis | 7 | Frequent Urination:16:0, Urgent Desire to Urinate:18:0, Discolored Urine:1:0, Odor of Urine:2:0, Pelvic Pain:12:0, Fever:3:0, Dysuria:8:0
+51 | 51 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:19:0, Body Aches:12:0, Runny/Stuffy Nose:34:0, Fatigue:37:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:12:0, Decreased Appetite:0:0, Sore Throat:22:0, Cough:39:0, Fever:36:0
+52 |  | Prediabetes | 0 | 
+52 |  | Unemployed (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 | 54 | Stress (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Unemployed (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 |  | Cholelithiasis | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Unemployed (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 |  | Unemployed (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 | 55 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:5:0, Fatigue:38:0, Mucus:39:0, Nasal Congestion:38:0, Shortness of Breath:59:0, Nausea/Vomiting:4:0, Sore Throat:40:0, Cough:33:0, Fever:27:0
+55 |  | Vomiting symptom (finding) | 5 | fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+55 |  | Fever (finding) | 5 | fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+55 |  | Cough (finding) | 5 | fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+55 |  | Nausea (finding) | 5 | fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+55 |  | Loss of taste (finding) | 5 | fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+55 | 55 | Suspected COVID-19 | 0 | 
+55 |  | COVID-19 | 0 | 
+55 |  | Respiratory distress (finding) | 0 | 
+55 |  | Pneumonia (disorder) | 0 | 
+55 |  | Hypoxemia (disorder) | 0 | 
+55 | 55 | Sprain of wrist | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Unemployed (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+56 | 56 | Viral sinusitis (disorder) | 9 | Headache:16:0, Sinus Pain:76:0, Pain with Bright Lights:30:0, Facial Swelling:20:0, Nasal Discharge:48:0, Nasal Congestion:14:0, Sore Throat:26:0, Cough:41:0, Fever:10:0
+57 |  | Prediabetes | 0 | 
+57 |  | Unemployed (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

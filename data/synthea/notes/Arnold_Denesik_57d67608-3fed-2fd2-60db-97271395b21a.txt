@@ -1,0 +1,510 @@
+
+2021-04-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 13 year-old non-hispanic black male. Patient has a history of covid-19, fever (finding), fracture of forearm, cough (finding), viral sinusitis (disorder), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with coronary heart disease. 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- depression screening (procedure)
+- medication reconciliation (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+The patient was prescribed the following medications:
+- clopidogrel 75 mg oral tablet
+- simvastatin 20 mg oral tablet
+- amlodipine 5 mg oral tablet
+- nitroglycerin 0.4 mg/actuat mucosal spray
+- clopidogrel 75 mg oral tablet
+- nitroglycerin 0.4 mg/actuat mucosal spray
+- simvastatin 20 mg oral tablet
+- amlodipine 5 mg oral tablet
+
+
+
+2020-04-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 12 year-old non-hispanic black male. Patient has a history of covid-19, fever (finding), fracture of forearm, cough (finding), viral sinusitis (disorder), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- depression screening (procedure)
+- medication reconciliation (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2020-03-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 11 year-old non-hispanic black male. Patient has a history of fracture of forearm, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-04-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 11 year-old non-hispanic black male. Patient has a history of fracture of forearm, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2018-04-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 10 year-old non-hispanic black male. Patient has a history of fracture of forearm, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-03-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 9 year-old non-hispanic black male. Patient has a history of fracture of forearm, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2016-03-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 7 year-old non-hispanic black male. Patient has a history of fracture of forearm, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2015-03-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 6 year-old non-hispanic black male. Patient has a history of fracture of forearm, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2015-01-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 6 year-old non-hispanic black male. Patient has a history of fracture of forearm.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2014-03-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 5 year-old non-hispanic black male. Patient has a history of fracture of forearm.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2013-03-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 4 year-old non-hispanic black male. Patient has a history of fracture of forearm.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: varicella, ipv, influenza, seasonal, injectable, preservative free, dtap, mmr. 
+
+
+
+2012-02-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 3 year-old non-hispanic black male. Patient has a history of fracture of forearm.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2012-02-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 3 year-old non-hispanic black male. Patient has a history of fracture of forearm.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2011-11-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 3 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with fracture of forearm. 
+
+## Plan
+
+The following procedures were conducted:
+- upper arm x-ray
+- bone immobilization
+The patient was prescribed the following medications:
+- acetaminophen 160 mg chewable tablet
+The patient was placed on a careplan:
+- fracture care
+
+
+
+2011-08-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Arnold
+ is a 3 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: pneumococcal conjugate pcv 13. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+

@@ -1,0 +1,36 @@
+Ling Sauer
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1955-07-22
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+38 | 38 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:8:0, Fatigue:61:0, Mucus:29:0, Nasal Congestion:39:0, Shortness of Breath:72:0, Nausea/Vomiting:17:0, Sore Throat:49:0, Cough:50:0, Fever:40:0
+38 | 39 | Concussion with no loss of consciousness | 0 | 
+39 | 40 | Normal pregnancy | 0 | 
+39 |  | Anemia (disorder) | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+41 | 41 | Normal pregnancy | 0 | 
+41 |  | Miscarriage in first trimester | 0 | 
+41 | 41 | Fetus with unknown complication | 0 | 
+41 | 41 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:25:0, Runny/Stuffy Nose:30:0, Fatigue:25:0, Swollen Lymph Nodes:5:0, Swollen Tonsils:48:0, Decreased Appetite:40:0, Sore Throat:7:0, Cough:23:0, Fever:40:0
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 | 46 | Limited social contact (finding) | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 46 | Stress (finding) | 0 | 
+43 | 43 | Sprain of ankle | 0 | 
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Malignant neoplasm of breast (disorder) | 0 | 
+44 | 44 | Normal pregnancy | 0 | 
+44 |  | Miscarriage in second trimester | 0 | 
+44 | 44 | Fetus with chromosomal abnormality | 0 | 
+45 | 45 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:21:0, Fatigue:43:0, Mucus:27:0, Nasal Congestion:26:0, Shortness of Breath:73:0, Nausea/Vomiting:9:0, Sore Throat:26:0, Cough:63:0, Fever:27:0
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 |  | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

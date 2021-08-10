@@ -1,0 +1,70 @@
+Hallie Hegmann
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1933-09-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 |  | Housing unsatisfactory (finding) | 0 | 
+47 |  | Has a criminal record (finding) | 0 | 
+47 | 49 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 | 48 | Stress (finding) | 0 | 
+47 | 48 | Social isolation (finding) | 0 | 
+48 | 48 | Acute bacterial sinusitis (disorder) | 9 | Headache:28:0, Sinus Pain:63:72:0, Pain with Bright Lights:44:0, Facial Swelling:49:0, Nasal Discharge:20:0, Nasal Congestion:10:0, Sore Throat:22:0, Cough:3:0, Fever:23:0
+48 |  | Housing unsatisfactory (finding) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+49 |  | Limited social contact (finding) | 0 | 
+49 |  | Housing unsatisfactory (finding) | 0 | 
+49 |  | Has a criminal record (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+50 |  | Housing unsatisfactory (finding) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+50 |  | Social isolation (finding) | 0 | 
+50 | 50 | Escherichia coli urinary tract infection | 7 | Frequent Urination:14:0, Urgent Desire to Urinate:13:0, Discolored Urine:7:0, Odor of Urine:4:0, Pelvic Pain:13:0, Fever:7:0, Dysuria:24:0
+50 | 50 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:23:0, Runny/Stuffy Nose:33:0, Fatigue:20:0, Swollen Lymph Nodes:23:0, Swollen Tonsils:10:0, Decreased Appetite:13:0, Sore Throat:13:0, Cough:20:0, Fever:43:0
+51 | 51 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:12:0, Body Aches:49:0, Runny/Stuffy Nose:15:0, Fatigue:33:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:36:0, Decreased Appetite:11:0, Sore Throat:37:0, Cough:1:0, Fever:11:0
+51 |  | Housing unsatisfactory (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 |  | Social isolation (finding) | 0 | 
+52 |  | Housing unsatisfactory (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 | 54 | Social isolation (finding) | 0 | 
+52 | 52 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:1:0, Runny/Stuffy Nose:22:0, Fatigue:5:0, Swollen Lymph Nodes:34:0, Swollen Tonsils:16:0, Decreased Appetite:4:0, Sore Throat:9:0, Cough:19:0, Fever:48:0
+53 |  | Housing unsatisfactory (finding) | 0 | 
+53 | 56 | Reports of violence in the environment (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+54 |  | Suspected lung cancer (situation) | 2 | Chest Pain:87, Cough:92
+54 |  | Small cell carcinoma of lung (disorder) | 0 | 
+54 |  | Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder) | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Housing unsatisfactory (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+55 | 56 | Limited social contact (finding) | 0 | 
+55 |  | Housing unsatisfactory (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 |  | Part-time employment (finding) | 0 | 
+56 |  | Housing unsatisfactory (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

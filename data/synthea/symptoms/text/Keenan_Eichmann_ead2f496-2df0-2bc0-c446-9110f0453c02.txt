@@ -1,0 +1,60 @@
+Keenan Eichmann
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1961-02-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+51 |  | Prediabetes | 0 | 
+51 |  | Refugee (person) | 0 | 
+51 | 53 | Limited social contact (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 |  | Refugee (person) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Refugee (person) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 | 57 | Stress (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Refugee (person) | 0 | 
+54 |  | Limited social contact (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Refugee (person) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 60 | Social isolation (finding) | 0 | 
+55 | 60 | Severe anxiety (panic) (finding | 0 | 
+55 | 55 | Viral sinusitis (disorder) | 9 | Headache:49:0, Sinus Pain:63:0, Pain with Bright Lights:43:0, Facial Swelling:47:0, Nasal Discharge:0:0, Nasal Congestion:22:0, Sore Throat:9:0, Fever:3:0, Cough:15:0
+56 |  | Prediabetes | 0 | 
+56 | 57 | Part-time employment (finding) | 0 | 
+56 |  | Refugee (person) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Refugee (person) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 |  | Refugee (person) | 0 | 
+58 | 59 | Not in labor force (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 |  | Refugee (person) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 60 | Stress (finding) | 0 | 
+59 | 59 | Viral sinusitis (disorder) | 9 | Headache:19:0, Sinus Pain:58:0, Pain with Bright Lights:31:0, Facial Swelling:10:0, Nasal Discharge:17:0, Nasal Congestion:4:0, Sore Throat:26:0, Fever:10:0, Cough:24:0
+60 |  | Prediabetes | 0 | 
+60 |  | Refugee (person) | 0 | 
+60 |  | Full-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

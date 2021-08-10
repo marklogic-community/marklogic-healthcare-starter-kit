@@ -1,0 +1,97 @@
+Dana Kreiger
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1972-10-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+39 | 39 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:20:0, Fatigue:27:0, Mucus:39:0, Nasal Congestion:44:0, Shortness of Breath:32:0, Nausea/Vomiting:14:0, Sore Throat:36:0, Cough:46:0, Fever:34:0
+39 |  | Metabolic syndrome X (disorder) | 0 | 
+39 |  | Hypertriglyceridemia (disorder) | 0 | 
+39 |  | Diabetes | 0 | 
+39 | 39 | Full-time employment (finding) | 0 | 
+39 |  | Received higher education (finding) | 0 | 
+39 | 39 | Stress (finding) | 0 | 
+39 |  | Metabolic syndrome X (disorder) | 0 | 
+39 |  | Hypertriglyceridemia (disorder) | 0 | 
+39 |  | Diabetes | 0 | 
+39 |  | Anemia (disorder) | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Received higher education (finding) | 0 | 
+40 |  | Neuropathy due to type 2 diabetes mellitus (disorder) | 0 | 
+40 |  | Metabolic syndrome X (disorder) | 0 | 
+40 |  | Hypertriglyceridemia (disorder) | 0 | 
+40 |  | Diabetes | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 41 | Stress (finding) | 0 | 
+41 |  | Chronic low back pain (finding) | 0 | 
+41 |  | Chronic neck pain (finding) | 0 | 
+41 |  | Chronic low back pain (finding) | 0 | 
+41 |  | Chronic neck pain (finding) | 0 | 
+41 |  | Metabolic syndrome X (disorder) | 0 | 
+41 |  | Hypertriglyceridemia (disorder) | 0 | 
+41 |  | Diabetes | 0 | 
+41 | 42 | Part-time employment (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+42 |  | Hypertriglyceridemia (disorder) | 0 | 
+42 |  | Diabetes | 0 | 
+42 | 43 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 46 | Stress (finding) | 0 | 
+43 |  | Metabolic syndrome X (disorder) | 0 | 
+43 |  | Hypertriglyceridemia (disorder) | 0 | 
+43 |  | Diabetes | 0 | 
+43 | 44 | Not in labor force (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+44 |  | Metabolic syndrome X (disorder) | 0 | 
+44 |  | Hypertriglyceridemia (disorder) | 0 | 
+44 |  | Diabetes | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+45 |  | Metabolic syndrome X (disorder) | 0 | 
+45 |  | Hypertriglyceridemia (disorder) | 0 | 
+45 |  | Diabetes | 0 | 
+45 | 46 | Not in labor force (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Social isolation (finding) | 0 | 
+45 |  | Victim of intimate partner abuse (finding) | 0 | 
+45 | 47 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+46 |  | Hypertriglyceridemia (disorder) | 0 | 
+46 |  | Diabetes | 0 | 
+46 |  | Limited social contact (finding) | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 |  | Dyspnea (finding) | 4 | fever:1, dyspnea:1, loss_of_taste:1, cough:1
+47 |  | Fever (finding) | 4 | fever:1, dyspnea:1, loss_of_taste:1, cough:1
+47 |  | Wheezing (finding) | 4 | fever:1, dyspnea:1, loss_of_taste:1, cough:1
+47 |  | Cough (finding) | 4 | fever:1, dyspnea:1, loss_of_taste:1, cough:1
+47 |  | Loss of taste (finding) | 4 | fever:1, dyspnea:1, loss_of_taste:1, cough:1
+47 | 47 | Suspected COVID-19 | 0 | 
+47 |  | COVID-19 | 0 | 
+47 |  | Acute respiratory failure (disorder) | 0 | 
+47 |  | Respiratory distress (finding) | 0 | 
+47 |  | Pneumonia (disorder) | 0 | 
+47 |  | Hypoxemia (disorder) | 0 | 
+47 |  | Acute pulmonary embolism (disorder) | 0 | 
+47 | 47 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:44:0, Runny/Stuffy Nose:12:0, Fatigue:46:0, Swollen Lymph Nodes:14:0, Swollen Tonsils:45:0, Decreased Appetite:18:0, Sore Throat:25:0, Cough:9:0, Fever:31:0
+47 |  | Metabolic syndrome X (disorder) | 0 | 
+47 |  | Hypertriglyceridemia (disorder) | 0 | 
+47 |  | Diabetes | 0 | 
+47 | 47 | Not in labor force (finding) | 0 | 
+47 | 48 | Limited social contact (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+47 |  | Metabolic syndrome X (disorder) | 0 | 
+47 |  | Hypertriglyceridemia (disorder) | 0 | 
+47 |  | Diabetes | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 |  | Hypertriglyceridemia (disorder) | 0 | 
+48 |  | Diabetes | 0 | 
+48 |  | Part-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

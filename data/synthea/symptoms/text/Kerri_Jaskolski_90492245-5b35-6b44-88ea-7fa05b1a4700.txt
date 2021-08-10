@@ -1,0 +1,28 @@
+Kerri Jaskolski
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1988-10-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 |  | Body mass index 30+ - obesity (finding) | 0 | 
+25 |  | Housing unsatisfactory (finding) | 0 | 
+25 | 28 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 | 31 | Social isolation (finding) | 0 | 
+26 | 26 | Laceration of foot | 0 | 
+26 | 26 | Viral sinusitis (disorder) | 9 | Headache:4:0, Sinus Pain:69:0, Pain with Bright Lights:38:0, Facial Swelling:19:0, Nasal Discharge:29:0, Nasal Congestion:13:0, Sore Throat:39:0, Cough:32:0, Fever:13:0
+28 |  | Body mass index 30+ - obesity (finding) | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+28 | 28 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:14:0, Body Aches:38:0, Runny/Stuffy Nose:1:0, Fatigue:34:0, Swollen Lymph Nodes:11:0, Swollen Tonsils:49:0, Decreased Appetite:15:0, Sore Throat:45:0, Cough:44:0, Fever:20:0
+29 | 29 | Viral sinusitis (disorder) | 9 | Headache:6:0, Sinus Pain:69:0, Pain with Bright Lights:39:0, Facial Swelling:24:0, Nasal Discharge:41:0, Nasal Congestion:6:0, Sore Throat:48:0, Cough:10:0, Fever:14:0
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 |  | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

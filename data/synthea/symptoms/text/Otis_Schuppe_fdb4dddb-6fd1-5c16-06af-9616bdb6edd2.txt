@@ -1,0 +1,17 @@
+Otis Schuppe
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2019-11-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Viral sinusitis (disorder) | 9 | Sinus Pain:52:0, Headache:33:0, Pain with Bright Lights:44:0, Facial Swelling:40:0, Nasal Discharge:14:0, Nasal Congestion:17:0, Fever:20:0, Sore Throat:39:0, Cough:21:0
+0 |  | Fever (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+0 |  | Sputum finding (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+0 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+0 |  | Cough (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+0 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+0 | 0 | Suspected COVID-19 | 0 | 
+0 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

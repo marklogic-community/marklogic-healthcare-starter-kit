@@ -1,0 +1,404 @@
+
+2020-06-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 46 year-old non-hispanic white female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), suspected covid-19, stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2020-02-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 45 year-old non-hispanic white female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fatigue (finding), fever (finding), suspected covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+
+
+
+2018-06-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 44 year-old non-hispanic white female. Patient has a history of part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2016-05-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 42 year-old non-hispanic white female. Patient has a history of part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free, hep a, adult. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2014-05-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 40 year-old non-hispanic white female. Patient has a history of part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hep a, adult. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2011-08-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 37 year-old non-hispanic white female. Patient has a history of part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), misuses drugs (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2008-08-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 34 year-old non-hispanic white female. Patient has a history of limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding), part-time employment (finding). 
+
+## Plan
+
+
+
+
+2005-07-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 31 year-old non-hispanic white female. Patient has a history of full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), limited social contact (finding), stress (finding). 
+
+## Plan
+
+
+
+
+2002-07-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 28 year-old non-hispanic white female. Patient has a history of full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+1998-02-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 23 year-old non-hispanic white female. Patient has a history of full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with history of appendectomy. 
+
+## Plan
+
+
+
+
+1998-02-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 23 year-old non-hispanic white female. Patient has a history of full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with appendicitis. 
+
+## Plan
+
+
+
+
+1992-07-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Maudie
+ is a 18 year-old non-hispanic white female.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding), full-time employment (finding), stress (finding). 
+
+## Plan
+
+
+
+

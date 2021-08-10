@@ -1,0 +1,65 @@
+Henriette Fahey
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1988-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+24 |  | Housing unsatisfactory (finding) | 0 | 
+24 |  | Unemployed (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 | 25 | Normal pregnancy | 0 | 
+25 |  | Housing unsatisfactory (finding) | 0 | 
+25 |  | Unemployed (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 | 26 | Normal pregnancy | 0 | 
+26 | 26 | Acute bacterial sinusitis (disorder) | 9 | Headache:20:0, Sinus Pain:72:105:113:0, Pain with Bright Lights:34:0, Facial Swelling:49:0, Nasal Discharge:34:0, Nasal Congestion:17:0, Sore Throat:22:0, Cough:43:0, Fever:19:0
+26 |  | Housing unsatisfactory (finding) | 0 | 
+26 |  | Unemployed (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+26 |  | Housing unsatisfactory (finding) | 0 | 
+26 |  | Unemployed (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 | 27 | Stress (finding) | 0 | 
+26 |  | Chronic sinusitis (disorder) | 9 | Headache:0:27:0, Sinus Pain:105:113:0:65:0, Pain with Bright Lights:0:38:0, Facial Swelling:0:9:0, Nasal Discharge:0:7:0, Nasal Congestion:0:17:0, Sore Throat:0:40:0, Cough:0:29:0, Fever:0:24:0
+26 |  | Housing unsatisfactory (finding) | 0 | 
+26 |  | Unemployed (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+27 |  | Housing unsatisfactory (finding) | 0 | 
+27 |  | Unemployed (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 28 | Normal pregnancy | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 |  | Unemployed (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+29 |  | Limited social contact (finding) | 0 | 
+29 |  | Housing unsatisfactory (finding) | 0 | 
+29 |  | Unemployed (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 30 | Stress (finding) | 0 | 
+30 |  | Housing unsatisfactory (finding) | 0 | 
+30 |  | Unemployed (finding) | 0 | 
+30 | 32 | Victim of intimate partner abuse (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 | 31 | Social isolation (finding) | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 32 | Stress (finding) | 0 | 
+32 |  | Fever (finding) | 5 | fatigue:1, sore throat:1, fever:1, sputum production:1, cough:1
+32 |  | Sputum finding (finding) | 5 | fatigue:1, sore throat:1, fever:1, sputum production:1, cough:1
+32 |  | Fatigue (finding) | 5 | fatigue:1, sore throat:1, fever:1, sputum production:1, cough:1
+32 |  | Sore throat symptom (finding) | 5 | fatigue:1, sore throat:1, fever:1, sputum production:1, cough:1
+32 |  | Cough (finding) | 5 | fatigue:1, sore throat:1, fever:1, sputum production:1, cough:1
+32 | 32 | Suspected COVID-19 | 0 | 
+32 |  | COVID-19 | 0 | 
+32 |  | Housing unsatisfactory (finding) | 0 | 
+32 |  | Unemployed (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 |  | Social isolation (finding) | 0 | 
+33 | 33 | Viral sinusitis (disorder) | 9 | Headache:27:0, Sinus Pain:65:0, Pain with Bright Lights:38:0, Facial Swelling:9:0, Nasal Discharge:7:0, Nasal Congestion:17:0, Sore Throat:40:0, Cough:29:0, Fever:24:0
+--------------------------------------------------------------------------------

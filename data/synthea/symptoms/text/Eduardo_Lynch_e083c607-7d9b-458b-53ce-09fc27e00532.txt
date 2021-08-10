@@ -1,0 +1,34 @@
+Eduardo Lynch
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1980-05-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Only received primary school education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+33 | 33 | Viral sinusitis (disorder) | 9 | Headache:22:0, Sinus Pain:57:0, Pain with Bright Lights:35:0, Facial Swelling:3:0, Nasal Discharge:38:0, Nasal Congestion:24:0, Sore Throat:20:0, Cough:4:0, Fever:2:0
+33 |  | Chronic low back pain (finding) | 0 | 
+33 |  | Drug overdose | 0 | 
+34 |  | Unemployed (finding) | 0 | 
+34 |  | Only received primary school education (finding) | 0 | 
+34 | 40 | Stress (finding) | 0 | 
+34 |  | Drug overdose | 0 | 
+37 |  | Unemployed (finding) | 0 | 
+37 |  | Only received primary school education (finding) | 0 | 
+39 |  | Drug overdose | 0 | 
+39 |  | Drug overdose | 0 | 
+39 |  | Dyspnea (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+39 |  | Fever (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+39 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+39 |  | Wheezing (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+39 |  | Loss of taste (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+39 | 39 | Suspected COVID-19 | 0 | 
+39 |  | COVID-19 | 0 | 
+40 |  | Prediabetes | 0 | 
+40 |  | Unemployed (finding) | 0 | 
+40 |  | Only received primary school education (finding) | 0 | 
+41 |  | Drug overdose | 0 | 
+--------------------------------------------------------------------------------

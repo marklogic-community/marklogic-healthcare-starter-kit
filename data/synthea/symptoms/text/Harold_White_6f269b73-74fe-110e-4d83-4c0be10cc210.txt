@@ -1,0 +1,66 @@
+Harold White
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+70 | 70 | Viral sinusitis (disorder) | 9 | Headache:28:0, Sinus Pain:55:0, Pain with Bright Lights:25:0, Facial Swelling:7:0, Nasal Discharge:2:0, Nasal Congestion:1:0, Sore Throat:48:0, Cough:30:0, Fever:7:0
+70 |  | Drug overdose | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 | 71 | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 73 | Part-time employment (finding) | 0 | 
+71 | 77 | Limited social contact (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+73 |  | Drug overdose | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Not in labor force (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 | 80 | Victim of intimate partner abuse (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 | 77 | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Not in labor force (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 | 76 | Viral sinusitis (disorder) | 9 | Headache:30:0, Sinus Pain:67:0, Pain with Bright Lights:28:0, Facial Swelling:41:0, Nasal Discharge:2:0, Nasal Congestion:12:0, Sore Throat:13:0, Cough:49:0, Fever:7:0
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 | 78 | Not in labor force (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+78 |  | Hyperlipidemia | 1 | weight gain:1
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 80 | Social isolation (finding) | 0 | 
+78 |  | Drug overdose | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Drug overdose | 0 | 
+79 | 79 | Viral sinusitis (disorder) | 9 | Headache:8:0, Sinus Pain:73:0, Pain with Bright Lights:49:0, Facial Swelling:14:0, Nasal Discharge:32:0, Nasal Congestion:17:0, Sore Throat:14:0, Cough:22:0, Fever:21:0
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 | 80 | Stress (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Full-time employment (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

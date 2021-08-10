@@ -1,0 +1,18 @@
+Bruna Huel
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2015-01-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 2 | Viral sinusitis (disorder) | 9 | Sinus Pain:78:0, Headache:40:0, Pain with Bright Lights:30:0, Facial Swelling:21:0, Nasal Discharge:35:0, Nasal Congestion:12:0, Fever:4:0, Sore Throat:7:0, Cough:26:0
+4 | 4 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:13:0, Body Aches:0:0, Runny/Stuffy Nose:47:0, Fatigue:11:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:6:0, Decreased Appetite:6:0, Fever:44:0, Sore Throat:20:0, Cough:12:0
+5 |  | Fever (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+5 |  | Sputum finding (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+5 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+5 |  | Cough (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+5 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+5 | 5 | Suspected COVID-19 | 0 | 
+5 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

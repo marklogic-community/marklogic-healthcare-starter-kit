@@ -1,0 +1,31 @@
+Fiona Bednar
+============
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1962-09-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+13 | 13 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:28:0, Body Aches:38:0, Runny/Stuffy Nose:10:0, Fatigue:33:0, Swollen Lymph Nodes:32:0, Swollen Tonsils:44:0, Decreased Appetite:0:0, Cough:35:0, Sore Throat:26:0, Fever:40:0
+16 | 16 | Normal pregnancy | 0 | 
+16 |  | Miscarriage in first trimester | 0 | 
+16 | 16 | Blighted ovum | 0 | 
+16 | 17 | Normal pregnancy | 0 | 
+17 |  | Risk activity involvement (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+19 | 21 | Not in labor force (finding) | 0 | 
+19 | 22 | Victim of intimate partner abuse (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 19 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:41:0, Runny/Stuffy Nose:10:0, Fatigue:26:0, Swollen Lymph Nodes:9:0, Swollen Tonsils:35:0, Decreased Appetite:10:0, Cough:17:0, Sore Throat:26:0, Fever:34:0
+20 | 21 | Normal pregnancy | 0 | 
+20 |  | Anemia (disorder) | 0 | 
+20 | 20 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:21:0, Body Aches:6:0, Runny/Stuffy Nose:29:0, Fatigue:0:0, Swollen Lymph Nodes:27:0, Swollen Tonsils:25:0, Decreased Appetite:11:0, Cough:43:0, Sore Throat:31:0, Fever:10:0
+21 | 21 | Acute bronchitis (disorder) | 10 | Body Aches:9:0, Diarrhea:2:0, Fatigue:64:0, Mucus:38:0, Nasal Congestion:45:0, Shortness of Breath:65:0, Nausea/Vomiting:18:0, Cough:33:0, Sore Throat:32:0, Fever:40:0
+21 |  | Has a criminal record (finding) | 0 | 
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+22 |  | Part-time employment (finding) | 0 | 
+22 |  | Has a criminal record (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

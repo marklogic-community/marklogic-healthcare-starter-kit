@@ -1,0 +1,28 @@
+Harvey Lynch
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2008-02-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+9 | 9 | Acute allergic reaction | 0 | 
+12 | 12 | Risk activity involvement (finding) | 0 | 
+12 |  | Dyspnea (finding) | 6 | fatigue:1, sore throat:1, fever:1, dyspnea:1, headache:1, cough:1
+12 |  | Fever (finding) | 6 | fatigue:1, sore throat:1, fever:1, dyspnea:1, headache:1, cough:1
+12 |  | Fatigue (finding) | 6 | fatigue:1, sore throat:1, fever:1, dyspnea:1, headache:1, cough:1
+12 |  | Wheezing (finding) | 6 | fatigue:1, sore throat:1, fever:1, dyspnea:1, headache:1, cough:1
+12 |  | Headache (finding) | 6 | fatigue:1, sore throat:1, fever:1, dyspnea:1, headache:1, cough:1
+12 |  | Sore throat symptom (finding) | 6 | fatigue:1, sore throat:1, fever:1, dyspnea:1, headache:1, cough:1
+12 |  | Cough (finding) | 6 | fatigue:1, sore throat:1, fever:1, dyspnea:1, headache:1, cough:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+12 |  | Respiratory distress (finding) | 0 | 
+12 |  | Sepsis caused by virus (disorder) | 0 | 
+12 |  | Heart failure (disorder) | 0 | 
+12 |  | Pneumonia (disorder) | 0 | 
+12 |  | Hypoxemia (disorder) | 0 | 
+12 | 12 | Viral sinusitis (disorder) | 9 | Sinus Pain:61:0, Headache:3:0, Pain with Bright Lights:32:0, Facial Swelling:43:0, Nasal Discharge:40:0, Nasal Congestion:14:0, Sore Throat:0:0, Fever:8:0, Cough:43:0
+12 |  | Acute pulmonary embolism (disorder) | 0 | 
+12 | 12 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:1:0, Fatigue:71:0, Mucus:25:0, Nasal Congestion:29:0, Shortness of Breath:73:0, Nausea/Vomiting:5:0, Sore Throat:33:0, Fever:45:0, Cough:33:0
+--------------------------------------------------------------------------------

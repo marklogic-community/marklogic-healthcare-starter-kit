@@ -1,0 +1,107 @@
+{
+  "collections": [
+    "OrganizationMapping",
+    "Organization"
+  ],
+  "additionalCollections": [ ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "validateEntity": "doNotValidate",
+  "targetFormat": "JSON",
+  "attachSourceDocument": false,
+  "name": "OrganizationMapping",
+  "targetEntityType": "http://example.org/Organization-1.0.0/Organization",
+  "description": "Organization Mapping",
+  "collection": "OrganizationIngest",
+  "selectedSource": "collection",
+  "sourceQuery": "cts.collectionQuery(['OrganizationIngest'])",
+  "targetDatabase": "data-hub-FINAL",
+  "headers": { },
+  "interceptors": [ ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "sourceDatabase": "data-hub-STAGING",
+  "stepDefinitionName": "entity-services-mapping",
+  "stepDefinitionType": "mapping",
+  "stepId": "OrganizationMapping-mapping",
+  "acceptsBatch": true,
+  "lastUpdated": "2021-08-06T09:13:01.5606721-06:00",
+  "uriExpression": "concat(\"/organization/organization/\", Id, \".json\")",
+  "properties": {
+    "id": {
+      "sourcedFrom": "Id/normalize-space()"
+    },
+    "language": {
+      "sourcedFrom": "\"en-US\""
+    },
+    "active": {
+      "sourcedFrom": "true()"
+    },
+    "name": {
+      "sourcedFrom": "NAME/normalize-space()"
+    },
+    "address": {
+      "sourcedFrom": "/",
+      "properties": {
+        "state": {
+          "sourcedFrom": "STATE/normalize-space()"
+        },
+        "city": {
+          "sourcedFrom": "CITY/normalize-space()"
+        },
+        "line": {
+          "sourcedFrom": "ADDRESS/normalize-space()"
+        },
+        "postalCode": {
+          "sourcedFrom": "ZIP/normalize-space()"
+        },
+        "country": {
+          "sourcedFrom": "\"US\""
+        },
+        "ex__geolocation": {
+          "sourcedFrom": "/",
+          "properties": {
+            "latitude": {
+              "sourcedFrom": "LAT/normalize-space()"
+            },
+            "longitude": {
+              "sourcedFrom": "LON/normalize-space()"
+            }
+          },
+          "targetEntityType": "#/definitions/DavinciGeolocationExtension"
+        },
+        "use": {
+          "sourcedFrom": "\"work\""
+        },
+        "type": {
+          "sourcedFrom": "\"both\""
+        },
+        "text": {
+          "sourcedFrom": "ADDRESS/normalize-space()"
+        }
+      },
+      "targetEntityType": "#/definitions/Address"
+    },
+    "telecom": {
+      "sourcedFrom": "/",
+      "properties": {
+        "rank": {
+          "sourcedFrom": "1"
+        },
+        "value": {
+          "sourcedFrom": "PHONE/normalize-space()"
+        },
+        "system": {
+          "sourcedFrom": "\"phone\""
+        },
+        "use": {
+          "sourcedFrom": "\"work\""
+        }
+      },
+      "targetEntityType": "#/definitions/ContactPoint"
+    },
+    "code__type": {
+      "sourcedFrom": "valueSetLookup(\"prov\", \"organization-type\")/code"
+    }
+  }
+}

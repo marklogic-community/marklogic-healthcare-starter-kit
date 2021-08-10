@@ -1,0 +1,22 @@
+Yuki Simonis
+============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2002-11-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+10 | 10 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:11:0, Body Aches:34:0, Runny/Stuffy Nose:38:0, Fatigue:12:0, Swollen Lymph Nodes:12:0, Swollen Tonsils:15:0, Decreased Appetite:20:0, Sore Throat:41:0, Fever:11:0, Cough:12:0
+13 | 13 | Viral sinusitis (disorder) | 9 | Headache:7:0, Sinus Pain:55:0, Pain with Bright Lights:31:0, Facial Swelling:8:0, Nasal Discharge:45:0, Nasal Congestion:13:0, Sore Throat:48:0, Fever:9:0, Cough:9:0
+17 |  | Fever (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+17 |  | Sputum finding (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+17 |  | Cough (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+17 |  | Loss of taste (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+17 | 17 | Suspected COVID-19 | 0 | 
+17 |  | COVID-19 | 0 | 
+18 |  | Full-time employment (finding) | 0 | 
+18 |  | Transport problems (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Social isolation (finding) | 0 | 
+18 |  | Misuses drugs (finding) | 0 | 
+--------------------------------------------------------------------------------

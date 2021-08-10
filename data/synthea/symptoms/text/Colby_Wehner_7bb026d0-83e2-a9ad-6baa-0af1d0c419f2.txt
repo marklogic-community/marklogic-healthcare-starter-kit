@@ -1,0 +1,20 @@
+Colby Wehner
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2016-07-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Otitis media | 0 | 
+1 | 1 | Otitis media | 0 | 
+1 | 1 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:36:0, Body Aches:12:0, Runny/Stuffy Nose:14:0, Fatigue:33:0, Swollen Lymph Nodes:45:0, Swollen Tonsils:17:0, Decreased Appetite:18:0, Sore Throat:21:0, Fever:16:0, Cough:36:0
+3 |  | Perennial allergic rhinitis | 5 | Nasal Discharge:6, Ear Pressure:17, Nasal Congestion:6, Sneezing Fits:9, Itching:14
+3 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+3 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+3 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+3 | 3 | Suspected COVID-19 | 0 | 
+3 |  | COVID-19 | 0 | 
+3 |  | Childhood asthma | 6 | Mucus Secretion:7, Chest Pressure:45, Wheezing:69, Nasal Congestion:9, Shortness of Breath:66, Cough:12
+3 | 4 | Viral sinusitis (disorder) | 9 | Sinus Pain:58:0, Headache:46:0, Pain with Bright Lights:44:0, Facial Swelling:22:0, Nasal Discharge:28:0, Nasal Congestion:12:0, Sore Throat:10:0, Fever:15:0, Cough:7:0
+--------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+Shelby White
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2007-05-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+12 | 12 | Sprain of ankle | 0 | 
+12 |  | Fever (finding) | 2 | fatigue:1, fever:1
+12 |  | Fatigue (finding) | 2 | fatigue:1, fever:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+12 | 13 | Otitis media | 0 | 
+13 | 13 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:37:0, Body Aches:21:0, Runny/Stuffy Nose:39:0, Fatigue:23:0, Swollen Lymph Nodes:26:0, Swollen Tonsils:38:0, Decreased Appetite:28:0, Fever:9:0, Sore Throat:19:0, Cough:0:0
+--------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+Loan Bogan
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2003-07-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+10 | 10 | Acute bronchitis (disorder) | 10 | Body Aches:8:0, Diarrhea:7:0, Fatigue:28:0, Mucus:38:0, Nasal Congestion:29:0, Shortness of Breath:73:0, Nausea/Vomiting:15:0, Cough:32:0, Sore Throat:40:0, Fever:30:0
+16 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+16 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+16 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+16 | 16 | Suspected COVID-19 | 0 | 
+16 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

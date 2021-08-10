@@ -1,0 +1,357 @@
+
+2020-08-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 12 year-old non-hispanic white female. Patient has a history of covid-19, dyspnea (finding), fever (finding), fatigue (finding), wheezing (finding), cough (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2020-02-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 11 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fatigue (finding), dyspnea (finding), wheezing (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-07-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 11 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+
+
+
+2018-07-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 10 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-07-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 9 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2016-07-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 7 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2015-07-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 6 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2014-06-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 5 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2013-06-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 4 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: varicella, ipv, influenza, seasonal, injectable, preservative free, dtap, mmr. 
+
+
+
+2012-06-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 3 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2011-12-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lawanda
+ is a 3 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: pneumococcal conjugate pcv 13. 
+
+
+

@@ -1,0 +1,22 @@
+Cora Bernhard
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2010-10-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Otitis media | 0 | 
+2 | 2 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:12:0, Body Aches:22:0, Runny/Stuffy Nose:29:0, Fatigue:21:0, Swollen Lymph Nodes:15:0, Swollen Tonsils:48:0, Decreased Appetite:6:0, Cough:48:0, Sore Throat:22:0, Fever:15:0
+2 | 2 | Fracture subluxation of wrist | 0 | 
+4 | 4 | Viral sinusitis (disorder) | 9 | Sinus Pain:78:0, Headache:33:0, Pain with Bright Lights:45:0, Facial Swelling:38:0, Nasal Discharge:10:0, Nasal Congestion:0:0, Cough:42:0, Sore Throat:21:0, Fever:14:0
+4 | 4 | Otitis media | 0 | 
+7 | 7 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:43:0, Runny/Stuffy Nose:11:0, Fatigue:39:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:25:0, Decreased Appetite:17:0, Cough:0:0, Sore Throat:9:0, Fever:1:0
+9 |  | Fever (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+9 |  | Sputum finding (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+9 |  | Cough (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+9 |  | Loss of taste (finding) | 4 | fever:1, sputum production:1, loss_of_taste:1, cough:1
+9 | 9 | Suspected COVID-19 | 0 | 
+9 |  | COVID-19 | 0 | 
+10 | 10 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:24:0, Body Aches:8:0, Runny/Stuffy Nose:36:0, Fatigue:39:0, Swollen Lymph Nodes:51:0, Swollen Tonsils:31:0, Decreased Appetite:29:0, Cough:0:0, Sore Throat:26:0, Fever:16:0
+--------------------------------------------------------------------------------

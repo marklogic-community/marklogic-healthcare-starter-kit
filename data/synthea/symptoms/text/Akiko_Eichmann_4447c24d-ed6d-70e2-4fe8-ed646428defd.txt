@@ -1,0 +1,67 @@
+Akiko Eichmann
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1944-08-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+41 |  | Body mass index 30+ - obesity (finding) | 0 | 
+41 |  | Has a criminal record (finding) | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 | 43 | Part-time employment (finding) | 0 | 
+42 |  | Has a criminal record (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+43 |  | Body mass index 30+ - obesity (finding) | 0 | 
+43 | 44 | Not in labor force (finding) | 0 | 
+43 |  | Has a criminal record (finding) | 0 | 
+43 |  | Victim of intimate partner abuse (finding) | 0 | 
+43 |  | Received certificate of high school equivalency (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+44 | 44 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:17:0, Fatigue:50:0, Mucus:32:0, Nasal Congestion:38:0, Shortness of Breath:66:0, Nausea/Vomiting:15:0, Sore Throat:46:0, Cough:45:0, Fever:39:0
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 |  | Has a criminal record (finding) | 0 | 
+44 | 44 | Full-time employment (finding) | 0 | 
+44 | 50 | Victim of intimate partner abuse (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 | 44 | Stress (finding) | 0 | 
+44 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 |  | Has a criminal record (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+45 |  | Anemia (disorder) | 0 | 
+45 |  | Body mass index 30+ - obesity (finding) | 0 | 
+45 | 46 | Part-time employment (finding) | 0 | 
+45 |  | Has a criminal record (finding) | 0 | 
+45 |  | Received certificate of high school equivalency (finding) | 0 | 
+45 |  | Stress (finding) | 0 | 
+46 |  | Cholelithiasis | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+47 | 47 | Normal pregnancy | 0 | 
+47 |  | Miscarriage in first trimester | 0 | 
+47 | 47 | Fetus with unknown complication | 0 | 
+47 |  | Has a criminal record (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received certificate of high school equivalency (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+47 | 48 | Otitis media | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 | 49 | Full-time employment (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 | 49 | Stress (finding) | 0 | 
+48 | 48 | Acute bacterial sinusitis (disorder) | 9 | Headache:24:0, Sinus Pain:74:0, Pain with Bright Lights:37:0, Facial Swelling:5:0, Nasal Discharge:11:0, Nasal Congestion:16:0, Sore Throat:36:0, Cough:31:0, Fever:1:0
+49 |  | Has a criminal record (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 |  | Full-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

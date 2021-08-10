@@ -1,0 +1,61 @@
+Toi Huels
+=========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1942-09-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+64 | 65 | Limited social contact (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received certificate of high school equivalency (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 | 66 | Stress (finding) | 0 | 
+65 | 65 | Viral sinusitis (disorder) | 9 | Headache:14:0, Sinus Pain:72:0, Pain with Bright Lights:27:0, Facial Swelling:31:0, Nasal Discharge:3:0, Nasal Congestion:9:0, Sore Throat:11:0, Cough:26:0, Fever:15:0
+66 | 67 | Part-time employment (finding) | 0 | 
+66 | 73 | Limited social contact (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 | 68 | Stress (finding) | 0 | 
+68 | 69 | Part-time employment (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:35, Memory Loss:4:4:43, Decreased in Judgement:1, Decreased Communication:13, Decreased Attentiveness:47, Confusion:5
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 | 70 | Stress (finding) | 0 | 
+69 | 69 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:3:0, Fatigue:61:0, Mucus:47:0, Nasal Congestion:25:0, Shortness of Breath:32:0, Nausea/Vomiting:15:0, Sore Throat:43:0, Cough:44:0, Fever:45:0
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 | 70 | Viral sinusitis (disorder) | 9 | Headache:8:0, Sinus Pain:67:0, Pain with Bright Lights:28:0, Facial Swelling:21:0, Nasal Discharge:40:0, Nasal Congestion:13:0, Sore Throat:44:0, Cough:5:0, Fever:21:0
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 70 | Acute bronchitis (disorder) | 10 | Body Aches:4:0, Diarrhea:5:0, Fatigue:49:0, Mucus:33:0, Nasal Congestion:42:0, Shortness of Breath:37:0, Nausea/Vomiting:6:0, Sore Throat:28:0, Cough:73:0, Fever:36:0
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 | 72 | Stress (finding) | 0 | 
+71 |  | Chronic low back pain (finding) | 0 | 
+71 |  | Chronic low back pain (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

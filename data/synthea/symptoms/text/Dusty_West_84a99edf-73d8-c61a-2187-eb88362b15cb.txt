@@ -1,0 +1,58 @@
+Dusty West
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1963-04-04
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+50 | 54 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 55 | Stress (finding) | 0 | 
+55 | 55 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+55 | 55 | Acute bronchitis (disorder) | 10 | Body Aches:8:0, Diarrhea:15:0, Fatigue:58:0, Mucus:29:0, Nasal Congestion:27:0, Shortness of Breath:57:0, Nausea/Vomiting:6:0, Sore Throat:35:0, Fever:35:0, Cough:73:0
+55 |  | Prediabetes | 0 | 
+55 | 56 | Not in labor force (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+56 |  | Chill (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+56 |  | Fever (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+56 |  | Cough (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+56 |  | Loss of taste (finding) | 4 | chills:1, fever:1, loss_of_taste:1, cough:1
+56 | 56 | Suspected COVID-19 | 0 | 
+56 |  | COVID-19 | 0 | 
+57 |  | Prediabetes | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 58 | Escherichia coli urinary tract infection | 7 | Frequent Urination:20:0, Urgent Desire to Urinate:21:0, Discolored Urine:4:0, Odor of Urine:7:0, Pelvic Pain:7:0, Fever:8:0, Dysuria:9:0
+58 |  | Prediabetes | 0 | 
+58 |  | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Acute bronchitis (disorder) | 10 | Body Aches:16, Diarrhea:1, Fatigue:62, Mucus:43, Nasal Congestion:33, Shortness of Breath:58, Nausea/Vomiting:5, Sore Throat:32, Fever:33, Cough:39
+58 |  | Prediabetes | 0 | 
+--------------------------------------------------------------------------------

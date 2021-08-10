@@ -1,0 +1,36 @@
+Skye Konopelski
+===============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1958-08-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 | 42 | Part-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 48 | Social isolation (finding) | 0 | 
+40 | 41 | Normal pregnancy | 0 | 
+41 | 41 | Preeclampsia | 0 | 
+41 | 41 | Normal pregnancy | 0 | 
+41 |  | Miscarriage in first trimester | 0 | 
+41 | 41 | Blighted ovum | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 42 | Viral sinusitis (disorder) | 9 | Sinus Pain:60:0, Headache:4:0, Pain with Bright Lights:44:0, Facial Swelling:39:0, Nasal Discharge:39:0, Nasal Congestion:9:0, Cough:9:0, Sore Throat:34:0, Fever:3:0
+43 | 44 | Normal pregnancy | 0 | 
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+44 |  | Impacted molars | 0 | 
+45 |  | Malignant neoplasm of breast (disorder) | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+48 | 48 | Facial laceration | 0 | 
+48 |  | Body mass index 30+ - obesity (finding) | 0 | 
+48 |  | Part-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

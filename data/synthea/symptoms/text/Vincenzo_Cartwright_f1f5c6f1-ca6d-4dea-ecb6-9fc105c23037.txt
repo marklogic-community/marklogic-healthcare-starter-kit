@@ -1,0 +1,27 @@
+Vincenzo Cartwright
+===================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1965-06-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+31 | 34 | Part-time employment (finding) | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 | 34 | Facial laceration | 0 | 
+34 | 37 | Part-time employment (finding) | 0 | 
+34 |  | Housing unsatisfactory (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Housing unsatisfactory (finding) | 0 | 
+37 | 40 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+37 | 37 | Viral sinusitis (disorder) | 9 | Sinus Pain:70:0, Headache:40:0, Pain with Bright Lights:28:0, Facial Swelling:33:0, Nasal Discharge:23:0, Nasal Congestion:7:0, Cough:46:0, Sore Throat:24:0, Fever:6:0
+39 | 39 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:14:0, Runny/Stuffy Nose:1:0, Fatigue:35:0, Swollen Lymph Nodes:31:0, Swollen Tonsils:40:0, Decreased Appetite:31:0, Cough:5:0, Sore Throat:10:0, Fever:17:0
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Housing unsatisfactory (finding) | 0 | 
+40 |  | Full-time employment (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

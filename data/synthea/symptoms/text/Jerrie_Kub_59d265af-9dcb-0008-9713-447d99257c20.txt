@@ -1,0 +1,61 @@
+Jerrie Kub
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+39 |  | Prediabetes | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Only received primary school education (finding) | 0 | 
+39 | 41 | Stress (finding) | 0 | 
+40 |  | Prediabetes | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Only received primary school education (finding) | 0 | 
+40 | 41 | Normal pregnancy | 0 | 
+41 |  | Prediabetes | 0 | 
+41 | 42 | Part-time employment (finding) | 0 | 
+41 |  | Only received primary school education (finding) | 0 | 
+42 |  | Prediabetes | 0 | 
+42 | 43 | Full-time employment (finding) | 0 | 
+42 |  | Only received primary school education (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+43 |  | Prediabetes | 0 | 
+43 | 44 | Part-time employment (finding) | 0 | 
+43 | 48 | Reports of violence in the environment (finding) | 0 | 
+43 |  | Only received primary school education (finding) | 0 | 
+43 | 44 | Stress (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 | 45 | Part-time employment (finding) | 0 | 
+44 | 48 | Limited social contact (finding) | 0 | 
+44 |  | Only received primary school education (finding) | 0 | 
+44 | 44 | Normal pregnancy | 0 | 
+44 |  | Miscarriage in first trimester | 0 | 
+44 | 44 | Fetus with unknown complication | 0 | 
+45 | 45 | Normal pregnancy | 0 | 
+45 | 45 | Viral sinusitis (disorder) | 9 | Sinus Pain:52:0, Headache:35:0, Pain with Bright Lights:47:0, Facial Swelling:39:0, Nasal Discharge:35:0, Nasal Congestion:10:0, Fever:5:0, Sore Throat:3:0, Cough:18:0
+45 |  | Prediabetes | 0 | 
+45 | 46 | Not in labor force (finding) | 0 | 
+45 |  | Only received primary school education (finding) | 0 | 
+45 |  | Stress (finding) | 0 | 
+46 | 46 | Injury of tendon of the rotator cuff of shoulder | 0 | 
+46 | 47 | Normal pregnancy | 0 | 
+46 |  | Prediabetes | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Only received primary school education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+47 |  | Prediabetes | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Only received primary school education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 | 48 | Viral sinusitis (disorder) | 9 | Sinus Pain:51:0, Headache:35:0, Pain with Bright Lights:27:0, Facial Swelling:3:0, Nasal Discharge:25:0, Nasal Congestion:21:0, Fever:12:0, Sore Throat:40:0, Cough:28:0
+48 | 48 | Viral sinusitis (disorder) | 9 | Sinus Pain:64:0, Headache:3:0, Pain with Bright Lights:36:0, Facial Swelling:47:0, Nasal Discharge:30:0, Nasal Congestion:2:0, Fever:10:0, Sore Throat:44:0, Cough:40:0
+48 |  | Prediabetes | 0 | 
+48 |  | Full-time employment (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+49 |  | Sepsis (disorder) | 0 | 
+49 |  | Septic shock (disorder) | 0 | 
+49 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+--------------------------------------------------------------------------------

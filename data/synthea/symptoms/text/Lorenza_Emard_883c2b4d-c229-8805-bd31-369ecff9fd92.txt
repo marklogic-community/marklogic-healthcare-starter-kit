@@ -1,0 +1,40 @@
+Lorenza Emard
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1998-01-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+14 | 15 | Risk activity involvement (finding) | 0 | 
+15 | 16 | Normal pregnancy | 0 | 
+17 | 17 | Risk activity involvement (finding) | 0 | 
+17 | 17 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:13:0, Fatigue:55:0, Mucus:36:0, Nasal Congestion:37:0, Shortness of Breath:73:0, Nausea/Vomiting:3:0, Sore Throat:32:0, Cough:33:0, Fever:49:0
+18 |  | Limited social contact (finding) | 0 | 
+18 |  | Housing unsatisfactory (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Transport problems (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 19 | Stress (finding) | 0 | 
+19 |  | Limited social contact (finding) | 0 | 
+19 |  | Housing unsatisfactory (finding) | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Lack of access to transportation (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 20 | Normal pregnancy | 0 | 
+21 | 21 | Concussion with no loss of consciousness | 0 | 
+22 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+22 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+22 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+22 | 22 | Suspected COVID-19 | 0 | 
+22 |  | COVID-19 | 0 | 
+22 |  | Limited social contact (finding) | 0 | 
+22 |  | Housing unsatisfactory (finding) | 0 | 
+22 |  | Full-time employment (finding) | 0 | 
+22 |  | Transport problems (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 |  | Normal pregnancy | 0 | 
+23 | 23 | Escherichia coli urinary tract infection | 7 | Frequent Urination:24:0, Urgent Desire to Urinate:10:0, Discolored Urine:1:0, Odor of Urine:2:0, Pelvic Pain:5:0, Fever:5:0, Dysuria:24:0
+23 | 23 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:13:0, Fatigue:62:0, Mucus:28:0, Nasal Congestion:31:0, Shortness of Breath:63:0, Nausea/Vomiting:1:0, Sore Throat:38:0, Cough:61:0, Fever:44:0
+--------------------------------------------------------------------------------

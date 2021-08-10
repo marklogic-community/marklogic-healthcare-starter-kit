@@ -1,0 +1,48 @@
+Ivana Mraz
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1963-12-13
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 | 47 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:5:0, Fatigue:28:0, Mucus:29:0, Nasal Congestion:38:0, Shortness of Breath:56:0, Nausea/Vomiting:6:0, Sore Throat:39:0, Fever:40:0, Cough:54:0
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Only received primary school education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 | 50 | Not in labor force (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 | 50 | Stress (finding) | 0 | 
+48 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+50 | 51 | Part-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 | 53 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+53 | 53 | Acute bacterial sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:57:125:0, Pain with Bright Lights:32:0, Facial Swelling:28:0, Nasal Discharge:18:0, Nasal Congestion:18:0, Sore Throat:4:0, Fever:23:0, Cough:1:0
+53 | 53 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 | 55 | Stress (finding) | 0 | 
+53 | 53 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:6:0, Fatigue:53:0, Mucus:42:0, Nasal Congestion:25:0, Shortness of Breath:59:0, Nausea/Vomiting:8:0, Sore Throat:33:0, Fever:41:0, Cough:67:0
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Hyperlipidemia | 1 | weight gain:1
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+57 |  | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,216 @@
+Lenard Donnelly
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1915-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+38 | 38 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:6:0, Fatigue:68:0, Mucus:49:0, Nasal Congestion:47:0, Shortness of Breath:71:0, Nausea/Vomiting:18:0, Sore Throat:38:0, Cough:36:0, Fever:35:0
+38 |  | Prediabetes | 0 | 
+38 | 39 | Part-time employment (finding) | 0 | 
+38 |  | Served in armed forces (finding) | 0 | 
+38 | 39 | Limited social contact (finding) | 0 | 
+38 |  | Received higher education (finding) | 0 | 
+39 |  | Diabetes | 0 | 
+39 |  | Hypertension | 0 | 
+39 |  | Served in armed forces (finding) | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Received higher education (finding) | 0 | 
+39 |  | Stress (finding) | 0 | 
+40 |  | Neuropathy due to type 2 diabetes mellitus (disorder) | 0 | 
+40 |  | Metabolic syndrome X (disorder) | 0 | 
+40 |  | Hypertriglyceridemia (disorder) | 0 | 
+40 |  | Prediabetes | 0 | 
+40 |  | Served in armed forces (finding) | 0 | 
+40 |  | Limited social contact (finding) | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 41 | Stress (finding) | 0 | 
+40 |  | Victim of intimate partner abuse (finding) | 0 | 
+41 |  | Prediabetes | 0 | 
+41 | 42 | Part-time employment (finding) | 0 | 
+41 |  | Served in armed forces (finding) | 0 | 
+41 | 42 | Limited social contact (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+41 |  | Misuses drugs (finding) | 0 | 
+42 |  | Diabetic renal disease (disorder) | 0 | 
+42 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+42 |  | Prediabetes | 0 | 
+42 | 42 | Part-time employment (finding) | 0 | 
+42 |  | Served in armed forces (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 43 | Stress (finding) | 0 | 
+42 | 47 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+42 |  | Microalbuminuria due to type 2 diabetes mellitus (disorder) | 0 | 
+42 |  | Chronic kidney disease stage 2 (disorder) | 0 | 
+42 |  | Prediabetes | 0 | 
+42 | 43 | Part-time employment (finding) | 0 | 
+42 |  | Served in armed forces (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+43 |  | Served in armed forces (finding) | 0 | 
+43 | 43 | Full-time employment (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 | 43 | Social isolation (finding) | 0 | 
+43 |  | Served in armed forces (finding) | 0 | 
+43 | 43 | Not in labor force (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+43 |  | Served in armed forces (finding) | 0 | 
+43 | 43 | Not in labor force (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 | 43 | Stress (finding) | 0 | 
+43 | 47 | Misuses drugs (finding) | 0 | 
+43 |  | Served in armed forces (finding) | 0 | 
+43 | 43 | Full-time employment (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Social isolation (finding) | 0 | 
+43 |  | Served in armed forces (finding) | 0 | 
+43 | 44 | Not in labor force (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 | 44 | Social isolation (finding) | 0 | 
+43 | 44 | Stress (finding) | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 | 44 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 44 | Part-time employment (finding) | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 44 | Stress (finding) | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 | 44 | Not in labor force (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 | 44 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Social isolation (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 |  | Limited social contact (finding) | 0 | 
+44 | 44 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 44 | Stress (finding) | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 45 | Social isolation (finding) | 0 | 
+45 |  | Served in armed forces (finding) | 0 | 
+45 | 45 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 | 45 | Stress (finding) | 0 | 
+45 |  | Victim of intimate partner abuse (finding) | 0 | 
+45 |  | Served in armed forces (finding) | 0 | 
+45 | 45 | Not in labor force (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Served in armed forces (finding) | 0 | 
+45 | 45 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Served in armed forces (finding) | 0 | 
+45 | 45 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 | 45 | Stress (finding) | 0 | 
+45 | 45 | Part-time employment (finding) | 0 | 
+45 |  | Served in armed forces (finding) | 0 | 
+45 | 48 | Reports of violence in the environment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Served in armed forces (finding) | 0 | 
+45 | 45 | Not in labor force (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Served in armed forces (finding) | 0 | 
+45 | 45 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 | 46 | Social isolation (finding) | 0 | 
+45 | 45 | Stress (finding) | 0 | 
+45 |  | Served in armed forces (finding) | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 | 48 | Victim of intimate partner abuse (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Victim of intimate partner abuse (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 | 46 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 46 | Stress (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 |  | Limited social contact (finding) | 0 | 
+46 | 46 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 | 46 | Not in labor force (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 46 | Social isolation (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 | 46 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 | 46 | Part-time employment (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 | 46 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 46 | Social isolation (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 | 46 | Part-time employment (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 | 46 | Part-time employment (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 47 | Social isolation (finding) | 0 | 
+46 | 47 | Stress (finding) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 | 47 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 | 47 | Part-time employment (finding) | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 | 47 | Social isolation (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+47 | 47 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:17:0, Fatigue:46:0, Mucus:29:0, Nasal Congestion:30:0, Shortness of Breath:60:0, Nausea/Vomiting:0:0, Sore Throat:28:0, Cough:70:0, Fever:39:0
+47 |  | Served in armed forces (finding) | 0 | 
+47 | 47 | Full-time employment (finding) | 0 | 
+47 | 47 | Stress (finding) | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 | 47 | Limited social contact (finding) | 0 | 
+47 | 47 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 | 47 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 | 47 | Limited social contact (finding) | 0 | 
+47 | 47 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 | 47 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 | 47 | Stress (finding) | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 | 48 | Limited social contact (finding) | 0 | 
+47 | 47 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+48 |  | Served in armed forces (finding) | 0 | 
+48 | 48 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 |  | Served in armed forces (finding) | 0 | 
+48 | 48 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+48 |  | Served in armed forces (finding) | 0 | 
+48 |  | Reports of violence in the environment (finding) | 0 | 
+48 |  | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

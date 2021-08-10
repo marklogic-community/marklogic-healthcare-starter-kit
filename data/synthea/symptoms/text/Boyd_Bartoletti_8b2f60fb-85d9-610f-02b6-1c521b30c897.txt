@@ -1,0 +1,40 @@
+Boyd Bartoletti
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1980-01-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+32 |  | Drug overdose | 0 | 
+33 | 33 | Viral sinusitis (disorder) | 9 | Headache:39:0, Sinus Pain:64:0, Pain with Bright Lights:41:0, Facial Swelling:33:0, Nasal Discharge:17:0, Nasal Congestion:18:0, Sore Throat:10:0, Cough:26:0, Fever:18:0
+33 | 34 | Part-time employment (finding) | 0 | 
+33 | 40 | Victim of intimate partner abuse (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 | 40 | Stress (finding) | 0 | 
+34 | 36 | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+35 |  | Drug overdose | 0 | 
+36 | 36 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:3:0, Fatigue:57:0, Mucus:39:0, Nasal Congestion:42:0, Shortness of Breath:59:0, Nausea/Vomiting:1:0, Sore Throat:34:0, Cough:28:0, Fever:43:0
+36 |  | Limited social contact (finding) | 0 | 
+36 | 37 | Not in labor force (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+37 |  | Limited social contact (finding) | 0 | 
+37 | 40 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+38 | 38 | Sinusitis (disorder) | 9 | Headache:15:0, Sinus Pain:49:0, Pain with Bright Lights:27:0, Facial Swelling:22:0, Nasal Discharge:6:0, Nasal Congestion:22:0, Sore Throat:33:0, Cough:34:0, Fever:24:0
+38 | 38 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:11:0, Body Aches:5:0, Runny/Stuffy Nose:46:0, Fatigue:42:0, Swollen Lymph Nodes:17:0, Swollen Tonsils:17:0, Decreased Appetite:5:0, Sore Throat:16:0, Cough:11:0, Fever:25:0
+40 |  | Limited social contact (finding) | 0 | 
+40 |  | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 |  | Dyspnea (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+40 |  | Fever (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+40 |  | Fatigue (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+40 |  | Wheezing (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+40 |  | Nasal congestion (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+40 |  | Cough (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+40 |  | Loss of taste (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+40 | 40 | Suspected COVID-19 | 0 | 
+40 |  | COVID-19 | 0 | 
+40 |  | Drug overdose | 0 | 
+--------------------------------------------------------------------------------

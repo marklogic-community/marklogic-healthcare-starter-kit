@@ -1,0 +1,55 @@
+Art Yost
+========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1933-08-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+78 |  | Prediabetes | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 |  | Unemployed (finding) | 0 | 
+79 | 86 | Victim of intimate partner abuse (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+80 |  | Chronic low back pain (finding) | 0 | 
+80 |  | Chronic neck pain (finding) | 0 | 
+80 |  | Chronic low back pain (finding) | 0 | 
+80 |  | Chronic neck pain (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 |  | Unemployed (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 | 82 | Stress (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+83 | 83 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:9:0, Body Aches:44:0, Runny/Stuffy Nose:35:0, Fatigue:37:0, Swollen Lymph Nodes:30:0, Swollen Tonsils:12:0, Decreased Appetite:28:0, Sore Throat:25:0, Cough:19:0, Fever:41:0
+83 |  | Prediabetes | 0 | 
+83 |  | Unemployed (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+84 |  | Prediabetes | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 | 85 | Stress (finding) | 0 | 
+85 |  | Prediabetes | 0 | 
+85 |  | Unemployed (finding) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+85 | 85 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:20:0, Fatigue:43:0, Mucus:38:0, Nasal Congestion:37:0, Shortness of Breath:46:0, Nausea/Vomiting:3:0, Sore Throat:49:0, Cough:37:0, Fever:49:0
+86 |  | Prediabetes | 0 | 
+86 |  | Unemployed (finding) | 0 | 
+86 |  | Received higher education (finding) | 0 | 
+86 |  | Stress (finding) | 0 | 
+87 |  | Prediabetes | 0 | 
+87 |  | Unemployed (finding) | 0 | 
+87 |  | Victim of intimate partner abuse (finding) | 0 | 
+87 |  | Received higher education (finding) | 0 | 
+87 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

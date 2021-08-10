@@ -1,0 +1,70 @@
+Clemente Villa
+==============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1958-06-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+54 |  | Body mass index 30+ - obesity (finding) | 0 | 
+54 |  | Refugee (person) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 | 54 | Sinusitis (disorder) | 9 | Headache:17:0, Sinus Pain:30:83:0, Pain with Bright Lights:38:0, Facial Swelling:19:0, Nasal Discharge:6:0, Nasal Congestion:21:0, Sore Throat:1:0, Fever:22:0, Cough:37:0
+54 | 54 | Rupture of patellar tendon | 0 | 
+54 |  | Chronic sinusitis (disorder) | 9 | Headache:0:7:0:19:0, Sinus Pain:83:0:73:0:51:0, Pain with Bright Lights:0:26:0:35:0, Facial Swelling:0:14:0:39:0, Nasal Discharge:0:11:0:14:0, Nasal Congestion:0:10:0:5:0, Sore Throat:0:19:0:32:0, Fever:0:14:0:21:0, Cough:0:29:0:45:0
+55 | 56 | Polyp of colon | 0 | 
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 |  | Refugee (person) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 | 58 | Social isolation (finding) | 0 | 
+56 |  | Body mass index 30+ - obesity (finding) | 0 | 
+56 |  | Refugee (person) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 | 58 | Stress (finding) | 0 | 
+57 | 57 | Acute bronchitis (disorder) | 10 | Body Aches:3:0, Diarrhea:6:0, Fatigue:61:0, Mucus:34:0, Nasal Congestion:44:0, Shortness of Breath:65:0, Nausea/Vomiting:0:0, Sore Throat:28:0, Fever:44:0, Cough:38:0
+57 | 57 | Viral sinusitis (disorder) | 9 | Headache:7:0, Sinus Pain:73:0, Pain with Bright Lights:26:0, Facial Swelling:14:0, Nasal Discharge:11:0, Nasal Congestion:10:0, Sore Throat:19:0, Fever:14:0, Cough:29:0
+57 |  | Body mass index 30+ - obesity (finding) | 0 | 
+57 |  | Refugee (person) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 | 62 | Victim of intimate partner abuse (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Body mass index 30+ - obesity (finding) | 0 | 
+57 |  | Refugee (person) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Body mass index 30+ - obesity (finding) | 0 | 
+58 |  | Refugee (person) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Body mass index 30+ - obesity (finding) | 0 | 
+59 |  | Refugee (person) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 | 62 | Stress (finding) | 0 | 
+59 |  | Social isolation (finding) | 0 | 
+60 |  | Body mass index 30+ - obesity (finding) | 0 | 
+60 |  | Refugee (person) | 0 | 
+60 | 61 | Not in labor force (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Social isolation (finding) | 0 | 
+60 | 60 | Viral sinusitis (disorder) | 9 | Headache:19:0, Sinus Pain:51:0, Pain with Bright Lights:35:0, Facial Swelling:39:0, Nasal Discharge:14:0, Nasal Congestion:5:0, Sore Throat:32:0, Fever:21:0, Cough:45:0
+61 |  | Body mass index 30+ - obesity (finding) | 0 | 
+61 |  | Refugee (person) | 0 | 
+61 | 62 | Not in labor force (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 |  | Social isolation (finding) | 0 | 
+61 |  | Fever (finding) | 4 | nasal congestion:1, fever:1, sputum production:1, headache:1
+61 |  | Sputum finding (finding) | 4 | nasal congestion:1, fever:1, sputum production:1, headache:1
+61 |  | Nasal congestion (finding) | 4 | nasal congestion:1, fever:1, sputum production:1, headache:1
+61 |  | Headache (finding) | 4 | nasal congestion:1, fever:1, sputum production:1, headache:1
+61 | 61 | Suspected COVID-19 | 0 | 
+61 |  | COVID-19 | 0 | 
+62 |  | Body mass index 30+ - obesity (finding) | 0 | 
+62 |  | Refugee (person) | 0 | 
+62 |  | Limited social contact (finding) | 0 | 
+62 |  | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

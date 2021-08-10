@@ -1,0 +1,22 @@
+Corrie Moore
+============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+16 |  | Risk activity involvement (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 | 25 | Social isolation (finding) | 0 | 
+18 | 25 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 | 25 | Not in labor force (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 | 25 | Stress (finding) | 0 | 
+25 |  | Part-time employment (finding) | 0 | 
+25 |  | Victim of intimate partner abuse (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

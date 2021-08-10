@@ -1,0 +1,864 @@
+
+2020-10-11
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 6 year-old non-hispanic white male. Patient has a history of muscle pain (finding), covid-19, acute bronchitis (disorder), chill (finding), fever (finding), otitis media, joint pain (finding), acute viral pharyngitis (disorder), cough (finding), viral sinusitis (disorder), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2020-03-05
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 6 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), otitis media, acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), muscle pain (finding), joint pain (finding), chill (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-12-02
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 6 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), otitis media, acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2019-10-06
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 5 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), otitis media, acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2018-09-30
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 4 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), otitis media, acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: varicella, ipv, influenza, seasonal, injectable, preservative free, dtap, mmr. 
+
+
+
+2017-10-23
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 4 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), otitis media, acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with perennial allergic rhinitis. 
+
+## Plan
+
+
+
+
+2017-09-24
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 3 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), otitis media, acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2017-03-26
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 3 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), otitis media, acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2016-10-13
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 2 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), otitis media, acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2016-09-25
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 2 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), otitis media, acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2016-03-27
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 2 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), otitis media, acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep a, ped/adol, 2 dose. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2016-02-07
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 2 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 500 mg oral tablet
+- acetaminophen 160 mg chewable tablet
+
+
+
+2015-09-27
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 1 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2015-03-29
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 1 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: dtap. 
+
+
+
+2015-02-14
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 1 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with mold (organism), cow's milk (substance). 
+
+## Plan
+
+The following procedures were conducted:
+- allergy screening test
+The patient was prescribed the following medications:
+- cetirizine hydrochloride 5 mg oral tablet
+- nda020800 0.3 ml epinephrine 1 mg/ml auto-injector
+
+
+
+2015-01-31
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 1 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+
+2014-12-28
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 1 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), varicella, mmr, pneumococcal conjugate pcv 13, hep a, ped/adol, 2 dose. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2014-09-28
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 11 month-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2014-06-29
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 8 month-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: ipv, influenza, seasonal, injectable, preservative free, dtap, pneumococcal conjugate pcv 13, hep b, adolescent or pediatric. 
+
+
+
+2014-03-30
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 5 month-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2014-03-02
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 4 month-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+
+
+
+2014-02-19
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 3 month-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2014-01-26
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 3 month-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2013-12-20
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 2 month-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- penicillin v potassium 250 mg oral tablet
+
+
+
+2013-11-24
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a 1 month-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+
+
+
+2013-10-20
+
+# Chief Complaint
+- Nasal Discharge
+
+
+# History of Present Illness
+Walton
+ is a newborn non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has unknown insurance coverage.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+
+
+

@@ -1,0 +1,24 @@
+Robin Heidenreich
+=================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          2017-03-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 |  | Atopic dermatitis | 3 | Rash:11, Itchiness:18, Red Skin:9
+0 | 0 | Otitis media | 0 | 
+0 | 0 | Viral sinusitis (disorder) | 9 | Headache:42:0, Sinus Pain:75:0, Pain with Bright Lights:30:0, Facial Swelling:48:0, Nasal Discharge:13:0, Nasal Congestion:10:0, Sore Throat:29:0, Cough:30:0, Fever:6:0
+1 | 1 | Otitis media | 0 | 
+1 | 1 | Second degree burn | 0 | 
+2 |  | Perennial allergic rhinitis | 5 | Nasal Discharge:6, Ear Pressure:7, Nasal Congestion:5, Sneezing Fits:6, Itching:11
+2 |  | Dyspnea (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+2 |  | Fever (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+2 |  | Sputum finding (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+2 |  | Wheezing (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+2 |  | Cough (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+2 |  | Loss of taste (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+2 | 2 | Suspected COVID-19 | 0 | 
+3 |  | Childhood asthma | 6 | Mucus Secretion:6, Chest Pressure:21, Wheezing:73, Nasal Congestion:17, Shortness of Breath:27, Cough:8
+3 | 3 | Otitis media | 0 | 
+--------------------------------------------------------------------------------

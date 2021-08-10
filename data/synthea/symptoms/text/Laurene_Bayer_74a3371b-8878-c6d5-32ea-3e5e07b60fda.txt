@@ -1,0 +1,30 @@
+Laurene Bayer
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1981-01-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 | 40 | Reports of violence in the environment (finding) | 0 | 
+31 | 34 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 | 40 | Social isolation (finding) | 0 | 
+32 | 32 | Normal pregnancy | 0 | 
+32 | 32 | Sprain of ankle | 0 | 
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 | 37 | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+36 | 36 | Viral sinusitis (disorder) | 9 | Sinus Pain:79:0, Headache:0:0, Pain with Bright Lights:44:0, Facial Swelling:15:0, Nasal Discharge:42:0, Nasal Congestion:2:0, Fever:15:0, Sore Throat:26:0, Cough:18:0
+37 |  | Body mass index 30+ - obesity (finding) | 0 | 
+37 | 40 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 | 40 | Stress (finding) | 0 | 
+37 | 38 | Normal pregnancy | 0 | 
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

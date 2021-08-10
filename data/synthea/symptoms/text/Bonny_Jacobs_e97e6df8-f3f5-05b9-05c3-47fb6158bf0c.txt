@@ -1,0 +1,63 @@
+Bonny Jacobs
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1995-11-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+15 |  | Impacted molars | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+16 |  | Impacted molars | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+16 |  | Chronic pain | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+16 |  | Chronic pain | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+16 | 16 | Concussion with no loss of consciousness | 0 | 
+17 |  | Chronic pain | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+17 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+17 |  | Impacted molars | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+18 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+18 | 19 | Part-time employment (finding) | 0 | 
+18 |  | Only received primary school education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 |  | Chronic pain | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+18 |  | Chronic pain | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+18 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+18 |  | Chronic pain | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+19 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Only received primary school education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 |  | Chronic pain | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+19 |  | Impacted molars | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+19 | 20 | Laceration of foot | 0 | 
+20 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+20 |  | Impacted molars | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+21 |  | Chronic pain | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+21 |  | Chronic pain | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+21 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:5, Slurred Speech:7, Shortness Constipation Breath:9, Anxiety:8, Pain Sensitivity:7, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:3, Mood Swing:1, Nausea/Vomiting:7
+22 | 24 | Part-time employment (finding) | 0 | 
+22 | 25 | Limited social contact (finding) | 0 | 
+22 |  | Only received primary school education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 |  | Drug overdose | 0 | 
+24 |  | Muscle pain (finding) | 7 | myalgia:1, arthralgia:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+24 |  | Fever (finding) | 7 | myalgia:1, arthralgia:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+24 |  | Sputum finding (finding) | 7 | myalgia:1, arthralgia:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+24 |  | Sore throat symptom (finding) | 7 | myalgia:1, arthralgia:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+24 |  | Joint pain (finding) | 7 | myalgia:1, arthralgia:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+24 |  | Cough (finding) | 7 | myalgia:1, arthralgia:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+24 |  | Loss of taste (finding) | 7 | myalgia:1, arthralgia:1, sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+24 | 24 | Suspected COVID-19 | 0 | 
+24 |  | COVID-19 | 0 | 
+24 | 24 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:13:0, Fatigue:32:0, Mucus:37:0, Nasal Congestion:38:0, Shortness of Breath:33:0, Nausea/Vomiting:13:0, Sore Throat:43:0, Cough:48:0, Fever:26:0
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Only received primary school education (finding) | 0 | 
+24 | 25 | Stress (finding) | 0 | 
+24 |  | Drug overdose | 0 | 
+24 | 25 | Normal pregnancy | 0 | 
+25 |  | Miscarriage in first trimester | 0 | 
+25 | 25 | Fetus with unknown complication | 0 | 
+25 |  | Full-time employment (finding) | 0 | 
+25 |  | Only received primary school education (finding) | 0 | 
+25 |  | Normal pregnancy | 0 | 
+25 |  | Anemia (disorder) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,93 @@
+Anthony Schultz
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-04-22
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+37 |  | Body mass index 30+ - obesity (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 | 38 | Part-time employment (finding) | 0 | 
+37 |  | Housing unsatisfactory (finding) | 0 | 
+37 |  | Has a criminal record (finding) | 0 | 
+37 | 38 | Stress (finding) | 0 | 
+37 | 40 | Social isolation (finding) | 0 | 
+38 |  | Body mass index 30+ - obesity (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 |  | Housing unsatisfactory (finding) | 0 | 
+38 |  | Has a criminal record (finding) | 0 | 
+38 | 39 | Full-time employment (finding) | 0 | 
+39 |  | Body mass index 30+ - obesity (finding) | 0 | 
+39 |  | Received certificate of high school equivalency (finding) | 0 | 
+39 |  | Housing unsatisfactory (finding) | 0 | 
+39 |  | Has a criminal record (finding) | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 | 40 | Stress (finding) | 0 | 
+40 | 40 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:20:0, Fatigue:45:0, Mucus:36:0, Nasal Congestion:29:0, Shortness of Breath:41:0, Nausea/Vomiting:21:0, Sore Throat:43:0, Cough:73:0, Fever:28:0
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 |  | Housing unsatisfactory (finding) | 0 | 
+40 |  | Has a criminal record (finding) | 0 | 
+40 | 40 | Full-time employment (finding) | 0 | 
+40 | 40 | Acute bacterial sinusitis (disorder) | 9 | Headache:39:0, Sinus Pain:55:80:0, Pain with Bright Lights:38:0, Facial Swelling:7:0, Nasal Discharge:44:0, Nasal Congestion:1:0, Sore Throat:30:0, Cough:24:0, Fever:18:0
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 |  | Housing unsatisfactory (finding) | 0 | 
+40 |  | Has a criminal record (finding) | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 | 41 | Stress (finding) | 0 | 
+40 | 43 | Social isolation (finding) | 0 | 
+40 |  | Chronic sinusitis (disorder) | 9 | Headache:0, Sinus Pain:80:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Sore Throat:0, Cough:0, Fever:0
+40 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+41 |  | Impacted molars | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+41 | 41 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:5:0, Runny/Stuffy Nose:25:0, Fatigue:35:0, Swollen Lymph Nodes:17:0, Swollen Tonsils:11:0, Decreased Appetite:39:0, Sore Throat:17:0, Cough:5:0, Fever:8:0
+41 |  | Body mass index 30+ - obesity (finding) | 0 | 
+41 |  | Received certificate of high school equivalency (finding) | 0 | 
+41 |  | Housing unsatisfactory (finding) | 0 | 
+41 |  | Has a criminal record (finding) | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+41 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+42 |  | Impacted molars | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 | 43 | Part-time employment (finding) | 0 | 
+42 |  | Housing unsatisfactory (finding) | 0 | 
+42 |  | Has a criminal record (finding) | 0 | 
+42 | 43 | Stress (finding) | 0 | 
+42 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+43 |  | Impacted molars | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+43 |  | Impacted molars | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+43 |  | Body mass index 30+ - obesity (finding) | 0 | 
+43 |  | Received certificate of high school equivalency (finding) | 0 | 
+43 |  | Housing unsatisfactory (finding) | 0 | 
+43 |  | Has a criminal record (finding) | 0 | 
+43 | 44 | Full-time employment (finding) | 0 | 
+43 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+43 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+44 |  | Impacted molars | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+44 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+44 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 |  | Limited social contact (finding) | 0 | 
+44 |  | Housing unsatisfactory (finding) | 0 | 
+44 |  | Has a criminal record (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 | 46 | Stress (finding) | 0 | 
+44 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+44 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+45 |  | Chronic pain | 10 | Reduced Sex Drive:0, Slurred Speech:4, Shortness Constipation Breath:1, Anxiety:9, Pain Sensitivity:2, Confusion:9, Cognitive Difficulties:18, Shallow Breathing:1, Mood Swing:1, Nausea/Vomiting:6
+45 |  | Body mass index 30+ - obesity (finding) | 0 | 
+45 |  | Received certificate of high school equivalency (finding) | 0 | 
+45 |  | Limited social contact (finding) | 0 | 
+45 |  | Housing unsatisfactory (finding) | 0 | 
+45 |  | Has a criminal record (finding) | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Housing unsatisfactory (finding) | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 |  | Full-time employment (finding) | 0 | 
+46 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

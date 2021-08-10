@@ -1,0 +1,55 @@
+Rosalva Blick
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1988-10-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 |  | Prediabetes | 0 | 
+25 | 26 | Not in labor force (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 | 32 | Social isolation (finding) | 0 | 
+25 |  | Chronic low back pain (finding) | 0 | 
+26 |  | Prediabetes | 0 | 
+26 | 27 | Not in labor force (finding) | 0 | 
+26 |  | Received certificate of high school equivalency (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+26 | 27 | Normal pregnancy | 0 | 
+27 |  | Prediabetes | 0 | 
+27 | 28 | Not in labor force (finding) | 0 | 
+27 |  | Received certificate of high school equivalency (finding) | 0 | 
+27 | 28 | Stress (finding) | 0 | 
+28 |  | Prediabetes | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 | 28 | Normal pregnancy | 0 | 
+29 | 29 | Normal pregnancy | 0 | 
+29 |  | Prediabetes | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Received certificate of high school equivalency (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+29 | 29 | Preeclampsia | 0 | 
+30 |  | Prediabetes | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 | 31 | Stress (finding) | 0 | 
+30 | 30 | Normal pregnancy | 0 | 
+30 |  | Miscarriage in first trimester | 0 | 
+30 | 30 | Blighted ovum | 0 | 
+31 |  | Prediabetes | 0 | 
+31 | 32 | Part-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Dyspnea (finding) | 4 | fatigue:1, fever:1, dyspnea:1, sputum production:1
+31 |  | Fever (finding) | 4 | fatigue:1, fever:1, dyspnea:1, sputum production:1
+31 |  | Sputum finding (finding) | 4 | fatigue:1, fever:1, dyspnea:1, sputum production:1
+31 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, dyspnea:1, sputum production:1
+31 |  | Wheezing (finding) | 4 | fatigue:1, fever:1, dyspnea:1, sputum production:1
+31 | 31 | Suspected COVID-19 | 0 | 
+31 |  | COVID-19 | 0 | 
+32 |  | Prediabetes | 0 | 
+32 |  | Full-time employment (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

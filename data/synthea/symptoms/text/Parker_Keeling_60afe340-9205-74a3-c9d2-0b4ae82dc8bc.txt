@@ -1,0 +1,93 @@
+Parker Keeling
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1920-09-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+86 |  | Opioid abuse (disorder) | 0 | 
+86 |  | Prediabetes | 0 | 
+86 |  | Served in armed forces (finding) | 0 | 
+86 |  | Lack of access to transportation (finding) | 0 | 
+86 |  | Has a criminal record (finding) | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Received higher education (finding) | 0 | 
+86 |  | Stress (finding) | 0 | 
+87 |  | Opioid abuse (disorder) | 0 | 
+87 |  | Prediabetes | 0 | 
+87 |  | Served in armed forces (finding) | 0 | 
+87 |  | Lack of access to transportation (finding) | 0 | 
+87 |  | Has a criminal record (finding) | 0 | 
+87 | 88 | Full-time employment (finding) | 0 | 
+87 |  | Received higher education (finding) | 0 | 
+87 | 90 | Stress (finding) | 0 | 
+88 |  | Opioid abuse (disorder) | 0 | 
+88 |  | Prediabetes | 0 | 
+88 |  | Served in armed forces (finding) | 0 | 
+88 |  | Has a criminal record (finding) | 0 | 
+88 | 89 | Full-time employment (finding) | 0 | 
+88 |  | Transport problems (finding) | 0 | 
+88 |  | Received higher education (finding) | 0 | 
+89 |  | Opioid abuse (disorder) | 0 | 
+89 |  | Prediabetes | 0 | 
+89 |  | Served in armed forces (finding) | 0 | 
+89 | 90 | Part-time employment (finding) | 0 | 
+89 |  | Has a criminal record (finding) | 0 | 
+89 |  | Transport problems (finding) | 0 | 
+89 |  | Received higher education (finding) | 0 | 
+90 | 90 | Sinusitis (disorder) | 9 | Headache:28:0, Sinus Pain:46:0, Pain with Bright Lights:38:0, Facial Swelling:1:0, Nasal Discharge:47:0, Nasal Congestion:10:0, Sore Throat:33:0, Cough:33:0, Fever:6:0
+90 |  | Opioid abuse (disorder) | 0 | 
+90 |  | Prediabetes | 0 | 
+90 |  | Served in armed forces (finding) | 0 | 
+90 |  | Lack of access to transportation (finding) | 0 | 
+90 | 90 | Not in labor force (finding) | 0 | 
+90 |  | Has a criminal record (finding) | 0 | 
+90 |  | Received higher education (finding) | 0 | 
+90 |  | Opioid abuse (disorder) | 0 | 
+90 |  | Prediabetes | 0 | 
+90 |  | Served in armed forces (finding) | 0 | 
+90 |  | Lack of access to transportation (finding) | 0 | 
+90 | 91 | Not in labor force (finding) | 0 | 
+90 |  | Has a criminal record (finding) | 0 | 
+90 |  | Received higher education (finding) | 0 | 
+90 |  | Stress (finding) | 0 | 
+91 |  | Opioid abuse (disorder) | 0 | 
+91 |  | Prediabetes | 0 | 
+91 |  | Served in armed forces (finding) | 0 | 
+91 |  | Has a criminal record (finding) | 0 | 
+91 | 92 | Full-time employment (finding) | 0 | 
+91 |  | Transport problems (finding) | 0 | 
+91 |  | Received higher education (finding) | 0 | 
+91 | 92 | Stress (finding) | 0 | 
+92 |  | Opioid abuse (disorder) | 0 | 
+92 |  | Prediabetes | 0 | 
+92 |  | Served in armed forces (finding) | 0 | 
+92 |  | Lack of access to transportation (finding) | 0 | 
+92 |  | Has a criminal record (finding) | 0 | 
+92 | 93 | Full-time employment (finding) | 0 | 
+92 |  | Received higher education (finding) | 0 | 
+93 |  | Opioid abuse (disorder) | 0 | 
+93 |  | Prediabetes | 0 | 
+93 |  | Served in armed forces (finding) | 0 | 
+93 |  | Lack of access to transportation (finding) | 0 | 
+93 |  | Has a criminal record (finding) | 0 | 
+93 | 95 | Full-time employment (finding) | 0 | 
+93 |  | Received higher education (finding) | 0 | 
+93 | 94 | Stress (finding) | 0 | 
+93 | 95 | Social isolation (finding) | 0 | 
+94 |  | Opioid abuse (disorder) | 0 | 
+94 |  | Prediabetes | 0 | 
+94 |  | Served in armed forces (finding) | 0 | 
+94 |  | Has a criminal record (finding) | 0 | 
+94 |  | Transport problems (finding) | 0 | 
+94 |  | Received higher education (finding) | 0 | 
+95 |  | Opioid abuse (disorder) | 0 | 
+95 |  | Prediabetes | 0 | 
+95 |  | Served in armed forces (finding) | 0 | 
+95 |  | Has a criminal record (finding) | 0 | 
+95 |  | Full-time employment (finding) | 0 | 
+95 |  | Transport problems (finding) | 0 | 
+95 |  | Received higher education (finding) | 0 | 
+95 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

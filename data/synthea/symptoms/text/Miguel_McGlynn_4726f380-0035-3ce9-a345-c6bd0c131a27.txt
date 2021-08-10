@@ -1,0 +1,87 @@
+Miguel McGlynn
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1912-08-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+70 |  | Prediabetes | 0 | 
+70 |  | Served in armed forces (finding) | 0 | 
+70 |  | Housing unsatisfactory (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 | 71 | Stress (finding) | 0 | 
+71 | 72 | Polyp of colon | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Served in armed forces (finding) | 0 | 
+71 | 72 | Part-time employment (finding) | 0 | 
+71 | 75 | Limited social contact (finding) | 0 | 
+71 |  | Housing unsatisfactory (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Served in armed forces (finding) | 0 | 
+72 |  | Housing unsatisfactory (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 | 73 | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Served in armed forces (finding) | 0 | 
+73 |  | Housing unsatisfactory (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Served in armed forces (finding) | 0 | 
+74 | 75 | Not in labor force (finding) | 0 | 
+74 |  | Housing unsatisfactory (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 | 75 | Viral sinusitis (disorder) | 9 | Headache:26:0, Sinus Pain:76:0, Pain with Bright Lights:39:0, Facial Swelling:2:0, Nasal Discharge:14:0, Nasal Congestion:22:0, Sore Throat:49:0, Cough:32:0, Fever:9:0
+75 | 75 | Fracture of ankle | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Served in armed forces (finding) | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Suspected lung cancer (situation) | 2 | Chest Pain:75, Cough:92
+76 |  | Non-small cell lung cancer (disorder) | 0 | 
+76 |  | Non-small cell carcinoma of lung  TNM stage 1 (disorder) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Served in armed forces (finding) | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+77 | 79 | Social isolation (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 |  | Served in armed forces (finding) | 0 | 
+78 | 79 | Victim of intimate partner abuse (finding) | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 |  | Served in armed forces (finding) | 0 | 
+79 |  | Part-time employment (finding) | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Victim of intimate partner abuse (finding) | 0 | 
+--------------------------------------------------------------------------------

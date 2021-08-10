@@ -1,0 +1,78 @@
+Rita Huels
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1933-09-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+73 | 74 | Fracture of rib | 0 | 
+73 | 74 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 | 75 | Viral sinusitis (disorder) | 9 | Headache:44:0, Sinus Pain:71:0, Pain with Bright Lights:46:0, Facial Swelling:47:0, Nasal Discharge:5:0, Nasal Congestion:20:0, Sore Throat:9:0, Cough:38:0, Fever:22:0
+75 |  | Prediabetes | 0 | 
+75 | 75 | Part-time employment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 | 75 | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Limited social contact (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 | 77 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:3:0, Fatigue:45:0, Mucus:27:0, Nasal Congestion:40:0, Shortness of Breath:71:0, Nausea/Vomiting:11:0, Sore Throat:33:0, Cough:66:0, Fever:37:0
+77 |  | Prediabetes | 0 | 
+77 | 83 | Limited social contact (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 | 78 | Stress (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 79 | Part-time employment (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+79 | 79 | Laceration of forearm | 0 | 
+79 | 79 | Viral sinusitis (disorder) | 9 | Headache:16:0, Sinus Pain:77:0, Pain with Bright Lights:29:0, Facial Swelling:1:0, Nasal Discharge:29:0, Nasal Congestion:1:0, Sore Throat:47:0, Cough:47:0, Fever:22:0
+79 |  | Prediabetes | 0 | 
+79 | 80 | Part-time employment (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 | 82 | Stress (finding) | 0 | 
+80 | 80 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:5:0, Fatigue:63:0, Mucus:45:0, Nasal Congestion:46:0, Shortness of Breath:70:0, Nausea/Vomiting:7:0, Sore Throat:44:0, Cough:25:0, Fever:26:0
+80 |  | Prediabetes | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+81 | 81 | Fracture of forearm | 0 | 
+81 | 81 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 | 83 | Victim of intimate partner abuse (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+83 |  | Prediabetes | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Shock (disorder) | 0 | 
+83 | 83 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:2:0, Fatigue:71:0, Mucus:45:0, Nasal Congestion:47:0, Shortness of Breath:28:0, Nausea/Vomiting:17:0, Sore Throat:42:0, Cough:72:0, Fever:43:0
+--------------------------------------------------------------------------------

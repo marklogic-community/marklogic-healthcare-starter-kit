@@ -1,0 +1,596 @@
+
+2021-06-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 2 year-old non-hispanic white female. Patient has a history of covid-19, streptococcal sore throat (disorder), acute bronchitis (disorder), fever (finding), otitis media, cough (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2020-12-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 2 year-old non-hispanic white female. Patient has a history of covid-19, streptococcal sore throat (disorder), acute bronchitis (disorder), fever (finding), otitis media, cough (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 500 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep a, ped/adol, 2 dose. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2020-11-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 2 year-old non-hispanic white female. Patient has a history of covid-19, streptococcal sore throat (disorder), acute bronchitis (disorder), fever (finding), cough (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 500 mg oral tablet
+- ibuprofen 100 mg oral tablet
+
+
+
+2020-06-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 1 year-old non-hispanic white female. Patient has a history of covid-19, streptococcal sore throat (disorder), acute bronchitis (disorder), fever (finding), cough (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2020-03-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 1 year-old non-hispanic white female. Patient has a history of streptococcal sore throat (disorder), acute bronchitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2020-02-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 1 year-old non-hispanic white female. Patient has a history of streptococcal sore throat (disorder), acute bronchitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2020-02-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 1 year-old non-hispanic white female. Patient has a history of streptococcal sore throat (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- measurement of respiratory function (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2019-12-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 1 year-old non-hispanic white female. Patient has a history of streptococcal sore throat (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: dtap. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2019-09-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 1 year-old non-hispanic white female. Patient has a history of streptococcal sore throat (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), varicella, mmr, pneumococcal conjugate pcv 13, hep a, ped/adol, 2 dose. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2019-09-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 1 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with streptococcal sore throat (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- penicillin v potassium 250 mg oral tablet
+
+
+
+2019-08-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 1 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with eggs (edible) (substance). 
+
+## Plan
+
+The following procedures were conducted:
+- allergy screening test
+The patient was prescribed the following medications:
+- cetirizine hydrochloride 5 mg oral tablet
+- nda020800 0.3 ml epinephrine 1 mg/ml auto-injector
+
+
+
+2019-08-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 1 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+
+2019-06-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 11 month-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2019-03-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 8 month-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: ipv, influenza, seasonal, injectable, preservative free, dtap, pneumococcal conjugate pcv 13, hep b, adolescent or pediatric. 
+
+
+
+2018-12-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 5 month-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2018-10-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 3 month-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+
+
+
+2018-08-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a 1 month-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2018-07-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Kylie
+ is a newborn non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has unknown insurance coverage.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+
+
+

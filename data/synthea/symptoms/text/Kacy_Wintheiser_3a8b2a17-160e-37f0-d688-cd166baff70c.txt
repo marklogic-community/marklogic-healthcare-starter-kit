@@ -1,0 +1,71 @@
+Kacy Wintheiser
+===============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+65 | 65 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:14:0, Body Aches:17:0, Runny/Stuffy Nose:18:0, Fatigue:24:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:56:0, Decreased Appetite:42:0, Sore Throat:3:0, Cough:0:0, Fever:40:0
+66 |  | Body mass index 30+ - obesity (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 70 | Reports of violence in the environment (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Transport problems (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 | 66 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:2:0, Body Aches:13:0, Runny/Stuffy Nose:26:0, Fatigue:35:0, Swollen Lymph Nodes:37:0, Swollen Tonsils:2:0, Decreased Appetite:40:0, Sore Throat:26:0, Cough:27:0, Fever:38:0
+66 | 66 | Viral sinusitis (disorder) | 9 | Headache:7:0, Sinus Pain:65:0, Pain with Bright Lights:33:0, Facial Swelling:34:0, Nasal Discharge:2:0, Nasal Congestion:19:0, Sore Throat:27:0, Cough:48:0, Fever:17:0
+67 |  | Body mass index 30+ - obesity (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Transport problems (finding) | 0 | 
+67 | 69 | Stress (finding) | 0 | 
+68 |  | Body mass index 30+ - obesity (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Transport problems (finding) | 0 | 
+68 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:13, Memory Loss:42:94:96:80, Decreased in Judgement:19, Decreased Communication:31, Decreased Attentiveness:43, Confusion:12
+69 |  | Body mass index 30+ - obesity (finding) | 0 | 
+69 |  | Lack of access to transportation (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Body mass index 30+ - obesity (finding) | 0 | 
+70 |  | Lack of access to transportation (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+70 | 73 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+71 |  | Body mass index 30+ - obesity (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 75 | Reports of violence in the environment (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Transport problems (finding) | 0 | 
+71 | 72 | Stress (finding) | 0 | 
+72 |  | Lack of access to transportation (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 | 75 | Limited social contact (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Lack of access to transportation (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 74 | Not in labor force (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+74 | 74 | Viral sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:55:0, Pain with Bright Lights:39:0, Facial Swelling:6:0, Nasal Discharge:5:0, Nasal Congestion:16:0, Sore Throat:18:0, Cough:17:0, Fever:20:0
+74 |  | Lack of access to transportation (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Laceration of foot | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Full-time employment (finding) | 0 | 
+75 |  | Transport problems (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

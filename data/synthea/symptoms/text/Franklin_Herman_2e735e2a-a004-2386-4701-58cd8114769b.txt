@@ -1,0 +1,34 @@
+Franklin Herman
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1999-10-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+12 | 13 | Risk activity involvement (finding) | 0 | 
+12 | 12 | Viral sinusitis (disorder) | 9 | Sinus Pain:50:0, Headache:20:0, Pain with Bright Lights:48:0, Facial Swelling:35:0, Nasal Discharge:34:0, Nasal Congestion:16:0, Fever:21:0, Sore Throat:41:0, Cough:3:0
+14 | 15 | Risk activity involvement (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+19 | 19 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:3:0, Pain with Bright Lights:48:0, Facial Swelling:24:0, Nasal Discharge:47:0, Nasal Congestion:20:0, Fever:3:0, Sore Throat:18:0, Cough:15:0
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+20 |  | Prediabetes | 0 | 
+20 |  | Anemia (disorder) | 0 | 
+20 |  | Limited social contact (finding) | 0 | 
+20 | 21 | Full-time employment (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 | 21 | Stress (finding) | 0 | 
+20 |  | Fever (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+20 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+20 |  | Loss of taste (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+20 | 20 | Suspected COVID-19 | 0 | 
+20 |  | COVID-19 | 0 | 
+21 |  | Prediabetes | 0 | 
+21 |  | Part-time employment (finding) | 0 | 
+21 |  | Received certificate of high school equivalency (finding) | 0 | 
+21 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

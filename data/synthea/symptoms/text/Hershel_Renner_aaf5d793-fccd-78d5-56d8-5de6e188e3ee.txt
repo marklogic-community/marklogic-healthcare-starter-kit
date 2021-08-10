@@ -1,0 +1,20 @@
+Hershel Renner
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2003-11-13
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+15 | 15 | Whiplash injury to neck | 0 | 
+16 | 17 | Severe anxiety (panic) (finding | 0 | 
+16 |  | Risk activity involvement (finding) | 0 | 
+16 |  | Dyspnea (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+16 |  | Fever (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+16 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+16 |  | Wheezing (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+16 |  | Cough (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+16 | 16 | Suspected COVID-19 | 0 | 
+16 |  | COVID-19 | 0 | 
+17 |  | Otitis media | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+Lauren Weissnat
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2012-01-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 2 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:10:0, Body Aches:44:0, Runny/Stuffy Nose:0:0, Fatigue:49:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:26:0, Decreased Appetite:41:0, Cough:34:0, Sore Throat:33:0, Fever:13:0
+8 |  | Fever (finding) | 1 | fever:1
+8 | 8 | Suspected COVID-19 | 0 | 
+8 |  | COVID-19 | 0 | 
+8 | 8 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:49:0, Body Aches:29:0, Runny/Stuffy Nose:33:0, Fatigue:30:0, Swollen Lymph Nodes:50:0, Swollen Tonsils:42:0, Decreased Appetite:38:0, Cough:0:0, Sore Throat:34:0, Fever:39:0
+9 | 9 | Fracture of ankle | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,80 @@
+Juan Kohler
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1979-06-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+32 |  | Prediabetes | 0 | 
+32 |  | Refugee (person) | 0 | 
+32 |  | Housing unsatisfactory (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+33 |  | Prediabetes | 0 | 
+33 |  | Refugee (person) | 0 | 
+33 | 35 | Limited social contact (finding) | 0 | 
+33 |  | Housing unsatisfactory (finding) | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+34 |  | Prediabetes | 0 | 
+34 |  | Refugee (person) | 0 | 
+34 |  | Housing unsatisfactory (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+35 |  | Prediabetes | 0 | 
+35 |  | Refugee (person) | 0 | 
+35 |  | Housing unsatisfactory (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 | 38 | Stress (finding) | 0 | 
+36 |  | Prediabetes | 0 | 
+36 | 37 | Part-time employment (finding) | 0 | 
+36 |  | Refugee (person) | 0 | 
+36 |  | Housing unsatisfactory (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 | 37 | Social isolation (finding) | 0 | 
+37 | 37 | Viral sinusitis (disorder) | 9 | Sinus Pain:52:0, Headache:47:0, Pain with Bright Lights:31:0, Facial Swelling:9:0, Nasal Discharge:14:0, Nasal Congestion:3:0, Fever:19:0, Sore Throat:30:0, Cough:31:0
+37 |  | Prediabetes | 0 | 
+37 |  | Refugee (person) | 0 | 
+37 |  | Housing unsatisfactory (finding) | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 |  | Prediabetes | 0 | 
+38 |  | Refugee (person) | 0 | 
+38 |  | Housing unsatisfactory (finding) | 0 | 
+38 | 41 | Reports of violence in the environment (finding) | 0 | 
+38 | 39 | Full-time employment (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 | 41 | Social isolation (finding) | 0 | 
+39 | 39 | Viral sinusitis (disorder) | 9 | Sinus Pain:63:0, Headache:43:0, Pain with Bright Lights:26:0, Facial Swelling:20:0, Nasal Discharge:35:0, Nasal Congestion:12:0, Fever:7:0, Sore Throat:36:0, Cough:37:0
+39 |  | Prediabetes | 0 | 
+39 | 40 | Part-time employment (finding) | 0 | 
+39 |  | Refugee (person) | 0 | 
+39 |  | Housing unsatisfactory (finding) | 0 | 
+39 |  | Received certificate of high school equivalency (finding) | 0 | 
+39 |  | Stress (finding) | 0 | 
+40 |  | Prediabetes | 0 | 
+40 | 41 | Part-time employment (finding) | 0 | 
+40 |  | Refugee (person) | 0 | 
+40 |  | Housing unsatisfactory (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 | 41 | Stress (finding) | 0 | 
+40 |  | Chill (finding) | 6 | fatigue:1, chills:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+40 |  | Fever (finding) | 6 | fatigue:1, chills:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+40 |  | Sputum finding (finding) | 6 | fatigue:1, chills:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+40 |  | Fatigue (finding) | 6 | fatigue:1, chills:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+40 |  | Cough (finding) | 6 | fatigue:1, chills:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+40 |  | Loss of taste (finding) | 6 | fatigue:1, chills:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+40 | 40 | Suspected COVID-19 | 0 | 
+40 |  | COVID-19 | 0 | 
+41 |  | Prediabetes | 0 | 
+41 |  | Refugee (person) | 0 | 
+41 |  | Housing unsatisfactory (finding) | 0 | 
+41 |  | Full-time employment (finding) | 0 | 
+41 |  | Received certificate of high school equivalency (finding) | 0 | 
+41 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+--------------------------------------------------------------------------------

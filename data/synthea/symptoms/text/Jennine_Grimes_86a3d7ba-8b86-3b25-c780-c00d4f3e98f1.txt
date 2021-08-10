@@ -1,0 +1,58 @@
+Jennine Grimes
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1971-07-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 |  | Prediabetes | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+41 |  | Prediabetes | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+41 |  | Stress (finding) | 0 | 
+41 | 41 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:22:0, Body Aches:35:0, Runny/Stuffy Nose:10:0, Fatigue:46:0, Swollen Lymph Nodes:30:0, Swollen Tonsils:8:0, Decreased Appetite:17:0, Cough:11:0, Sore Throat:41:0, Fever:12:0
+42 |  | Prediabetes | 0 | 
+42 | 43 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+42 |  | Chronic low back pain (finding) | 0 | 
+42 |  | Chronic neck pain (finding) | 0 | 
+42 |  | Chronic low back pain (finding) | 0 | 
+42 |  | Chronic neck pain (finding) | 0 | 
+42 |  | Chronic low back pain (finding) | 0 | 
+42 |  | Chronic neck pain (finding) | 0 | 
+43 |  | Prediabetes | 0 | 
+43 | 44 | Not in labor force (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 |  | Prediabetes | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 | 49 | Stress (finding) | 0 | 
+46 |  | Prediabetes | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 | 47 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:15:0, Pain with Bright Lights:29:0, Facial Swelling:37:0, Nasal Discharge:45:0, Nasal Congestion:13:0, Cough:15:0, Sore Throat:9:0, Fever:6:0
+47 |  | Prediabetes | 0 | 
+47 | 48 | Part-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+48 |  | Prediabetes | 0 | 
+48 | 49 | Not in labor force (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Muscle pain (finding) | 3 | myalgia:1, arthralgia:1, cough:1
+48 |  | Joint pain (finding) | 3 | myalgia:1, arthralgia:1, cough:1
+48 |  | Cough (finding) | 3 | myalgia:1, arthralgia:1, cough:1
+48 | 48 | Suspected COVID-19 | 0 | 
+48 |  | COVID-19 | 0 | 
+49 |  | Prediabetes | 0 | 
+49 |  | Not in labor force (finding) | 0 | 
+49 |  | Victim of intimate partner abuse (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

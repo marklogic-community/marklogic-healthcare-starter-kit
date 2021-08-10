@@ -1,0 +1,58 @@
+Jarred Gislason
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1971-10-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+37 |  | Body mass index 30+ - obesity (finding) | 0 | 
+37 |  | Housing unsatisfactory (finding) | 0 | 
+37 | 39 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 | 39 | Stress (finding) | 0 | 
+37 | 37 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:28:0, Runny/Stuffy Nose:0:0, Fatigue:20:0, Swollen Lymph Nodes:6:0, Swollen Tonsils:47:0, Decreased Appetite:9:0, Sore Throat:8:0, Cough:21:0, Fever:25:0
+39 | 39 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:10:0, Fatigue:59:0, Mucus:33:0, Nasal Congestion:49:0, Shortness of Breath:28:0, Nausea/Vomiting:6:0, Sore Throat:34:0, Cough:37:0, Fever:43:0
+39 |  | Body mass index 30+ - obesity (finding) | 0 | 
+39 |  | Housing unsatisfactory (finding) | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Received higher education (finding) | 0 | 
+39 | 39 | Concussion with no loss of consciousness | 0 | 
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Housing unsatisfactory (finding) | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 |  | Stress (finding) | 0 | 
+40 | 41 | Viral sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:74:0, Pain with Bright Lights:42:0, Facial Swelling:29:0, Nasal Discharge:4:0, Nasal Congestion:17:0, Sore Throat:21:0, Cough:9:0, Fever:20:0
+41 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+41 |  | Body mass index 30+ - obesity (finding) | 0 | 
+41 |  | Housing unsatisfactory (finding) | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+41 |  | Stress (finding) | 0 | 
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 | 43 | Part-time employment (finding) | 0 | 
+42 |  | Housing unsatisfactory (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+42 |  | Victim of intimate partner abuse (finding) | 0 | 
+42 |  | Chronic low back pain (finding) | 0 | 
+42 |  | Chronic neck pain (finding) | 0 | 
+42 | 42 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:25:0, Runny/Stuffy Nose:33:0, Fatigue:43:0, Swollen Lymph Nodes:25:0, Swollen Tonsils:28:0, Decreased Appetite:4:0, Sore Throat:48:0, Cough:4:0, Fever:10:0
+43 |  | Body mass index 30+ - obesity (finding) | 0 | 
+43 |  | Housing unsatisfactory (finding) | 0 | 
+43 | 44 | Full-time employment (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+43 | 43 | Viral sinusitis (disorder) | 9 | Headache:8:0, Sinus Pain:79:0, Pain with Bright Lights:40:0, Facial Swelling:47:0, Nasal Discharge:11:0, Nasal Congestion:3:0, Sore Throat:10:0, Cough:15:0, Fever:20:0
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 |  | Housing unsatisfactory (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 |  | Body mass index 30+ - obesity (finding) | 0 | 
+45 |  | Housing unsatisfactory (finding) | 0 | 
+45 |  | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

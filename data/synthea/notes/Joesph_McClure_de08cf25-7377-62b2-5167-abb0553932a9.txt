@@ -1,0 +1,329 @@
+
+2019-08-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Joesph
+ is a 34 year-old non-hispanic white male. Patient has a history of unhealthy alcohol drinking behavior (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2016-08-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Joesph
+ is a 31 year-old non-hispanic white male. Patient has a history of unhealthy alcohol drinking behavior (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2016-04-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Joesph
+ is a 30 year-old non-hispanic white male. Patient has a history of unhealthy alcohol drinking behavior (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2016-03-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Joesph
+ is a 30 year-old non-hispanic white male. Patient has a history of unhealthy alcohol drinking behavior (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2013-08-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Joesph
+ is a 28 year-old non-hispanic white male. Patient has a history of unhealthy alcohol drinking behavior (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), social isolation (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2013-03-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Joesph
+ is a 27 year-old non-hispanic white male. Patient has a history of unhealthy alcohol drinking behavior (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2010-08-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Joesph
+ is a 25 year-old non-hispanic white male. Patient has a history of unhealthy alcohol drinking behavior (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), unhealthy alcohol drinking behavior (finding). 
+
+## Plan
+
+
+
+
+2007-08-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Joesph
+ is a 22 year-old non-hispanic white male. Patient has a history of unhealthy alcohol drinking behavior (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+2004-08-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Joesph
+ is a 19 year-old non-hispanic white male. Patient has a history of unhealthy alcohol drinking behavior (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+2003-07-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Joesph
+ is a 18 year-old non-hispanic white male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with only received primary school education (finding), unhealthy alcohol drinking behavior (finding). 
+
+## Plan
+
+
+
+

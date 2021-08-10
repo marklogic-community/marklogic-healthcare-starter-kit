@@ -1,0 +1,55 @@
+Marla Windler
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1991-04-13
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+21 |  | Unemployed (finding) | 0 | 
+21 |  | Received certificate of high school equivalency (finding) | 0 | 
+21 | 24 | Stress (finding) | 0 | 
+21 | 21 | Viral sinusitis (disorder) | 9 | Headache:45:0, Sinus Pain:54:0, Pain with Bright Lights:28:0, Facial Swelling:29:0, Nasal Discharge:23:0, Nasal Congestion:11:0, Sore Throat:14:0, Fever:9:0, Cough:29:0
+22 |  | Unemployed (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 | 22 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:24:0, Body Aches:13:0, Runny/Stuffy Nose:39:0, Fatigue:21:0, Swollen Lymph Nodes:9:0, Swollen Tonsils:46:0, Decreased Appetite:19:0, Sore Throat:43:0, Fever:28:0, Cough:40:0
+22 | 23 | Viral sinusitis (disorder) | 9 | Headache:42:0, Sinus Pain:76:0, Pain with Bright Lights:49:0, Facial Swelling:43:0, Nasal Discharge:7:0, Nasal Congestion:14:0, Sore Throat:41:0, Fever:5:0, Cough:34:0
+23 |  | Unemployed (finding) | 0 | 
+23 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 | 23 | Social isolation (finding) | 0 | 
+23 |  | Unemployed (finding) | 0 | 
+23 |  | Received certificate of high school equivalency (finding) | 0 | 
+24 |  | Limited social contact (finding) | 0 | 
+24 |  | Unemployed (finding) | 0 | 
+24 |  | Received certificate of high school equivalency (finding) | 0 | 
+24 | 25 | Normal pregnancy | 0 | 
+25 |  | Unemployed (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 | 26 | Social isolation (finding) | 0 | 
+25 | 28 | Stress (finding) | 0 | 
+25 | 25 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:32:0, Body Aches:25:0, Runny/Stuffy Nose:40:0, Fatigue:23:0, Swollen Lymph Nodes:36:0, Swollen Tonsils:48:0, Decreased Appetite:7:0, Sore Throat:9:0, Fever:4:0, Cough:49:0
+26 | 26 | Sprain of wrist | 0 | 
+26 |  | Unemployed (finding) | 0 | 
+26 |  | Received certificate of high school equivalency (finding) | 0 | 
+27 | 27 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:19:0, Body Aches:12:0, Runny/Stuffy Nose:43:0, Fatigue:8:0, Swollen Lymph Nodes:8:0, Swollen Tonsils:43:0, Decreased Appetite:17:0, Sore Throat:47:0, Fever:27:0, Cough:21:0
+27 |  | Prediabetes | 0 | 
+27 | 29 | Limited social contact (finding) | 0 | 
+27 |  | Unemployed (finding) | 0 | 
+27 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Prediabetes | 0 | 
+28 |  | Unemployed (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Chill (finding) | 5 | chills:1, nasal congestion:1, fever:1, loss_of_taste:1, cough:1
+28 |  | Fever (finding) | 5 | chills:1, nasal congestion:1, fever:1, loss_of_taste:1, cough:1
+28 |  | Nasal congestion (finding) | 5 | chills:1, nasal congestion:1, fever:1, loss_of_taste:1, cough:1
+28 |  | Cough (finding) | 5 | chills:1, nasal congestion:1, fever:1, loss_of_taste:1, cough:1
+28 |  | Loss of taste (finding) | 5 | chills:1, nasal congestion:1, fever:1, loss_of_taste:1, cough:1
+28 | 28 | Suspected COVID-19 | 0 | 
+28 |  | COVID-19 | 0 | 
+29 | 29 | Normal pregnancy | 0 | 
+29 |  | Prediabetes | 0 | 
+29 |  | Anemia (disorder) | 0 | 
+29 |  | Unemployed (finding) | 0 | 
+29 |  | Received certificate of high school equivalency (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

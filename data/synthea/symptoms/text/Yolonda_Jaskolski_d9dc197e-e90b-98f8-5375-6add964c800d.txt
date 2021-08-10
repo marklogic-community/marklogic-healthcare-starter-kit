@@ -1,0 +1,12 @@
+Yolonda Jaskolski
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2008-07-13
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:19:0, Body Aches:31:0, Runny/Stuffy Nose:30:0, Fatigue:24:0, Swollen Lymph Nodes:45:0, Swollen Tonsils:4:0, Decreased Appetite:23:0, Cough:29:0, Sore Throat:12:0, Fever:6:0
+2 | 2 | Otitis media | 0 | 
+2 |  | Bullet wound | 0 | 
+--------------------------------------------------------------------------------

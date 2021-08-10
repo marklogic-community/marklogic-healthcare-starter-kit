@@ -1,0 +1,78 @@
+Lulu Emard
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1941-08-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+62 |  | Refugee (person) | 0 | 
+62 |  | Lack of access to transportation (finding) | 0 | 
+62 |  | Housing unsatisfactory (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+63 |  | Refugee (person) | 0 | 
+63 |  | Housing unsatisfactory (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Transport problems (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+64 |  | Refugee (person) | 0 | 
+64 |  | Lack of access to transportation (finding) | 0 | 
+64 | 65 | Part-time employment (finding) | 0 | 
+64 |  | Housing unsatisfactory (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+65 |  | Refugee (person) | 0 | 
+65 |  | Housing unsatisfactory (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Transport problems (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 | 66 | Stress (finding) | 0 | 
+66 |  | Refugee (person) | 0 | 
+66 |  | Lack of access to transportation (finding) | 0 | 
+66 |  | Housing unsatisfactory (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Refugee (person) | 0 | 
+66 |  | Lack of access to transportation (finding) | 0 | 
+66 | 67 | Part-time employment (finding) | 0 | 
+66 |  | Housing unsatisfactory (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+67 |  | Refugee (person) | 0 | 
+67 |  | Housing unsatisfactory (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Transport problems (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 68 | Stress (finding) | 0 | 
+67 |  | Refugee (person) | 0 | 
+67 |  | Housing unsatisfactory (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Transport problems (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 70 | Severe anxiety (panic) (finding | 0 | 
+68 |  | Refugee (person) | 0 | 
+68 |  | Lack of access to transportation (finding) | 0 | 
+68 |  | Housing unsatisfactory (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+69 |  | Refugee (person) | 0 | 
+69 |  | Housing unsatisfactory (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Transport problems (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 |  | Victim of intimate partner abuse (finding) | 0 | 
+70 |  | Refugee (person) | 0 | 
+70 |  | Lack of access to transportation (finding) | 0 | 
+70 |  | Housing unsatisfactory (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 | 71 | Stress (finding) | 0 | 
+71 |  | Refugee (person) | 0 | 
+71 |  | Victim of intimate partner abuse (finding) | 0 | 
+71 |  | Not in labor force (finding) | 0 | 
+71 |  | Housing unsatisfactory (finding) | 0 | 
+71 |  | Transport problems (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

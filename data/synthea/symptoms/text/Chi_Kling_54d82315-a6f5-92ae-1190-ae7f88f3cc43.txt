@@ -1,0 +1,37 @@
+Chi Kling
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1999-12-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+17 | 17 | Viral sinusitis (disorder) | 9 | Headache:23:0, Sinus Pain:62:0, Pain with Bright Lights:25:0, Facial Swelling:44:0, Nasal Discharge:23:0, Nasal Congestion:12:0, Sore Throat:18:0, Fever:0:0, Cough:47:0
+18 |  | Hypertension | 0 | 
+18 | 19 | Limited social contact (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 | 21 | Victim of intimate partner abuse (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 | 18 | Sprain of wrist | 0 | 
+19 | 20 | Part-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+20 |  | Body mass index 30+ - obesity (finding) | 0 | 
+20 | 21 | Limited social contact (finding) | 0 | 
+20 | 21 | Full-time employment (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 | 21 | Stress (finding) | 0 | 
+20 |  | Dyspnea (finding) | 3 | fever:1, dyspnea:1, loss_of_taste:1
+20 |  | Fever (finding) | 3 | fever:1, dyspnea:1, loss_of_taste:1
+20 |  | Wheezing (finding) | 3 | fever:1, dyspnea:1, loss_of_taste:1
+20 |  | Loss of taste (finding) | 3 | fever:1, dyspnea:1, loss_of_taste:1
+20 | 20 | Suspected COVID-19 | 0 | 
+20 |  | COVID-19 | 0 | 
+20 |  | Acute respiratory failure (disorder) | 0 | 
+20 |  | Respiratory distress (finding) | 0 | 
+20 |  | Pneumonia (disorder) | 0 | 
+20 |  | Hypoxemia (disorder) | 0 | 
+20 |  | Acute pulmonary embolism (disorder) | 0 | 
+21 |  | Full-time employment (finding) | 0 | 
+21 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

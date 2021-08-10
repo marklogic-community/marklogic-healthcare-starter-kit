@@ -1,0 +1,84 @@
+Paulene Volkman
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1932-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+79 |  | Prediabetes | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Drug overdose | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Housing unsatisfactory (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+83 |  | Prediabetes | 0 | 
+83 | 84 | Part-time employment (finding) | 0 | 
+83 | 85 | Limited social contact (finding) | 0 | 
+83 |  | Housing unsatisfactory (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Only received primary school education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+84 |  | Prediabetes | 0 | 
+84 |  | Housing unsatisfactory (finding) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Only received primary school education (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+85 |  | Drug overdose | 0 | 
+85 | 85 | Viral sinusitis (disorder) | 9 | Headache:15:0, Sinus Pain:73:0, Pain with Bright Lights:40:0, Facial Swelling:13:0, Nasal Discharge:47:0, Nasal Congestion:14:0, Sore Throat:21:0, Cough:32:0, Fever:16:0
+85 |  | Prediabetes | 0 | 
+85 |  | Housing unsatisfactory (finding) | 0 | 
+85 |  | Has a criminal record (finding) | 0 | 
+85 | 85 | Full-time employment (finding) | 0 | 
+85 |  | Only received primary school education (finding) | 0 | 
+85 |  | Stress (finding) | 0 | 
+85 |  | Prediabetes | 0 | 
+85 | 86 | Part-time employment (finding) | 0 | 
+85 | 88 | Limited social contact (finding) | 0 | 
+85 |  | Housing unsatisfactory (finding) | 0 | 
+85 |  | Has a criminal record (finding) | 0 | 
+85 |  | Only received primary school education (finding) | 0 | 
+85 | 86 | Stress (finding) | 0 | 
+86 |  | Prediabetes | 0 | 
+86 |  | Housing unsatisfactory (finding) | 0 | 
+86 |  | Has a criminal record (finding) | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Only received primary school education (finding) | 0 | 
+87 |  | Prediabetes | 0 | 
+87 |  | Housing unsatisfactory (finding) | 0 | 
+87 |  | Has a criminal record (finding) | 0 | 
+87 | 88 | Full-time employment (finding) | 0 | 
+87 |  | Only received primary school education (finding) | 0 | 
+87 |  | Stress (finding) | 0 | 
+88 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+88 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+88 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+88 | 88 | Suspected COVID-19 | 0 | 
+88 |  | COVID-19 | 0 | 
+88 |  | Prediabetes | 0 | 
+88 |  | Housing unsatisfactory (finding) | 0 | 
+88 |  | Has a criminal record (finding) | 0 | 
+88 |  | Full-time employment (finding) | 0 | 
+88 |  | Only received primary school education (finding) | 0 | 
+88 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

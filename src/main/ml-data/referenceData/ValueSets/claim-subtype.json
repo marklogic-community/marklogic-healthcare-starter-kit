@@ -1,0 +1,15 @@
+{
+  "valueSet": {
+      "valueSetName": "ExampleClaimSubTypeCodes",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/claim-subtype",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-claim-subtype.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This value set includes sample Claim SubType codes which are used to distinguish the claim types for example within type institutional there may be subtypes for emergency services, bed stay and transportation.",
+      "valueSetConcepts": {
+          "ortho": {"code": "ortho", "display": "Orthodontic Claim", "definition": "A claim for Orthodontic Services."},
+          "emergency": {"code": "emergency", "display": "Emergency Claim", "definition": "A claim for emergency services."}
+      }
+  }
+}

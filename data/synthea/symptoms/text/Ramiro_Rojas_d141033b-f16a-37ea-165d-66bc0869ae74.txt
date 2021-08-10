@@ -1,0 +1,54 @@
+Ramiro Rojas
+============
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1985-09-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 | 25 | Viral sinusitis (disorder) | 9 | Headache:34:0, Sinus Pain:54:0, Pain with Bright Lights:46:0, Facial Swelling:4:0, Nasal Discharge:9:0, Nasal Congestion:20:0, Sore Throat:37:0, Fever:16:0, Cough:6:0
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Only received primary school education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+26 | 26 | Third degree burn | 0 | 
+27 | 28 | Part-time employment (finding) | 0 | 
+27 |  | Only received primary school education (finding) | 0 | 
+27 | 28 | Stress (finding) | 0 | 
+27 | 27 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:26:0, Runny/Stuffy Nose:36:0, Fatigue:17:0, Swollen Lymph Nodes:27:0, Swollen Tonsils:9:0, Decreased Appetite:34:0, Sore Throat:0:0, Fever:4:0, Cough:16:0
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Only received primary school education (finding) | 0 | 
+29 | 30 | Part-time employment (finding) | 0 | 
+29 |  | Only received primary school education (finding) | 0 | 
+29 | 35 | Social isolation (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Only received primary school education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Only received primary school education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 | 31 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:23:0, Body Aches:24:0, Runny/Stuffy Nose:30:0, Fatigue:20:0, Swollen Lymph Nodes:42:0, Swollen Tonsils:19:0, Decreased Appetite:7:0, Sore Throat:14:0, Fever:46:0, Cough:23:0
+32 | 33 | Part-time employment (finding) | 0 | 
+32 | 35 | Reports of violence in the environment (finding) | 0 | 
+32 |  | Only received primary school education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Only received primary school education (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+33 | 33 | Acute bronchitis (disorder) | 10 | Body Aches:3:0, Diarrhea:0:0, Fatigue:43:0, Mucus:38:0, Nasal Congestion:29:0, Shortness of Breath:68:0, Nausea/Vomiting:16:0, Sore Throat:32:0, Fever:25:0, Cough:44:0
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Only received primary school education (finding) | 0 | 
+34 | 35 | Stress (finding) | 0 | 
+34 |  | Chill (finding) | 7 | fatigue:1, chills:1, nasal congestion:1, sore throat:1, fever:1, headache:1, cough:1
+34 |  | Fever (finding) | 7 | fatigue:1, chills:1, nasal congestion:1, sore throat:1, fever:1, headache:1, cough:1
+34 |  | Fatigue (finding) | 7 | fatigue:1, chills:1, nasal congestion:1, sore throat:1, fever:1, headache:1, cough:1
+34 |  | Nasal congestion (finding) | 7 | fatigue:1, chills:1, nasal congestion:1, sore throat:1, fever:1, headache:1, cough:1
+34 |  | Headache (finding) | 7 | fatigue:1, chills:1, nasal congestion:1, sore throat:1, fever:1, headache:1, cough:1
+34 |  | Sore throat symptom (finding) | 7 | fatigue:1, chills:1, nasal congestion:1, sore throat:1, fever:1, headache:1, cough:1
+34 |  | Cough (finding) | 7 | fatigue:1, chills:1, nasal congestion:1, sore throat:1, fever:1, headache:1, cough:1
+34 | 34 | Suspected COVID-19 | 0 | 
+34 |  | COVID-19 | 0 | 
+35 |  | Full-time employment (finding) | 0 | 
+35 |  | Victim of intimate partner abuse (finding) | 0 | 
+35 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

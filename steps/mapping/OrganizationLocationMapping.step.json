@@ -1,0 +1,74 @@
+{
+  "collections": [
+    "OrganizationLocationMapping",
+    "Location"
+  ],
+  "additionalCollections": [ ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "validateEntity": "doNotValidate",
+  "targetFormat": "JSON",
+  "attachSourceDocument": false,
+  "name": "OrganizationLocationMapping",
+  "targetEntityType": "http://example.org/Location-1.0.0/Location",
+  "description": "Organization Location Mapping ",
+  "collection": "OrganizationIngest",
+  "selectedSource": "collection",
+  "sourceQuery": "cts.collectionQuery(['OrganizationIngest'])",
+  "targetDatabase": "data-hub-FINAL",
+  "headers": { },
+  "interceptors": [ ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "sourceDatabase": "data-hub-STAGING",
+  "stepDefinitionName": "entity-services-mapping",
+  "stepDefinitionType": "mapping",
+  "stepId": "OrganizationLocationMapping-mapping",
+  "acceptsBatch": true,
+  "lastUpdated": "2021-08-03T14:04:25.315011-04:00",
+  "uriExpression": "concat(\"/organization/location/\", Id, \".json\")",
+  "properties": {
+    "id": {
+      "sourcedFrom": "Id"
+    },
+    "language": {
+      "sourcedFrom": "\"en-US\""
+    },
+    "name": {
+      "sourcedFrom": "NAME"
+    },
+    "address": {
+      "sourcedFrom": ".",
+      "properties": {
+        "text": {
+          "sourcedFrom": "ADDRESS"
+        },
+        "line": {
+          "sourcedFrom": "ADDRESS"
+        },
+        "city": {
+          "sourcedFrom": "CITY"
+        },
+        "state": {
+          "sourcedFrom": "STATE"
+        },
+        "postalCode": {
+          "sourcedFrom": "ZIP"
+        }
+      },
+      "targetEntityType": "#/definitions/Address"
+    },
+    "position": {
+      "sourcedFrom": ".",
+      "properties": {
+        "longitude": {
+          "sourcedFrom": "LON"
+        },
+        "latitude": {
+          "sourcedFrom": "LAT"
+        }
+      },
+      "targetEntityType": "#/definitions/Position"
+    }
+  }
+}

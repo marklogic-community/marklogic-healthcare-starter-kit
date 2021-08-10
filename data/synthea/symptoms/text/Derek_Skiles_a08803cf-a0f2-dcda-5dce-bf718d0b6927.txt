@@ -1,0 +1,61 @@
+Derek Skiles
+============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1967-10-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+44 |  | Prediabetes | 0 | 
+44 | 44 | Sprain of ankle | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 45 | Stress (finding) | 0 | 
+44 | 44 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:10:0, Runny/Stuffy Nose:17:0, Fatigue:14:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:8:0, Decreased Appetite:17:0, Sore Throat:8:0, Fever:21:0, Cough:18:0
+45 |  | Prediabetes | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+46 | 46 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:29:0, Runny/Stuffy Nose:13:0, Fatigue:3:0, Swollen Lymph Nodes:19:0, Swollen Tonsils:49:0, Decreased Appetite:36:0, Sore Throat:3:0, Fever:15:0, Cough:48:0
+46 |  | Prediabetes | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+47 |  | Prediabetes | 0 | 
+47 | 48 | Not in labor force (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+47 | 52 | Social isolation (finding) | 0 | 
+48 |  | Prediabetes | 0 | 
+48 | 49 | Part-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 | 49 | Stress (finding) | 0 | 
+49 |  | Prediabetes | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 51 | Part-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 | 52 | Stress (finding) | 0 | 
+52 | 52 | Acute bronchitis (disorder) | 10 | Body Aches:16:0, Diarrhea:4:0, Fatigue:38:0, Mucus:28:0, Nasal Congestion:39:0, Shortness of Breath:73:0, Nausea/Vomiting:3:0, Sore Throat:44:0, Fever:32:0, Cough:63:0
+52 |  | Fever (finding) | 3 | sore throat:1, fever:1, sputum production:1
+52 |  | Sputum finding (finding) | 3 | sore throat:1, fever:1, sputum production:1
+52 |  | Sore throat symptom (finding) | 3 | sore throat:1, fever:1, sputum production:1
+52 | 52 | Suspected COVID-19 | 0 | 
+52 |  | COVID-19 | 0 | 
+52 | 52 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:27:0, Body Aches:38:0, Runny/Stuffy Nose:46:0, Fatigue:45:0, Swollen Lymph Nodes:20:0, Swollen Tonsils:43:0, Decreased Appetite:28:0, Sore Throat:19:0, Fever:36:0, Cough:47:0
+52 |  | Prediabetes | 0 | 
+52 | 52 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+52 | 53 | Social isolation (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

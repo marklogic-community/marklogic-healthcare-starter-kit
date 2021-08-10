@@ -1,0 +1,18 @@
+Mateo Zambrano
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2014-06-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 2 | Sinusitis (disorder) | 9 | Sinus Pain:44:111:0, Headache:27:0, Pain with Bright Lights:35:0, Facial Swelling:18:0, Nasal Discharge:45:0, Nasal Congestion:18:0, Fever:15:0, Sore Throat:46:0, Cough:3:0
+2 |  | Chronic sinusitis (disorder) | 9 | Sinus Pain:111:0, Headache:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Fever:0, Sore Throat:0, Cough:0
+5 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+5 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+5 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+5 | 5 | Suspected COVID-19 | 0 | 
+5 |  | COVID-19 | 0 | 
+6 |  | History of single seizure (situation) | 0 | 
+6 |  | Seizure disorder | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,74 @@
+Vance Gislason
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1993-10-11
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Only received primary school education (finding) | 0 | 
+18 | 20 | Stress (finding) | 0 | 
+18 | 18 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:9:0, Runny/Stuffy Nose:23:0, Fatigue:44:0, Swollen Lymph Nodes:5:0, Swollen Tonsils:43:0, Decreased Appetite:10:0, Sore Throat:14:0, Cough:12:0, Fever:6:0
+19 |  | Body mass index 30+ - obesity (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Only received primary school education (finding) | 0 | 
+19 | 19 | Viral sinusitis (disorder) | 9 | Headache:32:0, Sinus Pain:79:0, Pain with Bright Lights:40:0, Facial Swelling:18:0, Nasal Discharge:43:0, Nasal Congestion:1:0, Sore Throat:24:0, Cough:36:0, Fever:18:0
+20 |  | Chronic low back pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+20 |  | Chronic neck pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+20 | 21 | Full-time employment (finding) | 0 | 
+20 |  | Only received primary school education (finding) | 0 | 
+20 |  | Social isolation (finding) | 0 | 
+20 |  | Chronic low back pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+20 |  | Chronic neck pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+20 |  | Chronic low back pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+20 |  | Chronic neck pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+20 |  | Chronic low back pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+20 |  | Chronic neck pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+20 |  | Chronic low back pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+20 |  | Chronic neck pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+21 |  | Chronic low back pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+21 |  | Chronic neck pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+21 | 22 | Part-time employment (finding) | 0 | 
+21 | 22 | Limited social contact (finding) | 0 | 
+21 |  | Only received primary school education (finding) | 0 | 
+21 | 22 | Stress (finding) | 0 | 
+21 |  | Chronic low back pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+21 |  | Chronic neck pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+21 |  | Chronic low back pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+21 |  | Chronic neck pain (finding) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+21 |  | Opioid abuse (disorder) | 5 | Reduced Sex Drive:26, Confusion:18, Cognitive Difficulties:16, Shallow Breathing:74, Sensitivity to Pain:74
+21 |  | Opioid abuse (disorder) | 0 | 
+21 | 21 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:11:0, Fatigue:57:0, Mucus:48:0, Nasal Congestion:30:0, Shortness of Breath:56:0, Nausea/Vomiting:9:0, Sore Throat:43:0, Cough:69:0, Fever:44:0
+21 |  | Opioid abuse (disorder) | 0 | 
+21 |  | Opioid abuse (disorder) | 0 | 
+21 |  | Opioid abuse (disorder) | 0 | 
+22 |  | Opioid abuse (disorder) | 0 | 
+22 | 23 | Full-time employment (finding) | 0 | 
+22 |  | Only received primary school education (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Only received primary school education (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+23 | 25 | Social isolation (finding) | 0 | 
+24 | 25 | Part-time employment (finding) | 0 | 
+24 |  | Only received primary school education (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+25 | 26 | Not in labor force (finding) | 0 | 
+25 |  | Only received primary school education (finding) | 0 | 
+25 | 27 | Stress (finding) | 0 | 
+25 | 25 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:25:0, Runny/Stuffy Nose:13:0, Fatigue:21:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:34:0, Decreased Appetite:31:0, Sore Throat:29:0, Cough:10:0, Fever:0:0
+26 |  | Fever (finding) | 3 | fever:1, sputum production:1, cough:1
+26 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, cough:1
+26 |  | Cough (finding) | 3 | fever:1, sputum production:1, cough:1
+26 | 26 | Suspected COVID-19 | 0 | 
+26 |  | COVID-19 | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Only received primary school education (finding) | 0 | 
+26 | 27 | Social isolation (finding) | 0 | 
+27 | 27 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:0:0, Fatigue:28:0, Mucus:44:0, Nasal Congestion:34:0, Shortness of Breath:44:0, Nausea/Vomiting:0:0, Sore Throat:30:0, Cough:33:0, Fever:48:0
+27 | 27 | Full-time employment (finding) | 0 | 
+27 |  | Only received primary school education (finding) | 0 | 
+27 |  | Full-time employment (finding) | 0 | 
+27 |  | Only received primary school education (finding) | 0 | 
+27 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

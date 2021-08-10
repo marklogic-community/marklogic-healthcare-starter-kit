@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "sources": [
+      {
+        "name": "ClaimTransactionIngest",
+        "file": ["data/synthea/csv/claim_transactions/claim_transactions_1.csv", "data/synthea/csv/claim_transactions/claim_transactions_2.csv"]
+      }
+    ]
+  },
+  "collections": [
+    "ClaimTransactionIngest"
+  ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "name": "ClaimTransactionIngest",
+  "description": "Ingest ClaimTransaction data",
+  "sourceFormat": "csv",
+  "separator": ",",
+  "targetFormat": "JSON",
+  "sourceName": "data/synthea/csv/claims_transactions/",
+  "sourceType": "ClaimTransaction",
+  "outputURIPrefix": "/claim_transaction/",
+  "additionalCollections": [
+    "ClaimTransaction"
+  ],
+  "targetDatabase": "data-hub-STAGING",
+  "interceptors": [
+    {
+      "path": "/lib/interceptors/claim-transaction-ingest.sjs",
+      "when": "beforeContentPersisted"
+    }
+  ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "stepDefinitionName": "default-ingestion",
+  "stepDefinitionType": "ingestion",
+  "stepId": "ClaimTransactionIngest-ingestion",
+  "lastUpdated": "2021-07-14T20:11:01.006295Z"
+}

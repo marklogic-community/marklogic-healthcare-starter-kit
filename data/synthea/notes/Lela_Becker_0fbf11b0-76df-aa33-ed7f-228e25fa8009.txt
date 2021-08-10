@@ -1,0 +1,518 @@
+
+2021-01-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 11 year-old non-hispanic white female. Patient has a history of covid-19, dyspnea (finding), fever (finding), wheezing (finding), otitis media, acute viral pharyngitis (disorder), cough (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- throat culture (procedure)
+
+
+
+2020-08-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 11 year-old non-hispanic white female. Patient has a history of covid-19, dyspnea (finding), fever (finding), wheezing (finding), otitis media, acute viral pharyngitis (disorder), cough (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+
+
+
+2020-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 10 year-old non-hispanic white female. Patient has a history of otitis media, acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), dyspnea (finding), wheezing (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-08-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 10 year-old non-hispanic white female. Patient has a history of otitis media, acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2018-08-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 9 year-old non-hispanic white female. Patient has a history of otitis media, acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-08-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 7 year-old non-hispanic white female. Patient has a history of otitis media, acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2016-08-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 6 year-old non-hispanic white female. Patient has a history of otitis media, acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2015-07-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 5 year-old non-hispanic white female. Patient has a history of otitis media, acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2014-08-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 5 year-old non-hispanic white female. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- acetaminophen 160 mg chewable tablet
+
+
+
+2014-07-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 4 year-old non-hispanic white female. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: varicella, ipv, influenza, seasonal, injectable, preservative free, dtap, mmr. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2013-07-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 3 year-old non-hispanic white female. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2013-03-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 3 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- throat culture (procedure)
+
+
+
+2013-01-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 3 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2012-07-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 2 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2012-01-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 2 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep a, ped/adol, 2 dose. 
+
+
+
+2011-07-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lela
+ is a 1 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+

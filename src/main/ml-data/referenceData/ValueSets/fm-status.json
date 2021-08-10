@@ -1,0 +1,17 @@
+{
+  "valueSet": {
+      "valueSetName": "FinancialResourceStatusCodes",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/fm-status",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-fm-status.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This value set includes Status codes.",
+      "valueSetConcepts": {
+          "active": {"code": "active", "display": "Active", "definition": "The instance is currently in-force."},
+          "cancelled": {"code": "cancelled", "display": "Cancelled", "definition": "The instance is withdrawn, rescinded or reversed."},
+          "draft": {"code": "draft", "display": "Draft", "definition": "A new instance the contents of which is not complete."},
+          "entered-in-error": {"code": "entered-in-error", "display": "Entered in Error", "definition": "The instance was entered in error."}
+      }
+  }
+}

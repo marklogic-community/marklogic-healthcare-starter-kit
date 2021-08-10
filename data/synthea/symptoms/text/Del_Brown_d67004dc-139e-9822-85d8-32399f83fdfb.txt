@@ -1,0 +1,20 @@
+Del Brown
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2006-01-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+5 |  | Chronic sinusitis (disorder) | 9 | Headache:0:42:0, Sinus Pain:121:91:0:59:0, Pain with Bright Lights:0:28:0, Facial Swelling:0:49:0, Nasal Discharge:0:44:0, Nasal Congestion:0:2:0, Sore Throat:0:9:0, Fever:0:4:0, Cough:0:35:0
+8 | 8 | Viral sinusitis (disorder) | 9 | Headache:42:0, Sinus Pain:59:0, Pain with Bright Lights:28:0, Facial Swelling:49:0, Nasal Discharge:44:0, Nasal Congestion:2:0, Sore Throat:9:0, Fever:4:0, Cough:35:0
+11 | 11 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:11:0, Body Aches:30:0, Runny/Stuffy Nose:37:0, Fatigue:32:0, Swollen Lymph Nodes:27:0, Swollen Tonsils:1:0, Decreased Appetite:19:0, Sore Throat:8:0, Fever:17:0, Cough:23:0
+14 | 14 | Acute bronchitis (disorder) | 10 | Body Aches:8:0, Diarrhea:3:0, Fatigue:44:0, Mucus:34:0, Nasal Congestion:36:0, Shortness of Breath:70:0, Nausea/Vomiting:23:0, Sore Throat:31:0, Fever:29:0, Cough:55:0
+14 |  | Vomiting symptom (finding) | 5 | fatigue:1, fever:1, cough:1, vomiting:1, nausea:1
+14 |  | Fever (finding) | 5 | fatigue:1, fever:1, cough:1, vomiting:1, nausea:1
+14 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, cough:1, vomiting:1, nausea:1
+14 |  | Cough (finding) | 5 | fatigue:1, fever:1, cough:1, vomiting:1, nausea:1
+14 |  | Nausea (finding) | 5 | fatigue:1, fever:1, cough:1, vomiting:1, nausea:1
+14 | 14 | Suspected COVID-19 | 0 | 
+14 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

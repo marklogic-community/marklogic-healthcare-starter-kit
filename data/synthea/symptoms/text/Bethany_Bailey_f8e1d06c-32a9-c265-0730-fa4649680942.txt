@@ -1,0 +1,102 @@
+Bethany Bailey
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1993-02-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 | 18 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:48:0, Body Aches:43:0, Runny/Stuffy Nose:31:0, Fatigue:49:0, Swollen Lymph Nodes:25:0, Swollen Tonsils:28:0, Decreased Appetite:16:0, Fever:46:0, Sore Throat:17:0, Cough:35:0
+18 | 19 | Normal pregnancy | 0 | 
+18 |  | Chronic intractable migraine without aura | 0 | 
+18 |  | Impacted molars | 0 | 
+19 | 19 | Preeclampsia | 0 | 
+19 | 20 | Part-time employment (finding) | 0 | 
+19 |  | Only received primary school education (finding) | 0 | 
+19 | 28 | Severe anxiety (panic) (finding | 0 | 
+19 |  | Chronic pain | 0 | 
+19 | 19 | Viral sinusitis (disorder) | 9 | Sinus Pain:78:0, Headache:0:0, Pain with Bright Lights:31:0, Facial Swelling:35:0, Nasal Discharge:39:0, Nasal Congestion:8:0, Fever:6:0, Sore Throat:39:0, Cough:10:0
+19 |  | Chronic intractable migraine without aura | 0 | 
+20 | 21 | Part-time employment (finding) | 0 | 
+20 |  | Only received primary school education (finding) | 0 | 
+20 |  | Chronic intractable migraine without aura | 0 | 
+20 |  | Chronic intractable migraine without aura | 0 | 
+20 | 20 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:36:0, Body Aches:12:0, Runny/Stuffy Nose:47:0, Fatigue:16:0, Swollen Lymph Nodes:13:0, Swollen Tonsils:14:0, Decreased Appetite:11:0, Fever:41:0, Sore Throat:5:0, Cough:30:0
+20 |  | Chronic pain | 0 | 
+20 |  | Impacted molars | 0 | 
+21 |  | Impacted molars | 0 | 
+21 | 28 | Reports of violence in the environment (finding) | 0 | 
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Only received primary school education (finding) | 0 | 
+21 |  | Impacted molars | 0 | 
+21 |  | Impacted molars | 0 | 
+21 |  | Impacted molars | 0 | 
+21 |  | Impacted molars | 0 | 
+22 |  | Impacted molars | 0 | 
+22 | 27 | Limited social contact (finding) | 0 | 
+22 | 23 | Full-time employment (finding) | 0 | 
+22 |  | Only received primary school education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 |  | Impacted molars | 0 | 
+23 |  | Chronic intractable migraine without aura | 0 | 
+23 | 24 | Part-time employment (finding) | 0 | 
+23 |  | Only received primary school education (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+23 |  | Chronic pain | 0 | 
+23 | 23 | Normal pregnancy | 0 | 
+23 |  | Impacted molars | 0 | 
+23 | 23 | Normal pregnancy | 0 | 
+23 |  | Chronic pain | 0 | 
+24 |  | Chronic intractable migraine without aura | 0 | 
+24 |  | Prediabetes | 0 | 
+24 |  | Anemia (disorder) | 0 | 
+24 | 25 | Not in labor force (finding) | 0 | 
+24 |  | Only received primary school education (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+24 | 26 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+24 |  | Impacted molars | 0 | 
+24 |  | Chronic intractable migraine without aura | 0 | 
+24 |  | Chronic pain | 0 | 
+24 |  | Chronic intractable migraine without aura | 0 | 
+25 |  | Impacted molars | 0 | 
+25 |  | Prediabetes | 0 | 
+25 | 26 | Full-time employment (finding) | 0 | 
+25 |  | Only received primary school education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 |  | Chronic intractable migraine without aura | 0 | 
+25 |  | Chronic intractable migraine without aura | 0 | 
+26 |  | Impacted molars | 0 | 
+26 |  | Prediabetes | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Only received primary school education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+26 |  | Chronic intractable migraine without aura | 0 | 
+26 |  | Chronic intractable migraine without aura | 0 | 
+26 |  | Impacted molars | 0 | 
+26 |  | Impacted molars | 0 | 
+27 |  | Chronic intractable migraine without aura | 0 | 
+27 |  | Muscle pain (finding) | 3 | myalgia:1, arthralgia:1, fever:1
+27 |  | Fever (finding) | 3 | myalgia:1, arthralgia:1, fever:1
+27 |  | Joint pain (finding) | 3 | myalgia:1, arthralgia:1, fever:1
+27 | 27 | Suspected COVID-19 | 0 | 
+27 |  | COVID-19 | 0 | 
+27 |  | Chronic pain | 0 | 
+27 | 28 | Normal pregnancy | 0 | 
+27 |  | Prediabetes | 0 | 
+27 | 28 | Full-time employment (finding) | 0 | 
+27 | 28 | Victim of intimate partner abuse (finding) | 0 | 
+27 |  | Only received primary school education (finding) | 0 | 
+27 |  | Stress (finding) | 0 | 
+27 |  | Chronic intractable migraine without aura | 0 | 
+27 |  | Chronic pain | 0 | 
+27 |  | Chronic intractable migraine without aura | 0 | 
+28 |  | Impacted molars | 0 | 
+28 |  | Prediabetes | 0 | 
+28 |  | Full-time employment (finding) | 0 | 
+28 |  | Only received primary school education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+28 |  | Social isolation (finding) | 0 | 
+28 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+28 |  | Chronic intractable migraine without aura | 0 | 
+28 |  | Chronic pain | 0 | 
+--------------------------------------------------------------------------------

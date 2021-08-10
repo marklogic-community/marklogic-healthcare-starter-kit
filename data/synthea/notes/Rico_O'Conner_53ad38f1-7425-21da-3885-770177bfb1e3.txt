@@ -1,0 +1,573 @@
+
+2021-06-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 25 year-old non-hispanic white male. Patient has a history of viral sinusitis (disorder), suspected covid-19, facial laceration, fracture of ankle, severe anxiety (panic) (finding, covid-19, acute bronchitis (disorder), part-time employment (finding), fever (finding), sputum finding (finding), not in labor force (finding), full-time employment (finding), cough (finding), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2021-05-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 25 year-old non-hispanic white male. Patient has a history of viral sinusitis (disorder), suspected covid-19, facial laceration, severe anxiety (panic) (finding, covid-19, acute bronchitis (disorder), part-time employment (finding), fever (finding), sputum finding (finding), not in labor force (finding), full-time employment (finding), cough (finding), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with fracture of ankle. 
+
+## Plan
+
+The following procedures were conducted:
+- ankle x-ray
+- bone immobilization
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- fracture care
+
+
+
+2020-09-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 25 year-old non-hispanic white male. Patient has a history of viral sinusitis (disorder), suspected covid-19, facial laceration, severe anxiety (panic) (finding, covid-19, acute bronchitis (disorder), part-time employment (finding), fever (finding), sputum finding (finding), not in labor force (finding), full-time employment (finding), cough (finding), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), limited social contact (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2020-03-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 24 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), part-time employment (finding), not in labor force (finding), full-time employment (finding), viral sinusitis (disorder), facial laceration, severe anxiety (panic) (finding, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), sputum finding (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2017-09-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 22 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), part-time employment (finding), not in labor force (finding), full-time employment (finding), viral sinusitis (disorder), facial laceration, severe anxiety (panic) (finding, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), social isolation (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free, hep b, adult, meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2016-05-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 20 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), part-time employment (finding), not in labor force (finding), full-time employment (finding), viral sinusitis (disorder), severe anxiety (panic) (finding, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with facial laceration. 
+
+## Plan
+
+The following procedures were conducted:
+- suture open wound
+- injection of tetanus antitoxin
+The patient was prescribed the following medications:
+- ibuprofen 200 mg oral tablet
+The patient was placed on a careplan:
+- wound care
+
+
+
+2014-09-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 19 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), not in labor force (finding), full-time employment (finding), viral sinusitis (disorder), severe anxiety (panic) (finding, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2014-07-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 19 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), viral sinusitis (disorder), severe anxiety (panic) (finding, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding), stress (finding), unhealthy alcohol drinking behavior (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2014-07-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 18 year-old non-hispanic white male. Patient has a history of full-time employment (finding), viral sinusitis (disorder), severe anxiety (panic) (finding, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2014-07-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 19 year-old non-hispanic white male. Patient has a history of full-time employment (finding), viral sinusitis (disorder), severe anxiety (panic) (finding, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2014-04-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 18 year-old non-hispanic white male. Patient has a history of full-time employment (finding), viral sinusitis (disorder), severe anxiety (panic) (finding, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2014-02-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 18 year-old non-hispanic white male. Patient has a history of full-time employment (finding), severe anxiety (panic) (finding, social isolation (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2013-08-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 18 year-old non-hispanic white male. Patient has a history of severe anxiety (panic) (finding.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding), full-time employment (finding), social isolation (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2012-08-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 17 year-old non-hispanic white male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with severe anxiety (panic) (finding. 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2011-08-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 16 year-old non-hispanic white male.
+
+# Social History
+ Patient quite smoking at age 16 and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2011-01-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rico
+ is a 15 year-old non-hispanic white male.
+
+# Social History
+ Patient quite smoking at age 16 and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+

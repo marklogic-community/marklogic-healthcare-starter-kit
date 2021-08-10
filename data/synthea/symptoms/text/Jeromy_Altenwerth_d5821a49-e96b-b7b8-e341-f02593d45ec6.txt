@@ -1,0 +1,62 @@
+Jeromy Altenwerth
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1974-01-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+38 | 38 | Viral sinusitis (disorder) | 9 | Headache:2:0, Sinus Pain:78:0, Pain with Bright Lights:38:0, Facial Swelling:25:0, Nasal Discharge:19:0, Nasal Congestion:12:0, Sore Throat:45:0, Cough:19:0, Fever:22:0
+38 |  | Prediabetes | 0 | 
+38 | 39 | Full-time employment (finding) | 0 | 
+38 |  | Only received primary school education (finding) | 0 | 
+39 |  | Prediabetes | 0 | 
+39 | 40 | Not in labor force (finding) | 0 | 
+39 |  | Only received primary school education (finding) | 0 | 
+40 |  | Prediabetes | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Only received primary school education (finding) | 0 | 
+40 | 43 | Stress (finding) | 0 | 
+41 |  | Prediabetes | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 | 42 | Victim of intimate partner abuse (finding) | 0 | 
+41 |  | Only received primary school education (finding) | 0 | 
+42 |  | Prediabetes | 0 | 
+42 | 43 | Full-time employment (finding) | 0 | 
+42 |  | Only received primary school education (finding) | 0 | 
+43 | 43 | Acute bronchitis (disorder) | 10 | Body Aches:3:0, Diarrhea:18:0, Fatigue:72:0, Mucus:25:0, Nasal Congestion:49:0, Shortness of Breath:59:0, Nausea/Vomiting:11:0, Sore Throat:27:0, Cough:61:0, Fever:41:0
+43 |  | Prediabetes | 0 | 
+43 | 43 | Not in labor force (finding) | 0 | 
+43 | 46 | Victim of intimate partner abuse (finding) | 0 | 
+43 |  | Only received primary school education (finding) | 0 | 
+43 |  | Prediabetes | 0 | 
+43 | 44 | Part-time employment (finding) | 0 | 
+43 |  | Only received primary school education (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 | 45 | Limited social contact (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Only received primary school education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 |  | Prediabetes | 0 | 
+45 | 46 | Part-time employment (finding) | 0 | 
+45 |  | Only received primary school education (finding) | 0 | 
+45 |  | Stress (finding) | 0 | 
+46 |  | Dyspnea (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+46 |  | Fever (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+46 |  | Sputum finding (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+46 |  | Wheezing (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+46 |  | Loss of taste (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+46 | 46 | Suspected COVID-19 | 0 | 
+46 |  | COVID-19 | 0 | 
+46 |  | Respiratory distress (finding) | 0 | 
+46 |  | Sepsis caused by virus (disorder) | 0 | 
+46 |  | Heart failure (disorder) | 0 | 
+46 |  | Pneumonia (disorder) | 0 | 
+46 |  | Hypoxemia (disorder) | 0 | 
+46 |  | Prediabetes | 0 | 
+46 |  | Full-time employment (finding) | 0 | 
+46 |  | Only received primary school education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

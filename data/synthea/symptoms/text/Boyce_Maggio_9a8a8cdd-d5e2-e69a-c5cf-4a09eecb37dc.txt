@@ -1,0 +1,71 @@
+Boyce Maggio
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1971-12-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 |  | Hypertriglyceridemia (disorder) | 0 | 
+40 |  | Diabetes | 0 | 
+40 | 41 | Part-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 42 | Stress (finding) | 0 | 
+41 |  | Hypertriglyceridemia (disorder) | 0 | 
+41 |  | Diabetes | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+42 |  | Chronic low back pain (finding) | 0 | 
+42 |  | Hypertriglyceridemia (disorder) | 0 | 
+42 |  | Diabetes | 0 | 
+42 | 43 | Part-time employment (finding) | 0 | 
+42 | 45 | Limited social contact (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+43 |  | Hypertriglyceridemia (disorder) | 0 | 
+43 |  | Diabetes | 0 | 
+43 | 44 | Full-time employment (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+44 |  | Hypertriglyceridemia (disorder) | 0 | 
+44 |  | Diabetes | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 |  | Metabolic syndrome X (disorder) | 0 | 
+45 |  | Hypertriglyceridemia (disorder) | 0 | 
+45 |  | Diabetes | 0 | 
+45 | 46 | Part-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 | 46 | Stress (finding) | 0 | 
+46 |  | Hypertriglyceridemia (disorder) | 0 | 
+46 |  | Diabetes | 0 | 
+46 | 48 | Limited social contact (finding) | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 |  | Metabolic syndrome X (disorder) | 0 | 
+47 |  | Hypertriglyceridemia (disorder) | 0 | 
+47 |  | Prediabetes | 0 | 
+47 |  | Hyperglycemia (disorder) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 | 48 | Stress (finding) | 0 | 
+48 |  | Fatigue (finding) | 5 | fatigue:1, sore throat:1, headache:1, loss_of_taste:1, cough:1
+48 |  | Headache (finding) | 5 | fatigue:1, sore throat:1, headache:1, loss_of_taste:1, cough:1
+48 |  | Sore throat symptom (finding) | 5 | fatigue:1, sore throat:1, headache:1, loss_of_taste:1, cough:1
+48 |  | Cough (finding) | 5 | fatigue:1, sore throat:1, headache:1, loss_of_taste:1, cough:1
+48 |  | Loss of taste (finding) | 5 | fatigue:1, sore throat:1, headache:1, loss_of_taste:1, cough:1
+48 | 48 | Suspected COVID-19 | 0 | 
+48 |  | COVID-19 | 0 | 
+48 |  | Acute respiratory failure (disorder) | 0 | 
+48 |  | Respiratory distress (finding) | 0 | 
+48 |  | Sepsis caused by virus (disorder) | 0 | 
+48 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+48 |  | Pneumonia (disorder) | 0 | 
+48 |  | Hypoxemia (disorder) | 0 | 
+48 |  | Acute deep venous thrombosis (disorder) | 0 | 
+48 |  | Neuropathy due to type 2 diabetes mellitus (disorder) | 0 | 
+48 |  | Metabolic syndrome X (disorder) | 0 | 
+48 |  | Prediabetes | 0 | 
+48 |  | Part-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

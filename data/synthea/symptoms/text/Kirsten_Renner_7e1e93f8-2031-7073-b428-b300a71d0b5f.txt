@@ -1,0 +1,77 @@
+Kirsten Renner
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1940-03-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+71 |  | Prediabetes | 0 | 
+71 | 72 | Part-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 | 75 | Stress (finding) | 0 | 
+73 | 73 | Sprain of ankle | 0 | 
+73 |  | Chronic low back pain (finding) | 0 | 
+73 |  | Chronic neck pain (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 74 | Part-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+74 |  | Chronic low back pain (finding) | 0 | 
+74 |  | Chronic neck pain (finding) | 0 | 
+74 |  | Chronic low back pain (finding) | 0 | 
+74 |  | Chronic neck pain (finding) | 0 | 
+74 |  | Chronic low back pain (finding) | 0 | 
+74 |  | Chronic neck pain (finding) | 0 | 
+74 |  | Chronic low back pain (finding) | 0 | 
+74 |  | Chronic neck pain (finding) | 0 | 
+74 |  | Chronic low back pain (finding) | 0 | 
+74 |  | Chronic neck pain (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Limited social contact (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Social isolation (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 81 | Limited social contact (finding) | 0 | 
+76 | 78 | Not in labor force (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 79 | Stress (finding) | 0 | 
+78 | 78 | Facial laceration | 0 | 
+79 |  | Prediabetes | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Dyspnea (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+79 |  | Fever (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+79 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+79 |  | Wheezing (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+79 |  | Cough (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+79 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+79 | 79 | Suspected COVID-19 | 0 | 
+79 |  | COVID-19 | 0 | 
+79 |  | Acute respiratory failure (disorder) | 0 | 
+79 |  | Respiratory distress (finding) | 0 | 
+79 |  | Pneumonia (disorder) | 0 | 
+79 |  | Hypoxemia (disorder) | 0 | 
+80 |  | Acute deep venous thrombosis (disorder) | 0 | 
+80 |  | Bacterial infectious disease (disorder) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Osteoporosis (disorder) | 0 | 
+80 | 81 | Part-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 |  | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

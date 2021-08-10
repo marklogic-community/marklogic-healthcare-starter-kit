@@ -1,0 +1,20 @@
+Dannette Bauch
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2008-02-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+4 | 4 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:41:0, Body Aches:1:0, Runny/Stuffy Nose:12:0, Fatigue:37:0, Swollen Lymph Nodes:54:0, Swollen Tonsils:37:0, Decreased Appetite:22:0, Sore Throat:4:0, Fever:7:0, Cough:0:0
+4 | 5 | Otitis media | 0 | 
+5 | 5 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:2:0, Fatigue:61:0, Mucus:42:0, Nasal Congestion:48:0, Shortness of Breath:44:0, Nausea/Vomiting:6:0, Sore Throat:35:0, Fever:42:0, Cough:74:0
+5 | 5 | Otitis media | 0 | 
+12 |  | Muscle pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 |  | Fever (finding) | 5 | myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 |  | Sputum finding (finding) | 5 | myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 |  | Joint pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 |  | Cough (finding) | 5 | myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+Ali Klocko
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1988-02-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+23 | 23 | Viral sinusitis (disorder) | 9 | Headache:25:0, Sinus Pain:51:0, Pain with Bright Lights:43:0, Facial Swelling:5:0, Nasal Discharge:47:0, Nasal Congestion:6:0, Sore Throat:1:0, Cough:4:0, Fever:3:0
+25 |  | Body mass index 30+ - obesity (finding) | 0 | 
+25 |  | Housing unsatisfactory (finding) | 0 | 
+25 | 28 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+28 |  | Body mass index 30+ - obesity (finding) | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 28 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:44:0, Body Aches:8:0, Runny/Stuffy Nose:35:0, Fatigue:46:0, Swollen Lymph Nodes:37:0, Swollen Tonsils:13:0, Decreased Appetite:29:0, Sore Throat:13:0, Cough:22:0, Fever:31:0
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 |  | Full-time employment (finding) | 0 | 
+31 |  | Victim of intimate partner abuse (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+32 |  | Fever (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+32 |  | Sputum finding (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+32 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+32 |  | Cough (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+32 | 32 | Suspected COVID-19 | 0 | 
+32 |  | COVID-19 | 0 | 
+32 | 32 | Viral sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:52:0, Pain with Bright Lights:28:0, Facial Swelling:33:0, Nasal Discharge:0:0, Nasal Congestion:5:0, Sore Throat:45:0, Cough:1:0, Fever:12:0
+--------------------------------------------------------------------------------

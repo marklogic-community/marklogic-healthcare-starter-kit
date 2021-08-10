@@ -1,0 +1,64 @@
+Regina Cronin
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1984-10-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+27 | 28 | Normal pregnancy | 0 | 
+27 |  | Housing unsatisfactory (finding) | 0 | 
+27 | 36 | Reports of violence in the environment (finding) | 0 | 
+27 | 28 | Full-time employment (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+28 | 28 | Normal pregnancy | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 29 | Stress (finding) | 0 | 
+29 |  | Housing unsatisfactory (finding) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 | 36 | Victim of intimate partner abuse (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 30 | Normal pregnancy | 0 | 
+30 |  | Housing unsatisfactory (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+30 | 30 | Viral sinusitis (disorder) | 9 | Headache:44:0, Sinus Pain:68:0, Pain with Bright Lights:34:0, Facial Swelling:22:0, Nasal Discharge:48:0, Nasal Congestion:6:0, Sore Throat:22:0, Fever:13:0, Cough:21:0
+30 | 31 | Normal pregnancy | 0 | 
+31 |  | Miscarriage in first trimester | 0 | 
+31 | 31 | Fetus with unknown complication | 0 | 
+31 | 31 | Normal pregnancy | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 33 | Stress (finding) | 0 | 
+31 | 31 | Preeclampsia | 0 | 
+32 |  | Housing unsatisfactory (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+33 | 35 | Part-time employment (finding) | 0 | 
+33 |  | Housing unsatisfactory (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+34 |  | Housing unsatisfactory (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 | 35 | Stress (finding) | 0 | 
+35 | 35 | Normal pregnancy | 0 | 
+35 |  | Muscle pain (finding) | 6 | myalgia:1, nasal congestion:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1
+35 |  | Fever (finding) | 6 | myalgia:1, nasal congestion:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1
+35 |  | Sputum finding (finding) | 6 | myalgia:1, nasal congestion:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1
+35 |  | Nasal congestion (finding) | 6 | myalgia:1, nasal congestion:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1
+35 |  | Joint pain (finding) | 6 | myalgia:1, nasal congestion:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1
+35 |  | Loss of taste (finding) | 6 | myalgia:1, nasal congestion:1, arthralgia:1, fever:1, sputum production:1, loss_of_taste:1
+35 | 35 | Suspected COVID-19 | 0 | 
+35 |  | COVID-19 | 0 | 
+35 |  | Housing unsatisfactory (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 | 36 | Social isolation (finding) | 0 | 
+36 |  | Housing unsatisfactory (finding) | 0 | 
+36 |  | Full-time employment (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

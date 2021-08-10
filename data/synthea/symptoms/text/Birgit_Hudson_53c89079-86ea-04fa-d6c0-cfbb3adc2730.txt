@@ -1,0 +1,62 @@
+Birgit Hudson
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1983-04-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 | 29 | Normal pregnancy | 0 | 
+29 |  | Metabolic syndrome X (disorder) | 0 | 
+29 |  | Hypertriglyceridemia (disorder) | 0 | 
+29 |  | Prediabetes | 0 | 
+29 |  | Hyperglycemia (disorder) | 0 | 
+29 | 29 | Normal pregnancy | 0 | 
+29 |  | Anemia (disorder) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Received certificate of high school equivalency (finding) | 0 | 
+29 | 32 | Stress (finding) | 0 | 
+30 | 30 | Fracture of forearm | 0 | 
+30 |  | Metabolic syndrome X (disorder) | 0 | 
+30 |  | Prediabetes | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Metabolic syndrome X (disorder) | 0 | 
+31 |  | Prediabetes | 0 | 
+31 | 32 | Not in labor force (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 |  | Metabolic syndrome X (disorder) | 0 | 
+32 |  | Prediabetes | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+33 |  | Metabolic syndrome X (disorder) | 0 | 
+33 |  | Prediabetes | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+34 |  | Metabolic syndrome X (disorder) | 0 | 
+34 |  | Prediabetes | 0 | 
+34 | 35 | Not in labor force (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+35 |  | Metabolic syndrome X (disorder) | 0 | 
+35 |  | Prediabetes | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 | 37 | Stress (finding) | 0 | 
+35 | 35 | Acute bacterial sinusitis (disorder) | 9 | Headache:18:0, Sinus Pain:67:0, Pain with Bright Lights:39:0, Facial Swelling:11:0, Nasal Discharge:7:0, Nasal Congestion:10:0, Sore Throat:42:0, Cough:44:0, Fever:6:0
+36 |  | Metabolic syndrome X (disorder) | 0 | 
+36 |  | Prediabetes | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 | 36 | Concussion with loss of consciousness | 0 | 
+36 |  | Fever (finding) | 2 | fever:1, headache:1
+36 |  | Headache (finding) | 2 | fever:1, headache:1
+36 | 36 | Suspected COVID-19 | 0 | 
+36 |  | COVID-19 | 0 | 
+37 |  | Metabolic syndrome X (disorder) | 0 | 
+37 |  | Prediabetes | 0 | 
+37 |  | Not in labor force (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 | 37 | Sprain of ankle | 0 | 
+--------------------------------------------------------------------------------

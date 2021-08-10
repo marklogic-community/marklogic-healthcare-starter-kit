@@ -1,0 +1,88 @@
+Marcela Portillo
+================
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1965-07-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+46 | 48 | Not in labor force (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+48 | 49 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 | 50 | Stress (finding) | 0 | 
+48 |  | Chronic low back pain (finding) | 0 | 
+48 |  | Chronic neck pain (finding) | 0 | 
+48 |  | Chronic low back pain (finding) | 0 | 
+48 |  | Chronic neck pain (finding) | 0 | 
+48 |  | Chronic low back pain (finding) | 0 | 
+48 |  | Chronic neck pain (finding) | 0 | 
+49 |  | Chronic low back pain (finding) | 0 | 
+49 |  | Chronic neck pain (finding) | 0 | 
+49 |  | Body mass index 30+ - obesity (finding) | 0 | 
+49 | 54 | Limited social contact (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+49 |  | Chronic low back pain (finding) | 0 | 
+49 |  | Chronic neck pain (finding) | 0 | 
+49 | 50 | Normal pregnancy | 0 | 
+50 | 50 | Part-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 50 | Acute bacterial sinusitis (disorder) | 9 | Headache:28:0, Sinus Pain:72:79:0, Pain with Bright Lights:49:0, Facial Swelling:27:0, Nasal Discharge:42:0, Nasal Congestion:11:0, Sore Throat:48:0, Fever:20:0, Cough:19:0
+50 | 50 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 52 | Stress (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Victim of intimate partner abuse (finding) | 0 | 
+52 | 52 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 53 | Sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:47:122:96:86:0, Pain with Bright Lights:30:0, Facial Swelling:23:0, Nasal Discharge:26:0, Nasal Congestion:17:0, Sore Throat:33:0, Fever:11:0, Cough:49:0
+52 |  | Refugee (person) | 0 | 
+52 | 52 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Refugee (person) | 0 | 
+52 | 53 | Not in labor force (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+53 |  | Refugee (person) | 0 | 
+53 | 53 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 53 | Stress (finding) | 0 | 
+53 |  | Refugee (person) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+54 |  | Body mass index 30+ - obesity (finding) | 0 | 
+54 |  | Refugee (person) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 | 54 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:5:0, Fatigue:59:0, Mucus:29:0, Nasal Congestion:25:0, Shortness of Breath:44:0, Nausea/Vomiting:24:0, Sore Throat:45:0, Fever:34:0, Cough:72:0
+54 |  | Body mass index 30+ - obesity (finding) | 0 | 
+54 |  | Refugee (person) | 0 | 
+54 | 55 | Limited social contact (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Muscle pain (finding) | 7 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1
+54 |  | Dyspnea (finding) | 7 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1
+54 |  | Fever (finding) | 7 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1
+54 |  | Sputum finding (finding) | 7 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1
+54 |  | Wheezing (finding) | 7 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1
+54 |  | Headache (finding) | 7 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1
+54 |  | Joint pain (finding) | 7 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1
+54 |  | Loss of taste (finding) | 7 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1
+54 | 54 | Suspected COVID-19 | 0 | 
+54 |  | COVID-19 | 0 | 
+54 |  | Acute respiratory failure (disorder) | 0 | 
+54 |  | Respiratory distress (finding) | 0 | 
+54 |  | Pneumonia (disorder) | 0 | 
+54 |  | Hypoxemia (disorder) | 0 | 
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 |  | Part-time employment (finding) | 0 | 
+55 |  | Refugee (person) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,72 @@
+Renea Feeney
+============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 | 47 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:45:0, Pain with Bright Lights:26:0, Facial Swelling:33:0, Nasal Discharge:29:0, Nasal Congestion:2:0, Cough:11:0, Sore Throat:41:0, Fever:9:0
+47 |  | Prediabetes | 0 | 
+47 |  | Has a criminal record (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 | 48 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:15:0, Body Aches:33:0, Runny/Stuffy Nose:10:0, Fatigue:27:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:39:0, Decreased Appetite:26:0, Cough:0:0, Sore Throat:19:0, Fever:6:0
+48 |  | Prediabetes | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 | 49 | Full-time employment (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 |  | History of single seizure (situation) | 0 | 
+48 |  | Seizure disorder | 0 | 
+49 |  | Prediabetes | 0 | 
+49 |  | Has a criminal record (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+49 | 50 | Stress (finding) | 0 | 
+50 | 51 | Polyp of colon | 0 | 
+50 |  | Diabetes | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 |  | Hypertriglyceridemia (disorder) | 0 | 
+51 |  | Diabetes | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 |  | Hypertriglyceridemia (disorder) | 0 | 
+52 |  | Diabetes | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 |  | Hypertriglyceridemia (disorder) | 0 | 
+53 |  | Diabetes | 0 | 
+53 | 54 | Not in labor force (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Diabetes | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 | 55 | Stress (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 |  | Hypertriglyceridemia (disorder) | 0 | 
+55 |  | Diabetes | 0 | 
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 | 56 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:3:0, Fatigue:71:0, Mucus:39:0, Nasal Congestion:29:0, Shortness of Breath:51:0, Nausea/Vomiting:8:0, Cough:65:0, Sore Throat:27:0, Fever:32:0
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 |  | Diabetes | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

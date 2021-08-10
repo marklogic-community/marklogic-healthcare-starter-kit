@@ -1,0 +1,3671 @@
+{
+  "resourceType": "Bundle",
+  "type": "batch",
+  "entry": [ {
+    "fullUrl": "urn:uuid:2f5ed0cf-6fbc-3413-9e96-abb7b91d3421",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "2f5ed0cf-6fbc-3413-9e96-abb7b91d3421",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 69
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "2f5ed0cf-6fbc-3413-9e96-abb7b91d3421"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "NORTHSIDE HOSPITAL FORSYTH",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7708443200"
+      } ],
+      "address": [ {
+        "line": [ "1200 NORTHSIDE FORSYTH DRIVE" ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30041",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|2f5ed0cf-6fbc-3413-9e96-abb7b91d3421"
+    }
+  }, {
+    "fullUrl": "urn:uuid:19d0db5b-9363-3d42-bc0b-2706a540c976",
+    "resource": {
+      "resourceType": "Location",
+      "id": "19d0db5b-9363-3d42-bc0b-2706a540c976",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "19d0db5b-9363-3d42-bc0b-2706a540c976"
+      } ],
+      "status": "active",
+      "name": "NORTHSIDE HOSPITAL FORSYTH",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7708443200"
+      } ],
+      "address": {
+        "line": [ "1200 NORTHSIDE FORSYTH DRIVE" ],
+        "city": "CUMMING",
+        "state": "GA",
+        "postalCode": "30041",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.13357099999998,
+        "latitude": 34.207649
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "2f5ed0cf-6fbc-3413-9e96-abb7b91d3421"
+        },
+        "display": "NORTHSIDE HOSPITAL FORSYTH"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|19d0db5b-9363-3d42-bc0b-2706a540c976"
+    }
+  }, {
+    "fullUrl": "urn:uuid:4bd8c4a2-d5ef-3625-a1b4-c31eac977cb2",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "4bd8c4a2-d5ef-3625-a1b4-c31eac977cb2",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 185
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "4bd8c4a2-d5ef-3625-a1b4-c31eac977cb2"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "EMORY UNIVERSITY HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4046868500"
+      } ],
+      "address": [ {
+        "line": [ "1364 CLIFTON ROAD, NE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30322",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|4bd8c4a2-d5ef-3625-a1b4-c31eac977cb2"
+    }
+  }, {
+    "fullUrl": "urn:uuid:dbd915e9-dee6-3588-a643-f996f18ab781",
+    "resource": {
+      "resourceType": "Location",
+      "id": "dbd915e9-dee6-3588-a643-f996f18ab781",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "dbd915e9-dee6-3588-a643-f996f18ab781"
+      } ],
+      "status": "active",
+      "name": "EMORY UNIVERSITY HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4046868500"
+      } ],
+      "address": {
+        "line": [ "1364 CLIFTON ROAD, NE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30322",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.422675,
+        "latitude": 33.762909
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "4bd8c4a2-d5ef-3625-a1b4-c31eac977cb2"
+        },
+        "display": "EMORY UNIVERSITY HOSPITAL"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|dbd915e9-dee6-3588-a643-f996f18ab781"
+    }
+  }, {
+    "fullUrl": "urn:uuid:90e5791e-e674-384b-ae94-54543b19fc43",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "90e5791e-e674-384b-ae94-54543b19fc43",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 94
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "90e5791e-e674-384b-ae94-54543b19fc43"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "AU MEDICAL CENTER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7067216569"
+      } ],
+      "address": [ {
+        "line": [ "1120 15TH STREET" ],
+        "city": "AUGUSTA",
+        "state": "GA",
+        "postalCode": "30912",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|90e5791e-e674-384b-ae94-54543b19fc43"
+    }
+  }, {
+    "fullUrl": "urn:uuid:a7e06071-064a-3004-86af-7de92a265663",
+    "resource": {
+      "resourceType": "Location",
+      "id": "a7e06071-064a-3004-86af-7de92a265663",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "a7e06071-064a-3004-86af-7de92a265663"
+      } ],
+      "status": "active",
+      "name": "AU MEDICAL CENTER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7067216569"
+      } ],
+      "address": {
+        "line": [ "1120 15TH STREET" ],
+        "city": "AUGUSTA",
+        "state": "GA",
+        "postalCode": "30912",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -82.021331,
+        "latitude": 33.444691
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "90e5791e-e674-384b-ae94-54543b19fc43"
+        },
+        "display": "AU MEDICAL CENTER"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|a7e06071-064a-3004-86af-7de92a265663"
+    }
+  }, {
+    "fullUrl": "urn:uuid:f41dbc39-d83e-38db-a709-afa143a0c264",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "f41dbc39-d83e-38db-a709-afa143a0c264",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 201
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "f41dbc39-d83e-38db-a709-afa143a0c264"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "MEMORIAL HEALTH UNIV MED CEN, INC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "9123503691"
+      } ],
+      "address": [ {
+        "line": [ "4700 WATERS AVENUE" ],
+        "city": "SAVANNAH",
+        "state": "GA",
+        "postalCode": "31403",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|f41dbc39-d83e-38db-a709-afa143a0c264"
+    }
+  }, {
+    "fullUrl": "urn:uuid:69c83c13-ff8a-3677-81da-ccca441d9f39",
+    "resource": {
+      "resourceType": "Location",
+      "id": "69c83c13-ff8a-3677-81da-ccca441d9f39",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "69c83c13-ff8a-3677-81da-ccca441d9f39"
+      } ],
+      "status": "active",
+      "name": "MEMORIAL HEALTH UNIV MED CEN, INC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "9123503691"
+      } ],
+      "address": {
+        "line": [ "4700 WATERS AVENUE" ],
+        "city": "SAVANNAH",
+        "state": "GA",
+        "postalCode": "31403",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -81.15355699999998,
+        "latitude": 32.002512
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "f41dbc39-d83e-38db-a709-afa143a0c264"
+        },
+        "display": "MEMORIAL HEALTH UNIV MED CEN, INC"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|69c83c13-ff8a-3677-81da-ccca441d9f39"
+    }
+  }, {
+    "fullUrl": "urn:uuid:14292ffa-0f37-3ae5-a15e-9000792991fb",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "14292ffa-0f37-3ae5-a15e-9000792991fb",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 20
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "14292ffa-0f37-3ae5-a15e-9000792991fb"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "NORTHRIDGE MEDICAL CENTER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7063351100"
+      } ],
+      "address": [ {
+        "line": [ "70 MEDICAL CENTER DRIVE" ],
+        "city": "COMMERCE",
+        "state": "GA",
+        "postalCode": "30529",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|14292ffa-0f37-3ae5-a15e-9000792991fb"
+    }
+  }, {
+    "fullUrl": "urn:uuid:0b59d173-0934-3a10-97db-e2edc38ba635",
+    "resource": {
+      "resourceType": "Location",
+      "id": "0b59d173-0934-3a10-97db-e2edc38ba635",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "0b59d173-0934-3a10-97db-e2edc38ba635"
+      } ],
+      "status": "active",
+      "name": "NORTHRIDGE MEDICAL CENTER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7063351100"
+      } ],
+      "address": {
+        "line": [ "70 MEDICAL CENTER DRIVE" ],
+        "city": "COMMERCE",
+        "state": "GA",
+        "postalCode": "30529",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -83.475597,
+        "latitude": 34.214494
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "14292ffa-0f37-3ae5-a15e-9000792991fb"
+        },
+        "display": "NORTHRIDGE MEDICAL CENTER"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|0b59d173-0934-3a10-97db-e2edc38ba635"
+    }
+  }, {
+    "fullUrl": "urn:uuid:4736459a-8d01-38d0-9bed-1b98c7230651",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "4736459a-8d01-38d0-9bed-1b98c7230651",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 136
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "4736459a-8d01-38d0-9bed-1b98c7230651"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "ST JOSEPH'S HOSPITAL - SAVANNAH",
+      "telecom": [ {
+        "system": "phone",
+        "value": "9128194100"
+      } ],
+      "address": [ {
+        "line": [ "11705 MERCY BOULEVARD" ],
+        "city": "SAVANNAH",
+        "state": "GA",
+        "postalCode": "31419",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|4736459a-8d01-38d0-9bed-1b98c7230651"
+    }
+  }, {
+    "fullUrl": "urn:uuid:e3a798ce-278b-31c2-b39c-d50a2d0133ad",
+    "resource": {
+      "resourceType": "Location",
+      "id": "e3a798ce-278b-31c2-b39c-d50a2d0133ad",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "e3a798ce-278b-31c2-b39c-d50a2d0133ad"
+      } ],
+      "status": "active",
+      "name": "ST JOSEPH'S HOSPITAL - SAVANNAH",
+      "telecom": [ {
+        "system": "phone",
+        "value": "9128194100"
+      } ],
+      "address": {
+        "line": [ "11705 MERCY BOULEVARD" ],
+        "city": "SAVANNAH",
+        "state": "GA",
+        "postalCode": "31419",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -81.15355699999998,
+        "latitude": 32.002512
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "4736459a-8d01-38d0-9bed-1b98c7230651"
+        },
+        "display": "ST JOSEPH'S HOSPITAL - SAVANNAH"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|e3a798ce-278b-31c2-b39c-d50a2d0133ad"
+    }
+  }, {
+    "fullUrl": "urn:uuid:10420d87-d55e-3864-bc6c-2808fd9a8ceb",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "10420d87-d55e-3864-bc6c-2808fd9a8ceb",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 1
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "10420d87-d55e-3864-bc6c-2808fd9a8ceb"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "EMORY UNIVERSITY HOSPITAL MIDTOWN",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4046864411"
+      } ],
+      "address": [ {
+        "line": [ "550 PEACHTREE STREET,  NE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30308",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|10420d87-d55e-3864-bc6c-2808fd9a8ceb"
+    }
+  }, {
+    "fullUrl": "urn:uuid:b03e00ed-781d-3b36-89ff-f1cbe990332a",
+    "resource": {
+      "resourceType": "Location",
+      "id": "b03e00ed-781d-3b36-89ff-f1cbe990332a",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "b03e00ed-781d-3b36-89ff-f1cbe990332a"
+      } ],
+      "status": "active",
+      "name": "EMORY UNIVERSITY HOSPITAL MIDTOWN",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4046864411"
+      } ],
+      "address": {
+        "line": [ "550 PEACHTREE STREET,  NE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30308",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.422675,
+        "latitude": 33.762909
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "10420d87-d55e-3864-bc6c-2808fd9a8ceb"
+        },
+        "display": "EMORY UNIVERSITY HOSPITAL MIDTOWN"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|b03e00ed-781d-3b36-89ff-f1cbe990332a"
+    }
+  }, {
+    "fullUrl": "urn:uuid:7793c191-22ba-3658-a737-e04f8d74a1a6",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "7793c191-22ba-3658-a737-e04f8d74a1a6",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 32
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "7793c191-22ba-3658-a737-e04f8d74a1a6"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "GRADY MEMORIAL HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4046164252"
+      } ],
+      "address": [ {
+        "line": [ "80 JESSE HILL, JR DRIVE SE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30303",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|7793c191-22ba-3658-a737-e04f8d74a1a6"
+    }
+  }, {
+    "fullUrl": "urn:uuid:b4c89a35-2db9-3103-91f0-5a6ff59c670d",
+    "resource": {
+      "resourceType": "Location",
+      "id": "b4c89a35-2db9-3103-91f0-5a6ff59c670d",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "b4c89a35-2db9-3103-91f0-5a6ff59c670d"
+      } ],
+      "status": "active",
+      "name": "GRADY MEMORIAL HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4046164252"
+      } ],
+      "address": {
+        "line": [ "80 JESSE HILL, JR DRIVE SE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30303",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.422675,
+        "latitude": 33.762909
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "7793c191-22ba-3658-a737-e04f8d74a1a6"
+        },
+        "display": "GRADY MEMORIAL HOSPITAL"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|b4c89a35-2db9-3103-91f0-5a6ff59c670d"
+    }
+  }, {
+    "fullUrl": "urn:uuid:2d493e40-879c-34bd-847d-9d6c02c44cb3",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "2d493e40-879c-34bd-847d-9d6c02c44cb3",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 9
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "2d493e40-879c-34bd-847d-9d6c02c44cb3"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "WELLSTAR ATLANTA MEDICAL CENTER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4042654000"
+      } ],
+      "address": [ {
+        "line": [ "303 PARKWAY DRIVE, NE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30312",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|2d493e40-879c-34bd-847d-9d6c02c44cb3"
+    }
+  }, {
+    "fullUrl": "urn:uuid:4a52015f-f552-3fa8-a38d-ffe0c79611e0",
+    "resource": {
+      "resourceType": "Location",
+      "id": "4a52015f-f552-3fa8-a38d-ffe0c79611e0",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "4a52015f-f552-3fa8-a38d-ffe0c79611e0"
+      } ],
+      "status": "active",
+      "name": "WELLSTAR ATLANTA MEDICAL CENTER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4042654000"
+      } ],
+      "address": {
+        "line": [ "303 PARKWAY DRIVE, NE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30312",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.422675,
+        "latitude": 33.762909
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "2d493e40-879c-34bd-847d-9d6c02c44cb3"
+        },
+        "display": "WELLSTAR ATLANTA MEDICAL CENTER"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|4a52015f-f552-3fa8-a38d-ffe0c79611e0"
+    }
+  }, {
+    "fullUrl": "urn:uuid:e493969a-b058-3623-91af-f3f1e7ed2509",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "e493969a-b058-3623-91af-f3f1e7ed2509",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 1
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "e493969a-b058-3623-91af-f3f1e7ed2509"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "NORTHSIDE HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4048518000"
+      } ],
+      "address": [ {
+        "line": [ "1000 JOHNSON FERRY ROAD, NE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30342",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|e493969a-b058-3623-91af-f3f1e7ed2509"
+    }
+  }, {
+    "fullUrl": "urn:uuid:4deab159-93db-3903-8302-4aa3deef9836",
+    "resource": {
+      "resourceType": "Location",
+      "id": "4deab159-93db-3903-8302-4aa3deef9836",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "4deab159-93db-3903-8302-4aa3deef9836"
+      } ],
+      "status": "active",
+      "name": "NORTHSIDE HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4048518000"
+      } ],
+      "address": {
+        "line": [ "1000 JOHNSON FERRY ROAD, NE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30342",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.422675,
+        "latitude": 33.762909
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "e493969a-b058-3623-91af-f3f1e7ed2509"
+        },
+        "display": "NORTHSIDE HOSPITAL"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|4deab159-93db-3903-8302-4aa3deef9836"
+    }
+  }, {
+    "fullUrl": "urn:uuid:5c6aeb39-b856-3c66-8820-fea3f8af1a30",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "5c6aeb39-b856-3c66-8820-fea3f8af1a30",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 19
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "5c6aeb39-b856-3c66-8820-fea3f8af1a30"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "WELLSTAR NORTH FULTON HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7707512500"
+      } ],
+      "address": [ {
+        "line": [ "3000 HOSPITAL BOULEVARD" ],
+        "city": "ROSWELL",
+        "state": "GA",
+        "postalCode": "30076",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|5c6aeb39-b856-3c66-8820-fea3f8af1a30"
+    }
+  }, {
+    "fullUrl": "urn:uuid:6cde8d7b-9795-38bc-9cd6-8d9f42d25aed",
+    "resource": {
+      "resourceType": "Location",
+      "id": "6cde8d7b-9795-38bc-9cd6-8d9f42d25aed",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "6cde8d7b-9795-38bc-9cd6-8d9f42d25aed"
+      } ],
+      "status": "active",
+      "name": "WELLSTAR NORTH FULTON HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7707512500"
+      } ],
+      "address": {
+        "line": [ "3000 HOSPITAL BOULEVARD" ],
+        "city": "ROSWELL",
+        "state": "GA",
+        "postalCode": "30076",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.350946,
+        "latitude": 34.039453
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "5c6aeb39-b856-3c66-8820-fea3f8af1a30"
+        },
+        "display": "WELLSTAR NORTH FULTON HOSPITAL"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|6cde8d7b-9795-38bc-9cd6-8d9f42d25aed"
+    }
+  }, {
+    "fullUrl": "urn:uuid:95227244-1e5e-365b-80a3-b46fa62f2e0e",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "95227244-1e5e-365b-80a3-b46fa62f2e0e",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 185
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "95227244-1e5e-365b-80a3-b46fa62f2e0e"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "PIEDMONT FAYETTE HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7707197071"
+      } ],
+      "address": [ {
+        "line": [ "1255 HIGHWAY 54 WEST" ],
+        "city": "FAYETTEVILLE",
+        "state": "GA",
+        "postalCode": "30214",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|95227244-1e5e-365b-80a3-b46fa62f2e0e"
+    }
+  }, {
+    "fullUrl": "urn:uuid:04a48221-d7e0-352b-8c0b-15622f56e795",
+    "resource": {
+      "resourceType": "Location",
+      "id": "04a48221-d7e0-352b-8c0b-15622f56e795",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "04a48221-d7e0-352b-8c0b-15622f56e795"
+      } ],
+      "status": "active",
+      "name": "PIEDMONT FAYETTE HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7707197071"
+      } ],
+      "address": {
+        "line": [ "1255 HIGHWAY 54 WEST" ],
+        "city": "FAYETTEVILLE",
+        "state": "GA",
+        "postalCode": "30214",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.457806,
+        "latitude": 33.449599
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "95227244-1e5e-365b-80a3-b46fa62f2e0e"
+        },
+        "display": "PIEDMONT FAYETTE HOSPITAL"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|04a48221-d7e0-352b-8c0b-15622f56e795"
+    }
+  }, {
+    "fullUrl": "urn:uuid:973756c7-0cf5-34c4-9a58-34b8be78d45d",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "973756c7-0cf5-34c4-9a58-34b8be78d45d",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 140
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "973756c7-0cf5-34c4-9a58-34b8be78d45d"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "EMORY JOHNS CREEK HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "6784747000"
+      } ],
+      "address": [ {
+        "line": [ "6325 HOSPITAL PARKWAY" ],
+        "city": "JOHNS CREEK",
+        "state": "GA",
+        "postalCode": "30097",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|973756c7-0cf5-34c4-9a58-34b8be78d45d"
+    }
+  }, {
+    "fullUrl": "urn:uuid:6794a0b3-ce97-3ead-baad-e58eec308b7d",
+    "resource": {
+      "resourceType": "Location",
+      "id": "6794a0b3-ce97-3ead-baad-e58eec308b7d",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "6794a0b3-ce97-3ead-baad-e58eec308b7d"
+      } ],
+      "status": "active",
+      "name": "EMORY JOHNS CREEK HOSPITAL",
+      "telecom": [ {
+        "system": "phone",
+        "value": "6784747000"
+      } ],
+      "address": {
+        "line": [ "6325 HOSPITAL PARKWAY" ],
+        "city": "JOHNS CREEK",
+        "state": "GA",
+        "postalCode": "30097",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.203848,
+        "latitude": 34.032739
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "973756c7-0cf5-34c4-9a58-34b8be78d45d"
+        },
+        "display": "EMORY JOHNS CREEK HOSPITAL"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|6794a0b3-ce97-3ead-baad-e58eec308b7d"
+    }
+  }, {
+    "fullUrl": "urn:uuid:c4b7d98e-713e-3318-aaa6-1c12067c4631",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "c4b7d98e-713e-3318-aaa6-1c12067c4631",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 42
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "c4b7d98e-713e-3318-aaa6-1c12067c4631"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "CORNERSTONE MEDICAL CENTER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7068582000"
+      } ],
+      "address": [ {
+        "line": [ "100 GROSS CRESCENT CIRCLE" ],
+        "city": "FORT OGLETHORP",
+        "state": "GA",
+        "postalCode": "30742",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|c4b7d98e-713e-3318-aaa6-1c12067c4631"
+    }
+  }, {
+    "fullUrl": "urn:uuid:e680bc2d-872b-365c-8c1a-f263a3222961",
+    "resource": {
+      "resourceType": "Location",
+      "id": "e680bc2d-872b-365c-8c1a-f263a3222961",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "e680bc2d-872b-365c-8c1a-f263a3222961"
+      } ],
+      "status": "active",
+      "name": "CORNERSTONE MEDICAL CENTER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7068582000"
+      } ],
+      "address": {
+        "line": [ "100 GROSS CRESCENT CIRCLE" ],
+        "city": "FORT OGLETHORP",
+        "state": "GA",
+        "postalCode": "30742",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -85.246031,
+        "latitude": 34.931837
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "c4b7d98e-713e-3318-aaa6-1c12067c4631"
+        },
+        "display": "CORNERSTONE MEDICAL CENTER"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|e680bc2d-872b-365c-8c1a-f263a3222961"
+    }
+  }, {
+    "fullUrl": "urn:uuid:b7e7d3f3-b9fe-3d54-bcb3-5c295b35cf3b",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "b7e7d3f3-b9fe-3d54-bcb3-5c295b35cf3b",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 17
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "b7e7d3f3-b9fe-3d54-bcb3-5c295b35cf3b"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "CHILDREN'S HEALTHCARE OF ATLANTA AT EGLESTON",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4047856101"
+      } ],
+      "address": [ {
+        "line": [ "1405 CLIFTON ROAD, NE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30322",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|b7e7d3f3-b9fe-3d54-bcb3-5c295b35cf3b"
+    }
+  }, {
+    "fullUrl": "urn:uuid:e52586b1-77be-3e2e-a854-4791a332d5b6",
+    "resource": {
+      "resourceType": "Location",
+      "id": "e52586b1-77be-3e2e-a854-4791a332d5b6",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "e52586b1-77be-3e2e-a854-4791a332d5b6"
+      } ],
+      "status": "active",
+      "name": "CHILDREN'S HEALTHCARE OF ATLANTA AT EGLESTON",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4047856101"
+      } ],
+      "address": {
+        "line": [ "1405 CLIFTON ROAD, NE" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30322",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.422675,
+        "latitude": 33.762909
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "b7e7d3f3-b9fe-3d54-bcb3-5c295b35cf3b"
+        },
+        "display": "CHILDREN'S HEALTHCARE OF ATLANTA AT EGLESTON"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|e52586b1-77be-3e2e-a854-4791a332d5b6"
+    }
+  }, {
+    "fullUrl": "urn:uuid:1bc9e9cf-2ee3-32aa-9e99-7825a5ef5a26",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "1bc9e9cf-2ee3-32aa-9e99-7825a5ef5a26",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 18
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "1bc9e9cf-2ee3-32aa-9e99-7825a5ef5a26"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "CHILDREN'S HEALTHCARE OF ATLANTA AT SCOTTISH RITE",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4047855252"
+      } ],
+      "address": [ {
+        "line": [ "1001 JOHNSON FERRY ROAD" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30342",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|1bc9e9cf-2ee3-32aa-9e99-7825a5ef5a26"
+    }
+  }, {
+    "fullUrl": "urn:uuid:06b1ff95-a1c5-31ba-b880-b09188097d2c",
+    "resource": {
+      "resourceType": "Location",
+      "id": "06b1ff95-a1c5-31ba-b880-b09188097d2c",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "06b1ff95-a1c5-31ba-b880-b09188097d2c"
+      } ],
+      "status": "active",
+      "name": "CHILDREN'S HEALTHCARE OF ATLANTA AT SCOTTISH RITE",
+      "telecom": [ {
+        "system": "phone",
+        "value": "4047855252"
+      } ],
+      "address": {
+        "line": [ "1001 JOHNSON FERRY ROAD" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30342",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.422675,
+        "latitude": 33.762909
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "1bc9e9cf-2ee3-32aa-9e99-7825a5ef5a26"
+        },
+        "display": "CHILDREN'S HEALTHCARE OF ATLANTA AT SCOTTISH RITE"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|06b1ff95-a1c5-31ba-b880-b09188097d2c"
+    }
+  }, {
+    "fullUrl": "urn:uuid:3e3f6eca-fc1d-3e62-9e22-b6c6b28a40bf",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "3e3f6eca-fc1d-3e62-9e22-b6c6b28a40bf",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 32
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 114
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 56
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 17
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "3e3f6eca-fc1d-3e62-9e22-b6c6b28a40bf"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "Oakwood VA Clinic",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-329-2222"
+      } ],
+      "address": [ {
+        "line": [ "4175 Tanners Creek Drive" ],
+        "city": "Flowery Branch",
+        "state": "GA",
+        "postalCode": "30542",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|3e3f6eca-fc1d-3e62-9e22-b6c6b28a40bf"
+    }
+  }, {
+    "fullUrl": "urn:uuid:66a9f090-a490-3b7a-a6dc-b67a61a7c19b",
+    "resource": {
+      "resourceType": "Location",
+      "id": "66a9f090-a490-3b7a-a6dc-b67a61a7c19b",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "66a9f090-a490-3b7a-a6dc-b67a61a7c19b"
+      } ],
+      "status": "active",
+      "name": "Oakwood VA Clinic",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-329-2222"
+      } ],
+      "address": {
+        "line": [ "4175 Tanners Creek Drive" ],
+        "city": "Flowery Branch",
+        "state": "GA",
+        "postalCode": "30542",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -83.912,
+        "latitude": 34.1675
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "3e3f6eca-fc1d-3e62-9e22-b6c6b28a40bf"
+        },
+        "display": "Oakwood VA Clinic"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|66a9f090-a490-3b7a-a6dc-b67a61a7c19b"
+    }
+  }, {
+    "fullUrl": "urn:uuid:c606eaa5-6639-3bfe-a1d0-c8faae203608",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "c606eaa5-6639-3bfe-a1d0-c8faae203608",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 120
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 260
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 115
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 34
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "c606eaa5-6639-3bfe-a1d0-c8faae203608"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "Savannah Clinic",
+      "telecom": [ {
+        "system": "phone",
+        "value": "912-920-0214"
+      } ],
+      "address": [ {
+        "line": [ "1170 Shawnee St." ],
+        "city": "Savannah",
+        "state": "GA",
+        "postalCode": "31419",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|c606eaa5-6639-3bfe-a1d0-c8faae203608"
+    }
+  }, {
+    "fullUrl": "urn:uuid:611a30d8-3fc5-3e2f-9777-e6da86972f39",
+    "resource": {
+      "resourceType": "Location",
+      "id": "611a30d8-3fc5-3e2f-9777-e6da86972f39",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "611a30d8-3fc5-3e2f-9777-e6da86972f39"
+      } ],
+      "status": "active",
+      "name": "Savannah Clinic",
+      "telecom": [ {
+        "system": "phone",
+        "value": "912-920-0214"
+      } ],
+      "address": {
+        "line": [ "1170 Shawnee St." ],
+        "city": "Savannah",
+        "state": "GA",
+        "postalCode": "31419",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -81.173485,
+        "latitude": 31.986042
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "c606eaa5-6639-3bfe-a1d0-c8faae203608"
+        },
+        "display": "Savannah Clinic"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|611a30d8-3fc5-3e2f-9777-e6da86972f39"
+    }
+  }, {
+    "fullUrl": "urn:uuid:b8c6c518-45b9-3012-9294-8a9be89e86f7",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "b8c6c518-45b9-3012-9294-8a9be89e86f7",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 38
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 221
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 50
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 40
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "b8c6c518-45b9-3012-9294-8a9be89e86f7"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "ATLANTA VISION CATARACT AND LASER CENTER PC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-765-2020"
+      } ],
+      "address": [ {
+        "line": [ "3619 S FULTON AVE" ],
+        "city": "HAPEVILLE",
+        "state": "GA",
+        "postalCode": "30354-1710",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|b8c6c518-45b9-3012-9294-8a9be89e86f7"
+    }
+  }, {
+    "fullUrl": "urn:uuid:663e1986-adf0-3e01-adc2-37ddd614c4f0",
+    "resource": {
+      "resourceType": "Location",
+      "id": "663e1986-adf0-3e01-adc2-37ddd614c4f0",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "663e1986-adf0-3e01-adc2-37ddd614c4f0"
+      } ],
+      "status": "active",
+      "name": "ATLANTA VISION CATARACT AND LASER CENTER PC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-765-2020"
+      } ],
+      "address": {
+        "line": [ "3619 S FULTON AVE" ],
+        "city": "HAPEVILLE",
+        "state": "GA",
+        "postalCode": "30354-1710",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.40932099999999,
+        "latitude": 33.660872999999995
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "b8c6c518-45b9-3012-9294-8a9be89e86f7"
+        },
+        "display": "ATLANTA VISION CATARACT AND LASER CENTER PC"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|663e1986-adf0-3e01-adc2-37ddd614c4f0"
+    }
+  }, {
+    "fullUrl": "urn:uuid:08675d38-e7f5-3753-af7c-682d538d87ad",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "08675d38-e7f5-3753-af7c-682d538d87ad",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 53
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 572
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 171
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 49
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "08675d38-e7f5-3753-af7c-682d538d87ad"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "PIZZA CLINIC OF CHIROPRACTIC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-761-6200"
+      } ],
+      "address": [ {
+        "line": [ "3284 DOGWOOD DR" ],
+        "city": "HAPEVILLE",
+        "state": "GA",
+        "postalCode": "30354-1158",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|08675d38-e7f5-3753-af7c-682d538d87ad"
+    }
+  }, {
+    "fullUrl": "urn:uuid:f6db21b3-46b7-30d7-b399-2a495e2c714f",
+    "resource": {
+      "resourceType": "Location",
+      "id": "f6db21b3-46b7-30d7-b399-2a495e2c714f",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "f6db21b3-46b7-30d7-b399-2a495e2c714f"
+      } ],
+      "status": "active",
+      "name": "PIZZA CLINIC OF CHIROPRACTIC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-761-6200"
+      } ],
+      "address": {
+        "line": [ "3284 DOGWOOD DR" ],
+        "city": "HAPEVILLE",
+        "state": "GA",
+        "postalCode": "30354-1158",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.40932099999999,
+        "latitude": 33.660872999999995
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "08675d38-e7f5-3753-af7c-682d538d87ad"
+        },
+        "display": "PIZZA CLINIC OF CHIROPRACTIC"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|f6db21b3-46b7-30d7-b399-2a495e2c714f"
+    }
+  }, {
+    "fullUrl": "urn:uuid:6a1930af-1172-39e3-8351-5cc7010811f4",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "6a1930af-1172-39e3-8351-5cc7010811f4",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 35
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 96
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 37
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 26
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "6a1930af-1172-39e3-8351-5cc7010811f4"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "NORTH FULTON EAR NOSE AND THROAT ASSOCIATES, P.C.",
+      "telecom": [ {
+        "system": "phone",
+        "value": "770-343-8675"
+      } ],
+      "address": [ {
+        "line": [ "2500 HOSPITAL BLVD" ],
+        "city": "ROSWELL",
+        "state": "GA",
+        "postalCode": "30076-4919",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|6a1930af-1172-39e3-8351-5cc7010811f4"
+    }
+  }, {
+    "fullUrl": "urn:uuid:abe741ce-4d95-3b19-bd7e-3a967bd6c763",
+    "resource": {
+      "resourceType": "Location",
+      "id": "abe741ce-4d95-3b19-bd7e-3a967bd6c763",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "abe741ce-4d95-3b19-bd7e-3a967bd6c763"
+      } ],
+      "status": "active",
+      "name": "NORTH FULTON EAR NOSE AND THROAT ASSOCIATES, P.C.",
+      "telecom": [ {
+        "system": "phone",
+        "value": "770-343-8675"
+      } ],
+      "address": {
+        "line": [ "2500 HOSPITAL BLVD" ],
+        "city": "ROSWELL",
+        "state": "GA",
+        "postalCode": "30076-4919",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.350946,
+        "latitude": 34.039453
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "6a1930af-1172-39e3-8351-5cc7010811f4"
+        },
+        "display": "NORTH FULTON EAR NOSE AND THROAT ASSOCIATES, P.C."
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|abe741ce-4d95-3b19-bd7e-3a967bd6c763"
+    }
+  }, {
+    "fullUrl": "urn:uuid:fcc470ab-8c1d-38b1-bbb6-fcd56b6e13d1",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "fcc470ab-8c1d-38b1-bbb6-fcd56b6e13d1",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 39
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 120
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 54
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 8
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "fcc470ab-8c1d-38b1-bbb6-fcd56b6e13d1"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "ATHENS BONE AND JOINT PC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "706-583-9000"
+      } ],
+      "address": [ {
+        "line": [ "528 PANTHER DR" ],
+        "city": "JEFFERSON",
+        "state": "GA",
+        "postalCode": "30549-5400",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|fcc470ab-8c1d-38b1-bbb6-fcd56b6e13d1"
+    }
+  }, {
+    "fullUrl": "urn:uuid:e243dda2-14ee-3b82-8c06-93f5b68506fe",
+    "resource": {
+      "resourceType": "Location",
+      "id": "e243dda2-14ee-3b82-8c06-93f5b68506fe",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "e243dda2-14ee-3b82-8c06-93f5b68506fe"
+      } ],
+      "status": "active",
+      "name": "ATHENS BONE AND JOINT PC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "706-583-9000"
+      } ],
+      "address": {
+        "line": [ "528 PANTHER DR" ],
+        "city": "JEFFERSON",
+        "state": "GA",
+        "postalCode": "30549-5400",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -83.551463,
+        "latitude": 34.092593
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "fcc470ab-8c1d-38b1-bbb6-fcd56b6e13d1"
+        },
+        "display": "ATHENS BONE AND JOINT PC"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|e243dda2-14ee-3b82-8c06-93f5b68506fe"
+    }
+  }, {
+    "fullUrl": "urn:uuid:4c671c62-ca45-3bc5-8388-1690190d88ea",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "4c671c62-ca45-3bc5-8388-1690190d88ea",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 35
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 168
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 40
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 15
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "4c671c62-ca45-3bc5-8388-1690190d88ea"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "PCP106070",
+      "telecom": [ {
+        "system": "phone",
+        "value": "(555) 555-5555"
+      } ],
+      "address": [ {
+        "line": [ "3525 GWINNETT PLACE DR" ],
+        "city": "DULUTH",
+        "state": "GA",
+        "postalCode": "30096-4708",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|4c671c62-ca45-3bc5-8388-1690190d88ea"
+    }
+  }, {
+    "fullUrl": "urn:uuid:ac5760e0-0c50-37ae-8bfc-18f89e80641e",
+    "resource": {
+      "resourceType": "Location",
+      "id": "ac5760e0-0c50-37ae-8bfc-18f89e80641e",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "ac5760e0-0c50-37ae-8bfc-18f89e80641e"
+      } ],
+      "status": "active",
+      "name": "PCP106070",
+      "telecom": [ {
+        "system": "phone",
+        "value": "(555) 555-5555"
+      } ],
+      "address": {
+        "line": [ "3525 GWINNETT PLACE DR" ],
+        "city": "DULUTH",
+        "state": "GA",
+        "postalCode": "30096-4708",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.150473,
+        "latitude": 34.001517
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "4c671c62-ca45-3bc5-8388-1690190d88ea"
+        },
+        "display": "PCP106070"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|ac5760e0-0c50-37ae-8bfc-18f89e80641e"
+    }
+  }, {
+    "fullUrl": "urn:uuid:40b2b78a-a278-3a43-bede-e713cd8c3191",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "40b2b78a-a278-3a43-bede-e713cd8c3191",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 48
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 497
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 167
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 56
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "40b2b78a-a278-3a43-bede-e713cd8c3191"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "PCP135001",
+      "telecom": [ {
+        "system": "phone",
+        "value": "(555) 555-5555"
+      } ],
+      "address": [ {
+        "line": [ "1130 SENOIA RD" ],
+        "city": "TYRONE",
+        "state": "GA",
+        "postalCode": "30290-1641",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|40b2b78a-a278-3a43-bede-e713cd8c3191"
+    }
+  }, {
+    "fullUrl": "urn:uuid:9e233659-d700-3dcf-afff-5a9a245656d0",
+    "resource": {
+      "resourceType": "Location",
+      "id": "9e233659-d700-3dcf-afff-5a9a245656d0",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "9e233659-d700-3dcf-afff-5a9a245656d0"
+      } ],
+      "status": "active",
+      "name": "PCP135001",
+      "telecom": [ {
+        "system": "phone",
+        "value": "(555) 555-5555"
+      } ],
+      "address": {
+        "line": [ "1130 SENOIA RD" ],
+        "city": "TYRONE",
+        "state": "GA",
+        "postalCode": "30290-1641",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.594522,
+        "latitude": 33.476059
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "40b2b78a-a278-3a43-bede-e713cd8c3191"
+        },
+        "display": "PCP135001"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|9e233659-d700-3dcf-afff-5a9a245656d0"
+    }
+  }, {
+    "fullUrl": "urn:uuid:aabfd50d-8738-3144-8df4-9c42b5741eb4",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "aabfd50d-8738-3144-8df4-9c42b5741eb4",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 23
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 18
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 5
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 5
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "aabfd50d-8738-3144-8df4-9c42b5741eb4"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "UROLOGY OF GREATER ATLANTA LLC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "770-474-5281"
+      } ],
+      "address": [ {
+        "line": [ "550 PEACHTREE ST NE" ],
+        "city": "ATLANA",
+        "state": "GA",
+        "postalCode": "30308-2243",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|aabfd50d-8738-3144-8df4-9c42b5741eb4"
+    }
+  }, {
+    "fullUrl": "urn:uuid:d0ac423a-97e2-3cb8-81c3-78a75a8e943c",
+    "resource": {
+      "resourceType": "Location",
+      "id": "d0ac423a-97e2-3cb8-81c3-78a75a8e943c",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "d0ac423a-97e2-3cb8-81c3-78a75a8e943c"
+      } ],
+      "status": "active",
+      "name": "UROLOGY OF GREATER ATLANTA LLC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "770-474-5281"
+      } ],
+      "address": {
+        "line": [ "550 PEACHTREE ST NE" ],
+        "city": "ATLANA",
+        "state": "GA",
+        "postalCode": "30308-2243",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.422675,
+        "latitude": 33.762909
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "aabfd50d-8738-3144-8df4-9c42b5741eb4"
+        },
+        "display": "UROLOGY OF GREATER ATLANTA LLC"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|d0ac423a-97e2-3cb8-81c3-78a75a8e943c"
+    }
+  }, {
+    "fullUrl": "urn:uuid:71ad9281-ce24-3bdb-a57f-b720f7e014ac",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "71ad9281-ce24-3bdb-a57f-b720f7e014ac",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 44
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 220
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 91
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 17
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "71ad9281-ce24-3bdb-a57f-b720f7e014ac"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "URGENT MD HEALTHCARE SERVICES, P.C.",
+      "telecom": [ {
+        "system": "phone",
+        "value": "706-922-6300"
+      } ],
+      "address": [ {
+        "line": [ "1115 GARREDD BLVD" ],
+        "city": "AUGUSTA",
+        "state": "GA",
+        "postalCode": "30909-6674",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|71ad9281-ce24-3bdb-a57f-b720f7e014ac"
+    }
+  }, {
+    "fullUrl": "urn:uuid:d43848a1-f99f-345c-b5db-3afc701ee543",
+    "resource": {
+      "resourceType": "Location",
+      "id": "d43848a1-f99f-345c-b5db-3afc701ee543",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "d43848a1-f99f-345c-b5db-3afc701ee543"
+      } ],
+      "status": "active",
+      "name": "URGENT MD HEALTHCARE SERVICES, P.C.",
+      "telecom": [ {
+        "system": "phone",
+        "value": "706-922-6300"
+      } ],
+      "address": {
+        "line": [ "1115 GARREDD BLVD" ],
+        "city": "AUGUSTA",
+        "state": "GA",
+        "postalCode": "30909-6674",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -82.021331,
+        "latitude": 33.444691
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "71ad9281-ce24-3bdb-a57f-b720f7e014ac"
+        },
+        "display": "URGENT MD HEALTHCARE SERVICES, P.C."
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|d43848a1-f99f-345c-b5db-3afc701ee543"
+    }
+  }, {
+    "fullUrl": "urn:uuid:8a0122b8-eae3-3073-8767-e0fdf3e9eb6e",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "8a0122b8-eae3-3073-8767-e0fdf3e9eb6e",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 28
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 108
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 19
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 50
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "8a0122b8-eae3-3073-8767-e0fdf3e9eb6e"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "CENTER FOR DIGESTIVE AND LIVER HEALTH LLC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "912-303-4200"
+      } ],
+      "address": [ {
+        "line": [ "140 TRADERS WAY" ],
+        "city": "POOLER",
+        "state": "GA",
+        "postalCode": "31322-4035",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|8a0122b8-eae3-3073-8767-e0fdf3e9eb6e"
+    }
+  }, {
+    "fullUrl": "urn:uuid:31f52efe-f27b-3bf9-8752-9c7c1d727f9b",
+    "resource": {
+      "resourceType": "Location",
+      "id": "31f52efe-f27b-3bf9-8752-9c7c1d727f9b",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "31f52efe-f27b-3bf9-8752-9c7c1d727f9b"
+      } ],
+      "status": "active",
+      "name": "CENTER FOR DIGESTIVE AND LIVER HEALTH LLC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "912-303-4200"
+      } ],
+      "address": {
+        "line": [ "140 TRADERS WAY" ],
+        "city": "POOLER",
+        "state": "GA",
+        "postalCode": "31322-4035",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -81.254989,
+        "latitude": 32.101858
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "8a0122b8-eae3-3073-8767-e0fdf3e9eb6e"
+        },
+        "display": "CENTER FOR DIGESTIVE AND LIVER HEALTH LLC"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|31f52efe-f27b-3bf9-8752-9c7c1d727f9b"
+    }
+  }, {
+    "fullUrl": "urn:uuid:4c1fb5be-e722-39c1-b926-bc9d45f5c10c",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "4c1fb5be-e722-39c1-b926-bc9d45f5c10c",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 63
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 291
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 122
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 64
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "4c1fb5be-e722-39c1-b926-bc9d45f5c10c"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "THE LONGSTREET CLINIC, PC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "678-312-6200"
+      } ],
+      "address": [ {
+        "line": [ "3215 MCCLURE BRIDGE RD" ],
+        "city": "DULUTH",
+        "state": "GA",
+        "postalCode": "30096-3223",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|4c1fb5be-e722-39c1-b926-bc9d45f5c10c"
+    }
+  }, {
+    "fullUrl": "urn:uuid:fb8749d2-9ed6-31cc-a9c6-d36e5282e38b",
+    "resource": {
+      "resourceType": "Location",
+      "id": "fb8749d2-9ed6-31cc-a9c6-d36e5282e38b",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "fb8749d2-9ed6-31cc-a9c6-d36e5282e38b"
+      } ],
+      "status": "active",
+      "name": "THE LONGSTREET CLINIC, PC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "678-312-6200"
+      } ],
+      "address": {
+        "line": [ "3215 MCCLURE BRIDGE RD" ],
+        "city": "DULUTH",
+        "state": "GA",
+        "postalCode": "30096-3223",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.150473,
+        "latitude": 34.001517
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "4c1fb5be-e722-39c1-b926-bc9d45f5c10c"
+        },
+        "display": "THE LONGSTREET CLINIC, PC"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|fb8749d2-9ed6-31cc-a9c6-d36e5282e38b"
+    }
+  }, {
+    "fullUrl": "urn:uuid:7e0a0472-b7cc-3009-b773-8ff741c54a12",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "7e0a0472-b7cc-3009-b773-8ff741c54a12",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 37
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 121
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 39
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 29
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "7e0a0472-b7cc-3009-b773-8ff741c54a12"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "PIEDMONT PROVIDERS LLC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-605-4848"
+      } ],
+      "address": [ {
+        "line": [ "275 COLLIER NWRD" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30309-1711",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|7e0a0472-b7cc-3009-b773-8ff741c54a12"
+    }
+  }, {
+    "fullUrl": "urn:uuid:5d7ebe3c-3a13-39b4-99c0-24d0960c3c4b",
+    "resource": {
+      "resourceType": "Location",
+      "id": "5d7ebe3c-3a13-39b4-99c0-24d0960c3c4b",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "5d7ebe3c-3a13-39b4-99c0-24d0960c3c4b"
+      } ],
+      "status": "active",
+      "name": "PIEDMONT PROVIDERS LLC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-605-4848"
+      } ],
+      "address": {
+        "line": [ "275 COLLIER NWRD" ],
+        "city": "ATLANTA",
+        "state": "GA",
+        "postalCode": "30309-1711",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.472378,
+        "latitude": 33.761959999999995
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "7e0a0472-b7cc-3009-b773-8ff741c54a12"
+        },
+        "display": "PIEDMONT PROVIDERS LLC"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|5d7ebe3c-3a13-39b4-99c0-24d0960c3c4b"
+    }
+  }, {
+    "fullUrl": "urn:uuid:b4ca07e3-03d8-3b23-82f4-a9467a56d81c",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "b4ca07e3-03d8-3b23-82f4-a9467a56d81c",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 45
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 197
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 143
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 36
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "b4ca07e3-03d8-3b23-82f4-a9467a56d81c"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "CHATTANOOGA HAMILTON COUNTY HOSPITAL AUTHORITY",
+      "telecom": [ {
+        "system": "phone",
+        "value": "706-820-8133"
+      } ],
+      "address": [ {
+        "line": [ "101 MCFARLAND RD" ],
+        "city": "LOOKOUT MOUNTAIN",
+        "state": "GA",
+        "postalCode": "30750-3122",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|b4ca07e3-03d8-3b23-82f4-a9467a56d81c"
+    }
+  }, {
+    "fullUrl": "urn:uuid:76fdf691-737c-3695-ad82-9f0bd6c7b20e",
+    "resource": {
+      "resourceType": "Location",
+      "id": "76fdf691-737c-3695-ad82-9f0bd6c7b20e",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "76fdf691-737c-3695-ad82-9f0bd6c7b20e"
+      } ],
+      "status": "active",
+      "name": "CHATTANOOGA HAMILTON COUNTY HOSPITAL AUTHORITY",
+      "telecom": [ {
+        "system": "phone",
+        "value": "706-820-8133"
+      } ],
+      "address": {
+        "line": [ "101 MCFARLAND RD" ],
+        "city": "LOOKOUT MOUNTAIN",
+        "state": "GA",
+        "postalCode": "30750-3122",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -85.40661300000001,
+        "latitude": 34.875509
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "b4ca07e3-03d8-3b23-82f4-a9467a56d81c"
+        },
+        "display": "CHATTANOOGA HAMILTON COUNTY HOSPITAL AUTHORITY"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|76fdf691-737c-3695-ad82-9f0bd6c7b20e"
+    }
+  }, {
+    "fullUrl": "urn:uuid:14ba434a-cb34-3606-bcf2-224ccd3bcb8d",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "14ba434a-cb34-3606-bcf2-224ccd3bcb8d",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 54
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 217
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 163
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 36
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "14ba434a-cb34-3606-bcf2-224ccd3bcb8d"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "CHOICEONE URGENT CARE OF GWINNETT LLC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "470-326-7600"
+      } ],
+      "address": [ {
+        "line": [ "5910 SUWANEE DAM RD" ],
+        "city": "SUGAR HILL",
+        "state": "GA",
+        "postalCode": "30518-5648",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|14ba434a-cb34-3606-bcf2-224ccd3bcb8d"
+    }
+  }, {
+    "fullUrl": "urn:uuid:b3716b3d-6918-3f63-aec4-2e3e39f19b67",
+    "resource": {
+      "resourceType": "Location",
+      "id": "b3716b3d-6918-3f63-aec4-2e3e39f19b67",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "b3716b3d-6918-3f63-aec4-2e3e39f19b67"
+      } ],
+      "status": "active",
+      "name": "CHOICEONE URGENT CARE OF GWINNETT LLC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "470-326-7600"
+      } ],
+      "address": {
+        "line": [ "5910 SUWANEE DAM RD" ],
+        "city": "SUGAR HILL",
+        "state": "GA",
+        "postalCode": "30518-5648",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.04234699999999,
+        "latitude": 34.097574
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "14ba434a-cb34-3606-bcf2-224ccd3bcb8d"
+        },
+        "display": "CHOICEONE URGENT CARE OF GWINNETT LLC"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|b3716b3d-6918-3f63-aec4-2e3e39f19b67"
+    }
+  }, {
+    "fullUrl": "urn:uuid:38127269-ac7d-3554-bca9-13735ff2b5e0",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "38127269-ac7d-3554-bca9-13735ff2b5e0",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 28
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 36
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 12
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 8
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "38127269-ac7d-3554-bca9-13735ff2b5e0"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "INDEPENDENT PHYSICAL THERAPY OF GA, LLC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "770-945-1045"
+      } ],
+      "address": [ {
+        "line": [ "4510 NELSON BROGDON BLVD" ],
+        "city": "SUGAR HILL",
+        "state": "GA",
+        "postalCode": "30518-3478",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|38127269-ac7d-3554-bca9-13735ff2b5e0"
+    }
+  }, {
+    "fullUrl": "urn:uuid:82f73d07-44fc-3320-a0f1-7280738e09c0",
+    "resource": {
+      "resourceType": "Location",
+      "id": "82f73d07-44fc-3320-a0f1-7280738e09c0",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "82f73d07-44fc-3320-a0f1-7280738e09c0"
+      } ],
+      "status": "active",
+      "name": "INDEPENDENT PHYSICAL THERAPY OF GA, LLC",
+      "telecom": [ {
+        "system": "phone",
+        "value": "770-945-1045"
+      } ],
+      "address": {
+        "line": [ "4510 NELSON BROGDON BLVD" ],
+        "city": "SUGAR HILL",
+        "state": "GA",
+        "postalCode": "30518-3478",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.04234699999999,
+        "latitude": 34.097574
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "38127269-ac7d-3554-bca9-13735ff2b5e0"
+        },
+        "display": "INDEPENDENT PHYSICAL THERAPY OF GA, LLC"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|82f73d07-44fc-3320-a0f1-7280738e09c0"
+    }
+  }, {
+    "fullUrl": "urn:uuid:d7043de0-6d6c-32fb-96d8-d4ac4b39e755",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "d7043de0-6d6c-32fb-96d8-d4ac4b39e755",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 54
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 676
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 107
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 42
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "d7043de0-6d6c-32fb-96d8-d4ac4b39e755"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "AMERICAN CURRENT CARE PA",
+      "telecom": [ {
+        "system": "phone",
+        "value": "912-966-5445"
+      } ],
+      "address": [ {
+        "line": [ "109 MINIS AVE" ],
+        "city": "GARDEN CITY",
+        "state": "GA",
+        "postalCode": "31408-2130",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|d7043de0-6d6c-32fb-96d8-d4ac4b39e755"
+    }
+  }, {
+    "fullUrl": "urn:uuid:5047869f-b68b-3d84-b31e-2c7fd7a815c1",
+    "resource": {
+      "resourceType": "Location",
+      "id": "5047869f-b68b-3d84-b31e-2c7fd7a815c1",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "5047869f-b68b-3d84-b31e-2c7fd7a815c1"
+      } ],
+      "status": "active",
+      "name": "AMERICAN CURRENT CARE PA",
+      "telecom": [ {
+        "system": "phone",
+        "value": "912-966-5445"
+      } ],
+      "address": {
+        "line": [ "109 MINIS AVE" ],
+        "city": "GARDEN CITY",
+        "state": "GA",
+        "postalCode": "31408-2130",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -81.176614,
+        "latitude": 32.087221
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "d7043de0-6d6c-32fb-96d8-d4ac4b39e755"
+        },
+        "display": "AMERICAN CURRENT CARE PA"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|5047869f-b68b-3d84-b31e-2c7fd7a815c1"
+    }
+  }, {
+    "fullUrl": "urn:uuid:9f365c43-23b3-30d3-a087-d552b84965fe",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "9f365c43-23b3-30d3-a087-d552b84965fe",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 1
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "9f365c43-23b3-30d3-a087-d552b84965fe"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "CONCENTRA URGENT CARE - AIRPORT NORTH",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-768-3351"
+      } ],
+      "address": [ {
+        "line": [ "3580 ATLANTA AVENUE" ],
+        "city": "HAPEVILLE",
+        "state": "GA",
+        "postalCode": "30354",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|9f365c43-23b3-30d3-a087-d552b84965fe"
+    }
+  }, {
+    "fullUrl": "urn:uuid:78766d6b-0905-3096-8d62-11d9226fcd1f",
+    "resource": {
+      "resourceType": "Location",
+      "id": "78766d6b-0905-3096-8d62-11d9226fcd1f",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "78766d6b-0905-3096-8d62-11d9226fcd1f"
+      } ],
+      "status": "active",
+      "name": "CONCENTRA URGENT CARE - AIRPORT NORTH",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-768-3351"
+      } ],
+      "address": {
+        "line": [ "3580 ATLANTA AVENUE" ],
+        "city": "HAPEVILLE",
+        "state": "GA",
+        "postalCode": "30354",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.4112909,
+        "latitude": 33.6563795
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "9f365c43-23b3-30d3-a087-d552b84965fe"
+        },
+        "display": "CONCENTRA URGENT CARE - AIRPORT NORTH"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|78766d6b-0905-3096-8d62-11d9226fcd1f"
+    }
+  }, {
+    "fullUrl": "urn:uuid:f1692a3a-5eb5-3670-aa63-9a80f82455bb",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "f1692a3a-5eb5-3670-aa63-9a80f82455bb",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 1
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "f1692a3a-5eb5-3670-aa63-9a80f82455bb"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "FLOYD URGENT CARE IN SUMMERVILLE",
+      "telecom": [ {
+        "system": "phone",
+        "value": "706-857-1010"
+      } ],
+      "address": [ {
+        "line": [ "11766 UNITED STATES HIGHWAY 27" ],
+        "city": "SUMMERVILLE",
+        "state": "GA",
+        "postalCode": "30747",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|f1692a3a-5eb5-3670-aa63-9a80f82455bb"
+    }
+  }, {
+    "fullUrl": "urn:uuid:8baeed78-4bbf-34fa-a7f3-a6ef2ed3f21d",
+    "resource": {
+      "resourceType": "Location",
+      "id": "8baeed78-4bbf-34fa-a7f3-a6ef2ed3f21d",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "8baeed78-4bbf-34fa-a7f3-a6ef2ed3f21d"
+      } ],
+      "status": "active",
+      "name": "FLOYD URGENT CARE IN SUMMERVILLE",
+      "telecom": [ {
+        "system": "phone",
+        "value": "706-857-1010"
+      } ],
+      "address": {
+        "line": [ "11766 UNITED STATES HIGHWAY 27" ],
+        "city": "SUMMERVILLE",
+        "state": "GA",
+        "postalCode": "30747",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -85.3306562,
+        "latitude": 34.5000331
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "f1692a3a-5eb5-3670-aa63-9a80f82455bb"
+        },
+        "display": "FLOYD URGENT CARE IN SUMMERVILLE"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|8baeed78-4bbf-34fa-a7f3-a6ef2ed3f21d"
+    }
+  }, {
+    "fullUrl": "urn:uuid:ed3388e8-4e96-36ff-9503-725ffe662776",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "ed3388e8-4e96-36ff-9503-725ffe662776",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 7
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "ed3388e8-4e96-36ff-9503-725ffe662776"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "GWINNETT URGENT CARE",
+      "telecom": [ {
+        "system": "phone",
+        "value": "770-831-5525"
+      } ],
+      "address": [ {
+        "line": [ "1300 PEACHTREE INDUSTRIAL BOULEVARD" ],
+        "city": "SUWANEE",
+        "state": "GA",
+        "postalCode": "30024",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|ed3388e8-4e96-36ff-9503-725ffe662776"
+    }
+  }, {
+    "fullUrl": "urn:uuid:af7fba95-fe9b-3805-bfa9-565279d44588",
+    "resource": {
+      "resourceType": "Location",
+      "id": "af7fba95-fe9b-3805-bfa9-565279d44588",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "af7fba95-fe9b-3805-bfa9-565279d44588"
+      } ],
+      "status": "active",
+      "name": "GWINNETT URGENT CARE",
+      "telecom": [ {
+        "system": "phone",
+        "value": "770-831-5525"
+      } ],
+      "address": {
+        "line": [ "1300 PEACHTREE INDUSTRIAL BOULEVARD" ],
+        "city": "SUWANEE",
+        "state": "GA",
+        "postalCode": "30024",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.0951742,
+        "latitude": 34.0417269
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "ed3388e8-4e96-36ff-9503-725ffe662776"
+        },
+        "display": "GWINNETT URGENT CARE"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|af7fba95-fe9b-3805-bfa9-565279d44588"
+    }
+  }, {
+    "fullUrl": "urn:uuid:de49f5de-6408-3719-91e8-6d4b8f1120a5",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "de49f5de-6408-3719-91e8-6d4b8f1120a5",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 4
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "de49f5de-6408-3719-91e8-6d4b8f1120a5"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "CONCENTRA URGENT CARE - SAVANNAH",
+      "telecom": [ {
+        "system": "phone",
+        "value": "912-966-5445"
+      } ],
+      "address": [ {
+        "line": [ "109 MINUS AVENUE" ],
+        "city": "GARDEN CITY",
+        "state": "GA",
+        "postalCode": "31408",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|de49f5de-6408-3719-91e8-6d4b8f1120a5"
+    }
+  }, {
+    "fullUrl": "urn:uuid:a6947f1f-4933-32ef-b04f-93705cbeec64",
+    "resource": {
+      "resourceType": "Location",
+      "id": "a6947f1f-4933-32ef-b04f-93705cbeec64",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "a6947f1f-4933-32ef-b04f-93705cbeec64"
+      } ],
+      "status": "active",
+      "name": "CONCENTRA URGENT CARE - SAVANNAH",
+      "telecom": [ {
+        "system": "phone",
+        "value": "912-966-5445"
+      } ],
+      "address": {
+        "line": [ "109 MINUS AVENUE" ],
+        "city": "GARDEN CITY",
+        "state": "GA",
+        "postalCode": "31408",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -81.1450926,
+        "latitude": 32.1046105
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "de49f5de-6408-3719-91e8-6d4b8f1120a5"
+        },
+        "display": "CONCENTRA URGENT CARE - SAVANNAH"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|a6947f1f-4933-32ef-b04f-93705cbeec64"
+    }
+  }, {
+    "fullUrl": "urn:uuid:c29ecead-222e-306d-b7f1-e4f2c4b32790",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "c29ecead-222e-306d-b7f1-e4f2c4b32790",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 1
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "c29ecead-222e-306d-b7f1-e4f2c4b32790"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "EAST POINT PRIMARY CARE CENTER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-684-7111"
+      } ],
+      "address": [ {
+        "line": [ "1203 CLEVELAND AVENUE" ],
+        "city": "EAST POINT",
+        "state": "GA",
+        "postalCode": "30344",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|c29ecead-222e-306d-b7f1-e4f2c4b32790"
+    }
+  }, {
+    "fullUrl": "urn:uuid:9fa9463e-2021-3d5c-8c1e-fc45b50da455",
+    "resource": {
+      "resourceType": "Location",
+      "id": "9fa9463e-2021-3d5c-8c1e-fc45b50da455",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "9fa9463e-2021-3d5c-8c1e-fc45b50da455"
+      } ],
+      "status": "active",
+      "name": "EAST POINT PRIMARY CARE CENTER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "404-684-7111"
+      } ],
+      "address": {
+        "line": [ "1203 CLEVELAND AVENUE" ],
+        "city": "EAST POINT",
+        "state": "GA",
+        "postalCode": "30344",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -84.4285109,
+        "latitude": 33.6812599
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "c29ecead-222e-306d-b7f1-e4f2c4b32790"
+        },
+        "display": "EAST POINT PRIMARY CARE CENTER"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|9fa9463e-2021-3d5c-8c1e-fc45b50da455"
+    }
+  }, {
+    "fullUrl": "urn:uuid:f3ad7969-287d-3d1c-bf29-2ce73adee0be",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "f3ad7969-287d-3d1c-bf29-2ce73adee0be",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 3
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "f3ad7969-287d-3d1c-bf29-2ce73adee0be"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "PROMED URGENT CARE",
+      "telecom": [ {
+        "system": "phone",
+        "value": "770-904-7821"
+      } ],
+      "address": [ {
+        "line": [ "922 GAINESVILLE HIGHWAY" ],
+        "city": "BUFORD",
+        "state": "GA",
+        "postalCode": "30518",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|f3ad7969-287d-3d1c-bf29-2ce73adee0be"
+    }
+  }, {
+    "fullUrl": "urn:uuid:7c15868a-b979-30a6-9e7d-b12c59ab5475",
+    "resource": {
+      "resourceType": "Location",
+      "id": "7c15868a-b979-30a6-9e7d-b12c59ab5475",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "7c15868a-b979-30a6-9e7d-b12c59ab5475"
+      } ],
+      "status": "active",
+      "name": "PROMED URGENT CARE",
+      "telecom": [ {
+        "system": "phone",
+        "value": "770-904-7821"
+      } ],
+      "address": {
+        "line": [ "922 GAINESVILLE HIGHWAY" ],
+        "city": "BUFORD",
+        "state": "GA",
+        "postalCode": "30518",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -83.9657204,
+        "latitude": 34.1448406
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "f3ad7969-287d-3d1c-bf29-2ce73adee0be"
+        },
+        "display": "PROMED URGENT CARE"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|7c15868a-b979-30a6-9e7d-b12c59ab5475"
+    }
+  } ]
+}

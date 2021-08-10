@@ -1,0 +1,63 @@
+Daniell Quigley
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1975-05-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+36 | 36 | Laceration of thigh | 0 | 
+36 |  | Body mass index 30+ - obesity (finding) | 0 | 
+36 | 37 | Limited social contact (finding) | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+37 |  | Body mass index 30+ - obesity (finding) | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+38 |  | Body mass index 30+ - obesity (finding) | 0 | 
+38 | 38 | Part-time employment (finding) | 0 | 
+38 |  | Received higher education (finding) | 0 | 
+38 | 40 | Social isolation (finding) | 0 | 
+38 | 38 | Viral sinusitis (disorder) | 9 | Headache:49:0, Sinus Pain:64:0, Pain with Bright Lights:48:0, Facial Swelling:28:0, Nasal Discharge:26:0, Nasal Congestion:10:0, Sore Throat:10:0, Cough:36:0, Fever:2:0
+38 |  | Body mass index 30+ - obesity (finding) | 0 | 
+38 | 39 | Full-time employment (finding) | 0 | 
+38 |  | Received higher education (finding) | 0 | 
+39 |  | Body mass index 30+ - obesity (finding) | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Received higher education (finding) | 0 | 
+39 | 41 | Stress (finding) | 0 | 
+40 | 40 | Normal pregnancy | 0 | 
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 | 41 | Part-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 40 | Viral sinusitis (disorder) | 9 | Headache:27:0, Sinus Pain:55:0, Pain with Bright Lights:40:0, Facial Swelling:9:0, Nasal Discharge:10:0, Nasal Congestion:19:0, Sore Throat:45:0, Cough:16:0, Fever:13:0
+41 |  | Body mass index 30+ - obesity (finding) | 0 | 
+41 | 42 | Not in labor force (finding) | 0 | 
+41 | 45 | Limited social contact (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 | 43 | Not in labor force (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+43 |  | Body mass index 30+ - obesity (finding) | 0 | 
+43 | 43 | Full-time employment (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+43 | 43 | Acute bronchitis (disorder) | 10 | Body Aches:12:0, Diarrhea:7:0, Fatigue:59:0, Mucus:48:0, Nasal Congestion:49:0, Shortness of Breath:42:0, Nausea/Vomiting:18:0, Sore Throat:33:0, Cough:56:0, Fever:38:0
+43 |  | Body mass index 30+ - obesity (finding) | 0 | 
+43 | 44 | Not in labor force (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 | 45 | Stress (finding) | 0 | 
+44 | 44 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:76:0, Pain with Bright Lights:37:0, Facial Swelling:30:0, Nasal Discharge:5:0, Nasal Congestion:12:0, Sore Throat:46:0, Cough:30:0, Fever:0:0
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Fever (finding) | 3 | sore throat:1, fever:1, cough:1
+44 |  | Sore throat symptom (finding) | 3 | sore throat:1, fever:1, cough:1
+44 |  | Cough (finding) | 3 | sore throat:1, fever:1, cough:1
+44 | 44 | Suspected COVID-19 | 0 | 
+44 |  | COVID-19 | 0 | 
+45 |  | Body mass index 30+ - obesity (finding) | 0 | 
+45 |  | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

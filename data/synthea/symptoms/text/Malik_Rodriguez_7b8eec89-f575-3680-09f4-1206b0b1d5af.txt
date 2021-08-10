@@ -1,0 +1,16 @@
+Malik Rodriguez
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2017-01-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Otitis media | 0 | 
+3 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+3 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+3 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+3 | 3 | Suspected COVID-19 | 0 | 
+3 |  | COVID-19 | 0 | 
+3 | 3 | Otitis media | 0 | 
+--------------------------------------------------------------------------------

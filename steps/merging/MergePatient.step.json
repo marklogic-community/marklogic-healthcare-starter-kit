@@ -1,0 +1,31 @@
+{
+  "batchSize": 100,
+  "sourceDatabase": "data-hub-FINAL",
+  "targetDatabase": "data-hub-FINAL",
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "targetEntityType": "Patient",
+  "sourceQuery": "cts.collectionQuery(['datahubMasteringMatchSummary-Patient'])",
+  "provenanceGranularityLevel": "off",
+  "collections": [
+    "MergePatient"
+  ],
+  "targetFormat": "JSON",
+  "mergeRules": [ ],
+  "mergeStrategies": [ ],
+  "targetCollections": null,
+  "name": "MergePatient",
+  "description": "",
+  "collection": "datahubMasteringMatchSummary-Patient",
+  "selectedSource": "collection",
+  "timestamp": "",
+  "additionalCollections": [ ],
+  "headers": { },
+  "interceptors": [ ],
+  "customHook": { },
+  "stepDefinitionName": "default-merging",
+  "stepDefinitionType": "merging",
+  "stepId": "MergePatient-merging",
+  "acceptsBatch": false,
+  "stepUpdate": false,
+  "lastUpdated": "2021-07-29T12:08:00.0049266-06:00"
+}

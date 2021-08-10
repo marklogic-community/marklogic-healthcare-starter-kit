@@ -1,0 +1,67 @@
+Rocco Hilll
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1946-01-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+66 |  | Prediabetes | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 | 71 | Reports of violence in the environment (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 | 70 | Stress (finding) | 0 | 
+68 |  | Chronic neck pain (finding) | 0 | 
+68 |  | Chronic neck pain (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 | 68 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:69:0, Pain with Bright Lights:28:0, Facial Swelling:8:0, Nasal Discharge:41:0, Nasal Congestion:2:0, Sore Throat:44:0, Fever:5:0, Cough:12:0
+69 |  | Prediabetes | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 | 69 | Viral sinusitis (disorder) | 9 | Headache:35:0, Sinus Pain:55:0, Pain with Bright Lights:33:0, Facial Swelling:27:0, Nasal Discharge:8:0, Nasal Congestion:0:0, Sore Throat:15:0, Fever:15:0, Cough:37:0
+70 |  | Prediabetes | 0 | 
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:0, Memory Loss:24:0, Decreased in Judgement:24, Decreased Communication:36, Decreased Attentiveness:10, Confusion:14
+71 |  | Prediabetes | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 | 74 | Reports of violence in the environment (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 | 75 | Limited social contact (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+74 |  | Vomiting symptom (finding) | 6 | fatigue:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+74 |  | Fever (finding) | 6 | fatigue:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+74 |  | Fatigue (finding) | 6 | fatigue:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+74 |  | Cough (finding) | 6 | fatigue:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+74 |  | Nausea (finding) | 6 | fatigue:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+74 |  | Diarrhea symptom (finding) | 6 | fatigue:1, fever:1, cough:1, diarrhea:1, vomiting:1, nausea:1
+74 | 74 | Suspected COVID-19 | 0 | 
+74 |  | COVID-19 | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 74 | Part-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 74 | Sinusitis (disorder) | 9 | Headache:25:0, Sinus Pain:31:0, Pain with Bright Lights:42:0, Facial Swelling:49:0, Nasal Discharge:31:0, Nasal Congestion:21:0, Sore Throat:33:0, Fever:7:0, Cough:12:0
+74 |  | Prediabetes | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Reports of violence in the environment (finding) | 0 | 
+75 |  | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

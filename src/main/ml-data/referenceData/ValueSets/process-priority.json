@@ -1,0 +1,16 @@
+{
+  "valueSet": {
+      "valueSetName": "ProcessPriorityCodes",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/process-priority",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-process-priority.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This value set includes the financial processing priority codes.",
+      "valueSetConcepts": {
+          "stat": {"code": "stat", "display": "Immediate", "definition": "Immediately in real time."},
+          "normal": {"code": "normal", "display": "Normal", "definition": "With best effort."},
+          "deferred": {"code": "deferred", "display": "Deferred", "definition": "Later, when possible."}
+      }
+  }
+}

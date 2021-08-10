@@ -1,0 +1,49 @@
+Sheryll Will
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1944-08-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+37 |  | Prediabetes | 0 | 
+37 | 40 | Part-time employment (finding) | 0 | 
+37 |  | Lack of access to transportation (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+37 | 37 | Viral sinusitis (disorder) | 9 | Headache:25:0, Sinus Pain:66:0, Pain with Bright Lights:42:0, Facial Swelling:44:0, Nasal Discharge:7:0, Nasal Congestion:6:0, Sore Throat:23:0, Fever:0:0, Cough:44:0
+40 |  | Prediabetes | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Transport problems (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 | 42 | Stress (finding) | 0 | 
+40 | 43 | Social isolation (finding) | 0 | 
+40 | 44 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+40 | 40 | Normal pregnancy | 0 | 
+40 |  | Miscarriage in first trimester | 0 | 
+40 | 40 | Blighted ovum | 0 | 
+40 | 41 | Normal pregnancy | 0 | 
+41 |  | Miscarriage in first trimester | 0 | 
+41 | 41 | Blighted ovum | 0 | 
+42 |  | Prediabetes | 0 | 
+42 | 43 | Full-time employment (finding) | 0 | 
+42 |  | Lack of access to transportation (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+43 | 43 | Viral sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:55:0, Pain with Bright Lights:26:0, Facial Swelling:49:0, Nasal Discharge:26:0, Nasal Congestion:8:0, Sore Throat:24:0, Fever:17:0, Cough:45:0
+43 |  | Prediabetes | 0 | 
+43 | 44 | Full-time employment (finding) | 0 | 
+43 |  | Lack of access to transportation (finding) | 0 | 
+43 |  | Received certificate of high school equivalency (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 | 46 | Part-time employment (finding) | 0 | 
+44 | 46 | Limited social contact (finding) | 0 | 
+44 |  | Transport problems (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 | 46 | Stress (finding) | 0 | 
+45 | 45 | Viral sinusitis (disorder) | 9 | Headache:38:0, Sinus Pain:76:0, Pain with Bright Lights:49:0, Facial Swelling:15:0, Nasal Discharge:46:0, Nasal Congestion:10:0, Sore Throat:6:0, Fever:2:0, Cough:18:0
+46 |  | Prediabetes | 0 | 
+46 |  | Full-time employment (finding) | 0 | 
+46 |  | Transport problems (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,56 @@
+Abraham Reynolds
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1955-06-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+56 | 56 | Viral sinusitis (disorder) | 9 | Headache:23:0, Sinus Pain:54:0, Pain with Bright Lights:31:0, Facial Swelling:37:0, Nasal Discharge:40:0, Nasal Congestion:19:0, Sore Throat:45:0, Cough:10:0, Fever:0:0
+57 | 58 | Part-time employment (finding) | 0 | 
+57 | 63 | Limited social contact (finding) | 0 | 
+57 |  | Victim of intimate partner abuse (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 | 65 | Victim of intimate partner abuse (finding) | 0 | 
+58 |  | Chronic low back pain (finding) | 0 | 
+58 |  | Chronic low back pain (finding) | 0 | 
+59 | 59 | Part-time employment (finding) | 0 | 
+59 | 65 | Reports of violence in the environment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 | 59 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:24:0, Fatigue:42:0, Mucus:26:0, Nasal Congestion:47:0, Shortness of Breath:40:0, Nausea/Vomiting:10:0, Sore Throat:45:0, Cough:38:0, Fever:43:0
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 61 | Stress (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Gout | 4 | Joint Redness:21, Joint Pain:30, Fever:2, Joint Swelling:14
+61 | 61 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:21:0, Fatigue:26:0, Mucus:29:0, Nasal Congestion:27:0, Shortness of Breath:33:0, Nausea/Vomiting:19:0, Sore Throat:31:0, Cough:68:0, Fever:42:0
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 | 63 | Stress (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 | 63 | Sprain of ankle | 0 | 
+64 | 65 | Part-time employment (finding) | 0 | 
+64 | 65 | Limited social contact (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+64 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+64 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+64 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+64 | 64 | Suspected COVID-19 | 0 | 
+64 |  | COVID-19 | 0 | 
+65 |  | Part-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

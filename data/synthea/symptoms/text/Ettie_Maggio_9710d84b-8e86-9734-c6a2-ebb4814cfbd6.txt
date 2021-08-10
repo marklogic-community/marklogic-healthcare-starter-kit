@@ -1,0 +1,51 @@
+Ettie Maggio
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1922-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+74 |  | Prediabetes | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Part-time employment (finding) | 0 | 
+75 | 78 | Limited social contact (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 | 79 | Stress (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 | 78 | Part-time employment (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 | 78 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:22:0, Fatigue:40:0, Mucus:43:0, Nasal Congestion:44:0, Shortness of Breath:48:0, Nausea/Vomiting:6:0, Sore Throat:48:0, Cough:62:0, Fever:42:0
+78 |  | Prediabetes | 0 | 
+78 | 79 | Not in labor force (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 | 80 | Limited social contact (finding) | 0 | 
+79 | 81 | Full-time employment (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 | 81 | Fracture of forearm | 0 | 
+81 |  | Prediabetes | 0 | 
+81 | 82 | Part-time employment (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 | 83 | Social isolation (finding) | 0 | 
+81 |  | Victim of intimate partner abuse (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+83 |  | Malignant neoplasm of breast (disorder) | 1 | Lump/mass:4
+83 |  | Prediabetes | 0 | 
+83 |  | Not in labor force (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

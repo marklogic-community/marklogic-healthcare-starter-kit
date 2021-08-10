@@ -1,0 +1,40 @@
+Gale Schroeder
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1995-05-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+17 |  | Body mass index 30+ - obesity (finding) | 0 | 
+17 | 17 | Fracture of rib | 0 | 
+18 |  | Body mass index 30+ - obesity (finding) | 0 | 
+18 | 19 | Not in labor force (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 19 | Stress (finding) | 0 | 
+19 |  | Body mass index 30+ - obesity (finding) | 0 | 
+19 | 22 | Part-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 22 | Social isolation (finding) | 0 | 
+22 | 22 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:76:0, Pain with Bright Lights:27:0, Facial Swelling:3:0, Nasal Discharge:48:0, Nasal Congestion:10:0, Sore Throat:16:0, Cough:2:0, Fever:6:0
+22 |  | Body mass index 30+ - obesity (finding) | 0 | 
+22 | 25 | Part-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 | 22 | Laceration of thigh | 0 | 
+24 |  | Dyspnea (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+24 |  | Fever (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+24 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+24 |  | Wheezing (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+24 |  | Cough (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+24 | 24 | Suspected COVID-19 | 0 | 
+24 |  | COVID-19 | 0 | 
+24 |  | Respiratory distress (finding) | 0 | 
+24 |  | Pneumonia (disorder) | 0 | 
+24 |  | Hypoxemia (disorder) | 0 | 
+25 |  | Body mass index 30+ - obesity (finding) | 0 | 
+25 |  | Limited social contact (finding) | 0 | 
+25 |  | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+--------------------------------------------------------------------------------

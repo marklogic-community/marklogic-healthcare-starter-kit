@@ -1,0 +1,205 @@
+{
+  "collections": [
+    "PatientMapping",
+    "Patient"
+  ],
+  "additionalCollections": [
+    "Patient"
+  ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "validateEntity": "doNotValidate",
+  "targetFormat": "JSON",
+  "attachSourceDocument": false,
+  "name": "PatientMapping",
+  "targetEntityType": "http://example.org/Patient-1.0.0/Patient",
+  "description": "Patient Mapping",
+  "collection": "PatientIngest",
+  "selectedSource": "collection",
+  "sourceQuery": "cts.collectionQuery(['PatientIngest'])",
+  "targetDatabase": "data-hub-FINAL",
+  "headers": { },
+  "interceptors": [ ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "sourceDatabase": "data-hub-STAGING",
+  "stepDefinitionName": "entity-services-mapping",
+  "stepDefinitionType": "mapping",
+  "stepId": "PatientMapping-mapping",
+  "acceptsBatch": true,
+  "lastUpdated": "2021-08-05T08:49:43.2357858-06:00",
+  "uriExpression": "$URI",
+  "properties": {
+    "name": {
+      "sourcedFrom": "flatToMultipleEntries(/,'{\"breakout\": [{\"type\": \"last\", \"xpath\": \"./LAST[string-length(normalize-space(.)) gt 0]\"}, {\"type\": \"maiden\", \"xpath\": \"./MAIDEN[string-length(normalize-space(.)) gt 0]\"}]}')",
+      "properties": {
+        "family": {
+          "sourcedFrom": "if(type eq 'maiden') then source/normalize-space()  else source/normalize-space() "
+        },
+        "given": {
+          "sourcedFrom": "//FIRST/normalize-space()"
+        },
+        "suffix": {
+          "sourcedFrom": "//SUFFIX/normalize-space()"
+        },
+        "prefix": {
+          "sourcedFrom": "//PREFIX/normalize-space()"
+        },
+        "use": {
+          "sourcedFrom": "if(type eq 'maiden') then \"maiden\" else \"official\""
+        }
+      },
+      "targetEntityType": "#/definitions/HumanName"
+    },
+    "telecom": {
+      "sourcedFrom": "",
+      "properties": {
+        "id": {
+          "sourcedFrom": ""
+        }
+      },
+      "targetEntityType": "#/definitions/ContactPoint"
+    },
+    "id": {
+      "sourcedFrom": "Id/normalize-space()"
+    },
+    "birthDate": {
+      "sourcedFrom": "localParseDate(BIRTHDATE/normalize-space())"
+    },
+    "gender": {
+      "sourcedFrom": "valueSetLookup(GENDER/normalize-space(), 'administrative-gender')/code"
+    },
+    "deceasedBoolean": {
+      "sourcedFrom": "string-length(DEATHDATE/normalize-space()) > 0"
+    },
+    "deceasedDateTime": {
+      "sourcedFrom": "localParseDateTime(DEATHDATE/normalize-space())"
+    },
+    "address": {
+      "sourcedFrom": "/",
+      "properties": {
+        "city": {
+          "sourcedFrom": "CITY/normalize-space()"
+        },
+        "state": {
+          "sourcedFrom": "STATE/normalize-space()"
+        },
+        "country": {
+          "sourcedFrom": "\"US\""
+        },
+        "postalCode": {
+          "sourcedFrom": "ZIP/normalize-space()"
+        },
+        "line": {
+          "sourcedFrom": "ADDRESS/normalize-space()"
+        },
+        "district": {
+          "sourcedFrom": "COUNTY/normalize-space()"
+        },
+        "text": {
+          "sourcedFrom": "ADDRESS/normalize-space()"
+        }
+      },
+      "targetEntityType": "#/definitions/Address"
+    },
+    "ex__race": {
+      "sourcedFrom": "/",
+      "properties": {
+        "text": {
+          "sourcedFrom": "RACE/normalize-space()"
+        },
+        "ombCategory": {
+          "sourcedFrom": "\"urn:oid:2.16.840.1.113883.6.238\""
+        }
+      },
+      "targetEntityType": "#/definitions/USCoreRaceExtension"
+    },
+    "ex__ethnicity": {
+      "sourcedFrom": "/",
+      "properties": {
+        "text": {
+          "sourcedFrom": "ETHNICITY/normalize-space()"
+        },
+        "ombCategory": {
+          "sourcedFrom": "\"urn:oid:2.16.840.1.113883.6.238\""
+        }
+      },
+      "targetEntityType": "#/definitions/USCoreEthnicityExtension"
+    },
+    "contact": {
+      "sourcedFrom": "/",
+      "properties": {
+        "address": {
+          "sourcedFrom": "/",
+          "properties": {
+            "city": {
+              "sourcedFrom": "CITY/normalize-space()"
+            },
+            "district": {
+              "sourcedFrom": "COUNTY/normalize-space()"
+            },
+            "state": {
+              "sourcedFrom": "STATE/normalize-space()"
+            },
+            "postalCode": {
+              "sourcedFrom": "ZIP/normalize-space()"
+            },
+            "country": {
+              "sourcedFrom": "\"US\""
+            }
+          },
+          "targetEntityType": "#/definitions/Address"
+        }
+      },
+      "targetEntityType": "#/definitions/Contact"
+    },
+    "communication": {
+      "sourcedFrom": "/",
+      "properties": {
+        "language": {
+          "sourcedFrom": "/",
+          "properties": {
+            "coding": {
+              "sourcedFrom": "/",
+              "properties": {
+                "system": {
+                  "sourcedFrom": "\"urn:ietf:bcp:47\""
+                },
+                "code": {
+                  "sourcedFrom": "\"en-US\""
+                },
+                "display": {
+                  "sourcedFrom": "\"English\""
+                }
+              },
+              "targetEntityType": "#/definitions/Coding"
+            },
+            "text": {
+              "sourcedFrom": "\"English\""
+            }
+          },
+          "targetEntityType": "#/definitions/CodeableConcept"
+        }
+      },
+      "targetEntityType": "#/definitions/Communication"
+    },
+    "language": {
+      "sourcedFrom": "\"en-US\""
+    },
+    "active": {
+      "sourcedFrom": "if (string-length(DEATHDATE/normalize-space()) > 0) then false() else true()"
+    },
+    "identifier__ssn": {
+      "sourcedFrom": "localParseSSN(SSN/normalize-space()) "
+    },
+    "identifier__dl": {
+      "sourcedFrom": "DRIVERS/normalize-space()"
+    },
+    "identifier__passport": {
+      "sourcedFrom": "PASSPORT/normalize-space()"
+    },
+    "code__maritalStatus": {
+      "sourcedFrom": "if(string-length(MARITAL/normalize-space()) > 0) then valueSetLookup(MARITAL/normalize-space(), 'marital-status')/code else valueSetLookup('UNK', 'marital-status')/code"
+    }
+  }
+}

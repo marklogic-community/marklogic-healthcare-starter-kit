@@ -1,0 +1,634 @@
+
+2021-01-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 34 year-old non-hispanic black male. Patient has a history of fatigue (finding), concussion with no loss of consciousness, headache (finding), acute viral pharyngitis (disorder), misuses drugs (finding), viral sinusitis (disorder), suspected covid-19, covid-19, part-time employment (finding), acute bronchitis (disorder), risk activity involvement (finding), fever (finding), sputum finding (finding), limited social contact (finding), full-time employment (finding), cough (finding), loss of taste (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding), part-time employment (finding), reports of violence in the environment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2020-03-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 33 year-old non-hispanic black male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), risk activity involvement (finding), concussion with no loss of consciousness, limited social contact (finding), full-time employment (finding), acute viral pharyngitis (disorder), misuses drugs (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with headache (finding), cough (finding), sputum finding (finding), fatigue (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-07-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 32 year-old non-hispanic black male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), risk activity involvement (finding), concussion with no loss of consciousness, limited social contact (finding), full-time employment (finding), acute viral pharyngitis (disorder), misuses drugs (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+
+
+
+2019-06-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 32 year-old non-hispanic black male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), risk activity involvement (finding), concussion with no loss of consciousness, limited social contact (finding), full-time employment (finding), acute viral pharyngitis (disorder), misuses drugs (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2019-03-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 32 year-old non-hispanic black male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), risk activity involvement (finding), limited social contact (finding), full-time employment (finding), acute viral pharyngitis (disorder), misuses drugs (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with concussion with no loss of consciousness. 
+
+## Plan
+
+The patient was placed on a careplan:
+- head injury rehabilitation
+
+
+
+2018-01-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 31 year-old non-hispanic black male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), risk activity involvement (finding), limited social contact (finding), full-time employment (finding), acute viral pharyngitis (disorder), misuses drugs (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2016-02-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 29 year-old non-hispanic black male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), risk activity involvement (finding), limited social contact (finding), full-time employment (finding), acute viral pharyngitis (disorder), misuses drugs (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2016-02-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 29 year-old non-hispanic black male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), risk activity involvement (finding), limited social contact (finding), full-time employment (finding), misuses drugs (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- throat culture (procedure)
+
+
+
+2016-02-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 29 year-old non-hispanic black male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), risk activity involvement (finding), limited social contact (finding), full-time employment (finding), misuses drugs (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2016-01-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 29 year-old non-hispanic black male. Patient has a history of part-time employment (finding), risk activity involvement (finding), limited social contact (finding), full-time employment (finding), misuses drugs (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- measurement of respiratory function (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2014-12-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 28 year-old non-hispanic black male. Patient has a history of part-time employment (finding), risk activity involvement (finding), limited social contact (finding), full-time employment (finding), misuses drugs (finding), viral sinusitis (disorder).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), limited social contact (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2011-12-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 25 year-old non-hispanic black male. Patient has a history of part-time employment (finding), risk activity involvement (finding), limited social contact (finding), misuses drugs (finding), viral sinusitis (disorder).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2011-10-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 24 year-old non-hispanic black male. Patient has a history of part-time employment (finding), risk activity involvement (finding), limited social contact (finding), misuses drugs (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2008-12-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 22 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), limited social contact (finding), misuses drugs (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+
+
+
+
+2005-12-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 19 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding), misuses drugs (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with limited social contact (finding). 
+
+## Plan
+
+
+
+
+2005-08-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 18 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with misuses drugs (finding). 
+
+## Plan
+
+
+
+
+2004-12-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 18 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received certificate of high school equivalency (finding). 
+
+## Plan
+
+
+
+
+2003-12-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 17 year-old non-hispanic black male. Patient has a history of risk activity involvement (finding).
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+
+1998-11-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jason
+ is a 12 year-old non-hispanic black male.
+
+# Social History
+ Patient quite smoking at age 17 and is an alcoholic.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+
+
+
+

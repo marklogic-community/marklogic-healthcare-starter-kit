@@ -1,0 +1,48 @@
+Erin Gerhold
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1960-10-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 | 52 | Sinusitis (disorder) | 9 | Headache:47:0, Sinus Pain:34:77:0, Pain with Bright Lights:47:0, Facial Swelling:4:0, Nasal Discharge:22:0, Nasal Congestion:24:0, Sore Throat:49:0, Cough:3:0, Fever:2:0
+51 |  | Chronic sinusitis (disorder) | 9 | Headache:0:21:0:34:0, Sinus Pain:77:0:76:0:68:0, Pain with Bright Lights:0:45:0:32:0, Facial Swelling:0:46:0:15:0, Nasal Discharge:0:47:0:44:0, Nasal Congestion:0:6:0:20:0, Sore Throat:0:18:0:4:0, Cough:0:3:0:11:0, Fever:0:15:0:21:0
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+53 | 54 | Part-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Victim of intimate partner abuse (finding) | 0 | 
+54 | 54 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:8:0, Body Aches:29:0, Runny/Stuffy Nose:9:0, Fatigue:21:0, Swollen Lymph Nodes:10:0, Swollen Tonsils:14:0, Decreased Appetite:11:0, Sore Throat:34:0, Cough:11:0, Fever:6:0
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 | 57 | Not in labor force (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+58 | 58 | Not in labor force (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 | 60 | Stress (finding) | 0 | 
+58 | 58 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:32:0, Runny/Stuffy Nose:45:0, Fatigue:46:0, Swollen Lymph Nodes:48:0, Swollen Tonsils:47:0, Decreased Appetite:49:0, Sore Throat:17:0, Cough:30:0, Fever:19:0
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 | 60 | Part-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 | 59 | Viral sinusitis (disorder) | 9 | Headache:21:0, Sinus Pain:76:0, Pain with Bright Lights:45:0, Facial Swelling:46:0, Nasal Discharge:47:0, Nasal Congestion:6:0, Sore Throat:18:0, Cough:3:0, Fever:15:0
+59 |  | Fever (finding) | 1 | fever:1
+59 | 59 | Suspected COVID-19 | 0 | 
+59 |  | COVID-19 | 0 | 
+60 |  | Polyp of colon | 0 | 
+60 | 60 | Viral sinusitis (disorder) | 9 | Headache:34:0, Sinus Pain:68:0, Pain with Bright Lights:32:0, Facial Swelling:15:0, Nasal Discharge:44:0, Nasal Congestion:20:0, Sore Throat:4:0, Cough:11:0, Fever:21:0
+60 |  | Full-time employment (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,87 @@
+{
+  "collections": [
+    "PractitionerMapping",
+    "Practitioner"
+  ],
+  "additionalCollections": [ ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "validateEntity": "doNotValidate",
+  "targetFormat": "JSON",
+  "attachSourceDocument": false,
+  "name": "PractitionerMapping",
+  "targetEntityType": "http://example.org/Practitioner-1.0.0/Practitioner",
+  "description": "Provider to Practitioner Mapping",
+  "collection": "Provider",
+  "selectedSource": "collection",
+  "sourceQuery": "cts.collectionQuery(['Provider'])",
+  "targetDatabase": "data-hub-FINAL",
+  "headers": { },
+  "interceptors": [ ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "sourceDatabase": "data-hub-STAGING",
+  "stepDefinitionName": "entity-services-mapping",
+  "stepDefinitionType": "mapping",
+  "stepId": "PractitionerMapping-mapping",
+  "acceptsBatch": true,
+  "lastUpdated": "2021-07-22T11:11:29.567455-04:00",
+  "uriExpression": "concat(\"/provider/practitioner/\", Id, \".json\")",
+  "properties": {
+    "id": {
+      "sourcedFrom": "Id/normalize-space()"
+    },
+    "identifier__NPI": {
+      "sourcedFrom": "NPI/normalize-space()"
+    },
+    "address": {
+      "sourcedFrom": ".",
+      "properties": {
+        "text": {
+          "sourcedFrom": "ADDRESS/normalize-space()"
+        },
+        "line": {
+          "sourcedFrom": "ADDRESS/normalize-space()"
+        },
+        "city": {
+          "sourcedFrom": "CITY/normalize-space()"
+        },
+        "state": {
+          "sourcedFrom": "STATE/normalize-space()"
+        },
+        "postalCode": {
+          "sourcedFrom": "ZIP/normalize-space()"
+        },
+        "period": {
+          "sourcedFrom": ""
+        }
+      },
+      "targetEntityType": "#/definitions/Address"
+    },
+    "gender": {
+      "sourcedFrom": "memoryLookup(GENDER,'{\"M\":\"male\", \"F\":\"female\"}')"
+    },
+    "name": {
+      "sourcedFrom": ".",
+      "properties": {
+        "family": {
+          "sourcedFrom": "tokenize(NAME, \" \")[last()]"
+        },
+        "text": {
+          "sourcedFrom": "NAME"
+        },
+        "given": {
+          "sourcedFrom": "tokenize(NAME, \" \")[1 to last() - 1]"
+        }
+      },
+      "targetEntityType": "#/definitions/HumanName"
+    },
+    "language": {
+      "sourcedFrom": "\"en-US\""
+    },
+    "active": {
+      "sourcedFrom": "true()"
+    }
+  }
+  
+}

@@ -1,0 +1,20 @@
+Sancho Altamirano
+=================
+Race:                Other
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          2004-05-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+9 | 9 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:13:0, Body Aches:27:0, Runny/Stuffy Nose:33:0, Fatigue:48:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:1:0, Decreased Appetite:21:0, Cough:12:0, Sore Throat:47:0, Fever:0:0
+11 | 11 | Acute bacterial sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:17:0, Pain with Bright Lights:30:0, Facial Swelling:31:0, Nasal Discharge:18:0, Nasal Congestion:21:0, Cough:18:0, Sore Throat:39:0, Fever:4:0
+11 | 11 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:22:0, Body Aches:17:0, Runny/Stuffy Nose:16:0, Fatigue:8:0, Swollen Lymph Nodes:43:0, Swollen Tonsils:55:0, Decreased Appetite:22:0, Cough:0:0, Sore Throat:31:0, Fever:13:0
+15 | 16 | Risk activity involvement (finding) | 0 | 
+15 |  | Fever (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+15 |  | Sputum finding (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+15 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+15 |  | Cough (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+15 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+15 | 15 | Suspected COVID-19 | 0 | 
+15 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

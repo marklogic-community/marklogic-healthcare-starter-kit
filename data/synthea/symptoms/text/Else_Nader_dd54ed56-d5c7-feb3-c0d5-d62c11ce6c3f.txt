@@ -1,0 +1,88 @@
+Else Nader
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1944-08-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 |  | Prediabetes | 0 | 
+67 |  | Refugee (person) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 69 | Part-time employment (finding) | 0 | 
+68 |  | Refugee (person) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 | 69 | Stress (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 | 70 | Part-time employment (finding) | 0 | 
+69 |  | Refugee (person) | 0 | 
+69 |  | Limited social contact (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Refugee (person) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 72 | Stress (finding) | 0 | 
+70 |  | Social isolation (finding) | 0 | 
+70 | 70 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:28:0, Body Aches:39:0, Runny/Stuffy Nose:43:0, Fatigue:14:0, Swollen Lymph Nodes:42:0, Swollen Tonsils:27:0, Decreased Appetite:44:0, Sore Throat:48:0, Cough:47:0, Fever:13:0
+70 |  | Prediabetes | 0 | 
+70 |  | Refugee (person) | 0 | 
+70 | 71 | Limited social contact (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Refugee (person) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 | 73 | Part-time employment (finding) | 0 | 
+72 |  | Refugee (person) | 0 | 
+72 |  | Limited social contact (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Refugee (person) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+73 | 74 | Social isolation (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Refugee (person) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Hyperlipidemia | 1 | weight gain:1
+75 | 75 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:21:0, Runny/Stuffy Nose:34:0, Fatigue:38:0, Swollen Lymph Nodes:26:0, Swollen Tonsils:2:0, Decreased Appetite:32:0, Sore Throat:22:0, Cough:48:0, Fever:25:0
+75 |  | Prediabetes | 0 | 
+75 |  | Refugee (person) | 0 | 
+75 | 76 | Limited social contact (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 | 76 | Severe anxiety (panic) (finding | 0 | 
+75 |  | Dyspnea (finding) | 4 | fever:1, dyspnea:1, sputum production:1, cough:1
+75 |  | Fever (finding) | 4 | fever:1, dyspnea:1, sputum production:1, cough:1
+75 |  | Sputum finding (finding) | 4 | fever:1, dyspnea:1, sputum production:1, cough:1
+75 |  | Wheezing (finding) | 4 | fever:1, dyspnea:1, sputum production:1, cough:1
+75 |  | Cough (finding) | 4 | fever:1, dyspnea:1, sputum production:1, cough:1
+75 | 75 | Suspected COVID-19 | 0 | 
+75 |  | COVID-19 | 0 | 
+76 | 76 | Viral sinusitis (disorder) | 9 | Headache:20:0, Sinus Pain:69:0, Pain with Bright Lights:43:0, Facial Swelling:43:0, Nasal Discharge:34:0, Nasal Congestion:15:0, Sore Throat:39:0, Cough:0:0, Fever:12:0
+76 |  | Prediabetes | 0 | 
+76 |  | Refugee (person) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

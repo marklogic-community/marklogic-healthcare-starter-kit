@@ -1,0 +1,69 @@
+Karl Pagac
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1971-07-09
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 |  | Only received primary school education (finding) | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Transport problems (finding) | 0 | 
+40 | 40 | Viral sinusitis (disorder) | 9 | Sinus Pain:66:0, Headache:2:0, Pain with Bright Lights:45:0, Facial Swelling:27:0, Nasal Discharge:25:0, Nasal Congestion:9:0, Sore Throat:23:0, Fever:12:0, Cough:37:0
+41 |  | Lack of access to transportation (finding) | 0 | 
+41 |  | Only received primary school education (finding) | 0 | 
+41 |  | Has a criminal record (finding) | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+42 | 43 | Part-time employment (finding) | 0 | 
+42 |  | Has a criminal record (finding) | 0 | 
+42 |  | Transport problems (finding) | 0 | 
+42 | 49 | Severe anxiety (panic) (finding | 0 | 
+43 |  | Lack of access to transportation (finding) | 0 | 
+43 |  | Only received primary school education (finding) | 0 | 
+43 |  | Has a criminal record (finding) | 0 | 
+43 | 44 | Full-time employment (finding) | 0 | 
+44 |  | Only received primary school education (finding) | 0 | 
+44 |  | Has a criminal record (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Transport problems (finding) | 0 | 
+44 | 45 | Stress (finding) | 0 | 
+45 |  | Only received primary school education (finding) | 0 | 
+45 |  | Has a criminal record (finding) | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Transport problems (finding) | 0 | 
+46 | 46 | Normal pregnancy | 0 | 
+46 |  | Miscarriage in first trimester | 0 | 
+46 | 46 | Blighted ovum | 0 | 
+46 | 49 | Victim of intimate partner abuse (finding) | 0 | 
+46 |  | Only received primary school education (finding) | 0 | 
+46 | 47 | Part-time employment (finding) | 0 | 
+46 | 49 | Limited social contact (finding) | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 |  | Transport problems (finding) | 0 | 
+46 | 47 | Stress (finding) | 0 | 
+47 | 47 | Laceration of forearm | 0 | 
+47 |  | Lack of access to transportation (finding) | 0 | 
+47 |  | Only received primary school education (finding) | 0 | 
+47 | 48 | Part-time employment (finding) | 0 | 
+47 |  | Has a criminal record (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 | 49 | Not in labor force (finding) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 | 49 | Reports of violence in the environment (finding) | 0 | 
+48 |  | Transport problems (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 |  | Chill (finding) | 6 | hemoptysis:1, chills:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+48 |  | Fever (finding) | 6 | hemoptysis:1, chills:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+48 |  | Sore throat symptom (finding) | 6 | hemoptysis:1, chills:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+48 |  | Cough (finding) | 6 | hemoptysis:1, chills:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+48 |  | Hemoptysis (finding) | 6 | hemoptysis:1, chills:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+48 |  | Loss of taste (finding) | 6 | hemoptysis:1, chills:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+48 | 48 | Suspected COVID-19 | 0 | 
+48 |  | COVID-19 | 0 | 
+49 | 49 | Facial laceration | 0 | 
+49 |  | Only received primary school education (finding) | 0 | 
+49 |  | Has a criminal record (finding) | 0 | 
+49 |  | Full-time employment (finding) | 0 | 
+49 |  | Transport problems (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,47 @@
+Solange Parisian
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1966-09-04
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 |  | Unemployed (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 |  | Hyperlipidemia | 1 | weight gain:1
+48 |  | Body mass index 30+ - obesity (finding) | 0 | 
+48 |  | Unemployed (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 | 50 | Stress (finding) | 0 | 
+48 | 48 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:39:0, Body Aches:3:0, Runny/Stuffy Nose:8:0, Fatigue:36:0, Swollen Lymph Nodes:15:0, Swollen Tonsils:25:0, Decreased Appetite:0:0, Sore Throat:16:0, Fever:11:0, Cough:31:0
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 | 50 | Normal pregnancy | 0 | 
+50 |  | Unemployed (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 53 | Social isolation (finding) | 0 | 
+50 |  | Miscarriage in first trimester | 0 | 
+50 | 50 | Blighted ovum | 0 | 
+51 |  | Body mass index 30+ - obesity (finding) | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 | 51 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:13:0, Fatigue:30:0, Mucus:33:0, Nasal Congestion:37:0, Shortness of Breath:63:0, Nausea/Vomiting:18:0, Sore Throat:33:0, Fever:32:0, Cough:66:0
+51 |  | Body mass index 30+ - obesity (finding) | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Body mass index 30+ - obesity (finding) | 0 | 
+52 |  | Unemployed (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Anemia (disorder) | 0 | 
+53 |  | Unemployed (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Unemployed (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Social isolation (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+María del Carmen Garay
+===í==================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          2017-09-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 |  | Chill (finding) | 3 | fatigue:1, chills:1, fever:1
+2 |  | Fever (finding) | 3 | fatigue:1, chills:1, fever:1
+2 |  | Fatigue (finding) | 3 | fatigue:1, chills:1, fever:1
+2 | 2 | Suspected COVID-19 | 0 | 
+2 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

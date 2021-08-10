@@ -1,0 +1,66 @@
+Tim Borer
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1946-11-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+64 |  | Body mass index 30+ - obesity (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received certificate of high school equivalency (finding) | 0 | 
+64 | 66 | Stress (finding) | 0 | 
+65 |  | Body mass index 30+ - obesity (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 | 66 | Injury of tendon of the rotator cuff of shoulder | 0 | 
+66 | 66 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:33:0, Body Aches:29:0, Runny/Stuffy Nose:3:0, Fatigue:26:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:21:0, Decreased Appetite:40:0, Sore Throat:35:0, Cough:40:0, Fever:28:0
+66 |  | Body mass index 30+ - obesity (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Victim of intimate partner abuse (finding) | 0 | 
+67 |  | Body mass index 30+ - obesity (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 | 68 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:46:0, Body Aches:0:0, Runny/Stuffy Nose:22:0, Fatigue:0:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:10:0, Decreased Appetite:7:0, Sore Throat:0:0, Cough:28:0, Fever:42:0
+68 | 68 | Sprain of ankle | 0 | 
+68 |  | Body mass index 30+ - obesity (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 | 70 | Stress (finding) | 0 | 
+69 |  | Body mass index 30+ - obesity (finding) | 0 | 
+69 | 70 | Part-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 | 70 | Sinusitis (disorder) | 9 | Headache:22:0, Sinus Pain:49:124:96:0, Pain with Bright Lights:42:0, Facial Swelling:23:0, Nasal Discharge:49:0, Nasal Congestion:6:0, Sore Throat:1:0, Cough:40:0, Fever:8:0
+70 |  | Chronic sinusitis (disorder) | 9 | Headache:0, Sinus Pain:124:96:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Sore Throat:0, Cough:0, Fever:0
+70 |  | Body mass index 30+ - obesity (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Body mass index 30+ - obesity (finding) | 0 | 
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 | 71 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:7:0, Fatigue:48:0, Mucus:44:0, Nasal Congestion:44:0, Shortness of Breath:50:0, Nausea/Vomiting:24:0, Sore Throat:46:0, Cough:59:0, Fever:42:0
+71 |  | Alzheimer's disease (disorder) | 0 | 
+71 |  | Body mass index 30+ - obesity (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 | 73 | Stress (finding) | 0 | 
+71 |  | Body mass index 30+ - obesity (finding) | 0 | 
+71 | 73 | Full-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Body mass index 30+ - obesity (finding) | 0 | 
+73 | 74 | Not in labor force (finding) | 0 | 
+73 |  | Victim of intimate partner abuse (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Fever (finding) | 2 | fever:1, cough:1
+73 |  | Cough (finding) | 2 | fever:1, cough:1
+73 | 73 | Suspected COVID-19 | 0 | 
+73 |  | COVID-19 | 0 | 
+74 |  | Full-time employment (finding) | 0 | 
+74 |  | Victim of intimate partner abuse (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+--------------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+Walton Braun
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2013-10-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:11:0, Body Aches:3:0, Runny/Stuffy Nose:19:0, Fatigue:46:0, Swollen Lymph Nodes:48:0, Swollen Tonsils:44:0, Decreased Appetite:46:0, Sore Throat:11:0, Fever:33:0, Cough:0:0
+0 | 0 | Acute bronchitis (disorder) | 10 | Body Aches:9:0, Diarrhea:1:0, Fatigue:37:0, Mucus:32:0, Nasal Congestion:27:0, Shortness of Breath:61:0, Nausea/Vomiting:16:0, Sore Throat:32:0, Fever:39:0, Cough:66:0
+2 | 2 | Otitis media | 0 | 
+2 | 3 | Viral sinusitis (disorder) | 9 | Headache:47:0, Sinus Pain:59:0, Pain with Bright Lights:27:0, Facial Swelling:11:0, Nasal Discharge:39:0, Nasal Congestion:8:0, Sore Throat:43:0, Fever:5:0, Cough:1:0
+3 |  | Perennial allergic rhinitis | 5 | Nasal Discharge:23, Ear Pressure:15, Nasal Congestion:16, Sneezing Fits:1, Itching:19
+6 | 6 | Viral sinusitis (disorder) | 9 | Headache:7:0, Sinus Pain:68:0, Pain with Bright Lights:42:0, Facial Swelling:31:0, Nasal Discharge:3:0, Nasal Congestion:18:0, Sore Throat:17:0, Fever:7:0, Cough:5:0
+6 |  | Muscle pain (finding) | 6 | myalgia:1, chills:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+6 |  | Chill (finding) | 6 | myalgia:1, chills:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+6 |  | Fever (finding) | 6 | myalgia:1, chills:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+6 |  | Joint pain (finding) | 6 | myalgia:1, chills:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+6 |  | Cough (finding) | 6 | myalgia:1, chills:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+6 |  | Loss of taste (finding) | 6 | myalgia:1, chills:1, arthralgia:1, fever:1, loss_of_taste:1, cough:1
+6 | 6 | Suspected COVID-19 | 0 | 
+6 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

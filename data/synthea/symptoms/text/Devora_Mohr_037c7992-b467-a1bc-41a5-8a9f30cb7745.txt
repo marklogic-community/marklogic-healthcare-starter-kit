@@ -1,0 +1,37 @@
+Devora Mohr
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1998-06-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+14 | 14 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:13:0, Fatigue:68:0, Mucus:35:0, Nasal Congestion:27:0, Shortness of Breath:65:0, Nausea/Vomiting:16:0, Sore Throat:43:0, Cough:55:0, Fever:45:0
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Transport problems (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+19 | 19 | Not in labor force (finding) | 0 | 
+19 |  | Transport problems (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 |  | Social isolation (finding) | 0 | 
+19 | 19 | Fracture of forearm | 0 | 
+19 | 19 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:11:0, Fatigue:44:0, Mucus:35:0, Nasal Congestion:26:0, Shortness of Breath:72:0, Nausea/Vomiting:22:0, Sore Throat:34:0, Cough:27:0, Fever:48:0
+19 | 22 | Limited social contact (finding) | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Transport problems (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+21 | 21 | Normal pregnancy | 0 | 
+21 |  | Sputum finding (finding) | 4 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1
+21 |  | Fatigue (finding) | 4 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1
+21 |  | Cough (finding) | 4 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1
+21 |  | Loss of taste (finding) | 4 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1
+21 | 21 | Suspected COVID-19 | 0 | 
+21 |  | COVID-19 | 0 | 
+22 |  | Full-time employment (finding) | 0 | 
+22 |  | Lack of access to transportation (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

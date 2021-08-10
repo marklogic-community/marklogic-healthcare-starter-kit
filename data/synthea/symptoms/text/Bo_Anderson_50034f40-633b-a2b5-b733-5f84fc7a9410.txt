@@ -1,0 +1,38 @@
+Bo Anderson
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1977-07-09
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 | 42 | Limited social contact (finding) | 0 | 
+34 | 36 | Full-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 | 36 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:4:0, Fatigue:62:0, Mucus:25:0, Nasal Congestion:25:0, Shortness of Breath:62:0, Nausea/Vomiting:15:0, Cough:68:0, Sore Throat:42:0, Fever:32:0
+36 | 37 | Part-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+37 | 40 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 | 40 | Stress (finding) | 0 | 
+40 |  | Prediabetes | 0 | 
+40 |  | Anemia (disorder) | 0 | 
+40 | 40 | Part-time employment (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 | 40 | Acute bronchitis (disorder) | 10 | Body Aches:12:0, Diarrhea:8:0, Fatigue:47:0, Mucus:42:0, Nasal Congestion:49:0, Shortness of Breath:46:0, Nausea/Vomiting:10:0, Cough:47:0, Sore Throat:47:0, Fever:36:0
+40 |  | Prediabetes | 0 | 
+40 | 42 | Not in labor force (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 |  | Prediabetes | 0 | 
+42 |  | Full-time employment (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+42 |  | Fever (finding) | 3 | sore throat:1, fever:1, cough:1
+42 |  | Sore throat symptom (finding) | 3 | sore throat:1, fever:1, cough:1
+42 |  | Cough (finding) | 3 | sore throat:1, fever:1, cough:1
+42 | 42 | Suspected COVID-19 | 0 | 
+42 |  | COVID-19 | 0 | 
+43 | 43 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:45:0, Pain with Bright Lights:25:0, Facial Swelling:7:0, Nasal Discharge:34:0, Nasal Congestion:3:0, Cough:20:0, Sore Throat:22:0, Fever:9:0
+--------------------------------------------------------------------------------

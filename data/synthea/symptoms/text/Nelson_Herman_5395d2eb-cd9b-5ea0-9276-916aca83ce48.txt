@@ -1,0 +1,31 @@
+Nelson Herman
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1997-05-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+14 | 14 | Laceration of foot | 0 | 
+15 | 16 | Viral sinusitis (disorder) | 9 | Headache:45:0, Sinus Pain:56:0, Pain with Bright Lights:37:0, Facial Swelling:12:0, Nasal Discharge:49:0, Nasal Congestion:18:0, Sore Throat:36:0, Fever:13:0, Cough:39:0
+16 |  | Risk activity involvement (finding) | 0 | 
+16 | 17 | Risk activity involvement (finding) | 0 | 
+17 | 17 | Laceration of forearm | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Social isolation (finding) | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 | 22 | Social isolation (finding) | 0 | 
+19 | 22 | Stress (finding) | 0 | 
+20 | 20 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:20:0, Body Aches:27:0, Runny/Stuffy Nose:28:0, Fatigue:11:0, Swollen Lymph Nodes:64:0, Swollen Tonsils:59:0, Decreased Appetite:27:0, Sore Throat:12:0, Fever:33:0, Cough:0:0
+22 |  | Part-time employment (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 |  | Muscle pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+22 |  | Fever (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+22 |  | Fatigue (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+22 |  | Joint pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+22 |  | Loss of taste (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+22 | 22 | Suspected COVID-19 | 0 | 
+22 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

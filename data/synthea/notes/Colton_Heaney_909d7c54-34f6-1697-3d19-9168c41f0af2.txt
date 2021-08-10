@@ -1,0 +1,780 @@
+
+2021-03-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 9 year-old non-hispanic white male. Patient has a history of covid-19, dyspnea (finding), acute bronchitis (disorder), fever (finding), fatigue (finding), wheezing (finding), acute viral pharyngitis (disorder), cough (finding), viral sinusitis (disorder), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2020-05-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 8 year-old non-hispanic white male. Patient has a history of covid-19, dyspnea (finding), acute bronchitis (disorder), fever (finding), fatigue (finding), wheezing (finding), acute viral pharyngitis (disorder), cough (finding), viral sinusitis (disorder), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2020-05-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 8 year-old non-hispanic white male. Patient has a history of covid-19, dyspnea (finding), fever (finding), fatigue (finding), wheezing (finding), acute viral pharyngitis (disorder), cough (finding), viral sinusitis (disorder), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- sputum examination (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2020-03-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 7 year-old non-hispanic white male. Patient has a history of covid-19, dyspnea (finding), fever (finding), fatigue (finding), wheezing (finding), acute viral pharyngitis (disorder), cough (finding), viral sinusitis (disorder), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2020-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 7 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fatigue (finding), dyspnea (finding), wheezing (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-03-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 6 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2018-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 5 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2018-02-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 5 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2018-02-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 5 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2017-07-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 5 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- throat culture (procedure)
+
+
+
+2017-03-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 4 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: varicella, ipv, influenza, seasonal, injectable, preservative free, dtap, mmr. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2016-02-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 3 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2015-08-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 3 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2015-02-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 2 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2014-08-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 2 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep a, ped/adol, 2 dose. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2014-02-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 1 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2013-08-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 1 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: dtap. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2013-05-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 1 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), varicella, mmr, pneumococcal conjugate pcv 13, hep a, ped/adol, 2 dose. 
+
+
+
+2013-02-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 11 month-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2012-11-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 8 month-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: ipv, influenza, seasonal, injectable, preservative free, dtap, pneumococcal conjugate pcv 13, hep b, adolescent or pediatric. 
+
+
+
+2012-08-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 5 month-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2012-06-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 3 month-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2012-04-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a 1 month-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+
+
+
+2012-03-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Colton
+ is a newborn non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has unknown insurance coverage.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+

@@ -1,0 +1,80 @@
+Janessa Waelchi
+===============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 |  | Prediabetes | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Transport problems (finding) | 0 | 
+67 | 68 | Polyp of colon | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Served in armed forces (finding) | 0 | 
+68 | 76 | Victim of intimate partner abuse (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Transport problems (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 |  | Served in armed forces (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Transport problems (finding) | 0 | 
+69 | 70 | Stress (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Served in armed forces (finding) | 0 | 
+70 |  | Lack of access to transportation (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Served in armed forces (finding) | 0 | 
+71 |  | Lack of access to transportation (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Served in armed forces (finding) | 0 | 
+72 |  | Lack of access to transportation (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+72 | 72 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:9:0, Body Aches:44:0, Runny/Stuffy Nose:0:0, Fatigue:33:0, Swollen Lymph Nodes:35:0, Swollen Tonsils:37:0, Decreased Appetite:21:0, Sore Throat:29:0, Cough:31:0, Fever:1:0
+73 |  | Prediabetes | 0 | 
+73 |  | Served in armed forces (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 74 | Part-time employment (finding) | 0 | 
+73 | 76 | Reports of violence in the environment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Transport problems (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Served in armed forces (finding) | 0 | 
+74 |  | Lack of access to transportation (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 | 76 | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Transport problems (finding) | 0 | 
+76 |  | Alzheimer's disease (disorder) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Served in armed forces (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Not in labor force (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Transport problems (finding) | 0 | 
+76 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

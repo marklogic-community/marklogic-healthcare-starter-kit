@@ -1,0 +1,542 @@
+
+2021-05-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 4 year-old non-hispanic native male. Patient has a history of concussion with no loss of consciousness, acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2021-04-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 4 year-old non-hispanic native male. Patient has a history of acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with concussion with no loss of consciousness. 
+
+## Plan
+
+The patient was placed on a careplan:
+- head injury rehabilitation
+
+
+
+2020-07-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 3 year-old non-hispanic native male. Patient has a history of acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2020-01-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 3 year-old non-hispanic native male. Patient has a history of acute viral pharyngitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2019-12-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 3 year-old non-hispanic native male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2019-07-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 2 year-old non-hispanic native male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2019-01-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 2 year-old non-hispanic native male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep a, ped/adol, 2 dose. 
+
+
+
+2018-07-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 1 year-old non-hispanic native male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2018-01-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 1 year-old non-hispanic native male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+
+
+
+2018-01-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 1 year-old non-hispanic native male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: dtap. 
+
+
+
+2017-10-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 1 year-old non-hispanic native male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), varicella, mmr, pneumococcal conjugate pcv 13, hep a, ped/adol, 2 dose. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-07-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 11 month-old non-hispanic native male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-04-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 8 month-old non-hispanic native male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: ipv, influenza, seasonal, injectable, preservative free, dtap, pneumococcal conjugate pcv 13, hep b, adolescent or pediatric. 
+
+
+
+2017-01-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 5 month-old non-hispanic native male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+
+
+
+2016-11-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 3 month-old non-hispanic native male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+
+
+
+2016-09-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a 1 month-old non-hispanic native male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2016-08-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Gus
+ is a newborn non-hispanic native male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has unknown insurance coverage.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+
+
+

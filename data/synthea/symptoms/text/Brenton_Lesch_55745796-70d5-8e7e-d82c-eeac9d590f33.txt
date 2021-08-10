@@ -1,0 +1,68 @@
+Brenton Lesch
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1934-08-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+72 | 73 | Part-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+72 | 72 | Viral sinusitis (disorder) | 9 | Headache:1:0, Sinus Pain:54:0, Pain with Bright Lights:34:0, Facial Swelling:45:0, Nasal Discharge:17:0, Nasal Congestion:23:0, Sore Throat:36:0, Cough:29:0, Fever:21:0
+73 | 73 | Viral sinusitis (disorder) | 9 | Headache:39:0, Sinus Pain:68:0, Pain with Bright Lights:26:0, Facial Swelling:12:0, Nasal Discharge:46:0, Nasal Congestion:0:0, Sore Throat:11:0, Cough:25:0, Fever:20:0
+73 | 74 | Part-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Victim of intimate partner abuse (finding) | 0 | 
+73 | 73 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:12:0, Fatigue:31:0, Mucus:37:0, Nasal Congestion:26:0, Shortness of Breath:66:0, Nausea/Vomiting:13:0, Sore Throat:46:0, Cough:62:0, Fever:44:0
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 |  | Body mass index 30+ - obesity (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 | 76 | Stress (finding) | 0 | 
+76 |  | Body mass index 30+ - obesity (finding) | 0 | 
+76 | 77 | Not in labor force (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+77 |  | Body mass index 30+ - obesity (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+78 | 78 | Viral sinusitis (disorder) | 9 | Headache:1:0, Sinus Pain:67:0, Pain with Bright Lights:39:0, Facial Swelling:48:0, Nasal Discharge:48:0, Nasal Congestion:6:0, Sore Throat:17:0, Cough:27:0, Fever:11:0
+78 |  | Body mass index 30+ - obesity (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 |  | Chronic low back pain (finding) | 0 | 
+79 |  | Chronic neck pain (finding) | 0 | 
+79 |  | Body mass index 30+ - obesity (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 | 80 | Victim of intimate partner abuse (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Chronic low back pain (finding) | 0 | 
+79 |  | Chronic neck pain (finding) | 0 | 
+79 |  | Chronic low back pain (finding) | 0 | 
+79 |  | Chronic neck pain (finding) | 0 | 
+80 |  | Chronic low back pain (finding) | 0 | 
+80 |  | Chronic neck pain (finding) | 0 | 
+80 |  | Chronic low back pain (finding) | 0 | 
+80 |  | Chronic neck pain (finding) | 0 | 
+80 |  | Chronic low back pain (finding) | 0 | 
+80 |  | Chronic neck pain (finding) | 0 | 
+80 |  | Body mass index 30+ - obesity (finding) | 0 | 
+80 |  | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+80 |  | Chronic low back pain (finding) | 0 | 
+80 |  | Chronic neck pain (finding) | 0 | 
+80 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+80 |  | Chronic low back pain (finding) | 0 | 
+80 |  | Chronic neck pain (finding) | 0 | 
+80 |  | Chronic low back pain (finding) | 0 | 
+80 |  | Chronic neck pain (finding) | 0 | 
+--------------------------------------------------------------------------------

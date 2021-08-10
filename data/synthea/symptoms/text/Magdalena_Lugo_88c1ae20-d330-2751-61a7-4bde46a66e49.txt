@@ -1,0 +1,78 @@
+Magdalena Lugo
+==============
+Race:                Asian
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1961-09-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Prediabetes | 0 | 
+50 |  | Refugee (person) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Refugee (person) | 0 | 
+51 | 53 | Limited social contact (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 |  | Refugee (person) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 | 52 | Acute bronchitis (disorder) | 10 | Body Aches:6:0, Diarrhea:3:0, Fatigue:32:0, Mucus:27:0, Nasal Congestion:29:0, Shortness of Breath:48:0, Nausea/Vomiting:3:0, Sore Throat:32:0, Cough:72:0, Fever:33:0
+52 |  | Chronic low back pain (finding) | 0 | 
+52 |  | Chronic neck pain (finding) | 0 | 
+52 |  | Chronic low back pain (finding) | 0 | 
+52 |  | Chronic neck pain (finding) | 0 | 
+52 |  | Chronic low back pain (finding) | 0 | 
+52 |  | Chronic neck pain (finding) | 0 | 
+52 |  | Chronic low back pain (finding) | 0 | 
+52 |  | Chronic neck pain (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Refugee (person) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+53 |  | Chronic low back pain (finding) | 0 | 
+53 |  | Chronic neck pain (finding) | 0 | 
+53 |  | Chronic low back pain (finding) | 0 | 
+53 |  | Chronic neck pain (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Refugee (person) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 57 | Social isolation (finding) | 0 | 
+54 | 54 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:22:0, Runny/Stuffy Nose:8:0, Fatigue:33:0, Swollen Lymph Nodes:15:0, Swollen Tonsils:11:0, Decreased Appetite:24:0, Sore Throat:19:0, Cough:2:0, Fever:19:0
+55 |  | Prediabetes | 0 | 
+55 |  | Refugee (person) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 | 59 | Victim of intimate partner abuse (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 57 | Stress (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Refugee (person) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+57 | 57 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:2:0, Fatigue:45:0, Mucus:40:0, Nasal Congestion:37:0, Shortness of Breath:28:0, Nausea/Vomiting:7:0, Sore Throat:41:0, Cough:46:0, Fever:36:0
+57 |  | Prediabetes | 0 | 
+57 | 57 | Part-time employment (finding) | 0 | 
+57 |  | Refugee (person) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Refugee (person) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 |  | Refugee (person) | 0 | 
+58 | 59 | Limited social contact (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 |  | Refugee (person) | 0 | 
+59 |  | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

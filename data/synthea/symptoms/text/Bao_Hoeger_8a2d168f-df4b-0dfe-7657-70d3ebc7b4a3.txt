@@ -1,0 +1,49 @@
+Bao Hoeger
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1917-06-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+72 |  | Prediabetes | 0 | 
+72 |  | Unemployed (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Unemployed (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Unemployed (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 76 | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Unemployed (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 | 81 | Victim of intimate partner abuse (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 | 78 | Stress (finding) | 0 | 
+77 |  | Victim of intimate partner abuse (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 |  | Unemployed (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Osteoporosis (disorder) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 | 81 | Stress (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 |  | Limited social contact (finding) | 0 | 
+81 |  | Unemployed (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

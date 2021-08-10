@@ -1,0 +1,25 @@
+Neil Littel
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1991-10-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+22 | 23 | Not in labor force (finding) | 0 | 
+22 | 28 | Limited social contact (finding) | 0 | 
+22 |  | Transport problems (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 | 23 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:9:0, Fatigue:45:0, Mucus:48:0, Nasal Congestion:35:0, Shortness of Breath:70:0, Nausea/Vomiting:5:0, Cough:70:0, Sore Throat:39:0, Fever:45:0
+23 | 25 | Full-time employment (finding) | 0 | 
+23 |  | Lack of access to transportation (finding) | 0 | 
+23 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 | 23 | Sprain of wrist | 0 | 
+25 | 28 | Part-time employment (finding) | 0 | 
+25 |  | Lack of access to transportation (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 | 28 | Stress (finding) | 0 | 
+28 |  | Not in labor force (finding) | 0 | 
+28 |  | Transport problems (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

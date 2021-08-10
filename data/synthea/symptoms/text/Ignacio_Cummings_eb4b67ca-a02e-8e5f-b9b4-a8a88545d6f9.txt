@@ -1,0 +1,56 @@
+Ignacio Cummings
+================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1955-08-27
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+58 | 59 | Part-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 | 60 | Stress (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+60 | 61 | Polyp of colon | 0 | 
+60 |  | Body mass index 30+ - obesity (finding) | 0 | 
+60 | 65 | Limited social contact (finding) | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 | 60 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:21:0, Body Aches:36:0, Runny/Stuffy Nose:28:0, Fatigue:28:0, Swollen Lymph Nodes:34:0, Swollen Tonsils:45:0, Decreased Appetite:23:0, Sore Throat:48:0, Cough:34:0, Fever:24:0
+60 | 61 | Not in labor force (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+61 | 61 | Concussion with no loss of consciousness | 0 | 
+61 | 62 | Part-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 | 62 | Stress (finding) | 0 | 
+62 | 63 | Part-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 | 65 | Part-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+64 |  | Vomiting symptom (finding) | 6 | chills:1, fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+64 |  | Chill (finding) | 6 | chills:1, fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+64 |  | Fever (finding) | 6 | chills:1, fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+64 |  | Cough (finding) | 6 | chills:1, fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+64 |  | Nausea (finding) | 6 | chills:1, fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+64 |  | Loss of taste (finding) | 6 | chills:1, fever:1, loss_of_taste:1, cough:1, vomiting:1, nausea:1
+64 | 64 | Suspected COVID-19 | 0 | 
+64 |  | COVID-19 | 0 | 
+64 |  | Acute respiratory failure (disorder) | 0 | 
+64 |  | Respiratory distress (finding) | 0 | 
+64 |  | Sepsis caused by virus (disorder) | 0 | 
+64 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+64 |  | Pneumonia (disorder) | 0 | 
+64 |  | Hypoxemia (disorder) | 0 | 
+64 |  | Acute pulmonary embolism (disorder) | 0 | 
+65 |  | Not in labor force (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

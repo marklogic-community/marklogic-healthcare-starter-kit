@@ -1,0 +1,497 @@
+
+2020-12-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 14 year-old non-hispanic white male. Patient has a history of covid-19, fever (finding), acute viral pharyngitis (disorder), cough (finding), fracture of clavicle, viral sinusitis (disorder), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2020-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 13 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), fracture of clavicle, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-12-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 13 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), fracture of clavicle, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+
+
+
+2019-03-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 12 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), fracture of clavicle.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2018-12-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 12 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), fracture of clavicle.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- depression screening (procedure)
+- medication reconciliation (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2018-03-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 11 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), fracture of clavicle.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2017-12-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 11 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), fracture of clavicle.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-11-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 11 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with fracture of clavicle. 
+
+## Plan
+
+The following procedures were conducted:
+- clavicle x-ray
+- admission to orthopedic department
+The patient was prescribed the following medications:
+- ibuprofen 100 mg oral tablet
+The patient was placed on a careplan:
+- fracture care
+
+
+
+2016-11-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 10 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2015-11-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 9 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2015-08-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 8 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- throat culture (procedure)
+
+
+
+2014-11-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 7 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2013-11-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 6 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2012-11-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 5 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2011-10-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jimmie
+ is a 4 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: varicella, ipv, influenza, seasonal, injectable, preservative free, dtap, mmr. 
+
+
+

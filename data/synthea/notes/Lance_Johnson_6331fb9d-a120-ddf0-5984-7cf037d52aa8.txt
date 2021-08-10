@@ -1,0 +1,477 @@
+
+2020-07-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 32 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), fatigue (finding), respiratory distress (finding), sepsis caused by virus (disorder), viral sinusitis (disorder), suspected covid-19, pneumonia (disorder), covid-19, part-time employment (finding), acute bronchitis (disorder), fever (finding), limited social contact (finding), full-time employment (finding), cough (finding), acute deep venous thrombosis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; penicillin v potassium 500 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2020-07-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 32 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), fatigue (finding), respiratory distress (finding), sepsis caused by virus (disorder), viral sinusitis (disorder), suspected covid-19, pneumonia (disorder), covid-19, part-time employment (finding), fever (finding), limited social contact (finding), full-time employment (finding), cough (finding), acute deep venous thrombosis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- measurement of respiratory function (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2020-03-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 32 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with pneumonia (disorder), hypoxemia (disorder), respiratory distress (finding), sepsis caused by virus (disorder), acute deep venous thrombosis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- plain chest x-ray (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+The patient was prescribed the following medications:
+- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe
+- acetaminophen 500 mg oral tablet
+- 1 ml enoxaparin sodium 150 mg/ml prefilled syringe
+
+
+
+2020-03-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 32 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fatigue (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+
+
+
+2019-04-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 31 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2017-11-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 29 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2016-04-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 28 year-old non-hispanic black male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 500 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding), unhealthy alcohol drinking behavior (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2015-06-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 27 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with streptococcal sore throat (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- penicillin v potassium 500 mg oral tablet
+
+
+
+2013-04-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 25 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2010-05-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 22 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2010-04-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 22 year-old non-hispanic black male. Patient has a history of part-time employment (finding), limited social contact (finding), full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with has a criminal record (finding). 
+
+## Plan
+
+
+
+
+2007-04-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 19 year-old non-hispanic black male. Patient has a history of full-time employment (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), limited social contact (finding). 
+
+## Plan
+
+
+
+
+2006-04-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Lance
+ is a 18 year-old non-hispanic black male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding), full-time employment (finding), stress (finding). 
+
+## Plan
+
+
+
+

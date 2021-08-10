@@ -1,0 +1,19 @@
+Roslyn Renner
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2011-04-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Otitis media | 0 | 
+4 | 4 | Otitis media | 0 | 
+5 | 5 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:27:0, Body Aches:49:0, Runny/Stuffy Nose:13:0, Fatigue:47:0, Swollen Lymph Nodes:36:0, Swollen Tonsils:18:0, Decreased Appetite:14:0, Cough:18:0, Sore Throat:37:0, Fever:30:0
+5 | 5 | Sprain of wrist | 0 | 
+7 | 7 | Acute bronchitis (disorder) | 10 | Body Aches:1:0, Diarrhea:22:0, Fatigue:50:0, Mucus:41:0, Nasal Congestion:48:0, Shortness of Breath:30:0, Nausea/Vomiting:21:0, Cough:56:0, Sore Throat:26:0, Fever:34:0
+8 | 8 | Acute bronchitis (disorder) | 10 | Body Aches:16:0, Diarrhea:14:0, Fatigue:36:0, Mucus:36:0, Nasal Congestion:36:0, Shortness of Breath:33:0, Nausea/Vomiting:16:0, Cough:26:0, Sore Throat:45:0, Fever:48:0
+8 |  | Fever (finding) | 2 | fever:1, cough:1
+8 |  | Cough (finding) | 2 | fever:1, cough:1
+8 | 8 | Suspected COVID-19 | 0 | 
+8 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

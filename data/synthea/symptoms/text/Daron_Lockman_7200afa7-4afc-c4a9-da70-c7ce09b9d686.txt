@@ -1,0 +1,39 @@
+Daron Lockman
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1957-12-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+29 | 30 | Concussion with no loss of consciousness | 0 | 
+30 | 30 | Laceration of thigh | 0 | 
+31 |  | Prediabetes | 0 | 
+31 |  | Anemia (disorder) | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 | 38 | Misuses drugs (finding) | 0 | 
+32 | 33 | Viral sinusitis (disorder) | 9 | Sinus Pain:50:0, Headache:29:0, Pain with Bright Lights:38:0, Facial Swelling:41:0, Nasal Discharge:28:0, Nasal Congestion:20:0, Fever:15:0, Sore Throat:35:0, Cough:7:0
+34 |  | Prediabetes | 0 | 
+34 |  | Unemployed (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+34 | 35 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:37:0, Pain with Bright Lights:33:0, Facial Swelling:25:0, Nasal Discharge:41:0, Nasal Congestion:7:0, Fever:0:0, Sore Throat:4:0, Cough:14:0
+35 |  | Prediabetes | 0 | 
+35 | 38 | Reports of violence in the environment (finding) | 0 | 
+35 |  | Unemployed (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+36 |  | Prediabetes | 0 | 
+36 |  | Unemployed (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+37 |  | Prediabetes | 0 | 
+37 |  | Unemployed (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 | 38 | Stress (finding) | 0 | 
+38 |  | Prediabetes | 0 | 
+38 |  | Unemployed (finding) | 0 | 
+38 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,66 @@
+Stan Jones
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1982-09-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Lack of access to transportation (finding) | 0 | 
+29 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 |  | Body mass index 30+ - obesity (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Lack of access to transportation (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 | 38 | Social isolation (finding) | 0 | 
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 | 32 | Not in labor force (finding) | 0 | 
+31 |  | Lack of access to transportation (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+32 |  | Body mass index 30+ - obesity (finding) | 0 | 
+32 | 36 | Reports of violence in the environment (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Lack of access to transportation (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 | 33 | Stress (finding) | 0 | 
+32 | 32 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:5:0, Fatigue:31:0, Mucus:46:0, Nasal Congestion:38:0, Shortness of Breath:69:0, Nausea/Vomiting:13:0, Sore Throat:49:0, Cough:51:0, Fever:44:0
+32 | 33 | Viral sinusitis (disorder) | 9 | Headache:13:0, Sinus Pain:62:0, Pain with Bright Lights:26:0, Facial Swelling:0:0, Nasal Discharge:3:0, Nasal Congestion:8:0, Sore Throat:43:0, Cough:7:0, Fever:2:0
+33 |  | Body mass index 30+ - obesity (finding) | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Lack of access to transportation (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 | 35 | Not in labor force (finding) | 0 | 
+34 |  | Transport problems (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 | 34 | Viral sinusitis (disorder) | 9 | Headache:30:0, Sinus Pain:78:0, Pain with Bright Lights:48:0, Facial Swelling:1:0, Nasal Discharge:15:0, Nasal Congestion:5:0, Sore Throat:31:0, Cough:7:0, Fever:4:0
+35 |  | Body mass index 30+ - obesity (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Lack of access to transportation (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 | 36 | Stress (finding) | 0 | 
+35 | 36 | Otitis media | 0 | 
+36 |  | Body mass index 30+ - obesity (finding) | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Lack of access to transportation (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Body mass index 30+ - obesity (finding) | 0 | 
+37 | 38 | Not in labor force (finding) | 0 | 
+37 | 38 | Reports of violence in the environment (finding) | 0 | 
+37 |  | Lack of access to transportation (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 | 38 | Stress (finding) | 0 | 
+37 |  | Fever (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+37 |  | Fatigue (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+37 |  | Sore throat symptom (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+37 |  | Cough (finding) | 4 | fatigue:1, sore throat:1, fever:1, cough:1
+37 | 37 | Suspected COVID-19 | 0 | 
+37 |  | COVID-19 | 0 | 
+38 | 38 | Viral sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:53:0, Pain with Bright Lights:34:0, Facial Swelling:18:0, Nasal Discharge:11:0, Nasal Congestion:1:0, Sore Throat:37:0, Cough:30:0, Fever:10:0
+38 |  | Body mass index 30+ - obesity (finding) | 0 | 
+38 |  | Part-time employment (finding) | 0 | 
+38 |  | Transport problems (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

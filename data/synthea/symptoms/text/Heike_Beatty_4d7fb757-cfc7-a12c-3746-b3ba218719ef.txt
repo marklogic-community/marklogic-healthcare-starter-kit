@@ -1,0 +1,50 @@
+Heike Beatty
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1973-08-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+39 |  | Localized  primary osteoarthritis of the hand | 2 | Joint Pain:0, Joint Stiffness:0
+40 |  | Metabolic syndrome X (disorder) | 0 | 
+40 |  | Hypertriglyceridemia (disorder) | 0 | 
+40 |  | Diabetes | 0 | 
+40 |  | Anemia (disorder) | 0 | 
+40 |  | Unemployed (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 |  | Chronic low back pain (finding) | 0 | 
+40 |  | Chronic neck pain (finding) | 0 | 
+42 |  | Hypertriglyceridemia (disorder) | 0 | 
+42 |  | Diabetes | 0 | 
+42 |  | Unemployed (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 | 43 | Normal pregnancy | 0 | 
+44 |  | Hypertriglyceridemia (disorder) | 0 | 
+44 |  | Diabetes | 0 | 
+44 |  | Limited social contact (finding) | 0 | 
+44 |  | Unemployed (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 | 45 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:37:0, Runny/Stuffy Nose:44:0, Fatigue:1:0, Swollen Lymph Nodes:0:0, Swollen Tonsils:36:0, Decreased Appetite:1:0, Sore Throat:33:0, Cough:30:0, Fever:1:0
+46 |  | Hypertriglyceridemia (disorder) | 0 | 
+46 |  | Diabetes | 0 | 
+46 |  | Unemployed (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Social isolation (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 |  | Fever (finding) | 3 | fever:1, headache:1, loss_of_taste:1
+46 |  | Headache (finding) | 3 | fever:1, headache:1, loss_of_taste:1
+46 |  | Loss of taste (finding) | 3 | fever:1, headache:1, loss_of_taste:1
+46 | 46 | Suspected COVID-19 | 0 | 
+46 |  | COVID-19 | 0 | 
+46 |  | Diabetic renal disease (disorder) | 0 | 
+46 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+46 |  | Metabolic syndrome X (disorder) | 0 | 
+46 |  | Hypertriglyceridemia (disorder) | 0 | 
+46 |  | Diabetes | 0 | 
+46 |  | Limited social contact (finding) | 0 | 
+46 |  | Unemployed (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

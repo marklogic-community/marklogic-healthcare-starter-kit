@@ -1,0 +1,37 @@
+Dusty King
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1957-01-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+34 | 35 | Normal pregnancy | 0 | 
+35 |  | Served in armed forces (finding) | 0 | 
+35 | 44 | Limited social contact (finding) | 0 | 
+35 | 38 | Full-time employment (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 | 40 | Stress (finding) | 0 | 
+38 |  | Served in armed forces (finding) | 0 | 
+38 | 40 | Full-time employment (finding) | 0 | 
+38 |  | Received higher education (finding) | 0 | 
+40 | 41 | Part-time employment (finding) | 0 | 
+40 |  | Served in armed forces (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+41 | 41 | Viral sinusitis (disorder) | 9 | Sinus Pain:73:0, Headache:36:0, Pain with Bright Lights:46:0, Facial Swelling:34:0, Nasal Discharge:4:0, Nasal Congestion:6:0, Sore Throat:23:0, Fever:6:0, Cough:22:0
+41 | 41 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:27:0, Body Aches:11:0, Runny/Stuffy Nose:36:0, Fatigue:2:0, Swollen Lymph Nodes:68:0, Swollen Tonsils:63:0, Decreased Appetite:44:0, Sore Throat:34:0, Fever:26:0, Cough:0:0
+41 |  | Served in armed forces (finding) | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+41 | 44 | Stress (finding) | 0 | 
+42 |  | Served in armed forces (finding) | 0 | 
+42 | 43 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+43 |  | Served in armed forces (finding) | 0 | 
+43 | 44 | Full-time employment (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 |  | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+Elene Casper
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2011-11-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 2 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:11:0, Fatigue:52:0, Mucus:30:0, Nasal Congestion:47:0, Shortness of Breath:74:0, Nausea/Vomiting:5:0, Cough:31:0, Sore Throat:28:0, Fever:30:0
+2 | 2 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:19:0, Runny/Stuffy Nose:38:0, Fatigue:8:0, Swollen Lymph Nodes:36:0, Swollen Tonsils:30:0, Decreased Appetite:38:0, Cough:37:0, Sore Throat:27:0, Fever:17:0
+5 | 5 | Otitis media | 0 | 
+8 |  | Sputum finding (finding) | 1 | sputum production:1
+8 | 8 | Suspected COVID-19 | 0 | 
+8 |  | COVID-19 | 0 | 
+9 | 9 | Viral sinusitis (disorder) | 9 | Sinus Pain:61:0, Headache:18:0, Pain with Bright Lights:37:0, Facial Swelling:49:0, Nasal Discharge:16:0, Nasal Congestion:0:0, Cough:31:0, Sore Throat:17:0, Fever:3:0
+--------------------------------------------------------------------------------

@@ -1,0 +1,52 @@
+Mireille Bogan
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1996-10-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+15 |  | Risk activity involvement (finding) | 0 | 
+15 | 16 | Normal pregnancy | 0 | 
+15 |  | Anemia (disorder) | 0 | 
+17 |  | Risk activity involvement (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Social isolation (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 | 20 | Misuses drugs (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Social isolation (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+20 | 20 | Sprain of ankle | 0 | 
+20 | 20 | Sinusitis (disorder) | 9 | Sinus Pain:38:103:96:0, Headache:25:0, Pain with Bright Lights:25:0, Facial Swelling:41:0, Nasal Discharge:37:0, Nasal Congestion:15:0, Fever:18:0, Sore Throat:39:0, Cough:15:0
+20 |  | Chronic sinusitis (disorder) | 9 | Sinus Pain:103:96:0:71:0:70:0, Headache:0:39:0:23:0, Pain with Bright Lights:0:47:0:35:0, Facial Swelling:0:27:0:45:0, Nasal Discharge:0:35:0:34:0, Nasal Congestion:0:3:0:20:0, Fever:0:23:0:9:0, Sore Throat:0:1:0:10:0, Cough:0:19:0:27:0
+20 | 20 | Full-time employment (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 | 22 | Social isolation (finding) | 0 | 
+20 | 22 | Stress (finding) | 0 | 
+20 | 22 | Full-time employment (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 | 20 | Normal pregnancy | 0 | 
+20 |  | Miscarriage in first trimester | 0 | 
+20 | 20 | Blighted ovum | 0 | 
+21 | 22 | Normal pregnancy | 0 | 
+22 |  | Part-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+23 |  | Fever (finding) | 5 | fatigue:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 |  | Headache (finding) | 5 | fatigue:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 |  | Cough (finding) | 5 | fatigue:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, headache:1, loss_of_taste:1, cough:1
+23 | 23 | Suspected COVID-19 | 0 | 
+23 |  | COVID-19 | 0 | 
+23 |  | Respiratory distress (finding) | 0 | 
+23 |  | Sepsis caused by virus (disorder) | 0 | 
+23 |  | Heart failure (disorder) | 0 | 
+23 |  | Pneumonia (disorder) | 0 | 
+23 |  | Hypoxemia (disorder) | 0 | 
+23 |  | Acute deep venous thrombosis (disorder) | 0 | 
+23 | 24 | Viral sinusitis (disorder) | 9 | Sinus Pain:71:0, Headache:39:0, Pain with Bright Lights:47:0, Facial Swelling:27:0, Nasal Discharge:35:0, Nasal Congestion:3:0, Fever:23:0, Sore Throat:1:0, Cough:19:0
+24 | 24 | Viral sinusitis (disorder) | 9 | Sinus Pain:70:0, Headache:23:0, Pain with Bright Lights:35:0, Facial Swelling:45:0, Nasal Discharge:34:0, Nasal Congestion:20:0, Fever:9:0, Sore Throat:10:0, Cough:27:0
+--------------------------------------------------------------------------------

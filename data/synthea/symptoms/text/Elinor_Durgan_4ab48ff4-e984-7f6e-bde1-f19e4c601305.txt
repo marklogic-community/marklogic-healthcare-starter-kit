@@ -1,0 +1,620 @@
+Elinor Durgan
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Hyperglycemia (disorder) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 | 72 | Part-time employment (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Transport problems (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Hyperglycemia (disorder) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Transport problems (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Hyperglycemia (disorder) | 0 | 
+73 |  | Lack of access to transportation (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Hyperglycemia (disorder) | 0 | 
+73 |  | Lack of access to transportation (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 73 | Part-time employment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Hyperglycemia (disorder) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Transport problems (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Hyperglycemia (disorder) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 73 | Limited social contact (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Transport problems (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Hyperglycemia (disorder) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 73 | Part-time employment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Transport problems (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Hyperglycemia (disorder) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 75 | Limited social contact (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Transport problems (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Hyperglycemia (disorder) | 0 | 
+73 |  | Lack of access to transportation (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 | 73 | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Hyperglycemia (disorder) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Transport problems (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Transport problems (finding) | 0 | 
+74 | 74 | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Lack of access to transportation (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Hyperglycemia (disorder) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 | 74 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Transport problems (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Hyperglycemia (disorder) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 | 75 | Reports of violence in the environment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Transport problems (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Hyperglycemia (disorder) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Transport problems (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Hyperglycemia (disorder) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 | 74 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Transport problems (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Hyperglycemia (disorder) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Transport problems (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Hyperglycemia (disorder) | 0 | 
+74 |  | Lack of access to transportation (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Hyperglycemia (disorder) | 0 | 
+75 |  | Lack of access to transportation (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 | 75 | Part-time employment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Hyperglycemia (disorder) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 | 76 | Reports of violence in the environment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Transport problems (finding) | 0 | 
+75 | 75 | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Hyperglycemia (disorder) | 0 | 
+75 |  | Lack of access to transportation (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Hyperglycemia (disorder) | 0 | 
+75 |  | Lack of access to transportation (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Hyperglycemia (disorder) | 0 | 
+75 |  | Lack of access to transportation (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Hyperglycemia (disorder) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 | 75 | Part-time employment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Transport problems (finding) | 0 | 
+75 | 75 | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Hyperglycemia (disorder) | 0 | 
+75 | 76 | Victim of intimate partner abuse (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Transport problems (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Hyperglycemia (disorder) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Transport problems (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Hyperglycemia (disorder) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 | 76 | Part-time employment (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Transport problems (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 | 76 | Social isolation (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Hyperglycemia (disorder) | 0 | 
+76 |  | Lack of access to transportation (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Hyperglycemia (disorder) | 0 | 
+76 |  | Lack of access to transportation (finding) | 0 | 
+76 | 82 | Victim of intimate partner abuse (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Lack of access to transportation (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 | 76 | Stress (finding) | 0 | 
+76 | 76 | Sprain of ankle | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Hyperglycemia (disorder) | 0 | 
+76 |  | Lack of access to transportation (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Hyperglycemia (disorder) | 0 | 
+76 |  | Lack of access to transportation (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 | 76 | Not in labor force (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Hyperglycemia (disorder) | 0 | 
+76 |  | Lack of access to transportation (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 | 76 | Part-time employment (finding) | 0 | 
+76 | 78 | Limited social contact (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Hyperglycemia (disorder) | 0 | 
+76 |  | Lack of access to transportation (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Hyperglycemia (disorder) | 0 | 
+76 |  | Lack of access to transportation (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 | 77 | Reports of violence in the environment (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Hyperglycemia (disorder) | 0 | 
+77 |  | Lack of access to transportation (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 | 77 | Part-time employment (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Hyperglycemia (disorder) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 | 77 | Not in labor force (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Transport problems (finding) | 0 | 
+77 | 77 | Stress (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Hyperglycemia (disorder) | 0 | 
+77 |  | Lack of access to transportation (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Hyperglycemia (disorder) | 0 | 
+77 |  | Lack of access to transportation (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Reports of violence in the environment (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Hyperglycemia (disorder) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 | 77 | Reports of violence in the environment (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Transport problems (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Hyperglycemia (disorder) | 0 | 
+77 |  | Lack of access to transportation (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 | 77 | Part-time employment (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Stress (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Hyperglycemia (disorder) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Transport problems (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Hyperglycemia (disorder) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 | 78 | Part-time employment (finding) | 0 | 
+78 | 78 | Reports of violence in the environment (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Transport problems (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Hyperglycemia (disorder) | 0 | 
+78 |  | Lack of access to transportation (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 | 78 | Not in labor force (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Stress (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Hyperglycemia (disorder) | 0 | 
+78 |  | Lack of access to transportation (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Hyperglycemia (disorder) | 0 | 
+78 |  | Lack of access to transportation (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Impacted molars | 10 | Reduced Sex Drive:1, Slurred Speech:3, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:7, Shallow Breathing:4, Confusion:5, Cognitive Difficulties:3, Mood Swing:7, Nausea/Vomiting:3
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Hyperglycemia (disorder) | 0 | 
+78 |  | Lack of access to transportation (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 | 78 | Stress (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Hyperglycemia (disorder) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 | 78 | Part-time employment (finding) | 0 | 
+78 | 79 | Limited social contact (finding) | 0 | 
+78 | 82 | Reports of violence in the environment (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Transport problems (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Lack of access to transportation (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 | 79 | Stress (finding) | 0 | 
+78 |  | Victim of intimate partner abuse (finding) | 0 | 
+78 |  | Chronic pain | 10 | Reduced Sex Drive:1, Slurred Speech:3, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:7, Shallow Breathing:4, Confusion:5, Cognitive Difficulties:3, Mood Swing:7, Nausea/Vomiting:3
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Hyperglycemia (disorder) | 0 | 
+78 |  | Lack of access to transportation (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Chronic pain | 10 | Reduced Sex Drive:1, Slurred Speech:3, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:7, Shallow Breathing:4, Confusion:5, Cognitive Difficulties:3, Mood Swing:7, Nausea/Vomiting:3
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Hyperglycemia (disorder) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Transport problems (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Hyperglycemia (disorder) | 0 | 
+79 |  | Lack of access to transportation (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Hyperglycemia (disorder) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Transport problems (finding) | 0 | 
+79 | 79 | Stress (finding) | 0 | 
+79 |  | Chronic pain | 10 | Reduced Sex Drive:1, Slurred Speech:3, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:7, Shallow Breathing:4, Confusion:5, Cognitive Difficulties:3, Mood Swing:7, Nausea/Vomiting:3
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Transport problems (finding) | 0 | 
+79 | 81 | Social isolation (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Hyperglycemia (disorder) | 0 | 
+79 |  | Lack of access to transportation (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 | 79 | Stress (finding) | 0 | 
+79 |  | Impacted molars | 10 | Reduced Sex Drive:1, Slurred Speech:3, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:7, Shallow Breathing:4, Confusion:5, Cognitive Difficulties:3, Mood Swing:7, Nausea/Vomiting:3
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Hyperglycemia (disorder) | 0 | 
+79 |  | Lack of access to transportation (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Impacted molars | 10 | Reduced Sex Drive:1, Slurred Speech:3, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:7, Shallow Breathing:4, Confusion:5, Cognitive Difficulties:3, Mood Swing:7, Nausea/Vomiting:3
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Hyperglycemia (disorder) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Transport problems (finding) | 0 | 
+79 | 80 | Stress (finding) | 0 | 
+79 | 79 | Viral sinusitis (disorder) | 9 | Sinus Pain:71:0, Pain with Bright Lights:40:0, Headache:26:0, Facial Swelling:12:0, Nasal Discharge:40:0, Nasal Congestion:22:0, Sore Throat:6:0, Cough:30:0, Fever:11:0
+79 |  | Impacted molars | 10 | Reduced Sex Drive:1, Slurred Speech:3, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:7, Shallow Breathing:4, Confusion:5, Cognitive Difficulties:3, Mood Swing:7, Nausea/Vomiting:3
+79 | 79 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:6:0, Fatigue:40:0, Mucus:28:0, Shortness of Breath:58:0, Nasal Congestion:40:0, Nausea/Vomiting:20:0, Sore Throat:43:0, Cough:72:0, Fever:31:0
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Hyperglycemia (disorder) | 0 | 
+80 |  | Lack of access to transportation (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 80 | Full-time employment (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Hyperglycemia (disorder) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 80 | Full-time employment (finding) | 0 | 
+80 |  | Transport problems (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+80 |  | Drug overdose | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Hyperglycemia (disorder) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 | 80 | Part-time employment (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Transport problems (finding) | 0 | 
+80 | 80 | Stress (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Hyperglycemia (disorder) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 | 80 | Not in labor force (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Transport problems (finding) | 0 | 
+80 |  | Drug overdose | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Hyperglycemia (disorder) | 0 | 
+80 |  | Lack of access to transportation (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 | 81 | Not in labor force (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Hyperglycemia (disorder) | 0 | 
+81 |  | Lack of access to transportation (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 | 81 | Not in labor force (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Hyperglycemia (disorder) | 0 | 
+81 |  | Lack of access to transportation (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 | 81 | Stress (finding) | 0 | 
+81 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Hyperglycemia (disorder) | 0 | 
+81 |  | Lack of access to transportation (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Hyperglycemia (disorder) | 0 | 
+81 |  | Lack of access to transportation (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 | 81 | Not in labor force (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Hyperglycemia (disorder) | 0 | 
+81 |  | Lack of access to transportation (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 | 81 | Stress (finding) | 0 | 
+81 |  | Drug overdose | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Hyperglycemia (disorder) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Transport problems (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Hyperglycemia (disorder) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Transport problems (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Hyperglycemia (disorder) | 0 | 
+81 |  | Lack of access to transportation (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Hyperglycemia (disorder) | 0 | 
+81 |  | Lack of access to transportation (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 | 81 | Part-time employment (finding) | 0 | 
+81 | 82 | Limited social contact (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Hyperglycemia (disorder) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Transport problems (finding) | 0 | 
+81 | 82 | Stress (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Hyperglycemia (disorder) | 0 | 
+82 |  | Lack of access to transportation (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 | 82 | Part-time employment (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:14:0, Fatigue:37:0, Mucus:45:0, Shortness of Breath:58:0, Nasal Congestion:40:0, Nausea/Vomiting:7:0, Sore Throat:31:0, Cough:45:0, Fever:25:0
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Hyperglycemia (disorder) | 0 | 
+82 |  | Lack of access to transportation (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Hyperglycemia (disorder) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 | 82 | Not in labor force (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Transport problems (finding) | 0 | 
+82 | 82 | Stress (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Hyperglycemia (disorder) | 0 | 
+82 |  | Lack of access to transportation (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 |  | Not in labor force (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Laceration of forearm | 0 | 
+82 |  | Drug overdose | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Hyperglycemia (disorder) | 0 | 
+--------------------------------------------------------------------------------

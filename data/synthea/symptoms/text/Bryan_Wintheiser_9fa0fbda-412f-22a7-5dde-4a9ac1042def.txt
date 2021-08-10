@@ -1,0 +1,55 @@
+Bryan Wintheiser
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+48 | 50 | Not in labor force (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 | 48 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:15:0, Runny/Stuffy Nose:16:0, Fatigue:18:0, Swollen Lymph Nodes:26:0, Swollen Tonsils:60:0, Decreased Appetite:29:0, Sore Throat:15:0, Cough:0:0, Fever:0:0
+50 | 51 | Part-time employment (finding) | 0 | 
+50 | 57 | Victim of intimate partner abuse (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 |  | Victim of intimate partner abuse (finding) | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 | 53 | Stress (finding) | 0 | 
+52 | 53 | Part-time employment (finding) | 0 | 
+52 | 54 | Limited social contact (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 | 52 | Viral sinusitis (disorder) | 9 | Headache:30:0, Sinus Pain:60:0, Pain with Bright Lights:39:0, Facial Swelling:36:0, Nasal Discharge:41:0, Nasal Congestion:14:0, Sore Throat:20:0, Cough:27:0, Fever:17:0
+52 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+52 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+52 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+52 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+52 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+53 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+53 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+53 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+53 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+54 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:10, Shortness Constipation Breath:0, Anxiety:6, Pain Sensitivity:3, Confusion:3, Cognitive Difficulties:4, Shallow Breathing:11, Mood Swing:3, Nausea/Vomiting:2
+54 | 57 | Reports of violence in the environment (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 | 54 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:10:0, Body Aches:2:0, Runny/Stuffy Nose:40:0, Fatigue:45:0, Swollen Lymph Nodes:27:0, Swollen Tonsils:23:0, Decreased Appetite:23:0, Sore Throat:12:0, Cough:0:0, Fever:15:0
+54 | 54 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:43:0, Runny/Stuffy Nose:25:0, Fatigue:13:0, Swollen Lymph Nodes:35:0, Swollen Tonsils:29:0, Decreased Appetite:32:0, Sore Throat:47:0, Cough:6:0, Fever:23:0
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 57 | Social isolation (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+57 |  | Not in labor force (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 |  | Drug overdose | 0 | 
+--------------------------------------------------------------------------------

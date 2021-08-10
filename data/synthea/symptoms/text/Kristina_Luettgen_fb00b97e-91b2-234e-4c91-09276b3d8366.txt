@@ -1,0 +1,165 @@
+Kristina Luettgen
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1963-01-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+49 |  | Metabolic syndrome X (disorder) | 0 | 
+49 |  | Hypertriglyceridemia (disorder) | 0 | 
+49 |  | Diabetes | 0 | 
+49 |  | Has a criminal record (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Only received primary school education (finding) | 0 | 
+49 | 49 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:44:0, Body Aches:12:0, Runny/Stuffy Nose:23:0, Fatigue:39:0, Swollen Lymph Nodes:36:0, Swollen Tonsils:26:0, Decreased Appetite:3:0, Sore Throat:1:0, Fever:23:0, Cough:43:0
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 |  | Hypertriglyceridemia (disorder) | 0 | 
+50 |  | Diabetes | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 | 58 | Victim of intimate partner abuse (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 |  | Hypertriglyceridemia (disorder) | 0 | 
+51 |  | Diabetes | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 |  | Hypertriglyceridemia (disorder) | 0 | 
+52 |  | Diabetes | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 |  | Hypertriglyceridemia (disorder) | 0 | 
+53 |  | Diabetes | 0 | 
+53 | 53 | Not in labor force (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 | 53 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:21:0, Fatigue:43:0, Mucus:30:0, Nasal Congestion:45:0, Shortness of Breath:27:0, Nausea/Vomiting:24:0, Sore Throat:45:0, Fever:35:0, Cough:67:0
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 |  | Hypertriglyceridemia (disorder) | 0 | 
+53 |  | Diabetes | 0 | 
+53 | 53 | Part-time employment (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Diabetic renal disease (disorder) | 0 | 
+53 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 |  | Hypertriglyceridemia (disorder) | 0 | 
+53 |  | Diabetes | 0 | 
+53 | 54 | Part-time employment (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+54 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 |  | Diabetes | 0 | 
+54 | 54 | Part-time employment (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 | 54 | Part-time employment (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 | 54 | Not in labor force (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 | 54 | Viral sinusitis (disorder) | 9 | Headache:23:0, Sinus Pain:75:0, Pain with Bright Lights:28:0, Facial Swelling:45:0, Nasal Discharge:28:0, Nasal Congestion:6:0, Sore Throat:47:0, Fever:15:0, Cough:14:0
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Hypertriglyceridemia (disorder) | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 |  | Hypertriglyceridemia (disorder) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 | 56 | Viral sinusitis (disorder) | 9 | Headache:32:0, Sinus Pain:62:0, Pain with Bright Lights:31:0, Facial Swelling:1:0, Nasal Discharge:13:0, Nasal Congestion:11:0, Sore Throat:23:0, Fever:13:0, Cough:20:0
+55 |  | Metabolic syndrome X (disorder) | 0 | 
+55 |  | Hypertriglyceridemia (disorder) | 0 | 
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 56 | Stress (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Metabolic syndrome X (disorder) | 0 | 
+56 |  | Hypertriglyceridemia (disorder) | 0 | 
+56 | 57 | Part-time employment (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+57 |  | Fever (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+57 |  | Sputum finding (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+57 |  | Sore throat symptom (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+57 |  | Cough (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+57 |  | Loss of taste (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+57 | 57 | Suspected COVID-19 | 0 | 
+57 |  | COVID-19 | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 57 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+57 |  | Social isolation (finding) | 0 | 
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 58 | Reports of violence in the environment (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Social isolation (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 | 58 | Limited social contact (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Part-time employment (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+--------------------------------------------------------------------------------

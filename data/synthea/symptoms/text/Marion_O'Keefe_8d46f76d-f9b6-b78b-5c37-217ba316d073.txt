@@ -1,0 +1,42 @@
+Marion O'Keefe
+========'=====
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1987-02-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 |  | Body mass index 30+ - obesity (finding) | 0 | 
+25 | 26 | Not in labor force (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+27 | 31 | Limited social contact (finding) | 0 | 
+27 | 28 | Full-time employment (finding) | 0 | 
+27 | 33 | Victim of intimate partner abuse (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+28 | 29 | Not in labor force (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+29 | 30 | Not in labor force (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 | 31 | Stress (finding) | 0 | 
+30 | 30 | Sprain of ankle | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 | 33 | Stress (finding) | 0 | 
+32 | 33 | Social isolation (finding) | 0 | 
+33 |  | Muscle pain (finding) | 4 | myalgia:1, arthralgia:1, loss_of_taste:1, cough:1
+33 |  | Joint pain (finding) | 4 | myalgia:1, arthralgia:1, loss_of_taste:1, cough:1
+33 |  | Cough (finding) | 4 | myalgia:1, arthralgia:1, loss_of_taste:1, cough:1
+33 |  | Loss of taste (finding) | 4 | myalgia:1, arthralgia:1, loss_of_taste:1, cough:1
+33 | 33 | Suspected COVID-19 | 0 | 
+33 |  | COVID-19 | 0 | 
+33 |  | Full-time employment (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+34 | 34 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:2:0, Body Aches:4:0, Runny/Stuffy Nose:28:0, Fatigue:20:0, Swollen Lymph Nodes:24:0, Swollen Tonsils:35:0, Decreased Appetite:20:0, Sore Throat:35:0, Fever:36:0, Cough:30:0
+--------------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+Darrell Muller
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1966-11-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+44 | 44 | Viral sinusitis (disorder) | 9 | Sinus Pain:75:0, Headache:3:0, Pain with Bright Lights:48:0, Facial Swelling:31:0, Nasal Discharge:5:0, Nasal Congestion:14:0, Fever:7:0, Sore Throat:48:0, Cough:41:0
+46 |  | Prediabetes | 0 | 
+46 |  | Housing unsatisfactory (finding) | 0 | 
+46 |  | Unemployed (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Prediabetes | 0 | 
+48 |  | Housing unsatisfactory (finding) | 0 | 
+48 |  | Unemployed (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 |  | Housing unsatisfactory (finding) | 0 | 
+50 |  | Unemployed (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Housing unsatisfactory (finding) | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 |  | Housing unsatisfactory (finding) | 0 | 
+52 |  | Unemployed (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Housing unsatisfactory (finding) | 0 | 
+53 |  | Unemployed (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 |  | Fever (finding) | 1 | fever:1
+53 | 53 | Suspected COVID-19 | 0 | 
+53 |  | COVID-19 | 0 | 
+53 | 53 | Sprain of ankle | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Housing unsatisfactory (finding) | 0 | 
+54 |  | Unemployed (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

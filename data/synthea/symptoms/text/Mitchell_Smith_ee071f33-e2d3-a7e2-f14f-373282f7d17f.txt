@@ -1,0 +1,462 @@
+Mitchell Smith
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+57 |  | Metabolic syndrome X (disorder) | 0 | 
+57 |  | Hypertriglyceridemia (disorder) | 0 | 
+57 |  | Hyperglycemia (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 | 58 | Part-time employment (finding) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Hyperglycemia (disorder) | 0 | 
+58 | 58 | Part-time employment (finding) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Hyperglycemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Hyperglycemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Hyperglycemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 | 59 | Not in labor force (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Hyperglycemia (disorder) | 0 | 
+59 | 59 | Part-time employment (finding) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Hyperglycemia (disorder) | 0 | 
+59 | 59 | Part-time employment (finding) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 67 | Reports of violence in the environment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 59 | Stress (finding) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Hyperglycemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 59 | Full-time employment (finding) | 0 | 
+59 | 62 | Victim of intimate partner abuse (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 61 | Severe anxiety (panic) (finding | 0 | 
+59 |  | Drug overdose | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Hyperglycemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 59 | Full-time employment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Hyperglycemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 60 | Stress (finding) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Hyperglycemia (disorder) | 0 | 
+60 | 60 | Part-time employment (finding) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 | 60 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:3:0, Fatigue:61:0, Mucus:45:0, Nasal Congestion:48:0, Shortness of Breath:28:0, Nausea/Vomiting:4:0, Sore Throat:32:0, Cough:65:0, Fever:49:0
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Hyperglycemia (disorder) | 0 | 
+60 | 60 | Part-time employment (finding) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Hyperglycemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Hyperglycemia (disorder) | 0 | 
+60 | 60 | Part-time employment (finding) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 | 60 | Stress (finding) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Hyperglycemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 60 | Not in labor force (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 |  | Drug overdose | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Hyperglycemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 61 | Not in labor force (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 | 61 | Stress (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Hyperglycemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Hyperglycemia (disorder) | 0 | 
+61 | 61 | Part-time employment (finding) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Hyperglycemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 | 62 | Limited social contact (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Hyperglycemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Hyperglycemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 | 62 | Not in labor force (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 | 62 | Stress (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Hyperglycemia (disorder) | 0 | 
+62 | 62 | Part-time employment (finding) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Hyperglycemia (disorder) | 0 | 
+62 | 62 | Part-time employment (finding) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 | 67 | Severe anxiety (panic) (finding | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Hyperglycemia (disorder) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Hyperglycemia (disorder) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Hyperglycemia (disorder) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Hyperglycemia (disorder) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Victim of intimate partner abuse (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Hyperglycemia (disorder) | 0 | 
+62 | 63 | Part-time employment (finding) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 67 | Victim of intimate partner abuse (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 |  | Drug overdose | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Hyperglycemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Social isolation (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Hyperglycemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 64 | Limited social contact (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Hyperglycemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 63 | Stress (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Hyperglycemia (disorder) | 0 | 
+63 | 63 | Part-time employment (finding) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Hyperglycemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 63 | Stress (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Hyperglycemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Hyperglycemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Hyperglycemia (disorder) | 0 | 
+63 | 64 | Part-time employment (finding) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 64 | Stress (finding) | 0 | 
+63 | 64 | Viral sinusitis (disorder) | 9 | Headache:0:0, Sinus Pain:52:0, Pain with Bright Lights:31:0, Facial Swelling:38:0, Nasal Discharge:35:0, Nasal Congestion:1:0, Sore Throat:39:0, Cough:39:0, Fever:21:0
+64 | 64 | Acute bronchitis (disorder) | 10 | Body Aches:17:0, Diarrhea:19:0, Fatigue:57:0, Mucus:40:0, Nasal Congestion:41:0, Shortness of Breath:50:0, Nausea/Vomiting:22:0, Sore Throat:33:0, Cough:73:0, Fever:41:0
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 |  | Hyperglycemia (disorder) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 |  | Hyperglycemia (disorder) | 0 | 
+64 | 64 | Part-time employment (finding) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 |  | Hyperglycemia (disorder) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 | 64 | Not in labor force (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 | 64 | Social isolation (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 |  | Hyperglycemia (disorder) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 |  | Hyperglycemia (disorder) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 |  | Hyperglycemia (disorder) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 |  | Hyperglycemia (disorder) | 0 | 
+64 | 64 | Part-time employment (finding) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 |  | Hyperglycemia (disorder) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 | 65 | Not in labor force (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+65 | 65 | Laceration of foot | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Hypertriglyceridemia (disorder) | 0 | 
+65 |  | Hyperglycemia (disorder) | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 | 65 | Full-time employment (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 | 66 | Social isolation (finding) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Hypertriglyceridemia (disorder) | 0 | 
+65 |  | Hyperglycemia (disorder) | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 | 65 | Full-time employment (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 | 65 | Stress (finding) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Hypertriglyceridemia (disorder) | 0 | 
+65 |  | Hyperglycemia (disorder) | 0 | 
+65 | 65 | Part-time employment (finding) | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Hypertriglyceridemia (disorder) | 0 | 
+65 |  | Hyperglycemia (disorder) | 0 | 
+65 | 65 | Part-time employment (finding) | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Hypertriglyceridemia (disorder) | 0 | 
+65 |  | Hyperglycemia (disorder) | 0 | 
+65 | 66 | Part-time employment (finding) | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 | 66 | Stress (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Hyperglycemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 66 | Not in labor force (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 | 66 | Sprain of ankle | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Hyperglycemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 66 | Not in labor force (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Drug overdose | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Hyperglycemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 67 | Limited social contact (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Hyperglycemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 | 66 | Stress (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Hyperglycemia (disorder) | 0 | 
+66 | 66 | Part-time employment (finding) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Hyperglycemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 66 | Not in labor force (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 | 66 | Stress (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Hyperglycemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 | 66 | Not in labor force (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Hyperglycemia (disorder) | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 | 67 | Not in labor force (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Hyperglycemia (disorder) | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Hyperglycemia (disorder) | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 | 67 | Not in labor force (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 | 67 | Stress (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Hyperglycemia (disorder) | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Hyperglycemia (disorder) | 0 | 
+67 |  | Part-time employment (finding) | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

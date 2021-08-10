@@ -1,0 +1,13 @@
+{
+    "user-name": "developer",
+    "description": "DHF Developer ",
+    "password": "demo",
+    "role": [
+        "envision",
+        "data-hub-developer",
+        "hub-central-developer",
+        "rest-reader",
+        "rest-writer"
+    ],
+    "permission": [{"role-name":"envision", "capability":"update"}, {"role-name":"envision", "capability":"read"}]
+}

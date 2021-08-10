@@ -1,0 +1,32 @@
+Edmond Rohan
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1912-08-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+37 |  | Served in armed forces (finding) | 0 | 
+37 | 44 | Limited social contact (finding) | 0 | 
+37 | 40 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 | 40 | Stress (finding) | 0 | 
+38 | 38 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:37:0, Pain with Bright Lights:49:0, Facial Swelling:40:0, Nasal Discharge:24:0, Nasal Congestion:20:0, Fever:4:0, Sore Throat:35:0, Cough:23:0
+39 | 39 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:36:0, Pain with Bright Lights:30:0, Facial Swelling:40:0, Nasal Discharge:7:0, Nasal Congestion:18:0, Fever:14:0, Sore Throat:35:0, Cough:36:0
+40 | 42 | Part-time employment (finding) | 0 | 
+40 |  | Served in armed forces (finding) | 0 | 
+40 | 44 | Victim of intimate partner abuse (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+42 |  | Served in armed forces (finding) | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+43 | 43 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:48:0, Body Aches:1:0, Runny/Stuffy Nose:21:0, Fatigue:30:0, Swollen Lymph Nodes:49:0, Swollen Tonsils:12:0, Decreased Appetite:27:0, Fever:15:0, Sore Throat:34:0, Cough:43:0
+44 |  | Part-time employment (finding) | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+44 |  | Sepsis (disorder) | 0 | 
+44 |  | Septic shock (disorder) | 0 | 
+44 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+--------------------------------------------------------------------------------

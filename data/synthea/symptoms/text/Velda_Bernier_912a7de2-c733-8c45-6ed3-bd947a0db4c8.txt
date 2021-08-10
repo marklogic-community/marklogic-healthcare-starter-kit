@@ -1,0 +1,23 @@
+Velda Bernier
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2007-05-11
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+4 | 4 | Otitis media | 0 | 
+7 | 7 | Acute bronchitis (disorder) | 10 | Body Aches:4:0, Diarrhea:22:0, Fatigue:64:0, Mucus:26:0, Nasal Congestion:38:0, Shortness of Breath:29:0, Nausea/Vomiting:9:0, Sore Throat:32:0, Cough:66:0, Fever:33:0
+7 | 7 | Sinusitis (disorder) | 9 | Headache:15:0, Sinus Pain:42:0, Pain with Bright Lights:45:0, Facial Swelling:18:0, Nasal Discharge:30:0, Nasal Congestion:3:0, Sore Throat:14:0, Cough:46:0, Fever:11:0
+11 | 11 | Facial laceration | 0 | 
+12 | 12 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:49:0, Body Aches:28:0, Runny/Stuffy Nose:23:0, Fatigue:23:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:30:0, Decreased Appetite:8:0, Sore Throat:16:0, Cough:0:0, Fever:20:0
+12 |  | Muscle pain (finding) | 6 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+12 |  | Dyspnea (finding) | 6 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+12 |  | Fever (finding) | 6 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+12 |  | Sputum finding (finding) | 6 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+12 |  | Wheezing (finding) | 6 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+12 |  | Joint pain (finding) | 6 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+12 |  | Loss of taste (finding) | 6 | myalgia:1, arthralgia:1, fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

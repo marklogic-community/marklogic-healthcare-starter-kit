@@ -1,0 +1,32 @@
+Colton Eichmann
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1915-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+37 |  | Prediabetes | 0 | 
+37 |  | Anemia (disorder) | 0 | 
+37 | 40 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 | 37 | Viral sinusitis (disorder) | 9 | Sinus Pain:53:0, Headache:17:0, Pain with Bright Lights:26:0, Facial Swelling:40:0, Nasal Discharge:15:0, Nasal Congestion:13:0, Sore Throat:14:0, Fever:14:0, Cough:41:0
+40 |  | Prediabetes | 0 | 
+40 | 40 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 |  | Stress (finding) | 0 | 
+40 | 40 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:14:0, Fatigue:25:0, Mucus:40:0, Nasal Congestion:34:0, Shortness of Breath:68:0, Nausea/Vomiting:6:0, Sore Throat:25:0, Fever:47:0, Cough:30:0
+40 |  | Prediabetes | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 42 | Stress (finding) | 0 | 
+40 |  | Hyperlipidemia | 1 | weight gain:1
+41 | 41 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:48:0, Body Aches:4:0, Runny/Stuffy Nose:26:0, Fatigue:4:0, Swollen Lymph Nodes:1:0, Swollen Tonsils:29:0, Decreased Appetite:34:0, Sore Throat:2:0, Fever:23:0, Cough:5:0
+42 |  | Prediabetes | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 |  | Not in labor force (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

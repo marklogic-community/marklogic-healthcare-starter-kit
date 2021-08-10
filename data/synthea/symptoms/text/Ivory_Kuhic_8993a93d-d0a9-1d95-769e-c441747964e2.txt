@@ -1,0 +1,43 @@
+Ivory Kuhic
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1973-08-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+38 | 39 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:1:0, Body Aches:14:0, Runny/Stuffy Nose:15:0, Fatigue:28:0, Swollen Lymph Nodes:37:0, Swollen Tonsils:43:0, Decreased Appetite:30:0, Fever:6:0, Sore Throat:2:0, Cough:30:0
+40 |  | Prediabetes | 0 | 
+40 | 46 | Limited social contact (finding) | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 42 | Stress (finding) | 0 | 
+42 |  | Prediabetes | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 | 45 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:2:0, Body Aches:13:0, Runny/Stuffy Nose:43:0, Fatigue:0:0, Swollen Lymph Nodes:31:0, Swollen Tonsils:28:0, Decreased Appetite:34:0, Fever:2:0, Sore Throat:40:0, Cough:37:0
+46 |  | Prediabetes | 0 | 
+46 |  | Part-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 |  | Fever (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+46 |  | Sputum finding (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+46 |  | Sore throat symptom (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+46 |  | Cough (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+46 |  | Loss of taste (finding) | 5 | sore throat:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+46 | 46 | Suspected COVID-19 | 0 | 
+46 |  | COVID-19 | 0 | 
+46 |  | Acute respiratory failure (disorder) | 0 | 
+46 |  | Respiratory distress (finding) | 0 | 
+46 |  | Sepsis caused by virus (disorder) | 0 | 
+46 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+46 |  | Acquired coagulation disorder (disorder) | 0 | 
+46 |  | Pneumonia (disorder) | 0 | 
+46 |  | Hypoxemia (disorder) | 0 | 
+46 |  | Acute deep venous thrombosis (disorder) | 0 | 
+47 | 47 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:39:0, Runny/Stuffy Nose:26:0, Fatigue:38:0, Swollen Lymph Nodes:9:0, Swollen Tonsils:7:0, Decreased Appetite:21:0, Fever:4:0, Sore Throat:23:0, Cough:17:0
+--------------------------------------------------------------------------------

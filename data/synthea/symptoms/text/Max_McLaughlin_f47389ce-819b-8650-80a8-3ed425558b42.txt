@@ -1,0 +1,104 @@
+Max McLaughlin
+==============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1923-05-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+74 |  | Alcoholism | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Refugee (person) | 0 | 
+74 |  | Served in armed forces (finding) | 0 | 
+74 |  | Housing unsatisfactory (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+75 |  | Alcoholism | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Refugee (person) | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 | 77 | Victim of intimate partner abuse (finding) | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+76 |  | Alcoholism | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Refugee (person) | 0 | 
+76 |  | Served in armed forces (finding) | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Alcoholism | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Refugee (person) | 0 | 
+77 |  | Served in armed forces (finding) | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Social isolation (finding) | 0 | 
+77 | 78 | Stress (finding) | 0 | 
+78 |  | Alcoholism | 0 | 
+78 |  | Prediabetes | 0 | 
+78 |  | Refugee (person) | 0 | 
+78 |  | Served in armed forces (finding) | 0 | 
+78 | 81 | Victim of intimate partner abuse (finding) | 0 | 
+78 | 83 | Limited social contact (finding) | 0 | 
+78 | 79 | Not in labor force (finding) | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 78 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:38:0, Body Aches:0:0, Runny/Stuffy Nose:17:0, Fatigue:13:0, Swollen Lymph Nodes:13:0, Decreased Appetite:41:0, Swollen Tonsils:49:0, Sore Throat:8:0, Fever:16:0, Cough:17:0
+79 |  | Alcoholism | 0 | 
+79 |  | Prediabetes | 0 | 
+79 |  | Refugee (person) | 0 | 
+79 |  | Served in armed forces (finding) | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+80 |  | Alcoholism | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Refugee (person) | 0 | 
+80 |  | Served in armed forces (finding) | 0 | 
+80 | 81 | Not in labor force (finding) | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 | 81 | Stress (finding) | 0 | 
+80 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+81 |  | Alcoholism | 0 | 
+81 |  | Prediabetes | 0 | 
+81 |  | Refugee (person) | 0 | 
+81 |  | Served in armed forces (finding) | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+82 |  | Alcoholism | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Refugee (person) | 0 | 
+82 |  | Served in armed forces (finding) | 0 | 
+82 | 83 | Victim of intimate partner abuse (finding) | 0 | 
+82 |  | Housing unsatisfactory (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+83 |  | Alcoholism | 0 | 
+83 |  | Prediabetes | 0 | 
+83 |  | Refugee (person) | 0 | 
+83 |  | Served in armed forces (finding) | 0 | 
+83 |  | Housing unsatisfactory (finding) | 0 | 
+83 |  | Reports of violence in the environment (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

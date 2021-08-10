@@ -1,0 +1,54 @@
+Reyes Schaefer
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1978-04-13
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+34 | 35 | Not in labor force (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+35 | 35 | Facial laceration | 0 | 
+35 |  | Chronic low back pain (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+35 |  | Chronic low back pain (finding) | 0 | 
+36 |  | Chronic low back pain (finding) | 0 | 
+36 |  | Prediabetes | 0 | 
+36 | 37 | Part-time employment (finding) | 0 | 
+36 | 42 | Victim of intimate partner abuse (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+36 | 37 | Stress (finding) | 0 | 
+37 |  | Prediabetes | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+38 |  | Prediabetes | 0 | 
+38 | 39 | Full-time employment (finding) | 0 | 
+38 |  | Received higher education (finding) | 0 | 
+38 | 39 | Stress (finding) | 0 | 
+39 | 39 | Viral sinusitis (disorder) | 9 | Sinus Pain:50:0, Headache:13:0, Pain with Bright Lights:28:0, Facial Swelling:4:0, Nasal Discharge:18:0, Nasal Congestion:7:0, Fever:19:0, Sore Throat:13:0, Cough:25:0
+39 |  | Prediabetes | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Received higher education (finding) | 0 | 
+39 | 40 | Social isolation (finding) | 0 | 
+40 |  | Prediabetes | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 |  | Stress (finding) | 0 | 
+41 |  | Fever (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+41 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+41 |  | Loss of taste (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+41 | 41 | Suspected COVID-19 | 0 | 
+41 |  | COVID-19 | 0 | 
+41 |  | Prediabetes | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+41 | 42 | Social isolation (finding) | 0 | 
+41 |  | Stress (finding) | 0 | 
+42 |  | Prediabetes | 0 | 
+42 |  | Part-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,51 @@
+Kirby Kutch
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1933-09-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+74 |  | Body mass index 30+ - obesity (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+75 |  | Body mass index 30+ - obesity (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+76 | 76 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:21:0, Body Aches:1:0, Runny/Stuffy Nose:45:0, Fatigue:38:0, Swollen Lymph Nodes:17:0, Swollen Tonsils:13:0, Decreased Appetite:41:0, Cough:41:0, Sore Throat:18:0, Fever:28:0
+76 |  | Body mass index 30+ - obesity (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+77 |  | Body mass index 30+ - obesity (finding) | 0 | 
+77 | 78 | Part-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+78 |  | Body mass index 30+ - obesity (finding) | 0 | 
+78 | 83 | Reports of violence in the environment (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 79 | Closed fracture of hip | 0 | 
+79 |  | Body mass index 30+ - obesity (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+80 |  | Body mass index 30+ - obesity (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 |  | Body mass index 30+ - obesity (finding) | 0 | 
+81 | 83 | Limited social contact (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+82 |  | Body mass index 30+ - obesity (finding) | 0 | 
+82 | 83 | Part-time employment (finding) | 0 | 
+82 | 83 | Victim of intimate partner abuse (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 | 82 | Viral sinusitis (disorder) | 9 | Sinus Pain:60:0, Headache:32:0, Pain with Bright Lights:43:0, Facial Swelling:27:0, Nasal Discharge:2:0, Nasal Congestion:9:0, Cough:11:0, Sore Throat:29:0, Fever:11:0
+83 |  | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

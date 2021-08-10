@@ -1,0 +1,59 @@
+Shemeka Mueller
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1932-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+72 |  | Prediabetes | 0 | 
+72 | 73 | Part-time employment (finding) | 0 | 
+72 | 81 | Victim of intimate partner abuse (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Limited social contact (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Social isolation (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Limited social contact (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 |  | Drug overdose | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 | 77 | Fracture of clavicle | 0 | 
+77 | 77 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 | 78 | Part-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 | 78 | Social isolation (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 | 79 | Stress (finding) | 0 | 
+78 | 79 | Fracture of forearm | 0 | 
+78 | 79 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 | 81 | Limited social contact (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 |  | Part-time employment (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 |  | Pneumonia | 0 | 
+--------------------------------------------------------------------------------

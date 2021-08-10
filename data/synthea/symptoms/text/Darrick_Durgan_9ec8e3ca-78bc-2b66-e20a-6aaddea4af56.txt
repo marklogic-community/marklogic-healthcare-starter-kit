@@ -1,0 +1,59 @@
+Darrick Durgan
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1915-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Reports of violence in the environment (finding) | 0 | 
+69 |  | Unemployed (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 |  | Cholelithiasis | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Unemployed (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 | 71 | Stress (finding) | 0 | 
+71 | 71 | Viral sinusitis (disorder) | 9 | Sinus Pain:69:0, Headache:45:0, Pain with Bright Lights:36:0, Facial Swelling:28:0, Nasal Discharge:4:0, Nasal Congestion:20:0, Fever:15:0, Sore Throat:42:0, Cough:33:0
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 78 | Reports of violence in the environment (finding) | 0 | 
+71 |  | Unemployed (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 | 71 | Viral sinusitis (disorder) | 9 | Sinus Pain:50:0, Headache:12:0, Pain with Bright Lights:41:0, Facial Swelling:18:0, Nasal Discharge:7:0, Nasal Congestion:23:0, Fever:23:0, Sore Throat:24:0, Cough:46:0
+72 |  | Body mass index 30+ - obesity (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Unemployed (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 | 73 | Fracture subluxation of wrist | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Unemployed (finding) | 0 | 
+73 | 77 | Victim of intimate partner abuse (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Unemployed (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+75 | 76 | Polyp of colon | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Unemployed (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 | 75 | First degree burn | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Body mass index 30+ - obesity (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Victim of intimate partner abuse (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

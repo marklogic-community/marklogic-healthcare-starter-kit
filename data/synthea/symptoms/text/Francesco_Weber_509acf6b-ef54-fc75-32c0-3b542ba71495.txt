@@ -1,0 +1,29 @@
+Francesco Weber
+===============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1995-07-09
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+16 | 16 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:10:0, Pain with Bright Lights:44:0, Facial Swelling:38:0, Nasal Discharge:40:0, Nasal Congestion:11:0, Cough:8:0, Sore Throat:39:0, Fever:10:0
+17 | 17 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:11:0, Fatigue:57:0, Mucus:47:0, Nasal Congestion:38:0, Shortness of Breath:35:0, Nausea/Vomiting:19:0, Cough:49:0, Sore Throat:42:0, Fever:43:0
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 | 19 | Stress (finding) | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 | 20 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:1:0, Body Aches:42:0, Runny/Stuffy Nose:46:0, Fatigue:30:0, Swollen Lymph Nodes:2:0, Swollen Tonsils:41:0, Decreased Appetite:43:0, Cough:17:0, Sore Throat:8:0, Fever:48:0
+22 | 25 | Limited social contact (finding) | 0 | 
+22 | 25 | Full-time employment (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 | 25 | Stress (finding) | 0 | 
+22 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+24 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+24 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+24 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+24 | 24 | Suspected COVID-19 | 0 | 
+24 |  | COVID-19 | 0 | 
+25 |  | Full-time employment (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

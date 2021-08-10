@@ -1,0 +1,48 @@
+Adolfo Jaskolski
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1999-02-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+12 | 12 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:36:0, Body Aches:20:0, Runny/Stuffy Nose:48:0, Fatigue:6:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:45:0, Decreased Appetite:11:0, Fever:41:0, Sore Throat:42:0, Cough:3:0
+16 | 16 | Sprain of wrist | 0 | 
+16 | 16 | Viral sinusitis (disorder) | 9 | Sinus Pain:65:0, Headache:41:0, Pain with Bright Lights:48:0, Facial Swelling:36:0, Nasal Discharge:5:0, Nasal Congestion:9:0, Fever:17:0, Sore Throat:35:0, Cough:44:0
+18 | 18 | Fracture of ankle | 0 | 
+18 |  | Hypertension | 0 | 
+18 | 19 | Part-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 19 | Social isolation (finding) | 0 | 
+18 | 21 | Stress (finding) | 0 | 
+18 | 18 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:19:0, Runny/Stuffy Nose:17:0, Fatigue:43:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:22:0, Decreased Appetite:17:0, Fever:44:0, Sore Throat:24:0, Cough:0:0
+19 |  | Body mass index 30+ - obesity (finding) | 0 | 
+19 | 20 | Part-time employment (finding) | 0 | 
+19 | 22 | Victim of intimate partner abuse (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+20 |  | Body mass index 30+ - obesity (finding) | 0 | 
+20 | 20 | Limited social contact (finding) | 0 | 
+20 | 20 | Full-time employment (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 |  | Victim of intimate partner abuse (finding) | 0 | 
+20 | 20 | Viral sinusitis (disorder) | 9 | Sinus Pain:62:0, Headache:34:0, Pain with Bright Lights:33:0, Facial Swelling:6:0, Nasal Discharge:5:0, Nasal Congestion:10:0, Fever:16:0, Sore Throat:29:0, Cough:15:0
+20 | 20 | Viral sinusitis (disorder) | 9 | Sinus Pain:75:0, Headache:11:0, Pain with Bright Lights:48:0, Facial Swelling:32:0, Nasal Discharge:31:0, Nasal Congestion:18:0, Fever:3:0, Sore Throat:46:0, Cough:38:0
+20 |  | Body mass index 30+ - obesity (finding) | 0 | 
+20 | 21 | Full-time employment (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 | 22 | Misuses drugs (finding) | 0 | 
+21 |  | Fever (finding) | 3 | fever:1, headache:1, cough:1
+21 |  | Headache (finding) | 3 | fever:1, headache:1, cough:1
+21 |  | Cough (finding) | 3 | fever:1, headache:1, cough:1
+21 | 21 | Suspected COVID-19 | 0 | 
+21 |  | COVID-19 | 0 | 
+21 |  | Body mass index 30+ - obesity (finding) | 0 | 
+21 |  | Limited social contact (finding) | 0 | 
+21 | 22 | Not in labor force (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+22 |  | Body mass index 30+ - obesity (finding) | 0 | 
+22 |  | Limited social contact (finding) | 0 | 
+22 |  | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

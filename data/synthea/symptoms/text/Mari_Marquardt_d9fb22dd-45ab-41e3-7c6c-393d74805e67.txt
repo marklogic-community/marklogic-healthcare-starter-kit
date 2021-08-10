@@ -1,0 +1,365 @@
+Mari Marquardt
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1949-10-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 61 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 | 61 | Stress (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 | 62 | Part-time employment (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 | 62 | Stress (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 | 62 | Limited social contact (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Social isolation (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 | 62 | Not in labor force (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 | 63 | Stress (finding) | 0 | 
+62 | 63 | Social isolation (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 | 63 | Part-time employment (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 71 | Victim of intimate partner abuse (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 | 63 | Not in labor force (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 63 | Stress (finding) | 0 | 
+63 | 71 | Severe anxiety (panic) (finding | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 | 63 | Part-time employment (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 64 | Social isolation (finding) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 | 64 | Part-time employment (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 | 64 | Stress (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 | 64 | Not in labor force (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 | 65 | Not in labor force (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 | 65 | Part-time employment (finding) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 | 66 | Social isolation (finding) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 65 | Full-time employment (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 65 | Full-time employment (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 | 65 | Stress (finding) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 65 | Full-time employment (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 | 66 | Part-time employment (finding) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 | 67 | Social isolation (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 | 66 | Part-time employment (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 | 67 | Not in labor force (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 | 67 | Not in labor force (finding) | 0 | 
+67 |  | Limited social contact (finding) | 0 | 
+67 | 71 | Reports of violence in the environment (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 | 67 | Limited social contact (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 | 68 | Stress (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 | 67 | Part-time employment (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 | 69 | Polyp of colon | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Victim of intimate partner abuse (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 | 69 | Social isolation (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 | 68 | Stress (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 | 69 | Part-time employment (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 | 69 | Stress (finding) | 0 | 
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 | 69 | Not in labor force (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 | 69 | Stress (finding) | 0 | 
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 | 69 | Part-time employment (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 | 69 | Part-time employment (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 | 71 | Limited social contact (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 | 70 | Stress (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 | 70 | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 | 70 | Stress (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 | 70 | Stress (finding) | 0 | 
+70 |  | Dyspnea (finding) | 3 | fatigue:1, fever:1, dyspnea:1
+70 |  | Fever (finding) | 3 | fatigue:1, fever:1, dyspnea:1
+70 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, dyspnea:1
+70 |  | Wheezing (finding) | 3 | fatigue:1, fever:1, dyspnea:1
+70 | 70 | Suspected COVID-19 | 0 | 
+70 |  | COVID-19 | 0 | 
+70 |  | Respiratory distress (finding) | 0 | 
+70 |  | Pneumonia (disorder) | 0 | 
+70 |  | Hypoxemia (disorder) | 0 | 
+70 |  | Acute pulmonary embolism (disorder) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 | 70 | Stress (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 | 70 | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 | 70 | Stress (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 | 71 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 | 71 | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 | 71 | Not in labor force (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 | 71 | Limited social contact (finding) | 0 | 
+71 | 71 | Reports of violence in the environment (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 | 71 | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

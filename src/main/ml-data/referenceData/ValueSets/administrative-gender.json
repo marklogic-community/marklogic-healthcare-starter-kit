@@ -1,0 +1,17 @@
+{
+  "valueSet": {
+      "valueSetName": "AdministrativeGender",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/administrative-gender",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-administrative-gender.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "The gender of a person used for administrative purposes.",
+      "valueSetConcepts": {
+          "M": {"code": "male", "display": "Male", "definition": "Male."},
+          "F": {"code": "female", "display": "Female", "definition": "Female."},
+          "O": {"code": "other", "display": "Other", "definition": "Other."},
+          "U": {"code": "unknown", "display": "Unknown", "definition": "Unknown."}
+      }
+  }
+}

@@ -1,0 +1,51 @@
+Rickie Schoen
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1994-11-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 |  | Hypertension | 0 | 
+18 | 19 | Not in labor force (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 19 | Social isolation (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 20 | Stress (finding) | 0 | 
+19 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+20 | 21 | Part-time employment (finding) | 0 | 
+20 | 24 | Limited social contact (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+21 | 21 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:43:0, Body Aches:20:0, Runny/Stuffy Nose:25:0, Fatigue:37:0, Swollen Lymph Nodes:13:0, Swollen Tonsils:4:0, Decreased Appetite:27:0, Sore Throat:0:0, Cough:7:0, Fever:32:0
+21 | 22 | Part-time employment (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+21 | 22 | Stress (finding) | 0 | 
+22 | 23 | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Victim of intimate partner abuse (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+23 | 24 | Stress (finding) | 0 | 
+24 | 24 | Second degree burn | 0 | 
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+25 |  | Limited social contact (finding) | 0 | 
+25 | 26 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 | 26 | Stress (finding) | 0 | 
+25 |  | Dyspnea (finding) | 6 | conjunctival congestion:1, fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+25 |  | Fever (finding) | 6 | conjunctival congestion:1, fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+25 |  | Fatigue (finding) | 6 | conjunctival congestion:1, fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+25 |  | Passive conjunctival congestion (finding) | 6 | conjunctival congestion:1, fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+25 |  | Wheezing (finding) | 6 | conjunctival congestion:1, fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+25 |  | Cough (finding) | 6 | conjunctival congestion:1, fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+25 |  | Loss of taste (finding) | 6 | conjunctival congestion:1, fatigue:1, fever:1, dyspnea:1, loss_of_taste:1, cough:1
+25 | 25 | Suspected COVID-19 | 0 | 
+25 |  | COVID-19 | 0 | 
+25 | 26 | Fracture subluxation of wrist | 0 | 
+26 |  | Body mass index 30+ - obesity (finding) | 0 | 
+26 |  | Not in labor force (finding) | 0 | 
+26 |  | Limited social contact (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

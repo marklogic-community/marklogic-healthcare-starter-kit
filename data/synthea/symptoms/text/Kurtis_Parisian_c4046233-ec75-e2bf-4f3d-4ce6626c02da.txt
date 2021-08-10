@@ -1,0 +1,18 @@
+Kurtis Parisian
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2004-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Otitis media | 0 | 
+1 | 1 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:12:0, Fatigue:25:0, Mucus:49:0, Nasal Congestion:29:0, Shortness of Breath:54:0, Nausea/Vomiting:19:0, Sore Throat:44:0, Fever:30:0, Cough:62:0
+4 |  | Appendicitis | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Loss of Appetite:0, Fever:0, Bloating/Gas:0
+4 |  | History of appendectomy | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Loss of Appetite:0, Fever:0, Bloating/Gas:0
+8 | 8 | Viral sinusitis (disorder) | 9 | Headache:44:0, Sinus Pain:70:0, Pain with Bright Lights:47:0, Facial Swelling:23:0, Nasal Discharge:0:0, Nasal Congestion:2:0, Sore Throat:40:0, Fever:18:0, Cough:4:0
+10 | 10 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:46:0, Body Aches:10:0, Runny/Stuffy Nose:29:0, Fatigue:47:0, Swollen Lymph Nodes:15:0, Swollen Tonsils:13:0, Decreased Appetite:36:0, Sore Throat:47:0, Fever:3:0, Cough:18:0
+10 | 10 | Whiplash injury to neck | 0 | 
+11 | 11 | Viral sinusitis (disorder) | 9 | Headache:6:0, Sinus Pain:54:0, Pain with Bright Lights:32:0, Facial Swelling:9:0, Nasal Discharge:8:0, Nasal Congestion:0:0, Sore Throat:23:0, Fever:10:0, Cough:44:0
+11 |  | Laceration of thigh | 0 | 
+--------------------------------------------------------------------------------

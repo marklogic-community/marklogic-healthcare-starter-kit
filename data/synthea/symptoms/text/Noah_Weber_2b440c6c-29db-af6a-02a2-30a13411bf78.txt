@@ -1,0 +1,38 @@
+Noah Weber
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1979-10-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Chronic low back pain (finding) | 0 | 
+34 |  | Chronic neck pain (finding) | 0 | 
+34 |  | Chronic low back pain (finding) | 0 | 
+34 |  | Chronic neck pain (finding) | 0 | 
+35 | 36 | Limited social contact (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+35 | 35 | Acute bronchitis (disorder) | 10 | Body Aches:3:0, Diarrhea:3:0, Fatigue:33:0, Mucus:30:0, Nasal Congestion:38:0, Shortness of Breath:42:0, Nausea/Vomiting:22:0, Fever:25:0, Sore Throat:43:0, Cough:33:0
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+37 | 39 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 | 41 | Social isolation (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 |  | Stress (finding) | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Received certificate of high school equivalency (finding) | 0 | 
+39 |  | Stress (finding) | 0 | 
+40 | 41 | Reports of violence in the environment (finding) | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 | 41 | Stress (finding) | 0 | 
+41 |  | Not in labor force (finding) | 0 | 
+41 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

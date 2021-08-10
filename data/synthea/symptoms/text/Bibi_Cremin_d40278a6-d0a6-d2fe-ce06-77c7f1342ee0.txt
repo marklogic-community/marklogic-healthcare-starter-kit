@@ -1,0 +1,23 @@
+Bibi Cremin
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2013-06-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Viral sinusitis (disorder) | 9 | Sinus Pain:60:0, Headache:42:0, Pain with Bright Lights:42:0, Facial Swelling:30:0, Nasal Discharge:39:0, Nasal Congestion:8:0, Fever:21:0, Sore Throat:19:0, Cough:41:0
+0 | 0 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:21:0, Pain with Bright Lights:26:0, Facial Swelling:41:0, Nasal Discharge:35:0, Nasal Congestion:15:0, Fever:13:0, Sore Throat:17:0, Cough:11:0
+1 | 1 | Concussion with loss of consciousness | 0 | 
+1 | 1 | Viral sinusitis (disorder) | 9 | Sinus Pain:50:0, Headache:19:0, Pain with Bright Lights:46:0, Facial Swelling:17:0, Nasal Discharge:46:0, Nasal Congestion:5:0, Fever:0:0, Sore Throat:1:0, Cough:10:0
+5 | 5 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:26:0, Body Aches:31:0, Runny/Stuffy Nose:15:0, Fatigue:3:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:20:0, Decreased Appetite:47:0, Fever:48:0, Sore Throat:35:0, Cough:0:0
+5 | 5 | Otitis media | 0 | 
+6 | 6 | Sprain of ankle | 0 | 
+6 | 6 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:32:0, Body Aches:16:0, Runny/Stuffy Nose:6:0, Fatigue:33:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:36:0, Decreased Appetite:0:0, Fever:36:0, Sore Throat:43:0, Cough:27:0
+6 |  | Sore throat symptom (finding) | 1 | sore throat:1
+6 | 6 | Suspected COVID-19 | 0 | 
+6 |  | COVID-19 | 0 | 
+7 | 7 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:23:0, Pain with Bright Lights:29:0, Facial Swelling:7:0, Nasal Discharge:35:0, Nasal Congestion:0:0, Fever:6:0, Sore Throat:6:0, Cough:0:0
+7 | 7 | Acute bronchitis (disorder) | 10 | Body Aches:9:0, Diarrhea:0:0, Fatigue:70:0, Mucus:29:0, Nasal Congestion:29:0, Shortness of Breath:29:0, Nausea/Vomiting:2:0, Fever:39:0, Sore Throat:48:0, Cough:25:0
+8 |  | Fracture of ankle | 0 | 
+--------------------------------------------------------------------------------

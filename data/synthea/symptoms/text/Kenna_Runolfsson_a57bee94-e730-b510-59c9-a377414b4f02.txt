@@ -1,0 +1,94 @@
+Kenna Runolfsson
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1958-12-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+53 |  | Prediabetes | 0 | 
+53 |  | Refugee (person) | 0 | 
+53 | 62 | Limited social contact (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Refugee (person) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 | 55 | Viral sinusitis (disorder) | 9 | Headache:0:0, Sinus Pain:54:0, Pain with Bright Lights:45:0, Facial Swelling:7:0, Nasal Discharge:44:0, Nasal Congestion:23:0, Sore Throat:3:0, Cough:40:0, Fever:16:0
+55 |  | Prediabetes | 0 | 
+55 |  | Refugee (person) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 55 | Stress (finding) | 0 | 
+55 | 55 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:10:0, Fatigue:72:0, Mucus:38:0, Nasal Congestion:42:0, Shortness of Breath:74:0, Nausea/Vomiting:22:0, Sore Throat:30:0, Cough:52:0, Fever:47:0
+55 |  | Prediabetes | 0 | 
+55 |  | Refugee (person) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Refugee (person) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+56 | 62 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+56 | 56 | Viral sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:52:0, Pain with Bright Lights:44:0, Facial Swelling:27:0, Nasal Discharge:21:0, Nasal Congestion:4:0, Sore Throat:6:0, Cough:16:0, Fever:23:0
+56 | 56 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:17:0, Fatigue:55:0, Mucus:39:0, Nasal Congestion:43:0, Shortness of Breath:52:0, Nausea/Vomiting:13:0, Sore Throat:42:0, Cough:71:0, Fever:37:0
+56 |  | Prediabetes | 0 | 
+56 |  | Refugee (person) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 57 | Stress (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Refugee (person) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 |  | Severe anxiety (panic) (finding | 0 | 
+57 | 57 | Concussion with no loss of consciousness | 0 | 
+57 | 57 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:38:0, Body Aches:48:0, Runny/Stuffy Nose:21:0, Fatigue:33:0, Swollen Lymph Nodes:44:0, Swollen Tonsils:16:0, Decreased Appetite:18:0, Sore Throat:33:0, Cough:3:0, Fever:28:0
+58 |  | Prediabetes | 0 | 
+58 |  | Refugee (person) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 | 60 | Part-time employment (finding) | 0 | 
+59 |  | Refugee (person) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 | 61 | Stress (finding) | 0 | 
+59 | 59 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:5:0, Body Aches:0:0, Runny/Stuffy Nose:30:0, Fatigue:41:0, Swollen Lymph Nodes:2:0, Swollen Tonsils:40:0, Decreased Appetite:24:0, Sore Throat:41:0, Cough:37:0, Fever:1:0
+60 |  | Prediabetes | 0 | 
+60 |  | Refugee (person) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 60 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:42:0, Runny/Stuffy Nose:6:0, Fatigue:10:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:12:0, Decreased Appetite:37:0, Sore Throat:40:0, Cough:2:0, Fever:13:0
+61 |  | Prediabetes | 0 | 
+61 |  | Refugee (person) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Fever (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+61 |  | Sore throat symptom (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+61 |  | Cough (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+61 |  | Loss of taste (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+61 | 61 | Suspected COVID-19 | 0 | 
+61 |  | COVID-19 | 0 | 
+62 |  | Prediabetes | 0 | 
+62 |  | Refugee (person) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 |  | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

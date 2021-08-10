@@ -1,0 +1,62 @@
+Forest Hamill
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1937-07-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+74 |  | Prediabetes | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 | 76 | Limited social contact (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 77 | Stress (finding) | 0 | 
+74 | 76 | Polyp of colon | 0 | 
+75 | 75 | Fracture of rib | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 78 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 | 78 | Limited social contact (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+78 | 78 | Laceration of hand | 0 | 
+78 | 78 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:12:0, Fatigue:69:0, Mucus:29:0, Nasal Congestion:45:0, Shortness of Breath:74:0, Nausea/Vomiting:16:0, Sore Throat:36:0, Fever:43:0, Cough:56:0
+78 |  | Prediabetes | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 79 | Stress (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 80 | Limited social contact (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 78 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:18:0, Body Aches:40:0, Runny/Stuffy Nose:17:0, Fatigue:21:0, Swollen Lymph Nodes:34:0, Swollen Tonsils:17:0, Decreased Appetite:2:0, Sore Throat:25:0, Fever:26:0, Cough:44:0
+79 |  | Prediabetes | 0 | 
+79 | 80 | Not in labor force (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Social isolation (finding) | 0 | 
+81 | 82 | Stress (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 | 83 | Part-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 | 83 | Social isolation (finding) | 0 | 
+82 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+82 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+82 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+82 | 82 | Suspected COVID-19 | 0 | 
+82 |  | COVID-19 | 0 | 
+83 |  | Prediabetes | 0 | 
+83 |  | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Victim of intimate partner abuse (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+Tereasa Vandervort
+==================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1980-08-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+32 | 32 | Viral sinusitis (disorder) | 9 | Headache:21:0, Sinus Pain:73:0, Pain with Bright Lights:30:0, Facial Swelling:26:0, Nasal Discharge:18:0, Nasal Congestion:15:0, Sore Throat:9:0, Cough:6:0, Fever:0:0
+34 | 34 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:8:0, Body Aches:34:0, Runny/Stuffy Nose:10:0, Fatigue:40:0, Swollen Lymph Nodes:5:0, Swollen Tonsils:26:0, Decreased Appetite:34:0, Sore Throat:17:0, Cough:30:0, Fever:36:0
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 |  | Unemployed (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 | 35 | Normal pregnancy | 0 | 
+37 |  | Has a criminal record (finding) | 0 | 
+37 |  | Unemployed (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 | 40 | Stress (finding) | 0 | 
+39 | 40 | Normal pregnancy | 0 | 
+39 |  | Fever (finding) | 2 | fatigue:1, fever:1
+39 |  | Fatigue (finding) | 2 | fatigue:1, fever:1
+39 | 39 | Suspected COVID-19 | 0 | 
+39 |  | COVID-19 | 0 | 
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Has a criminal record (finding) | 0 | 
+40 |  | Unemployed (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

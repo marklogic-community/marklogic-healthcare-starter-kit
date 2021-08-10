@@ -1,0 +1,45 @@
+Corrie Williamson
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1957-12-27
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+54 |  | Unemployed (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Unemployed (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 | 57 | Stress (finding) | 0 | 
+55 | 63 | Social isolation (finding) | 0 | 
+56 |  | Unemployed (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Chronic low back pain (finding) | 0 | 
+56 |  | Fibromyalgia (disorder) | 0 | 
+56 | 56 | Acute bronchitis (disorder) | 10 | Body Aches:17:0, Diarrhea:16:0, Fatigue:72:0, Mucus:34:0, Nasal Congestion:34:0, Shortness of Breath:64:0, Nausea/Vomiting:4:0, Cough:40:0, Sore Throat:39:0, Fever:36:0
+57 |  | Unemployed (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 | 63 | Reports of violence in the environment (finding) | 0 | 
+58 |  | Unemployed (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 | 59 | Stress (finding) | 0 | 
+59 |  | Unemployed (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 | 59 | Viral sinusitis (disorder) | 9 | Sinus Pain:79:0, Headache:16:0, Pain with Bright Lights:32:0, Facial Swelling:27:0, Nasal Discharge:46:0, Nasal Congestion:6:0, Cough:31:0, Sore Throat:36:0, Fever:23:0
+60 |  | Unemployed (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 |  | Hyperlipidemia | 1 | weight gain:1
+61 | 61 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:35:0, Runny/Stuffy Nose:16:0, Fatigue:31:0, Swollen Lymph Nodes:4:0, Swollen Tonsils:25:0, Decreased Appetite:23:0, Cough:40:0, Sore Throat:22:0, Fever:25:0
+61 |  | Unemployed (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+62 |  | Unemployed (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 | 62 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:22:0, Pain with Bright Lights:43:0, Facial Swelling:21:0, Nasal Discharge:30:0, Nasal Congestion:0:0, Cough:40:0, Sore Throat:36:0, Fever:17:0
+63 |  | Unemployed (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

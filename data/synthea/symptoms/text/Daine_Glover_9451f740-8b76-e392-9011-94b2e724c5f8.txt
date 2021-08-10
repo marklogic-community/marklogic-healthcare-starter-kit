@@ -1,0 +1,11 @@
+Daine Glover
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1933-09-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:37:0, Pain with Bright Lights:40:0, Facial Swelling:46:0, Nasal Discharge:14:0, Nasal Congestion:14:0, Fever:4:0, Sore Throat:6:0, Cough:22:0
+0 | 0 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:21:0, Body Aches:21:0, Runny/Stuffy Nose:3:0, Fatigue:45:0, Swollen Lymph Nodes:67:0, Swollen Tonsils:61:0, Decreased Appetite:18:0, Fever:1:0, Sore Throat:15:0, Cough:0:0
+--------------------------------------------------------------------------------

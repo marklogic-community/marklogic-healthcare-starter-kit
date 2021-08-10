@@ -1,0 +1,59 @@
+Martin VonRueden
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1957-09-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 | 55 | Social isolation (finding) | 0 | 
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+56 | 56 | Viral sinusitis (disorder) | 9 | Headache:5:0, Sinus Pain:76:0, Pain with Bright Lights:27:0, Facial Swelling:48:0, Nasal Discharge:7:0, Nasal Congestion:10:0, Sore Throat:44:0, Cough:10:0, Fever:11:0
+56 |  | Body mass index 30+ - obesity (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 58 | Stress (finding) | 0 | 
+56 | 58 | Social isolation (finding) | 0 | 
+56 |  | Body mass index 30+ - obesity (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+57 |  | Body mass index 30+ - obesity (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Drug overdose | 0 | 
+58 |  | Drug overdose | 0 | 
+58 |  | Body mass index 30+ - obesity (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+59 |  | Body mass index 30+ - obesity (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 |  | Social isolation (finding) | 0 | 
+60 | 61 | Part-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 | 62 | Social isolation (finding) | 0 | 
+61 | 62 | Part-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+62 |  | Muscle pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, dyspnea:1
+62 |  | Dyspnea (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, dyspnea:1
+62 |  | Fever (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, dyspnea:1
+62 |  | Fatigue (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, dyspnea:1
+62 |  | Wheezing (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, dyspnea:1
+62 |  | Joint pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, dyspnea:1
+62 | 62 | Suspected COVID-19 | 0 | 
+62 |  | COVID-19 | 0 | 
+62 |  | Acute respiratory failure (disorder) | 0 | 
+62 |  | Respiratory distress (finding) | 0 | 
+62 |  | Pneumonia (disorder) | 0 | 
+62 |  | Hypoxemia (disorder) | 0 | 
+62 |  | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

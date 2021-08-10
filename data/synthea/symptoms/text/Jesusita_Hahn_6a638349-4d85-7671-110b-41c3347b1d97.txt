@@ -1,0 +1,16 @@
+Jesusita Hahn
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1991-12-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:10:0, Body Aches:31:0, Runny/Stuffy Nose:29:0, Fatigue:26:0, Swollen Lymph Nodes:22:0, Swollen Tonsils:20:0, Decreased Appetite:2:0, Cough:0:0, Sore Throat:29:0, Fever:20:0
+1 | 2 | Sprain of wrist | 0 | 
+4 | 4 | Otitis media | 0 | 
+5 | 5 | Otitis media | 0 | 
+7 |  | History of single seizure (situation) | 0 | 
+7 |  | Seizure disorder | 0 | 
+8 | 8 | Sinusitis (disorder) | 9 | Sinus Pain:42:0, Headache:17:0, Pain with Bright Lights:29:0, Facial Swelling:42:0, Nasal Discharge:1:0, Nasal Congestion:11:0, Cough:6:0, Sore Throat:14:0, Fever:10:0
+--------------------------------------------------------------------------------

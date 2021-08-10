@@ -1,0 +1,73 @@
+Palmer Barrows
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1934-08-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+69 |  | Body mass index 30+ - obesity (finding) | 0 | 
+69 |  | Served in armed forces (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 | 70 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:32:0, Body Aches:38:0, Runny/Stuffy Nose:19:0, Fatigue:35:0, Swollen Lymph Nodes:8:0, Swollen Tonsils:3:0, Decreased Appetite:26:0, Sore Throat:15:0, Cough:35:0, Fever:38:0
+70 |  | Body mass index 30+ - obesity (finding) | 0 | 
+70 |  | Served in armed forces (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 |  | Body mass index 30+ - obesity (finding) | 0 | 
+71 |  | Served in armed forces (finding) | 0 | 
+71 | 79 | Reports of violence in the environment (finding) | 0 | 
+71 | 73 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+73 |  | Body mass index 30+ - obesity (finding) | 0 | 
+73 |  | Served in armed forces (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+73 | 73 | Fracture of clavicle | 0 | 
+74 |  | Body mass index 30+ - obesity (finding) | 0 | 
+74 |  | Served in armed forces (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+75 |  | Body mass index 30+ - obesity (finding) | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 | 75 | Laceration of thigh | 0 | 
+76 |  | Body mass index 30+ - obesity (finding) | 0 | 
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Served in armed forces (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Body mass index 30+ - obesity (finding) | 0 | 
+77 | 78 | Part-time employment (finding) | 0 | 
+77 |  | Served in armed forces (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 | 77 | Sinusitis (disorder) | 9 | Headache:9:0, Sinus Pain:35:0, Pain with Bright Lights:30:0, Facial Swelling:42:0, Nasal Discharge:39:0, Nasal Congestion:20:0, Sore Throat:39:0, Cough:0:0, Fever:11:0
+78 |  | Body mass index 30+ - obesity (finding) | 0 | 
+78 | 78 | Part-time employment (finding) | 0 | 
+78 |  | Served in armed forces (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 |  | Suspected lung cancer (situation) | 2 | Chest Pain:69, Cough:98
+78 |  | Small cell carcinoma of lung (disorder) | 0 | 
+78 |  | Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder) | 0 | 
+78 | 78 | Viral sinusitis (disorder) | 9 | Headache:8:0, Sinus Pain:61:0, Pain with Bright Lights:37:0, Facial Swelling:13:0, Nasal Discharge:34:0, Nasal Congestion:22:0, Sore Throat:22:0, Cough:22:0, Fever:8:0
+78 |  | Body mass index 30+ - obesity (finding) | 0 | 
+78 |  | Served in armed forces (finding) | 0 | 
+78 | 79 | Limited social contact (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 79 | Stress (finding) | 0 | 
+78 | 79 | Severe anxiety (panic) (finding | 0 | 
+79 |  | Body mass index 30+ - obesity (finding) | 0 | 
+79 |  | Served in armed forces (finding) | 0 | 
+79 |  | Not in labor force (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

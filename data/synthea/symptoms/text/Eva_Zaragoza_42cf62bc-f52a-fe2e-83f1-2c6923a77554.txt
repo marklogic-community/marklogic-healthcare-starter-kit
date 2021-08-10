@@ -1,0 +1,35 @@
+Eva Zaragoza
+============
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1989-08-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+22 | 25 | Not in labor force (finding) | 0 | 
+22 | 25 | Limited social contact (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 | 22 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:15:0, Fatigue:26:0, Mucus:34:0, Nasal Congestion:27:0, Shortness of Breath:36:0, Nausea/Vomiting:19:0, Sore Throat:37:0, Fever:46:0, Cough:33:0
+22 | 22 | Normal pregnancy | 0 | 
+25 | 25 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:62:0, Pain with Bright Lights:45:0, Facial Swelling:7:0, Nasal Discharge:45:0, Nasal Congestion:5:0, Sore Throat:27:0, Fever:16:0, Cough:22:0
+25 | 28 | Full-time employment (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 | 28 | Stress (finding) | 0 | 
+26 | 26 | Normal pregnancy | 0 | 
+26 | 26 | Fracture subluxation of wrist | 0 | 
+27 | 28 | Normal pregnancy | 0 | 
+28 |  | Anemia (disorder) | 0 | 
+28 | 31 | Limited social contact (finding) | 0 | 
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+29 | 29 | Whiplash injury to neck | 0 | 
+30 |  | Fever (finding) | 4 | sore throat:1, fever:1, sputum production:1, cough:1
+30 |  | Sputum finding (finding) | 4 | sore throat:1, fever:1, sputum production:1, cough:1
+30 |  | Sore throat symptom (finding) | 4 | sore throat:1, fever:1, sputum production:1, cough:1
+30 |  | Cough (finding) | 4 | sore throat:1, fever:1, sputum production:1, cough:1
+30 | 30 | Suspected COVID-19 | 0 | 
+30 |  | COVID-19 | 0 | 
+31 |  | Part-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

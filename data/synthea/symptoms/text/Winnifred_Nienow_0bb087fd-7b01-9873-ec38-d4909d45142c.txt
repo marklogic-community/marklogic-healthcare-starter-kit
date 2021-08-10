@@ -1,0 +1,57 @@
+Winnifred Nienow
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1933-09-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+80 |  | Osteoporosis (disorder) | 0 | 
+80 | 81 | Not in labor force (finding) | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 | 82 | Not in labor force (finding) | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 | 82 | Stress (finding) | 0 | 
+82 |  | Housing unsatisfactory (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+83 |  | Housing unsatisfactory (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+84 | 86 | Limited social contact (finding) | 0 | 
+84 |  | Housing unsatisfactory (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+85 | 85 | Viral sinusitis (disorder) | 9 | Headache:15:0, Sinus Pain:53:0, Pain with Bright Lights:29:0, Facial Swelling:29:0, Nasal Discharge:14:0, Nasal Congestion:23:0, Sore Throat:23:0, Cough:11:0, Fever:13:0
+85 |  | Housing unsatisfactory (finding) | 0 | 
+85 | 86 | Full-time employment (finding) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+85 |  | Stress (finding) | 0 | 
+86 |  | Fever (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+86 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+86 |  | Cough (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+86 |  | Loss of taste (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+86 | 86 | Suspected COVID-19 | 0 | 
+86 |  | COVID-19 | 0 | 
+86 |  | Housing unsatisfactory (finding) | 0 | 
+86 |  | Full-time employment (finding) | 0 | 
+86 |  | Received higher education (finding) | 0 | 
+86 |  | Stress (finding) | 0 | 
+87 |  | Viral sinusitis (disorder) | 9 | Headache:34, Sinus Pain:52, Pain with Bright Lights:49, Facial Swelling:26, Nasal Discharge:34, Nasal Congestion:5, Sore Throat:32, Cough:27, Fever:13
+87 |  | Fracture of ankle | 0 | 
+87 |  | Pathological fracture due to osteoporosis (disorder) | 0 | 
+--------------------------------------------------------------------------------

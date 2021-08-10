@@ -1,0 +1,79 @@
+Milissa Lesch
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1987-03-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 | 26 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+26 | 27 | Normal pregnancy | 0 | 
+26 |  | Chronic low back pain (finding) | 2 | Sweating:94, Cognitive Difficulties:24
+26 |  | Chronic neck pain (finding) | 2 | Sweating:94, Cognitive Difficulties:24
+26 |  | Opioid abuse (disorder) | 2 | Sweating:94, Cognitive Difficulties:24
+26 |  | Opioid abuse (disorder) | 0 | 
+26 |  | Prediabetes | 0 | 
+26 | 27 | Part-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 | 28 | Stress (finding) | 0 | 
+26 |  | Opioid abuse (disorder) | 0 | 
+27 | 27 | Escherichia coli urinary tract infection | 7 | Frequent Urination:9:0, Urgent Desire to Urinate:15:0, Discolored Urine:1:0, Odor of Urine:1:0, Pelvic Pain:11:0, Fever:8:0, Dysuria:24:0
+27 |  | Opioid abuse (disorder) | 0 | 
+27 |  | Opioid abuse (disorder) | 0 | 
+27 |  | Opioid abuse (disorder) | 0 | 
+27 | 27 | Otitis media | 0 | 
+27 |  | Prediabetes | 0 | 
+27 | 28 | Part-time employment (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+28 | 28 | Normal pregnancy | 0 | 
+28 | 28 | Acute bacterial sinusitis (disorder) | 9 | Headache:43:0, Sinus Pain:57:0, Pain with Bright Lights:48:0, Facial Swelling:44:0, Nasal Discharge:32:0, Nasal Congestion:15:0, Sore Throat:48:0, Fever:12:0, Cough:47:0
+28 |  | Prediabetes | 0 | 
+28 | 28 | Not in labor force (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 29 | Social isolation (finding) | 0 | 
+28 |  | Miscarriage in second trimester | 0 | 
+28 | 28 | Fetus with chromosomal abnormality | 0 | 
+28 |  | Prediabetes | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+29 |  | Prediabetes | 0 | 
+29 | 31 | Part-time employment (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 31 | Stress (finding) | 0 | 
+30 | 31 | Viral sinusitis (disorder) | 9 | Headache:19:0, Sinus Pain:74:0, Pain with Bright Lights:40:0, Facial Swelling:36:0, Nasal Discharge:37:0, Nasal Congestion:15:0, Sore Throat:2:0, Fever:0:0, Cough:45:0
+31 |  | Prediabetes | 0 | 
+31 | 31 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Social isolation (finding) | 0 | 
+31 | 31 | Viral sinusitis (disorder) | 9 | Headache:35:0, Sinus Pain:62:0, Pain with Bright Lights:45:0, Facial Swelling:8:0, Nasal Discharge:45:0, Nasal Congestion:20:0, Sore Throat:31:0, Fever:5:0, Cough:34:0
+31 |  | Prediabetes | 0 | 
+31 |  | Limited social contact (finding) | 0 | 
+31 | 31 | Not in labor force (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 31 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:20:0, Fatigue:37:0, Mucus:28:0, Nasal Congestion:47:0, Shortness of Breath:65:0, Nausea/Vomiting:6:0, Sore Throat:25:0, Fever:28:0, Cough:27:0
+31 |  | Prediabetes | 0 | 
+31 | 32 | Part-time employment (finding) | 0 | 
+31 |  | Limited social contact (finding) | 0 | 
+31 | 34 | Victim of intimate partner abuse (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+32 |  | Prediabetes | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 | 34 | Reports of violence in the environment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+32 |  | Social isolation (finding) | 0 | 
+32 | 32 | Viral sinusitis (disorder) | 9 | Headache:6:0, Sinus Pain:61:0, Pain with Bright Lights:43:0, Facial Swelling:39:0, Nasal Discharge:42:0, Nasal Congestion:20:0, Sore Throat:38:0, Fever:6:0, Cough:7:0
+33 |  | Prediabetes | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 | 34 | Stress (finding) | 0 | 
+33 |  | Social isolation (finding) | 0 | 
+33 | 33 | Normal pregnancy | 0 | 
+33 | 33 | Escherichia coli urinary tract infection | 7 | Frequent Urination:18:0, Urgent Desire to Urinate:21:0, Discolored Urine:8:0, Odor of Urine:9:0, Pelvic Pain:0:0, Fever:4:0, Dysuria:14:0
+34 |  | Prediabetes | 0 | 
+34 |  | Not in labor force (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

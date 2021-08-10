@@ -1,0 +1,34 @@
+Terrance Cummings
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1995-03-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+16 | 16 | Viral sinusitis (disorder) | 9 | Headache:15:0, Sinus Pain:50:0, Pain with Bright Lights:28:0, Facial Swelling:1:0, Nasal Discharge:42:0, Nasal Congestion:8:0, Sore Throat:35:0, Fever:4:0, Cough:43:0
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 | 19 | Social isolation (finding) | 0 | 
+18 | 19 | Stress (finding) | 0 | 
+19 | 20 | Part-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 | 20 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:19:0, Fatigue:47:0, Mucus:30:0, Nasal Congestion:29:0, Shortness of Breath:40:0, Nausea/Vomiting:24:0, Sore Throat:31:0, Fever:49:0, Cough:59:0
+20 |  | Limited social contact (finding) | 0 | 
+20 | 22 | Full-time employment (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 | 25 | Stress (finding) | 0 | 
+22 |  | Has a criminal record (finding) | 0 | 
+22 | 25 | Full-time employment (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 | 25 | Social isolation (finding) | 0 | 
+24 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+24 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+24 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+24 | 24 | Suspected COVID-19 | 0 | 
+24 |  | COVID-19 | 0 | 
+25 |  | Has a criminal record (finding) | 0 | 
+25 |  | Full-time employment (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 | 25 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:48:0, Body Aches:43:0, Runny/Stuffy Nose:41:0, Fatigue:17:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:1:0, Decreased Appetite:45:0, Sore Throat:2:0, Fever:4:0, Cough:0:0
+--------------------------------------------------------------------------------

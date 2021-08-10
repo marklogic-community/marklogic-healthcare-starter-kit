@@ -1,0 +1,22 @@
+Thomas Denesik
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2011-03-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:32:0, Pain with Bright Lights:47:0, Facial Swelling:23:0, Nasal Discharge:47:0, Nasal Congestion:2:0, Fever:5:0, Sore Throat:17:0, Cough:2:0
+2 | 2 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:20:0, Pain with Bright Lights:46:0, Facial Swelling:40:0, Nasal Discharge:4:0, Nasal Congestion:0:0, Fever:12:0, Sore Throat:14:0, Cough:36:0
+3 | 3 | Viral sinusitis (disorder) | 9 | Sinus Pain:77:0, Headache:45:0, Pain with Bright Lights:35:0, Facial Swelling:3:0, Nasal Discharge:11:0, Nasal Congestion:2:0, Fever:23:0, Sore Throat:7:0, Cough:42:0
+4 |  | Childhood asthma | 6 | Mucus Secretion:7, Chest Pressure:46, Wheezing:50, Nasal Congestion:1, Shortness of Breath:31, Cough:15
+5 |  | Seasonal allergic rhinitis | 5 | Nasal Discharge:15, Ear Pressure:15, Nasal Congestion:15, Sneezing Fits:0, Itching:10
+5 | 5 | Whiplash injury to neck | 0 | 
+8 | 8 | Acute allergic reaction | 0 | 
+9 |  | Fever (finding) | 2 | fever:1, sputum production:1
+9 |  | Sputum finding (finding) | 2 | fever:1, sputum production:1
+9 | 9 | Suspected COVID-19 | 0 | 
+9 |  | COVID-19 | 0 | 
+9 | 9 | Sprain of ankle | 0 | 
+9 | 9 | Viral sinusitis (disorder) | 9 | Sinus Pain:66:0, Headache:26:0, Pain with Bright Lights:39:0, Facial Swelling:0:0, Nasal Discharge:3:0, Nasal Congestion:1:0, Fever:1:0, Sore Throat:31:0, Cough:40:0
+--------------------------------------------------------------------------------

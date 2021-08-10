@@ -1,0 +1,18 @@
+Brandi Schumm
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2013-08-11
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:11:0, Pain with Bright Lights:38:0, Facial Swelling:23:0, Nasal Discharge:18:0, Nasal Congestion:22:0, Fever:2:0, Sore Throat:9:0, Cough:14:0
+3 | 3 | Viral sinusitis (disorder) | 9 | Sinus Pain:58:0, Headache:48:0, Pain with Bright Lights:31:0, Facial Swelling:13:0, Nasal Discharge:38:0, Nasal Congestion:16:0, Fever:9:0, Sore Throat:49:0, Cough:7:0
+5 | 5 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:12:0, Fatigue:40:0, Mucus:31:0, Nasal Congestion:49:0, Shortness of Breath:48:0, Nausea/Vomiting:21:0, Fever:47:0, Sore Throat:40:0, Cough:63:0
+6 |  | Fever (finding) | 3 | fatigue:1, fever:1, sputum production:1
+6 |  | Sputum finding (finding) | 3 | fatigue:1, fever:1, sputum production:1
+6 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, sputum production:1
+6 | 6 | Suspected COVID-19 | 0 | 
+6 |  | COVID-19 | 0 | 
+6 | 7 | Fracture of forearm | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+Maynard Leannon
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1973-08-04
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 40 | Laceration of hand | 0 | 
+42 | 44 | Part-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 46 | Social isolation (finding) | 0 | 
+43 | 43 | Viral sinusitis (disorder) | 9 | Headache:29:0, Sinus Pain:64:0, Pain with Bright Lights:41:0, Facial Swelling:38:0, Nasal Discharge:26:0, Nasal Congestion:23:0, Sore Throat:16:0, Fever:8:0, Cough:41:0
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 46 | Stress (finding) | 0 | 
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 |  | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Muscle pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, sputum production:1
+46 |  | Fever (finding) | 4 | myalgia:1, arthralgia:1, fever:1, sputum production:1
+46 |  | Sputum finding (finding) | 4 | myalgia:1, arthralgia:1, fever:1, sputum production:1
+46 |  | Joint pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, sputum production:1
+46 | 46 | Suspected COVID-19 | 0 | 
+46 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

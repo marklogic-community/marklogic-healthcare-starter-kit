@@ -1,0 +1,12 @@
+Shane Wilkinson
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2009-11-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+3 | 3 | Otitis media | 0 | 
+3 | 3 | Otitis media | 0 | 
+4 | 4 | Viral sinusitis (disorder) | 9 | Sinus Pain:74:0, Headache:10:0, Pain with Bright Lights:33:0, Facial Swelling:38:0, Nasal Discharge:24:0, Nasal Congestion:0:0, Fever:24:0, Sore Throat:47:0, Cough:41:0
+--------------------------------------------------------------------------------

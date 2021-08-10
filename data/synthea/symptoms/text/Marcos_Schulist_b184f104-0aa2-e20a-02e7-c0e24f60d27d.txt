@@ -1,0 +1,44 @@
+Marcos Schulist
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1961-12-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 | 53 | Stress (finding) | 0 | 
+52 | 53 | Not in labor force (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 |  | Victim of intimate partner abuse (finding) | 0 | 
+54 | 55 | Not in labor force (finding) | 0 | 
+54 | 59 | Victim of intimate partner abuse (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 55 | Stress (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+58 | 58 | Part-time employment (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 | 58 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:49:0, Pain with Bright Lights:48:0, Facial Swelling:30:0, Nasal Discharge:19:0, Nasal Congestion:7:0, Fever:5:0, Sore Throat:25:0, Cough:11:0
+58 | 58 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:6:0, Fatigue:65:0, Mucus:27:0, Nasal Congestion:38:0, Shortness of Breath:64:0, Nausea/Vomiting:11:0, Fever:37:0, Sore Throat:31:0, Cough:40:0
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 | 59 | Stress (finding) | 0 | 
+59 |  | Not in labor force (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

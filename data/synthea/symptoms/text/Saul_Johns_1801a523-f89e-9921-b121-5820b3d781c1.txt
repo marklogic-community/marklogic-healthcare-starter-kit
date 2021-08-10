@@ -1,0 +1,50 @@
+Saul Johns
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1934-04-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+66 |  | Body mass index 30+ - obesity (finding) | 0 | 
+66 | 67 | Not in labor force (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+67 |  | Body mass index 30+ - obesity (finding) | 0 | 
+67 | 75 | Limited social contact (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 | 75 | Victim of intimate partner abuse (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 68 | Stress (finding) | 0 | 
+68 |  | Body mass index 30+ - obesity (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 | 68 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:27:0, Body Aches:42:0, Runny/Stuffy Nose:27:0, Fatigue:7:0, Swollen Lymph Nodes:43:0, Swollen Tonsils:23:0, Decreased Appetite:45:0, Fever:23:0, Sore Throat:2:0, Cough:4:0
+69 |  | Body mass index 30+ - obesity (finding) | 0 | 
+69 | 70 | Not in labor force (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 | 71 | Stress (finding) | 0 | 
+69 | 69 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:1:0, Body Aches:31:0, Runny/Stuffy Nose:32:0, Fatigue:4:0, Swollen Lymph Nodes:0:0, Swollen Tonsils:2:0, Decreased Appetite:21:0, Fever:4:0, Sore Throat:11:0, Cough:0:0
+70 |  | Body mass index 30+ - obesity (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+71 |  | Body mass index 30+ - obesity (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 | 73 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+72 |  | Body mass index 30+ - obesity (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 |  | Body mass index 30+ - obesity (finding) | 0 | 
+73 | 74 | Part-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+74 |  | Body mass index 30+ - obesity (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+74 |  | Polyp of colon | 0 | 
+75 |  | Body mass index 30+ - obesity (finding) | 0 | 
+75 |  | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

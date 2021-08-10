@@ -1,0 +1,19 @@
+Twila Erdman
+============
+Race:                Native
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2009-10-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+3 | 3 | Otitis media | 0 | 
+6 | 6 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:9:0, Fatigue:68:0, Mucus:34:0, Nasal Congestion:31:0, Shortness of Breath:34:0, Nausea/Vomiting:6:0, Fever:44:0, Sore Throat:27:0, Cough:35:0
+10 |  | Dyspnea (finding) | 3 | fever:1, dyspnea:1, sputum production:1
+10 |  | Fever (finding) | 3 | fever:1, dyspnea:1, sputum production:1
+10 |  | Sputum finding (finding) | 3 | fever:1, dyspnea:1, sputum production:1
+10 |  | Wheezing (finding) | 3 | fever:1, dyspnea:1, sputum production:1
+10 | 10 | Suspected COVID-19 | 0 | 
+10 |  | COVID-19 | 0 | 
+11 |  | Appendicitis | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Fever:0, Loss of Appetite:0, Bloating/Gas:0
+11 |  | History of appendectomy | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Fever:0, Loss of Appetite:0, Bloating/Gas:0
+--------------------------------------------------------------------------------

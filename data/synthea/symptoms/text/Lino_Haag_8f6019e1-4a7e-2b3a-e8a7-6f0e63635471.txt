@@ -1,0 +1,49 @@
+Lino Haag
+=========
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1984-11-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+27 |  | Unemployed (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 |  | Stress (finding) | 0 | 
+28 |  | Unemployed (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+28 | 28 | Laceration of hand | 0 | 
+29 |  | Unemployed (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 31 | Stress (finding) | 0 | 
+30 | 30 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:20:0, Body Aches:41:0, Runny/Stuffy Nose:31:0, Fatigue:20:0, Swollen Lymph Nodes:26:0, Swollen Tonsils:40:0, Decreased Appetite:31:0, Fever:42:0, Sore Throat:28:0, Cough:0:0
+30 |  | Unemployed (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+32 |  | Unemployed (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+32 | 36 | Social isolation (finding) | 0 | 
+32 | 32 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:2:0, Runny/Stuffy Nose:11:0, Fatigue:19:0, Swollen Lymph Nodes:31:0, Swollen Tonsils:27:0, Decreased Appetite:14:0, Fever:38:0, Sore Throat:28:0, Cough:6:0
+32 | 32 | Sprain of ankle | 0 | 
+33 | 33 | Viral sinusitis (disorder) | 9 | Sinus Pain:73:0, Headache:31:0, Pain with Bright Lights:36:0, Facial Swelling:28:0, Nasal Discharge:17:0, Nasal Congestion:10:0, Fever:17:0, Sore Throat:43:0, Cough:49:0
+33 |  | Unemployed (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+33 |  | Unemployed (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 | 36 | Stress (finding) | 0 | 
+34 |  | Unemployed (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+35 |  | Fever (finding) | 3 | fever:1, headache:1, cough:1
+35 |  | Headache (finding) | 3 | fever:1, headache:1, cough:1
+35 |  | Cough (finding) | 3 | fever:1, headache:1, cough:1
+35 | 35 | Suspected COVID-19 | 0 | 
+35 |  | COVID-19 | 0 | 
+35 |  | Unemployed (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+36 |  | Unemployed (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+36 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+Vern Herman
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1987-07-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 | 33 | Limited social contact (finding) | 0 | 
+25 |  | Has a criminal record (finding) | 0 | 
+25 | 26 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+26 |  | Chronic low back pain (finding) | 0 | 
+26 |  | Has a criminal record (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+27 | 28 | Not in labor force (finding) | 0 | 
+27 |  | Has a criminal record (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 29 | Stress (finding) | 0 | 
+28 | 29 | Not in labor force (finding) | 0 | 
+28 |  | Has a criminal record (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 33 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+29 | 30 | Not in labor force (finding) | 0 | 
+29 |  | Has a criminal record (finding) | 0 | 
+29 | 33 | Reports of violence in the environment (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 |  | Victim of intimate partner abuse (finding) | 0 | 
+30 |  | Has a criminal record (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 |  | Has a criminal record (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+32 |  | Dyspnea (finding) | 6 | sore throat:1, fever:1, dyspnea:1, cough:1, vomiting:1, nausea:1
+32 |  | Vomiting symptom (finding) | 6 | sore throat:1, fever:1, dyspnea:1, cough:1, vomiting:1, nausea:1
+32 |  | Fever (finding) | 6 | sore throat:1, fever:1, dyspnea:1, cough:1, vomiting:1, nausea:1
+32 |  | Wheezing (finding) | 6 | sore throat:1, fever:1, dyspnea:1, cough:1, vomiting:1, nausea:1
+32 |  | Sore throat symptom (finding) | 6 | sore throat:1, fever:1, dyspnea:1, cough:1, vomiting:1, nausea:1
+32 |  | Cough (finding) | 6 | sore throat:1, fever:1, dyspnea:1, cough:1, vomiting:1, nausea:1
+32 |  | Nausea (finding) | 6 | sore throat:1, fever:1, dyspnea:1, cough:1, vomiting:1, nausea:1
+32 | 32 | Suspected COVID-19 | 0 | 
+32 |  | COVID-19 | 0 | 
+32 |  | Respiratory distress (finding) | 0 | 
+32 |  | Pneumonia (disorder) | 0 | 
+32 |  | Hypoxemia (disorder) | 0 | 
+32 |  | Acute deep venous thrombosis (disorder) | 0 | 
+32 | 33 | Not in labor force (finding) | 0 | 
+32 |  | Has a criminal record (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 | 33 | Stress (finding) | 0 | 
+33 |  | Has a criminal record (finding) | 0 | 
+33 |  | Full-time employment (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

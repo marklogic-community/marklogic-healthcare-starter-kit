@@ -1,0 +1,43 @@
+Celine O'Hara
+========'====
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1981-02-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+13 | 13 | Acute bacterial sinusitis (disorder) | 9 | Headache:29:0, Sinus Pain:66:103:80:0, Pain with Bright Lights:44:0, Facial Swelling:19:0, Nasal Discharge:16:0, Nasal Congestion:8:0, Sore Throat:22:0, Fever:0:0, Cough:2:0
+13 |  | Chronic sinusitis (disorder) | 9 | Headache:0, Sinus Pain:103:80:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Sore Throat:0, Fever:0, Cough:0
+14 | 14 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:1:0, Runny/Stuffy Nose:14:0, Fatigue:20:0, Swollen Lymph Nodes:2:0, Swollen Tonsils:43:0, Decreased Appetite:0:0, Sore Throat:24:0, Fever:46:0, Cough:32:0
+15 | 15 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:13:0, Body Aches:12:0, Runny/Stuffy Nose:30:0, Fatigue:2:0, Swollen Lymph Nodes:41:0, Swollen Tonsils:1:0, Decreased Appetite:28:0, Sore Throat:7:0, Fever:42:0, Cough:14:0
+16 | 17 | Risk activity involvement (finding) | 0 | 
+17 | 17 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:4:0, Fatigue:70:0, Mucus:26:0, Nasal Congestion:35:0, Shortness of Breath:34:0, Nausea/Vomiting:11:0, Sore Throat:39:0, Fever:41:0, Cough:61:0
+18 |  | Hypertension | 0 | 
+18 | 21 | Limited social contact (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 18 | Fracture of clavicle | 0 | 
+19 |  | Asthma | 0 | 
+19 | 20 | Not in labor force (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 | 20 | Normal pregnancy | 0 | 
+19 | 20 | Escherichia coli urinary tract infection | 7 | Frequent Urination:9:0, Urgent Desire to Urinate:9:0, Discolored Urine:2:0, Odor of Urine:5:0, Pelvic Pain:2:0, Fever:3:0, Dysuria:10:0
+20 | 21 | Full-time employment (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 |  | Stress (finding) | 0 | 
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+21 |  | Stress (finding) | 0 | 
+21 | 21 | Normal pregnancy | 0 | 
+21 | 21 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:27:0, Body Aches:35:0, Runny/Stuffy Nose:2:0, Fatigue:8:0, Swollen Lymph Nodes:8:0, Swollen Tonsils:14:0, Decreased Appetite:49:0, Sore Throat:9:0, Fever:24:0, Cough:25:0
+21 |  | Anemia (disorder) | 0 | 
+21 | 21 | Antepartum eclampsia | 0 | 
+22 |  | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 |  | Social isolation (finding) | 0 | 
+22 |  | Victim of intimate partner abuse (finding) | 0 | 
+22 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+22 | 22 | Normal pregnancy | 0 | 
+--------------------------------------------------------------------------------

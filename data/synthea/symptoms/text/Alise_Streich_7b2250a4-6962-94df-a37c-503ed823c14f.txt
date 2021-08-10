@@ -1,0 +1,26 @@
+Alise Streich
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2013-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Otitis media | 0 | 
+1 | 1 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:9:0, Body Aches:27:0, Runny/Stuffy Nose:20:0, Fatigue:49:0, Swollen Lymph Nodes:42:0, Swollen Tonsils:50:0, Decreased Appetite:10:0, Cough:0:0, Sore Throat:31:0, Fever:15:0
+1 | 1 | Acute allergic reaction | 0 | 
+1 | 1 | Otitis media | 0 | 
+2 |  | Perennial allergic rhinitis with seasonal variation | 5 | Nasal Discharge:4, Ear Pressure:21, Nasal Congestion:8, Sneezing Fits:10, Itching:5
+2 | 2 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:37:0, Pain with Bright Lights:33:0, Facial Swelling:48:0, Nasal Discharge:18:0, Nasal Congestion:6:0, Cough:43:0, Sore Throat:38:0, Fever:23:0
+3 | 3 | Otitis media | 0 | 
+6 |  | Fever (finding) | 1 | fever:1
+6 | 6 | Suspected COVID-19 | 0 | 
+6 |  | COVID-19 | 0 | 
+6 |  | Respiratory distress (finding) | 0 | 
+6 |  | Sepsis caused by virus (disorder) | 0 | 
+6 |  | Heart failure (disorder) | 0 | 
+6 |  | Pneumonia (disorder) | 0 | 
+6 |  | Hypoxemia (disorder) | 0 | 
+6 |  | Acute pulmonary embolism (disorder) | 0 | 
+7 |  | Sprain of ankle | 0 | 
+--------------------------------------------------------------------------------

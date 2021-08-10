@@ -1,0 +1,44 @@
+Arlen Monahan
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1950-08-22
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+56 |  | Prediabetes | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 | 61 | Stress (finding) | 0 | 
+59 | 59 | Viral sinusitis (disorder) | 9 | Sinus Pain:60:0, Headache:15:0, Pain with Bright Lights:25:0, Facial Swelling:49:0, Nasal Discharge:12:0, Nasal Congestion:1:0, Cough:10:0, Sore Throat:15:0, Fever:14:0
+59 |  | Prediabetes | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Localized  primary osteoarthritis of the hand | 2 | Joint Pain:0, Joint Stiffness:0
+60 |  | Prediabetes | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 | 63 | Part-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 | 64 | Not in labor force (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 | 65 | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 |  | Part-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

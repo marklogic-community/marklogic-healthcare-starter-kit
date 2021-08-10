@@ -1,0 +1,52 @@
+Jeanett Torphy
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1922-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+85 |  | Prediabetes | 0 | 
+85 | 86 | Full-time employment (finding) | 0 | 
+85 |  | Received certificate of high school equivalency (finding) | 0 | 
+86 |  | Prediabetes | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Received certificate of high school equivalency (finding) | 0 | 
+86 |  | Victim of intimate partner abuse (finding) | 0 | 
+86 | 86 | Concussion injury of brain | 0 | 
+86 |  | Brain damage - traumatic | 0 | 
+87 |  | Prediabetes | 0 | 
+87 | 88 | Full-time employment (finding) | 0 | 
+87 |  | Received certificate of high school equivalency (finding) | 0 | 
+87 | 88 | Stress (finding) | 0 | 
+88 |  | Prediabetes | 0 | 
+88 | 94 | Limited social contact (finding) | 0 | 
+88 | 89 | Full-time employment (finding) | 0 | 
+88 |  | Received certificate of high school equivalency (finding) | 0 | 
+89 |  | Prediabetes | 0 | 
+89 | 90 | Part-time employment (finding) | 0 | 
+89 |  | Received certificate of high school equivalency (finding) | 0 | 
+89 |  | Stress (finding) | 0 | 
+89 | 92 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+89 | 89 | Viral sinusitis (disorder) | 9 | Headache:23:0, Sinus Pain:57:0, Pain with Bright Lights:30:0, Facial Swelling:35:0, Nasal Discharge:45:0, Nasal Congestion:18:0, Sore Throat:2:0, Cough:31:0, Fever:7:0
+90 |  | Prediabetes | 0 | 
+90 | 91 | Full-time employment (finding) | 0 | 
+90 |  | Received certificate of high school equivalency (finding) | 0 | 
+90 | 93 | Stress (finding) | 0 | 
+90 | 90 | Fracture of forearm | 0 | 
+90 | 90 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+91 |  | Prediabetes | 0 | 
+91 | 92 | Part-time employment (finding) | 0 | 
+91 |  | Received certificate of high school equivalency (finding) | 0 | 
+91 | 91 | Viral sinusitis (disorder) | 9 | Headache:23:0, Sinus Pain:70:0, Pain with Bright Lights:33:0, Facial Swelling:35:0, Nasal Discharge:37:0, Nasal Congestion:8:0, Sore Throat:46:0, Cough:29:0, Fever:0:0
+92 |  | Prediabetes | 0 | 
+92 | 93 | Full-time employment (finding) | 0 | 
+92 |  | Received certificate of high school equivalency (finding) | 0 | 
+93 |  | Prediabetes | 0 | 
+93 | 94 | Not in labor force (finding) | 0 | 
+93 |  | Received certificate of high school equivalency (finding) | 0 | 
+94 |  | Prediabetes | 0 | 
+94 |  | Full-time employment (finding) | 0 | 
+94 |  | Received certificate of high school equivalency (finding) | 0 | 
+94 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

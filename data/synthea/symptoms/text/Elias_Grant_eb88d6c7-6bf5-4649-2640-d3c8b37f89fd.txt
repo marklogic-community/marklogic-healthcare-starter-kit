@@ -1,0 +1,15 @@
+Elias Grant
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2010-04-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Otitis media | 0 | 
+2 | 2 | Sprain of ankle | 0 | 
+3 | 3 | Viral sinusitis (disorder) | 9 | Headache:6:0, Sinus Pain:79:0, Pain with Bright Lights:37:0, Facial Swelling:13:0, Nasal Discharge:47:0, Nasal Congestion:16:0, Sore Throat:0:0, Cough:30:0, Fever:5:0
+8 |  | Child attention deficit disorder | 5 | Delayed Verbal/Language Skills:9, Poor Eye Contact:25, Hyperactive Behavior:2, Poor Socialization:8, Inability to Focus/Concentrate:3
+8 | 9 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:12:0, Fatigue:74:0, Mucus:46:0, Nasal Congestion:25:0, Shortness of Breath:68:0, Nausea/Vomiting:7:0, Sore Throat:46:0, Cough:38:0, Fever:27:0
+10 | 10 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:34:0, Runny/Stuffy Nose:49:0, Fatigue:40:0, Swollen Lymph Nodes:46:0, Swollen Tonsils:47:0, Decreased Appetite:12:0, Sore Throat:28:0, Cough:36:0, Fever:47:0
+--------------------------------------------------------------------------------

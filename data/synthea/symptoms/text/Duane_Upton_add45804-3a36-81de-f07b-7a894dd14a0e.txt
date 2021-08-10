@@ -1,0 +1,65 @@
+Duane Upton
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1959-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+52 |  | Prediabetes | 0 | 
+52 | 53 | Part-time employment (finding) | 0 | 
+52 | 53 | Limited social contact (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 | 61 | Reports of violence in the environment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 55 | Stress (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 |  | Hyperlipidemia | 1 | weight gain:1
+54 |  | Prediabetes | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 | 56 | Limited social contact (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 54 | Concussion with no loss of consciousness | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 58 | Stress (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Limited social contact (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 57 | Viral sinusitis (disorder) | 9 | Sinus Pain:62:0, Headache:47:0, Pain with Bright Lights:45:0, Facial Swelling:11:0, Nasal Discharge:31:0, Nasal Congestion:5:0, Fever:20:0, Sore Throat:38:0, Cough:37:0
+58 |  | Prediabetes | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 | 61 | Social isolation (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 |  | Prediabetes | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 61 | Stress (finding) | 0 | 
+60 |  | Sputum finding (finding) | 2 | sputum production:1, loss_of_taste:1
+60 |  | Loss of taste (finding) | 2 | sputum production:1, loss_of_taste:1
+60 | 60 | Suspected COVID-19 | 0 | 
+60 |  | COVID-19 | 0 | 
+61 |  | Prediabetes | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 |  | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

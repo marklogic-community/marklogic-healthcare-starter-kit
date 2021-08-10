@@ -1,0 +1,18 @@
+Joie Lowe
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2010-07-27
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 2 | Acute bacterial sinusitis (disorder) | 9 | Sinus Pain:68:99:0, Headache:0:0, Pain with Bright Lights:31:0, Facial Swelling:21:0, Nasal Discharge:45:0, Nasal Congestion:3:0, Fever:14:0, Sore Throat:15:0, Cough:42:0
+2 |  | Chronic sinusitis (disorder) | 9 | Sinus Pain:99:0:69:0:76:0, Headache:0:27:0:39:0, Pain with Bright Lights:0:40:0:48:0, Facial Swelling:0:8:0:15:0, Nasal Discharge:0:3:0:44:0, Nasal Congestion:0:18:0:9:0, Fever:0:20:0:7:0, Sore Throat:0:21:0:45:0, Cough:0:2:0:19:0
+2 | 2 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:0:0, Body Aches:36:0, Runny/Stuffy Nose:42:0, Fatigue:2:0, Swollen Lymph Nodes:16:0, Swollen Tonsils:26:0, Decreased Appetite:9:0, Fever:27:0, Sore Throat:0:0, Cough:19:0
+3 | 3 | Viral sinusitis (disorder) | 9 | Sinus Pain:69:0, Headache:27:0, Pain with Bright Lights:40:0, Facial Swelling:8:0, Nasal Discharge:3:0, Nasal Congestion:18:0, Fever:20:0, Sore Throat:21:0, Cough:2:0
+3 | 3 | Sprain of ankle | 0 | 
+7 | 7 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:39:0, Pain with Bright Lights:48:0, Facial Swelling:15:0, Nasal Discharge:44:0, Nasal Congestion:9:0, Fever:7:0, Sore Throat:45:0, Cough:19:0
+9 |  | Fever (finding) | 2 | fatigue:1, fever:1
+9 |  | Fatigue (finding) | 2 | fatigue:1, fever:1
+9 | 9 | Suspected COVID-19 | 0 | 
+--------------------------------------------------------------------------------

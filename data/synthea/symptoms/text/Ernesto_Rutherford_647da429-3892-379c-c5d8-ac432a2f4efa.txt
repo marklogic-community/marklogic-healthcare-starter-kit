@@ -1,0 +1,118 @@
+Ernesto Rutherford
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1920-09-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+39 |  | Metabolic syndrome X (disorder) | 0 | 
+39 |  | Hypertriglyceridemia (disorder) | 0 | 
+39 |  | Diabetes | 0 | 
+39 |  | Opioid abuse (disorder) | 0 | 
+39 |  | Served in armed forces (finding) | 0 | 
+39 |  | Lack of access to transportation (finding) | 0 | 
+39 | 40 | Part-time employment (finding) | 0 | 
+39 | 47 | Reports of violence in the environment (finding) | 0 | 
+39 |  | Received higher education (finding) | 0 | 
+39 | 41 | Stress (finding) | 0 | 
+40 |  | Metabolic syndrome X (disorder) | 0 | 
+40 |  | Hypertriglyceridemia (disorder) | 0 | 
+40 |  | Diabetes | 0 | 
+40 |  | Opioid abuse (disorder) | 0 | 
+40 |  | Served in armed forces (finding) | 0 | 
+40 | 41 | Limited social contact (finding) | 0 | 
+40 | 41 | Full-time employment (finding) | 0 | 
+40 |  | Transport problems (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+41 |  | Metabolic syndrome X (disorder) | 0 | 
+41 |  | Hypertriglyceridemia (disorder) | 0 | 
+41 |  | Diabetes | 0 | 
+41 |  | Opioid abuse (disorder) | 0 | 
+41 |  | Served in armed forces (finding) | 0 | 
+41 | 41 | Not in labor force (finding) | 0 | 
+41 |  | Transport problems (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+41 | 41 | Viral sinusitis (disorder) | 9 | Sinus Pain:75:0, Headache:46:0, Pain with Bright Lights:26:0, Facial Swelling:20:0, Nasal Discharge:49:0, Nasal Congestion:22:0, Fever:4:0, Sore Throat:32:0, Cough:35:0
+41 |  | Hypertriglyceridemia (disorder) | 0 | 
+41 |  | Diabetes | 0 | 
+41 |  | Opioid abuse (disorder) | 0 | 
+41 |  | Served in armed forces (finding) | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Transport problems (finding) | 0 | 
+41 |  | Received higher education (finding) | 0 | 
+41 |  | Stress (finding) | 0 | 
+42 |  | Metabolic syndrome X (disorder) | 0 | 
+42 |  | Hypertriglyceridemia (disorder) | 0 | 
+42 |  | Diabetes | 0 | 
+42 |  | Opioid abuse (disorder) | 0 | 
+42 |  | Served in armed forces (finding) | 0 | 
+42 |  | Lack of access to transportation (finding) | 0 | 
+42 | 48 | Limited social contact (finding) | 0 | 
+42 | 43 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+43 |  | Metabolic syndrome X (disorder) | 0 | 
+43 |  | Hypertriglyceridemia (disorder) | 0 | 
+43 |  | Diabetes | 0 | 
+43 |  | Opioid abuse (disorder) | 0 | 
+43 |  | Served in armed forces (finding) | 0 | 
+43 | 44 | Part-time employment (finding) | 0 | 
+43 |  | Transport problems (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+44 |  | Hypertriglyceridemia (disorder) | 0 | 
+44 |  | Diabetes | 0 | 
+44 |  | Opioid abuse (disorder) | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 |  | Lack of access to transportation (finding) | 0 | 
+44 | 45 | Victim of intimate partner abuse (finding) | 0 | 
+44 | 45 | Part-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 |  | Hypertriglyceridemia (disorder) | 0 | 
+45 |  | Diabetes | 0 | 
+45 |  | Opioid abuse (disorder) | 0 | 
+45 |  | Served in armed forces (finding) | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Transport problems (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 | 47 | Stress (finding) | 0 | 
+46 |  | Hypertriglyceridemia (disorder) | 0 | 
+46 |  | Diabetes | 0 | 
+46 |  | Opioid abuse (disorder) | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 | 48 | Victim of intimate partner abuse (finding) | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Transport problems (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+47 | 47 | Viral sinusitis (disorder) | 9 | Sinus Pain:64:0, Headache:9:0, Pain with Bright Lights:32:0, Facial Swelling:46:0, Nasal Discharge:49:0, Nasal Congestion:20:0, Fever:12:0, Sore Throat:37:0, Cough:16:0
+47 |  | Metabolic syndrome X (disorder) | 0 | 
+47 |  | Hypertriglyceridemia (disorder) | 0 | 
+47 |  | Diabetes | 0 | 
+47 |  | Opioid abuse (disorder) | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 |  | Lack of access to transportation (finding) | 0 | 
+47 | 47 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Hypertriglyceridemia (disorder) | 0 | 
+47 |  | Diabetes | 0 | 
+47 |  | Opioid abuse (disorder) | 0 | 
+47 |  | Served in armed forces (finding) | 0 | 
+47 |  | Lack of access to transportation (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 |  | Diabetic renal disease (disorder) | 0 | 
+48 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+48 |  | Metabolic syndrome X (disorder) | 0 | 
+48 |  | Hypertriglyceridemia (disorder) | 0 | 
+48 |  | Diabetes | 0 | 
+48 |  | Opioid abuse (disorder) | 0 | 
+48 |  | Served in armed forces (finding) | 0 | 
+48 |  | Reports of violence in the environment (finding) | 0 | 
+48 |  | Full-time employment (finding) | 0 | 
+48 |  | Transport problems (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

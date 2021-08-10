@@ -1,0 +1,48 @@
+Elias Erdman
+============
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1972-02-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+39 | 40 | Otitis media | 0 | 
+40 | 44 | Limited social contact (finding) | 0 | 
+40 |  | Housing unsatisfactory (finding) | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Only received primary school education (finding) | 0 | 
+42 |  | Housing unsatisfactory (finding) | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Only received primary school education (finding) | 0 | 
+42 | 45 | Stress (finding) | 0 | 
+44 |  | Housing unsatisfactory (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Only received primary school education (finding) | 0 | 
+44 | 45 | Fracture subluxation of wrist | 0 | 
+45 | 46 | Sinusitis (disorder) | 9 | Sinus Pain:31:110:129:0, Headache:20:0, Pain with Bright Lights:29:0, Facial Swelling:45:0, Nasal Discharge:33:0, Nasal Congestion:13:0, Cough:20:0, Sore Throat:19:0, Fever:15:0
+45 | 46 | Not in labor force (finding) | 0 | 
+45 | 48 | Limited social contact (finding) | 0 | 
+45 |  | Housing unsatisfactory (finding) | 0 | 
+45 |  | Only received primary school education (finding) | 0 | 
+46 |  | Housing unsatisfactory (finding) | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 | 46 | Full-time employment (finding) | 0 | 
+46 |  | Only received primary school education (finding) | 0 | 
+46 | 46 | Stress (finding) | 0 | 
+46 |  | Housing unsatisfactory (finding) | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Only received primary school education (finding) | 0 | 
+48 |  | Fever (finding) | 2 | fever:1, sputum production:1
+48 |  | Sputum finding (finding) | 2 | fever:1, sputum production:1
+48 | 48 | Suspected COVID-19 | 0 | 
+48 |  | COVID-19 | 0 | 
+48 |  | Body mass index 30+ - obesity (finding) | 0 | 
+48 |  | Housing unsatisfactory (finding) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 |  | Full-time employment (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 | 48 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:44:0, Pain with Bright Lights:45:0, Facial Swelling:42:0, Nasal Discharge:32:0, Nasal Congestion:14:0, Cough:40:0, Sore Throat:9:0, Fever:12:0
+49 | 49 | Laceration of foot | 0 | 
+--------------------------------------------------------------------------------

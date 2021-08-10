@@ -1,0 +1,53 @@
+Carla McKenzie
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1958-08-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 | 55 | Stress (finding) | 0 | 
+55 | 55 | Part-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 55 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:45:0, Runny/Stuffy Nose:48:0, Fatigue:45:0, Swollen Lymph Nodes:22:0, Swollen Tonsils:36:0, Decreased Appetite:1:0, Sore Throat:42:0, Cough:29:0, Fever:1:0
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 |  | Drug overdose | 0 | 
+55 | 55 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:5:0, Fatigue:46:0, Mucus:32:0, Nasal Congestion:35:0, Shortness of Breath:71:0, Nausea/Vomiting:3:0, Sore Throat:29:0, Cough:35:0, Fever:46:0
+55 | 62 | Reports of violence in the environment (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+57 |  | Drug overdose | 0 | 
+58 |  | Drug overdose | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 |  | Chill (finding) | 3 | chills:1, fever:1, cough:1
+61 |  | Fever (finding) | 3 | chills:1, fever:1, cough:1
+61 |  | Cough (finding) | 3 | chills:1, fever:1, cough:1
+61 | 61 | Suspected COVID-19 | 0 | 
+61 |  | COVID-19 | 0 | 
+62 |  | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

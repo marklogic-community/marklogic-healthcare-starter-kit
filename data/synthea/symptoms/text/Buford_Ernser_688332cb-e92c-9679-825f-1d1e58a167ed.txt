@@ -1,0 +1,41 @@
+Buford Ernser
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1993-08-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+16 | 16 | First degree burn | 0 | 
+17 | 17 | Viral sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:51:0, Pain with Bright Lights:48:0, Facial Swelling:46:0, Nasal Discharge:17:0, Nasal Congestion:19:0, Sore Throat:36:0, Cough:7:0, Fever:17:0
+18 | 19 | Not in labor force (finding) | 0 | 
+18 | 20 | Reports of violence in the environment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 | 19 | Stress (finding) | 0 | 
+19 | 20 | Limited social contact (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 | 20 | Full-time employment (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 | 22 | Stress (finding) | 0 | 
+20 | 20 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:16:0, Fatigue:59:0, Mucus:25:0, Nasal Congestion:31:0, Shortness of Breath:34:0, Nausea/Vomiting:12:0, Sore Throat:28:0, Cough:54:0, Fever:36:0
+20 | 21 | Part-time employment (finding) | 0 | 
+20 | 21 | Limited social contact (finding) | 0 | 
+20 | 24 | Reports of violence in the environment (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 | 20 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:10:0, Body Aches:45:0, Runny/Stuffy Nose:20:0, Fatigue:13:0, Swollen Lymph Nodes:27:0, Swollen Tonsils:31:0, Decreased Appetite:47:0, Sore Throat:12:0, Cough:24:0, Fever:22:0
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 | 22 | Part-time employment (finding) | 0 | 
+22 |  | Limited social contact (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 | 22 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:16:0, Fatigue:65:0, Mucus:41:0, Nasal Congestion:44:0, Shortness of Breath:40:0, Nausea/Vomiting:8:0, Sore Throat:49:0, Cough:32:0, Fever:39:0
+22 | 23 | Full-time employment (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 | 24 | Social isolation (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 | 24 | Stress (finding) | 0 | 
+24 | 24 | Viral sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:67:0, Pain with Bright Lights:30:0, Facial Swelling:20:0, Nasal Discharge:18:0, Nasal Congestion:13:0, Sore Throat:39:0, Cough:12:0, Fever:0:0
+24 |  | Part-time employment (finding) | 0 | 
+--------------------------------------------------------------------------------

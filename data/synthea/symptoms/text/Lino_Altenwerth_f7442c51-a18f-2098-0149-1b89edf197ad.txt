@@ -1,0 +1,61 @@
+Lino Altenwerth
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 | 75 | Fracture subluxation of wrist | 0 | 
+75 | 79 | Limited social contact (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 |  | Drug overdose | 0 | 
+76 |  | Drug overdose | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 | 78 | Part-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+78 | 78 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:22:0, Body Aches:13:0, Runny/Stuffy Nose:40:0, Fatigue:12:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:11:0, Decreased Appetite:9:0, Sore Throat:44:0, Cough:22:0, Fever:20:0
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 78 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:37:0, Body Aches:6:0, Runny/Stuffy Nose:28:0, Fatigue:37:0, Swollen Lymph Nodes:40:0, Swollen Tonsils:57:0, Decreased Appetite:9:0, Sore Throat:6:0, Cough:0:0, Fever:35:0
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 | 81 | Stress (finding) | 0 | 
+78 |  | Drug overdose | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+80 | 80 | Laceration of hand | 0 | 
+80 | 80 | Part-time employment (finding) | 0 | 
+80 | 80 | Victim of intimate partner abuse (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 | 82 | Social isolation (finding) | 0 | 
+80 | 81 | Viral sinusitis (disorder) | 9 | Headache:39:0, Sinus Pain:76:0, Pain with Bright Lights:38:0, Facial Swelling:47:0, Nasal Discharge:34:0, Nasal Congestion:6:0, Sore Throat:6:0, Cough:32:0, Fever:3:0
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+81 | 82 | Not in labor force (finding) | 0 | 
+81 | 82 | Victim of intimate partner abuse (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+82 |  | Dyspnea (finding) | 4 | fatigue:1, chills:1, fever:1, dyspnea:1
+82 |  | Chill (finding) | 4 | fatigue:1, chills:1, fever:1, dyspnea:1
+82 |  | Fever (finding) | 4 | fatigue:1, chills:1, fever:1, dyspnea:1
+82 |  | Fatigue (finding) | 4 | fatigue:1, chills:1, fever:1, dyspnea:1
+82 |  | Wheezing (finding) | 4 | fatigue:1, chills:1, fever:1, dyspnea:1
+82 | 82 | Suspected COVID-19 | 0 | 
+82 |  | COVID-19 | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 | 82 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:41:0, Body Aches:45:0, Runny/Stuffy Nose:32:0, Fatigue:6:0, Swollen Lymph Nodes:13:0, Swollen Tonsils:39:0, Decreased Appetite:3:0, Sore Throat:38:0, Cough:16:0, Fever:38:0
+82 |  | Full-time employment (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 |  | Pulmonary emphysema (disorder) | 2 | Shortness of Breath:547, Cough:83
+--------------------------------------------------------------------------------

@@ -1,0 +1,70 @@
+Valencia Bosco
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1989-03-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+22 | 23 | Normal pregnancy | 0 | 
+23 |  | Housing unsatisfactory (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Transport problems (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+24 | 25 | Part-time employment (finding) | 0 | 
+24 |  | Housing unsatisfactory (finding) | 0 | 
+24 |  | Transport problems (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 | 25 | Stress (finding) | 0 | 
+24 | 26 | Social isolation (finding) | 0 | 
+25 | 26 | Part-time employment (finding) | 0 | 
+25 |  | Housing unsatisfactory (finding) | 0 | 
+25 |  | Lack of access to transportation (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+26 | 26 | Normal pregnancy | 0 | 
+26 |  | Housing unsatisfactory (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Lack of access to transportation (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+27 | 27 | Normal pregnancy | 0 | 
+27 |  | Anemia (disorder) | 0 | 
+27 |  | Housing unsatisfactory (finding) | 0 | 
+27 | 28 | Full-time employment (finding) | 0 | 
+27 |  | Transport problems (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 29 | Stress (finding) | 0 | 
+27 | 28 | Social isolation (finding) | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Transport problems (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 28 | Normal pregnancy | 0 | 
+29 |  | Housing unsatisfactory (finding) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Transport problems (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 31 | Social isolation (finding) | 0 | 
+29 | 30 | Normal pregnancy | 0 | 
+30 | 31 | Normal pregnancy | 0 | 
+30 |  | Housing unsatisfactory (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Lack of access to transportation (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 | 31 | Stress (finding) | 0 | 
+30 |  | Chill (finding) | 5 | fatigue:1, chills:1, fever:1, sputum production:1, cough:1
+30 |  | Fever (finding) | 5 | fatigue:1, chills:1, fever:1, sputum production:1, cough:1
+30 |  | Sputum finding (finding) | 5 | fatigue:1, chills:1, fever:1, sputum production:1, cough:1
+30 |  | Fatigue (finding) | 5 | fatigue:1, chills:1, fever:1, sputum production:1, cough:1
+30 |  | Cough (finding) | 5 | fatigue:1, chills:1, fever:1, sputum production:1, cough:1
+30 | 30 | Suspected COVID-19 | 0 | 
+30 |  | COVID-19 | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 |  | Full-time employment (finding) | 0 | 
+31 |  | Lack of access to transportation (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 31 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:45:0, Pain with Bright Lights:42:0, Facial Swelling:2:0, Nasal Discharge:33:0, Nasal Congestion:9:0, Fever:17:0, Sore Throat:27:0, Cough:22:0
+31 | 31 | Normal pregnancy | 0 | 
+31 | 31 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:49:0, Pain with Bright Lights:27:0, Facial Swelling:5:0, Nasal Discharge:28:0, Nasal Congestion:4:0, Fever:2:0, Sore Throat:49:0, Cough:30:0
+--------------------------------------------------------------------------------

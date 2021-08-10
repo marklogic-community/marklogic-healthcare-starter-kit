@@ -1,0 +1,19 @@
+Colton Heaney
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2012-03-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+5 | 5 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:8:0, Body Aches:21:0, Runny/Stuffy Nose:3:0, Fatigue:18:0, Swollen Lymph Nodes:4:0, Swollen Tonsils:18:0, Decreased Appetite:43:0, Sore Throat:31:0, Cough:16:0, Fever:3:0
+5 | 5 | Viral sinusitis (disorder) | 9 | Headache:39:0, Sinus Pain:66:0, Pain with Bright Lights:46:0, Facial Swelling:13:0, Nasal Discharge:37:0, Nasal Congestion:3:0, Sore Throat:37:0, Cough:49:0, Fever:15:0
+7 |  | Dyspnea (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+7 |  | Fever (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+7 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+7 |  | Wheezing (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+7 |  | Cough (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+7 | 7 | Suspected COVID-19 | 0 | 
+7 |  | COVID-19 | 0 | 
+8 | 8 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:21:0, Fatigue:33:0, Mucus:35:0, Nasal Congestion:29:0, Shortness of Breath:54:0, Nausea/Vomiting:5:0, Sore Throat:31:0, Cough:51:0, Fever:32:0
+--------------------------------------------------------------------------------

@@ -1,0 +1,17 @@
+Marcos Merino
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2018-12-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:2:0, Fatigue:54:0, Mucus:26:0, Nasal Congestion:36:0, Shortness of Breath:35:0, Nausea/Vomiting:0:0, Cough:26:0, Sore Throat:27:0, Fever:38:0
+1 |  | Sputum finding (finding) | 5 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+1 |  | Fatigue (finding) | 5 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+1 |  | Cough (finding) | 5 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+1 |  | Diarrhea symptom (finding) | 5 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+1 |  | Loss of taste (finding) | 5 | fatigue:1, sputum production:1, loss_of_taste:1, cough:1, diarrhea:1
+1 | 1 | Suspected COVID-19 | 0 | 
+1 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,51 @@
+Shad Prosacco
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1912-08-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+81 |  | Prediabetes | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+83 |  | Prediabetes | 0 | 
+83 | 84 | Not in labor force (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+84 |  | Prediabetes | 0 | 
+84 | 85 | Not in labor force (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 | 86 | Stress (finding) | 0 | 
+85 |  | Prediabetes | 0 | 
+85 | 86 | Full-time employment (finding) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+85 | 89 | Severe anxiety (panic) (finding | 0 | 
+86 |  | Prediabetes | 0 | 
+86 | 87 | Part-time employment (finding) | 0 | 
+86 |  | Received higher education (finding) | 0 | 
+87 |  | Prediabetes | 0 | 
+87 | 88 | Full-time employment (finding) | 0 | 
+87 |  | Received higher education (finding) | 0 | 
+87 |  | Stress (finding) | 0 | 
+88 |  | Prediabetes | 0 | 
+88 | 89 | Part-time employment (finding) | 0 | 
+88 |  | Received higher education (finding) | 0 | 
+88 |  | Stress (finding) | 0 | 
+88 | 90 | Social isolation (finding) | 0 | 
+89 |  | Prediabetes | 0 | 
+89 |  | Reports of violence in the environment (finding) | 0 | 
+89 | 90 | Full-time employment (finding) | 0 | 
+89 |  | Received higher education (finding) | 0 | 
+89 |  | Stress (finding) | 0 | 
+90 |  | Prediabetes | 0 | 
+90 |  | Reports of violence in the environment (finding) | 0 | 
+90 |  | Full-time employment (finding) | 0 | 
+90 |  | Received higher education (finding) | 0 | 
+90 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

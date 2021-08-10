@@ -1,0 +1,650 @@
+
+2020-12-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 54 year-old non-hispanic white male. Patient has a history of covid-19, fever (finding), viral sinusitis (disorder), sprain of ankle, suspected covid-19, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2020-04-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 53 year-old non-hispanic white male. Patient has a history of covid-19, fever (finding), viral sinusitis (disorder), suspected covid-19, stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with sprain of ankle. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- naproxen sodium 220 mg oral tablet
+The patient was placed on a careplan:
+- physical therapy procedure
+
+
+
+2020-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 53 year-old non-hispanic white male. Patient has a history of viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-11-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 53 year-old non-hispanic white male. Patient has a history of viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2018-11-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 52 year-old non-hispanic white male. Patient has a history of viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2017-11-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 51 year-old non-hispanic white male. Patient has a history of viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2016-11-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 50 year-old non-hispanic white male. Patient has a history of viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2014-12-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 48 year-old non-hispanic white male. Patient has a history of viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2012-11-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 46 year-old non-hispanic white male. Patient has a history of viral sinusitis (disorder), stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2011-09-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 44 year-old non-hispanic white male. Patient has a history of stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2006-11-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 40 year-old non-hispanic white male. Patient has a history of stress (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+2001-01-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 34 year-old non-hispanic white male. Patient has a history of stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with social isolation (finding). 
+
+## Plan
+
+
+
+
+1998-01-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 31 year-old non-hispanic white male. Patient has a history of stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1992-01-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 25 year-old non-hispanic white male. Patient has a history of stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with prediabetes, anemia (disorder). 
+
+## Plan
+
+The patient was placed on a careplan:
+- diabetes self management plan
+
+
+
+1989-01-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 22 year-old non-hispanic white male. Patient has a history of stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1985-01-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 18 year-old non-hispanic white male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as homosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has a high school education.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with housing unsatisfactory (finding), received certificate of high school equivalency (finding), unemployed (finding), stress (finding). 
+
+## Plan
+
+
+
+
+1969-08-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 2 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+house dust mite (organism), animal dander (substance), shellfish (substance), fish (substance), grass pollen (substance), mold (organism), tree pollen (substance), wheat (substance)
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- diphenhydramine hydrochloride 25 mg oral tablet
+
+
+
+1967-07-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 8 month-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with mold (organism), house dust mite (organism), animal dander (substance), grass pollen (substance), tree pollen (substance), wheat (substance), shellfish (substance), fish (substance). 
+
+## Plan
+
+
+
+
+1967-07-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Darrell
+ is a 7 month-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+

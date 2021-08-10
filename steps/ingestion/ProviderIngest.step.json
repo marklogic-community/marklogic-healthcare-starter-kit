@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "sources": [
+      {
+        "name": "ProviderIngest",
+        "file": "data/synthea/csv/providers.csv"
+      }
+    ]
+  },
+  "collections": [
+    "ProviderIngest"
+  ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "name": "ProviderIngest",
+  "description": "Ingest Provider data",
+  "sourceFormat": "csv",
+  "separator": ",",
+  "targetFormat": "JSON",
+  "sourceName": "data/synthea/csv/providers/providers.csv",
+  "sourceType": "Provider",
+  "outputURIPrefix": "/provider/",
+  "additionalCollections": [
+    "Provider"
+  ],
+  "targetDatabase": "data-hub-STAGING",
+  "interceptors": [
+        {
+            "path": "/lib/interceptors/provider-ingest.sjs",
+            "when": "beforeContentPersisted"
+        }
+  ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "stepDefinitionName": "default-ingestion",
+  "stepDefinitionType": "ingestion",
+  "stepId": "ProviderIngest-ingestion",
+  "lastUpdated": "2021-07-14T19:46:41.165247Z"
+}

@@ -1,0 +1,52 @@
+Devon Olson
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1994-10-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 |  | Hypertension | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 19 | Social isolation (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+20 | 20 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:27:0, Body Aches:38:0, Runny/Stuffy Nose:9:0, Fatigue:19:0, Swollen Lymph Nodes:42:0, Swollen Tonsils:28:0, Decreased Appetite:26:0, Sore Throat:13:0, Fever:45:0, Cough:6:0
+20 | 21 | Part-time employment (finding) | 0 | 
+20 | 26 | Victim of intimate partner abuse (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 |  | Social isolation (finding) | 0 | 
+20 |  | Stress (finding) | 0 | 
+21 | 22 | Not in labor force (finding) | 0 | 
+21 | 22 | Limited social contact (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+21 |  | Stress (finding) | 0 | 
+22 | 23 | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+23 |  | Limited social contact (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+23 | 23 | Viral sinusitis (disorder) | 9 | Headache:15:0, Sinus Pain:75:0, Pain with Bright Lights:34:0, Facial Swelling:2:0, Nasal Discharge:27:0, Nasal Congestion:24:0, Sore Throat:18:0, Fever:21:0, Cough:41:0
+24 | 26 | Limited social contact (finding) | 0 | 
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+24 | 24 | Sprain of ankle | 0 | 
+25 | 26 | Part-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 |  | Fever (finding) | 5 | sore throat:1, fever:1, sputum production:1, cough:1, diarrhea:1
+25 |  | Sputum finding (finding) | 5 | sore throat:1, fever:1, sputum production:1, cough:1, diarrhea:1
+25 |  | Sore throat symptom (finding) | 5 | sore throat:1, fever:1, sputum production:1, cough:1, diarrhea:1
+25 |  | Cough (finding) | 5 | sore throat:1, fever:1, sputum production:1, cough:1, diarrhea:1
+25 |  | Diarrhea symptom (finding) | 5 | sore throat:1, fever:1, sputum production:1, cough:1, diarrhea:1
+25 | 25 | Suspected COVID-19 | 0 | 
+25 |  | COVID-19 | 0 | 
+26 |  | Part-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

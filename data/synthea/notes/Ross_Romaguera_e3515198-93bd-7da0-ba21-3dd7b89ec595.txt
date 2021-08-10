@@ -1,0 +1,871 @@
+
+2020-09-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 35 year-old non-hispanic asian male. Patient has a history of dyspnea (finding), whiplash injury to neck, wheezing (finding), suspected covid-19, covid-19, part-time employment (finding), acute bronchitis (disorder), fever (finding), not in labor force (finding), full-time employment (finding), loss of taste (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with neuropathy due to type 2 diabetes mellitus (disorder), not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2020-03-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 34 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), whiplash injury to neck, not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with dyspnea (finding), wheezing (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-09-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 34 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), whiplash injury to neck, not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), social isolation (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2018-09-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 33 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), whiplash injury to neck, not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2017-08-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 32 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), whiplash injury to neck, not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2016-10-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 31 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), whiplash injury to neck, not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2016-10-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 31 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), whiplash injury to neck, not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- measurement of respiratory function (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2016-08-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 31 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), whiplash injury to neck, not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2015-08-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 30 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), whiplash injury to neck, not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with hypertriglyceridemia (disorder), metabolic syndrome x (disorder), full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2014-08-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 29 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), whiplash injury to neck, not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), stress (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- peripheral blood smear interpretation
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+- review of systems (procedure)
+- medication reconciliation (procedure)
+- brief general examination (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2014-08-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 29 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), whiplash injury to neck, not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with diabetes, anemia (disorder). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+The patient was placed on a careplan:
+- diabetes self management plan
+
+
+
+2013-10-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 28 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with whiplash injury to neck. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- musculoskeletal care
+
+
+
+2013-08-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 28 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2012-08-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 27 year-old non-hispanic asian male. Patient has a history of part-time employment (finding), not in labor force (finding), full-time employment (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2011-07-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 26 year-old non-hispanic asian male. Patient has a history of not in labor force (finding), full-time employment (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), social isolation (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2010-07-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 25 year-old non-hispanic asian male. Patient has a history of not in labor force (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2009-07-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 24 year-old non-hispanic asian male. Patient has a history of not in labor force (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2008-07-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 23 year-old non-hispanic asian male.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2007-07-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 22 year-old non-hispanic asian male.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with limited social contact (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2006-06-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 21 year-old non-hispanic asian male.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2005-06-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 20 year-old non-hispanic asian male.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2004-06-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 19 year-old non-hispanic asian male.
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- hydrochlorothiazide 25 mg oral tablet
+- amlodipine 2.5 mg oral tablet
+
+
+
+2003-06-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Ross
+ is a 18 year-old non-hispanic asian male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with hypertension, only received primary school education (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amlodipine 2.5 mg oral tablet
+- hydrochlorothiazide 25 mg oral tablet
+The patient was placed on a careplan:
+- lifestyle education regarding hypertension
+
+
+

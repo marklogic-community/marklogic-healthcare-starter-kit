@@ -1,0 +1,77 @@
+Shera Lowe
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1947-07-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+64 |  | Prediabetes | 0 | 
+64 | 65 | Not in labor force (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 |  | Received certificate of high school equivalency (finding) | 0 | 
+64 | 66 | Stress (finding) | 0 | 
+64 | 64 | Viral sinusitis (disorder) | 9 | Headache:39:0, Sinus Pain:59:0, Pain with Bright Lights:45:0, Facial Swelling:10:0, Nasal Discharge:12:0, Nasal Congestion:19:0, Sore Throat:26:0, Fever:13:0, Cough:39:0
+64 | 64 | Laceration of hand | 0 | 
+65 |  | Prediabetes | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 | 65 | Viral sinusitis (disorder) | 9 | Headache:46:0, Sinus Pain:76:0, Pain with Bright Lights:36:0, Facial Swelling:24:0, Nasal Discharge:8:0, Nasal Congestion:10:0, Sore Throat:43:0, Fever:24:0, Cough:0:0
+66 |  | Prediabetes | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 | 66 | Fracture of clavicle | 0 | 
+67 | 67 | Viral sinusitis (disorder) | 9 | Headache:21:0, Sinus Pain:79:0, Pain with Bright Lights:42:0, Facial Swelling:43:0, Nasal Discharge:48:0, Nasal Congestion:1:0, Sore Throat:34:0, Fever:2:0, Cough:37:0
+67 |  | Prediabetes | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 | 72 | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 73 | Reports of violence in the environment (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 | 70 | Not in labor force (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Osteoporosis (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 73 | Limited social contact (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Chronic intractable migraine without aura | 0 | 
+72 | 72 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:18:0, Fatigue:73:0, Mucus:39:0, Nasal Congestion:37:0, Shortness of Breath:35:0, Nausea/Vomiting:21:0, Sore Throat:40:0, Fever:27:0, Cough:48:0
+72 |  | Prediabetes | 0 | 
+72 | 73 | Not in labor force (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Fever (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+72 |  | Sputum finding (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+72 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+72 |  | Cough (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+72 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+72 | 72 | Suspected COVID-19 | 0 | 
+72 |  | COVID-19 | 0 | 
+72 |  | Respiratory distress (finding) | 0 | 
+72 |  | Pneumonia (disorder) | 0 | 
+72 |  | Hypoxemia (disorder) | 0 | 
+72 |  | Acute pulmonary embolism (disorder) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

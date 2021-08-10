@@ -1,0 +1,45 @@
+Rolanda Walsh
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1976-10-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+34 | 35 | Normal pregnancy | 0 | 
+36 | 37 | Normal pregnancy | 0 | 
+37 |  | Body mass index 30+ - obesity (finding) | 0 | 
+37 |  | Unemployed (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Unemployed (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 |  | Stress (finding) | 0 | 
+40 | 40 | Fracture of rib | 0 | 
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 | 44 | Limited social contact (finding) | 0 | 
+42 |  | Unemployed (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 44 | Stress (finding) | 0 | 
+42 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+43 | 43 | Normal pregnancy | 0 | 
+43 |  | Miscarriage in first trimester | 0 | 
+43 | 43 | Fetus with unknown complication | 0 | 
+43 |  | Fever (finding) | 4 | fever:1, sputum production:1, cough:1, diarrhea:1
+43 |  | Sputum finding (finding) | 4 | fever:1, sputum production:1, cough:1, diarrhea:1
+43 |  | Cough (finding) | 4 | fever:1, sputum production:1, cough:1, diarrhea:1
+43 |  | Diarrhea symptom (finding) | 4 | fever:1, sputum production:1, cough:1, diarrhea:1
+43 | 43 | Suspected COVID-19 | 0 | 
+43 |  | COVID-19 | 0 | 
+43 |  | Respiratory distress (finding) | 0 | 
+43 |  | Sepsis caused by virus (disorder) | 0 | 
+43 |  | Heart failure (disorder) | 0 | 
+43 |  | Pneumonia (disorder) | 0 | 
+43 |  | Hypoxemia (disorder) | 0 | 
+43 |  | Acute pulmonary embolism (disorder) | 0 | 
+43 | 44 | Normal pregnancy | 0 | 
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 |  | Unemployed (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Victim of intimate partner abuse (finding) | 0 | 
+--------------------------------------------------------------------------------

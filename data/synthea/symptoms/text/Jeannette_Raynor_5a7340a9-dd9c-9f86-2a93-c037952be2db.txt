@@ -1,0 +1,17 @@
+Jeannette Raynor
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1959-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 2 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:39:0, Pain with Bright Lights:37:0, Facial Swelling:49:0, Nasal Discharge:42:0, Nasal Congestion:10:0, Fever:14:0, Sore Throat:30:0, Cough:44:0
+5 |  | History of single seizure (situation) | 0 | 
+5 |  | Seizure disorder | 0 | 
+6 | 6 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:15:0, Body Aches:2:0, Runny/Stuffy Nose:31:0, Fatigue:41:0, Swollen Lymph Nodes:12:0, Swollen Tonsils:16:0, Decreased Appetite:6:0, Fever:33:0, Sore Throat:4:0, Cough:6:0
+9 |  | History of single seizure (situation) | 0 | 
+9 |  | Epilepsy | 0 | 
+9 |  | History of single seizure (situation) | 0 | 
+11 |  | History of single seizure (situation) | 0 | 
+--------------------------------------------------------------------------------

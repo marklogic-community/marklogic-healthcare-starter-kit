@@ -1,0 +1,18 @@
+Vincenzo Wuckert
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2010-05-11
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+3 | 3 | Acute bronchitis (disorder) | 10 | Body Aches:6:0, Diarrhea:1:0, Fatigue:55:0, Mucus:38:0, Nasal Congestion:38:0, Shortness of Breath:43:0, Nausea/Vomiting:4:0, Sore Throat:27:0, Fever:42:0, Cough:38:0
+6 | 6 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:4:0, Body Aches:6:0, Runny/Stuffy Nose:38:0, Fatigue:28:0, Swollen Lymph Nodes:9:0, Swollen Tonsils:29:0, Decreased Appetite:15:0, Sore Throat:48:0, Fever:28:0, Cough:37:0
+6 | 6 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:30:0, Body Aches:35:0, Runny/Stuffy Nose:3:0, Fatigue:22:0, Swollen Lymph Nodes:35:0, Swollen Tonsils:15:0, Decreased Appetite:10:0, Sore Throat:43:0, Fever:43:0, Cough:5:0
+9 |  | Fever (finding) | 4 | fever:1, sputum production:1, headache:1, loss_of_taste:1
+9 |  | Sputum finding (finding) | 4 | fever:1, sputum production:1, headache:1, loss_of_taste:1
+9 |  | Headache (finding) | 4 | fever:1, sputum production:1, headache:1, loss_of_taste:1
+9 |  | Loss of taste (finding) | 4 | fever:1, sputum production:1, headache:1, loss_of_taste:1
+9 | 9 | Suspected COVID-19 | 0 | 
+9 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

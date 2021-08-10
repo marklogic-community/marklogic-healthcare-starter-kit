@@ -1,0 +1,69 @@
+Korey Nitzsche
+==============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-09-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+46 | 47 | Part-time employment (finding) | 0 | 
+46 |  | Only received primary school education (finding) | 0 | 
+47 | 48 | Part-time employment (finding) | 0 | 
+47 |  | Only received primary school education (finding) | 0 | 
+47 | 48 | Stress (finding) | 0 | 
+48 | 49 | Full-time employment (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Only received primary school education (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+50 |  | Polyp of colon | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+51 |  | Chronic pain | 0 | 
+51 | 51 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:21:0, Fatigue:71:0, Mucus:40:0, Nasal Congestion:39:0, Shortness of Breath:56:0, Nausea/Vomiting:22:0, Cough:47:0, Sore Throat:31:0, Fever:44:0
+51 | 51 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Malignant tumor of colon | 0 | 
+51 |  | Recurrent rectal polyp | 0 | 
+51 |  | Anemia (disorder) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 | 52 | Social isolation (finding) | 0 | 
+51 | 53 | Stress (finding) | 0 | 
+51 |  | Impacted molars | 0 | 
+51 |  | Chronic pain | 0 | 
+52 |  | Impacted molars | 0 | 
+52 |  | Impacted molars | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Chronic pain | 0 | 
+52 |  | Chronic pain | 0 | 
+53 |  | Impacted molars | 0 | 
+53 |  | Impacted molars | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 | 54 | Social isolation (finding) | 0 | 
+53 |  | Impacted molars | 0 | 
+53 |  | Chronic pain | 0 | 
+54 |  | Impacted molars | 0 | 
+54 |  | Chronic intractable migraine without aura | 0 | 
+54 |  | Chronic pain | 0 | 
+54 |  | Impacted molars | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 | 54 | Acute bronchitis (disorder) | 10 | Body Aches:3:0, Diarrhea:21:0, Fatigue:37:0, Mucus:49:0, Nasal Congestion:44:0, Shortness of Breath:37:0, Nausea/Vomiting:18:0, Cough:62:0, Sore Throat:45:0, Fever:25:0
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Social isolation (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Chronic pain | 0 | 
+55 |  | Chronic intractable migraine without aura | 0 | 
+55 |  | Chronic intractable migraine without aura | 0 | 
+55 |  | Chronic pain | 0 | 
+55 |  | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Social isolation (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

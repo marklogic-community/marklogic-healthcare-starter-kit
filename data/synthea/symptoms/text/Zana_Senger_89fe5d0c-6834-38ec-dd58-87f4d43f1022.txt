@@ -1,0 +1,16 @@
+Zana Senger
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2013-09-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+4 | 4 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:15:0, Body Aches:25:0, Runny/Stuffy Nose:33:0, Fatigue:32:0, Swollen Lymph Nodes:36:0, Decreased Appetite:12:0, Swollen Tonsils:58:0, Cough:0:0, Sore Throat:20:0, Fever:30:0
+5 | 5 | Otitis media | 0 | 
+6 |  | Cough (finding) | 2 | loss_of_taste:1, cough:1
+6 |  | Loss of taste (finding) | 2 | loss_of_taste:1, cough:1
+6 | 6 | Suspected COVID-19 | 0 | 
+6 |  | COVID-19 | 0 | 
+7 | 7 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:2:0, Fatigue:28:0, Mucus:31:0, Nasal Congestion:32:0, Shortness of Breath:58:0, Nausea/Vomiting:10:0, Cough:60:0, Sore Throat:49:0, Fever:38:0
+--------------------------------------------------------------------------------

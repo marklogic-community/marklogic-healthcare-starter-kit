@@ -1,0 +1,68 @@
+Lakia Barrows
+=============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+80 | 80 | Acute bronchitis (disorder) | 10 | Body Aches:9:0, Diarrhea:9:0, Fatigue:68:0, Mucus:28:0, Nasal Congestion:27:0, Shortness of Breath:71:0, Nausea/Vomiting:17:0, Sore Throat:28:0, Cough:41:0, Fever:37:0
+81 |  | Prediabetes | 0 | 
+81 | 82 | Part-time employment (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 | 90 | Severe anxiety (panic) (finding | 0 | 
+83 | 83 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:46:0, Body Aches:21:0, Runny/Stuffy Nose:44:0, Fatigue:31:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:30:0, Decreased Appetite:41:0, Sore Throat:11:0, Cough:49:0, Fever:48:0
+83 |  | Prediabetes | 0 | 
+83 | 83 | Full-time employment (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Chronic low back pain (finding) | 0 | 
+83 |  | Chronic neck pain (finding) | 0 | 
+83 | 83 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:21:0, Fatigue:54:0, Mucus:27:0, Nasal Congestion:41:0, Shortness of Breath:59:0, Nausea/Vomiting:13:0, Sore Throat:33:0, Cough:31:0, Fever:40:0
+83 |  | Prediabetes | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+84 |  | Prediabetes | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+85 | 85 | Fracture subluxation of wrist | 0 | 
+85 | 85 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+85 |  | Prediabetes | 0 | 
+85 | 86 | Full-time employment (finding) | 0 | 
+85 |  | Received certificate of high school equivalency (finding) | 0 | 
+85 |  | Stress (finding) | 0 | 
+86 |  | Prediabetes | 0 | 
+86 | 87 | Part-time employment (finding) | 0 | 
+86 |  | Received certificate of high school equivalency (finding) | 0 | 
+86 |  | Stress (finding) | 0 | 
+86 | 88 | Social isolation (finding) | 0 | 
+87 |  | Prediabetes | 0 | 
+87 | 88 | Not in labor force (finding) | 0 | 
+87 |  | Received certificate of high school equivalency (finding) | 0 | 
+87 | 88 | Stress (finding) | 0 | 
+88 |  | Prediabetes | 0 | 
+88 | 89 | Full-time employment (finding) | 0 | 
+88 | 90 | Victim of intimate partner abuse (finding) | 0 | 
+88 |  | Received certificate of high school equivalency (finding) | 0 | 
+88 | 88 | Viral sinusitis (disorder) | 9 | Headache:2:0, Sinus Pain:51:0, Pain with Bright Lights:42:0, Facial Swelling:37:0, Nasal Discharge:16:0, Nasal Congestion:18:0, Sore Throat:12:0, Cough:15:0, Fever:6:0
+89 |  | Prediabetes | 0 | 
+89 | 90 | Limited social contact (finding) | 0 | 
+89 | 90 | Not in labor force (finding) | 0 | 
+89 |  | Received certificate of high school equivalency (finding) | 0 | 
+89 |  | Stress (finding) | 0 | 
+89 |  | Fever (finding) | 2 | fever:1, loss_of_taste:1
+89 |  | Loss of taste (finding) | 2 | fever:1, loss_of_taste:1
+89 | 89 | Suspected COVID-19 | 0 | 
+89 |  | COVID-19 | 0 | 
+90 |  | Prediabetes | 0 | 
+90 |  | Full-time employment (finding) | 0 | 
+90 |  | Received certificate of high school equivalency (finding) | 0 | 
+90 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

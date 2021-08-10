@@ -1,0 +1,52 @@
+Marleen Barrows
+===============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Unemployed (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Unemployed (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Limited social contact (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Unemployed (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 | 82 | Social isolation (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+77 | 77 | Laceration of foot | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Unemployed (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+80 |  | Osteoporosis (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 | 81 | Stress (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Unemployed (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Victim of intimate partner abuse (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

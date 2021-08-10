@@ -1,0 +1,36 @@
+Charlie Hackett
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1983-06-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 | 29 | Normal pregnancy | 0 | 
+29 | 30 | Part-time employment (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+30 | 31 | Normal pregnancy | 0 | 
+30 | 30 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:21:0, Fatigue:62:0, Mucus:38:0, Nasal Congestion:31:0, Shortness of Breath:41:0, Nausea/Vomiting:0:0, Sore Throat:39:0, Fever:26:0, Cough:40:0
+30 | 32 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 | 31 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:49:0, Body Aches:10:0, Runny/Stuffy Nose:3:0, Fatigue:45:0, Swollen Lymph Nodes:31:0, Swollen Tonsils:41:0, Decreased Appetite:15:0, Sore Throat:48:0, Fever:6:0, Cough:11:0
+32 | 35 | Full-time employment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 | 35 | Stress (finding) | 0 | 
+34 | 34 | Normal pregnancy | 0 | 
+34 |  | Miscarriage in second trimester | 0 | 
+34 | 34 | Fetus with chromosomal abnormality | 0 | 
+34 | 34 | Normal pregnancy | 0 | 
+34 | 34 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:5:0, Body Aches:4:0, Runny/Stuffy Nose:29:0, Fatigue:6:0, Swollen Lymph Nodes:6:0, Swollen Tonsils:26:0, Decreased Appetite:34:0, Sore Throat:32:0, Fever:22:0, Cough:15:0
+35 |  | Full-time employment (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+36 |  | Dyspnea (finding) | 3 | fever:1, dyspnea:1, cough:1
+36 |  | Fever (finding) | 3 | fever:1, dyspnea:1, cough:1
+36 |  | Wheezing (finding) | 3 | fever:1, dyspnea:1, cough:1
+36 |  | Cough (finding) | 3 | fever:1, dyspnea:1, cough:1
+36 | 36 | Suspected COVID-19 | 0 | 
+36 |  | COVID-19 | 0 | 
+36 | 36 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:14:0, Fatigue:72:0, Mucus:49:0, Nasal Congestion:29:0, Shortness of Breath:69:0, Nausea/Vomiting:7:0, Sore Throat:44:0, Fever:45:0, Cough:46:0
+--------------------------------------------------------------------------------

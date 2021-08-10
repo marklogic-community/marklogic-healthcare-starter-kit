@@ -1,0 +1,24 @@
+Kristy Jacobi
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2011-07-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Otitis media | 0 | 
+0 | 0 | Acute allergic reaction | 0 | 
+2 |  | Childhood asthma | 6 | Mucus Secretion:5, Chest Pressure:26, Wheezing:40, Nasal Congestion:19, Shortness of Breath:66, Cough:10
+2 | 2 | Viral sinusitis (disorder) | 9 | Sinus Pain:73:0, Headache:12:0, Pain with Bright Lights:26:0, Facial Swelling:11:0, Nasal Discharge:19:0, Nasal Congestion:9:0, Cough:4:0, Fever:9:0, Sore Throat:7:0
+3 |  | Perennial allergic rhinitis | 5 | Nasal Discharge:19, Ear Pressure:9, Nasal Congestion:14, Sneezing Fits:6, Itching:8
+4 | 4 | Viral sinusitis (disorder) | 9 | Sinus Pain:70:0, Headache:42:0, Pain with Bright Lights:45:0, Facial Swelling:36:0, Nasal Discharge:10:0, Nasal Congestion:13:0, Cough:40:0, Fever:18:0, Sore Throat:11:0
+5 | 5 | Viral sinusitis (disorder) | 9 | Sinus Pain:58:0, Headache:16:0, Pain with Bright Lights:45:0, Facial Swelling:39:0, Nasal Discharge:13:0, Nasal Congestion:17:0, Cough:42:0, Fever:22:0, Sore Throat:29:0
+5 | 5 | Acute bronchitis (disorder) | 10 | Body Aches:1:0, Diarrhea:8:0, Fatigue:72:0, Mucus:43:0, Nasal Congestion:41:0, Shortness of Breath:54:0, Nausea/Vomiting:5:0, Cough:66:0, Fever:44:0, Sore Throat:35:0
+7 | 7 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:35:0, Pain with Bright Lights:32:0, Facial Swelling:49:0, Nasal Discharge:0:0, Nasal Congestion:14:0, Cough:40:0, Fever:19:0, Sore Throat:23:0
+8 | 8 | Viral sinusitis (disorder) | 9 | Sinus Pain:67:0, Headache:29:0, Pain with Bright Lights:28:0, Facial Swelling:28:0, Nasal Discharge:44:0, Nasal Congestion:0:0, Cough:13:0, Fever:22:0, Sore Throat:4:0
+8 |  | Fever (finding) | 2 | fever:1, loss_of_taste:1
+8 |  | Loss of taste (finding) | 2 | fever:1, loss_of_taste:1
+8 | 8 | Suspected COVID-19 | 0 | 
+8 |  | COVID-19 | 0 | 
+9 | 9 | Viral sinusitis (disorder) | 9 | Sinus Pain:61:0, Headache:29:0, Pain with Bright Lights:34:0, Facial Swelling:22:0, Nasal Discharge:4:0, Nasal Congestion:3:0, Cough:16:0, Fever:11:0, Sore Throat:24:0
+--------------------------------------------------------------------------------

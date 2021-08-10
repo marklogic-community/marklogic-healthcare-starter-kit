@@ -1,0 +1,69 @@
+Lilliana Cummings
+=================
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1970-08-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+42 |  | Metabolic syndrome X (disorder) | 0 | 
+42 |  | Hypertriglyceridemia (disorder) | 0 | 
+42 |  | Diabetes | 0 | 
+42 | 43 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 43 | Stress (finding) | 0 | 
+42 |  | Victim of intimate partner abuse (finding) | 0 | 
+43 |  | Metabolic syndrome X (disorder) | 0 | 
+43 |  | Hypertriglyceridemia (disorder) | 0 | 
+43 |  | Prediabetes | 0 | 
+43 |  | Hyperglycemia (disorder) | 0 | 
+43 | 44 | Part-time employment (finding) | 0 | 
+43 | 50 | Reports of violence in the environment (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Chronic low back pain (finding) | 0 | 
+43 |  | Chronic neck pain (finding) | 0 | 
+43 |  | Chronic low back pain (finding) | 0 | 
+43 |  | Chronic neck pain (finding) | 0 | 
+43 |  | Chronic low back pain (finding) | 0 | 
+43 |  | Chronic neck pain (finding) | 0 | 
+44 |  | Metabolic syndrome X (disorder) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 46 | Stress (finding) | 0 | 
+44 | 46 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+45 |  | Metabolic syndrome X (disorder) | 0 | 
+45 |  | Prediabetes | 0 | 
+45 | 46 | Part-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+46 |  | Metabolic syndrome X (disorder) | 0 | 
+46 |  | Prediabetes | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 46 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:2:0, Fatigue:40:0, Mucus:33:0, Nasal Congestion:29:0, Shortness of Breath:58:0, Nausea/Vomiting:1:0, Sore Throat:33:0, Fever:27:0, Cough:53:0
+46 | 46 | Viral sinusitis (disorder) | 9 | Sinus Pain:71:0, Headache:45:0, Pain with Bright Lights:45:0, Facial Swelling:38:0, Nasal Discharge:28:0, Nasal Congestion:22:0, Sore Throat:32:0, Fever:0:0, Cough:0:0
+47 |  | Metabolic syndrome X (disorder) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 |  | Metabolic syndrome X (disorder) | 0 | 
+48 | 50 | Limited social contact (finding) | 0 | 
+48 | 49 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+49 |  | Metabolic syndrome X (disorder) | 0 | 
+49 |  | Prediabetes | 0 | 
+49 | 50 | Not in labor force (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+49 |  | Fever (finding) | 2 | fever:1, cough:1
+49 |  | Cough (finding) | 2 | fever:1, cough:1
+49 | 49 | Suspected COVID-19 | 0 | 
+49 |  | COVID-19 | 0 | 
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 |  | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+50 |  | Severe anxiety (panic) (finding | 0 | 
+--------------------------------------------------------------------------------

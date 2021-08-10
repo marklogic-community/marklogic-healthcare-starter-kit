@@ -1,0 +1,70 @@
+Verdie Auer
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+52 |  | Prediabetes | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Housing unsatisfactory (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Transport problems (finding) | 0 | 
+52 | 54 | Stress (finding) | 0 | 
+52 | 52 | Acute bacterial sinusitis (disorder) | 9 | Headache:27:0, Sinus Pain:66:0, Pain with Bright Lights:46:0, Facial Swelling:0:0, Nasal Discharge:16:0, Nasal Congestion:21:0, Sore Throat:47:0, Fever:9:0, Cough:17:0
+53 |  | Prediabetes | 0 | 
+53 |  | Lack of access to transportation (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Housing unsatisfactory (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Lack of access to transportation (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Housing unsatisfactory (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 | 54 | Sprain of ankle | 0 | 
+55 |  | Prediabetes | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Housing unsatisfactory (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Transport problems (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Housing unsatisfactory (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Transport problems (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Housing unsatisfactory (finding) | 0 | 
+57 |  | Transport problems (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 |  | Lack of access to transportation (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 | 61 | Limited social contact (finding) | 0 | 
+58 |  | Housing unsatisfactory (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 |  | Lack of access to transportation (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 60 | Not in labor force (finding) | 0 | 
+59 |  | Housing unsatisfactory (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 |  | Prediabetes | 0 | 
+60 |  | Lack of access to transportation (finding) | 0 | 
+60 | 61 | Victim of intimate partner abuse (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+60 |  | Housing unsatisfactory (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 | 61 | Stress (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Not in labor force (finding) | 0 | 
+61 |  | Housing unsatisfactory (finding) | 0 | 
+61 |  | Transport problems (finding) | 0 | 
+61 |  | Severe anxiety (panic) (finding | 0 | 
+--------------------------------------------------------------------------------

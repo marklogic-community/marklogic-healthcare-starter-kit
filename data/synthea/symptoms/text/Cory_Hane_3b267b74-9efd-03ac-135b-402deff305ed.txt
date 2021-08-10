@@ -1,0 +1,29 @@
+Cory Hane
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-07-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+35 | 35 | Viral sinusitis (disorder) | 9 | Sinus Pain:77:0, Headache:4:0, Pain with Bright Lights:33:0, Facial Swelling:39:0, Nasal Discharge:47:0, Nasal Congestion:10:0, Cough:5:0, Sore Throat:17:0, Fever:17:0
+36 | 36 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:44:0, Pain with Bright Lights:29:0, Facial Swelling:2:0, Nasal Discharge:27:0, Nasal Congestion:7:0, Cough:38:0, Sore Throat:34:0, Fever:18:0
+37 |  | Served in armed forces (finding) | 0 | 
+37 | 40 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+38 | 39 | Viral sinusitis (disorder) | 9 | Sinus Pain:65:0, Headache:45:0, Pain with Bright Lights:32:0, Facial Swelling:44:0, Nasal Discharge:2:0, Nasal Congestion:0:0, Cough:37:0, Sore Throat:3:0, Fever:19:0
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Served in armed forces (finding) | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 | 44 | Stress (finding) | 0 | 
+40 | 40 | First degree burn | 0 | 
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 |  | Served in armed forces (finding) | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 |  | Full-time employment (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

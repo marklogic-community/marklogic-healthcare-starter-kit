@@ -1,0 +1,14 @@
+Sylvie Will
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2017-06-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:7:0, Fatigue:56:0, Mucus:40:0, Nasal Congestion:28:0, Shortness of Breath:73:0, Nausea/Vomiting:17:0, Cough:26:0, Sore Throat:27:0, Fever:47:0
+2 |  | Fever (finding) | 2 | fever:1, cough:1
+2 |  | Cough (finding) | 2 | fever:1, cough:1
+2 | 2 | Suspected COVID-19 | 0 | 
+2 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

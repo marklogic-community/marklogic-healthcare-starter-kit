@@ -1,0 +1,52 @@
+Herschel Bernhard
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+48 |  | Prediabetes | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+49 | 49 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:45:0, Runny/Stuffy Nose:6:0, Fatigue:44:0, Swollen Lymph Nodes:35:0, Swollen Tonsils:42:0, Decreased Appetite:24:0, Sore Throat:36:0, Fever:0:0, Cough:1:0
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 | 57 | Victim of intimate partner abuse (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 57 | Limited social contact (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 |  | Victim of intimate partner abuse (finding) | 0 | 
+52 | 53 | Otitis media | 0 | 
+52 |  | Impacted molars | 10 | Reduced Sex Drive:5, Slurred Speech:1, Shortness Constipation Breath:3, Anxiety:4, Pain Sensitivity:8, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:5, Mood Swing:8, Nausea/Vomiting:7
+52 | 52 | Viral sinusitis (disorder) | 9 | Headache:7:0, Sinus Pain:68:0, Pain with Bright Lights:27:0, Facial Swelling:9:0, Nasal Discharge:28:0, Nasal Congestion:5:0, Sore Throat:23:0, Fever:21:0, Cough:34:0
+53 |  | Prediabetes | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 | 56 | Stress (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Drug overdose | 0 | 
+56 |  | Prediabetes | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 56 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:10:0, Body Aches:27:0, Runny/Stuffy Nose:1:0, Fatigue:3:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:22:0, Decreased Appetite:22:0, Sore Throat:11:0, Fever:21:0, Cough:16:0
+57 |  | Prediabetes | 0 | 
+57 |  | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 |  | Drug overdose | 0 | 
+--------------------------------------------------------------------------------

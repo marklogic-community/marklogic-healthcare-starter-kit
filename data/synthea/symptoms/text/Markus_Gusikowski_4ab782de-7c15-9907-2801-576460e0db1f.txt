@@ -1,0 +1,36 @@
+Markus Gusikowski
+=================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1988-11-27
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+24 | 24 | Sprain of ankle | 0 | 
+24 | 24 | Viral sinusitis (disorder) | 9 | Headache:11:0, Sinus Pain:79:0, Pain with Bright Lights:42:0, Facial Swelling:34:0, Nasal Discharge:41:0, Nasal Congestion:11:0, Sore Throat:11:0, Cough:21:0, Fever:19:0
+25 |  | Served in armed forces (finding) | 0 | 
+25 | 28 | Full-time employment (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+28 |  | Served in armed forces (finding) | 0 | 
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+31 |  | Served in armed forces (finding) | 0 | 
+31 |  | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 | 31 | Viral sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:68:0, Pain with Bright Lights:28:0, Facial Swelling:7:0, Nasal Discharge:23:0, Nasal Congestion:2:0, Sore Throat:30:0, Cough:30:0, Fever:5:0
+31 |  | Dyspnea (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+31 |  | Fever (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+31 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+31 |  | Wheezing (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+31 |  | Cough (finding) | 4 | fatigue:1, fever:1, dyspnea:1, cough:1
+31 | 31 | Suspected COVID-19 | 0 | 
+31 |  | COVID-19 | 0 | 
+31 |  | Respiratory distress (finding) | 0 | 
+31 |  | Pneumonia (disorder) | 0 | 
+31 |  | Hypoxemia (disorder) | 0 | 
+31 |  | Acute deep venous thrombosis (disorder) | 0 | 
+31 | 31 | Viral sinusitis (disorder) | 9 | Headache:46:0, Sinus Pain:53:0, Pain with Bright Lights:49:0, Facial Swelling:9:0, Nasal Discharge:17:0, Nasal Congestion:0:0, Sore Throat:2:0, Cough:3:0, Fever:17:0
+--------------------------------------------------------------------------------

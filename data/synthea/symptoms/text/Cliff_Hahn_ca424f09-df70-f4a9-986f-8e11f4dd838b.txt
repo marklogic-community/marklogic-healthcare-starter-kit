@@ -1,0 +1,67 @@
+Cliff Hahn
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1969-11-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+42 |  | Hypertriglyceridemia (disorder) | 0 | 
+42 |  | Diabetes | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+44 |  | Metabolic syndrome X (disorder) | 0 | 
+44 |  | Hypertriglyceridemia (disorder) | 0 | 
+44 |  | Diabetes | 0 | 
+44 | 45 | Part-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 |  | Metabolic syndrome X (disorder) | 0 | 
+45 |  | Hypertriglyceridemia (disorder) | 0 | 
+45 |  | Prediabetes | 0 | 
+45 |  | Hyperglycemia (disorder) | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Stress (finding) | 0 | 
+46 |  | Metabolic syndrome X (disorder) | 0 | 
+46 |  | Prediabetes | 0 | 
+46 | 47 | Part-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 49 | Stress (finding) | 0 | 
+46 | 51 | Severe anxiety (panic) (finding | 0 | 
+47 |  | Metabolic syndrome X (disorder) | 0 | 
+47 |  | Prediabetes | 0 | 
+47 | 51 | Reports of violence in the environment (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 | 47 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:11:0, Pain with Bright Lights:25:0, Facial Swelling:12:0, Nasal Discharge:35:0, Nasal Congestion:11:0, Fever:5:0, Sore Throat:9:0, Cough:1:0
+48 |  | Metabolic syndrome X (disorder) | 0 | 
+48 |  | Prediabetes | 0 | 
+48 | 49 | Part-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 | 50 | Social isolation (finding) | 0 | 
+48 | 48 | Viral sinusitis (disorder) | 9 | Sinus Pain:74:0, Headache:1:0, Pain with Bright Lights:25:0, Facial Swelling:49:0, Nasal Discharge:15:0, Nasal Congestion:14:0, Fever:11:0, Sore Throat:37:0, Cough:23:0
+49 |  | Metabolic syndrome X (disorder) | 0 | 
+49 |  | Prediabetes | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 |  | Diabetic retinopathy associated with type II diabetes mellitus (disorder) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+50 |  | Muscle pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+50 |  | Fever (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+50 |  | Joint pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+50 |  | Cough (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+50 | 50 | Suspected COVID-19 | 0 | 
+50 |  | COVID-19 | 0 | 
+50 | 50 | Viral sinusitis (disorder) | 9 | Sinus Pain:64:0, Headache:47:0, Pain with Bright Lights:42:0, Facial Swelling:49:0, Nasal Discharge:3:0, Nasal Congestion:14:0, Fever:0:0, Sore Throat:5:0, Cough:36:0
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Limited social contact (finding) | 0 | 
+51 |  | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

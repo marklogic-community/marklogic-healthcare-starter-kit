@@ -1,0 +1,63 @@
+Billy Reichert
+==============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1984-04-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Transport problems (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+29 | 29 | Viral sinusitis (disorder) | 9 | Sinus Pain:56:0, Headache:45:0, Pain with Bright Lights:45:0, Facial Swelling:27:0, Nasal Discharge:27:0, Nasal Congestion:4:0, Fever:6:0, Sore Throat:41:0, Cough:35:0
+29 |  | Chronic low back pain (finding) | 0 | 
+29 |  | Chronic neck pain (finding) | 0 | 
+29 |  | Body mass index 30+ - obesity (finding) | 0 | 
+29 | 30 | Not in labor force (finding) | 0 | 
+29 |  | Transport problems (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+29 | 32 | Social isolation (finding) | 0 | 
+29 | 35 | Misuses drugs (finding) | 0 | 
+29 |  | Chronic low back pain (finding) | 0 | 
+29 |  | Chronic neck pain (finding) | 0 | 
+30 |  | Chronic low back pain (finding) | 0 | 
+30 |  | Chronic neck pain (finding) | 0 | 
+30 |  | Lack of access to transportation (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 |  | Lack of access to transportation (finding) | 0 | 
+31 | 32 | Part-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 36 | Stress (finding) | 0 | 
+32 | 32 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:13:0, Body Aches:2:0, Runny/Stuffy Nose:43:0, Fatigue:1:0, Swollen Lymph Nodes:20:0, Swollen Tonsils:0:0, Decreased Appetite:14:0, Fever:34:0, Sore Throat:47:0, Cough:6:0
+32 |  | Lack of access to transportation (finding) | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+33 |  | Lack of access to transportation (finding) | 0 | 
+33 | 36 | Limited social contact (finding) | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+34 | 34 | Concussion with no loss of consciousness | 0 | 
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Transport problems (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+35 |  | Fever (finding) | 2 | fatigue:1, fever:1
+35 |  | Fatigue (finding) | 2 | fatigue:1, fever:1
+35 | 35 | Suspected COVID-19 | 0 | 
+35 |  | COVID-19 | 0 | 
+35 |  | Body mass index 30+ - obesity (finding) | 0 | 
+35 | 36 | Not in labor force (finding) | 0 | 
+35 |  | Has a criminal record (finding) | 0 | 
+35 |  | Transport problems (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+36 |  | Body mass index 30+ - obesity (finding) | 0 | 
+36 |  | Victim of intimate partner abuse (finding) | 0 | 
+36 |  | Not in labor force (finding) | 0 | 
+36 |  | Has a criminal record (finding) | 0 | 
+36 |  | Transport problems (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+37 | 37 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:48:0, Body Aches:43:0, Runny/Stuffy Nose:10:0, Fatigue:29:0, Swollen Lymph Nodes:27:0, Swollen Tonsils:34:0, Decreased Appetite:40:0, Fever:9:0, Sore Throat:11:0, Cough:41:0
+--------------------------------------------------------------------------------

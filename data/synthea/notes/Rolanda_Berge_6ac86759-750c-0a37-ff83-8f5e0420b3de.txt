@@ -1,0 +1,1408 @@
+
+2020-08-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 53 year-old non-hispanic white female. Patient has a history of fatigue (finding), acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), viral sinusitis (disorder), suspected covid-19, covid-19, acute bronchitis (disorder), part-time employment (finding), fever (finding), sputum finding (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, cough (finding), septic shock (disorder), cystitis, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]; nitrofurantoin, macrocrystals 50 mg oral capsule
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- ibuprofen 400 mg oral tablet [ibu]
+
+
+
+2020-03-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 52 year-old non-hispanic white female. Patient has a history of acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), viral sinusitis (disorder), acute bronchitis (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, septic shock (disorder), cystitis, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]; nitrofurantoin, macrocrystals 50 mg oral capsule
+
+# Assessment and Plan
+Patient is presenting with cough (finding), sputum finding (finding), fatigue (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-08-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 52 year-old non-hispanic white female. Patient has a history of acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), viral sinusitis (disorder), acute bronchitis (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, septic shock (disorder), cystitis, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]; nitrofurantoin, macrocrystals 50 mg oral capsule
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- ibuprofen 400 mg oral tablet [ibu]
+
+
+
+2018-09-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 51 year-old non-hispanic white female. Patient has a history of acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), viral sinusitis (disorder), acute bronchitis (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, septic shock (disorder), cystitis, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]; nitrofurantoin, macrocrystals 50 mg oral capsule
+
+# Assessment and Plan
+Patient is presenting with cystitis. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- nitrofurantoin 5 mg/ml oral suspension
+- phenazopyridine hydrochloride 100 mg oral tablet
+The patient was placed on a careplan:
+- urinary tract infection care
+
+
+
+2018-08-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 51 year-old non-hispanic white female. Patient has a history of acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), viral sinusitis (disorder), septic shock (disorder), cystitis, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]; nitrofurantoin, macrocrystals 50 mg oral capsule
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- ibuprofen 400 mg oral tablet [ibu]
+
+
+
+2018-06-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 50 year-old non-hispanic white female. Patient has a history of acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), septic shock (disorder), cystitis, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]; nitrofurantoin, macrocrystals 50 mg oral capsule
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2018-03-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 50 year-old non-hispanic white female. Patient has a history of acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), cystitis, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]; nitrofurantoin, macrocrystals 50 mg oral capsule
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+
+
+
+2017-08-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 50 year-old non-hispanic white female. Patient has a history of acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), cystitis, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]; nitrofurantoin, macrocrystals 50 mg oral capsule
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+The patient was prescribed the following medications:
+- ibuprofen 400 mg oral tablet [ibu]
+
+
+
+2017-07-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 50 year-old non-hispanic white female. Patient has a history of acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), cystitis, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- nitrofurantoin, macrocrystals 50 mg oral capsule
+
+
+
+2017-07-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 50 year-old non-hispanic white female. Patient has a history of acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+Patient is presenting with cystitis. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- nitrofurantoin 5 mg/ml oral suspension
+- phenazopyridine hydrochloride 100 mg oral tablet
+The patient was placed on a careplan:
+- urinary tract infection care
+
+
+
+2017-07-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 50 year-old non-hispanic white female. Patient has a history of acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- information gathering (procedure)
+
+
+
+2016-08-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 49 year-old non-hispanic white female. Patient has a history of acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+The patient was prescribed the following medications:
+- ibuprofen 400 mg oral tablet [ibu]
+
+
+
+2015-08-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 48 year-old non-hispanic white female. Patient has a history of acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+The patient was prescribed the following medications:
+- ibuprofen 400 mg oral tablet [ibu]
+
+
+
+2014-07-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 47 year-old non-hispanic white female. Patient has a history of acute bronchitis (disorder), not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- ibuprofen 400 mg oral tablet [ibu]
+
+
+
+2014-03-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder), full-time employment (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- measurement of respiratory function (procedure)
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+- ibuprofen 400 mg oral tablet [ibu]
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2014-03-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- movement therapy (regime/therapy)
+
+
+
+2014-03-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- movement therapy (regime/therapy)
+
+
+
+2014-03-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The patient was prescribed the following medications:
+- ibuprofen 400 mg oral tablet [ibu]
+
+
+
+2014-02-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- movement therapy (regime/therapy)
+
+
+
+2014-02-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- movement therapy (regime/therapy)
+
+
+
+2014-02-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- movement therapy (regime/therapy)
+
+
+
+2014-02-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- movement therapy (regime/therapy)
+
+
+
+2014-02-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- movement therapy (regime/therapy)
+
+
+
+2014-02-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- movement therapy (regime/therapy)
+
+
+
+2014-02-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- movement therapy (regime/therapy)
+
+
+
+2014-02-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet; ibuprofen 400 mg oral tablet [ibu]
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- movement therapy (regime/therapy)
+
+
+
+2014-02-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), limited social contact (finding), full-time employment (finding), escherichia coli urinary tract infection, victim of intimate partner abuse (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with chronic neck pain (finding). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- ibuprofen 400 mg oral tablet [ibu]
+The patient was placed on a careplan:
+- therapy (regime/therapy)
+
+
+
+2013-07-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 46 year-old non-hispanic white female. Patient has a history of not in labor force (finding), full-time employment (finding), escherichia coli urinary tract infection, septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+nitrofurantoin 5 mg/ml oral suspension; phenazopyridine hydrochloride 100 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding), limited social contact (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2011-11-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 44 year-old non-hispanic white female. Patient has a history of not in labor force (finding), full-time employment (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with escherichia coli urinary tract infection. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- nitrofurantoin 5 mg/ml oral suspension
+- phenazopyridine hydrochloride 100 mg oral tablet
+The patient was placed on a careplan:
+- urinary tract infection care
+
+
+
+2011-07-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 44 year-old non-hispanic white female. Patient has a history of not in labor force (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), social isolation (finding). 
+
+## Plan
+
+
+
+
+2007-07-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 40 year-old non-hispanic white female. Patient has a history of not in labor force (finding), septic shock (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding). 
+
+## Plan
+
+
+
+
+2006-01-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 38 year-old non-hispanic white female. Patient has a history of not in labor force (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with sepsis (disorder), septic shock (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- piperacillin 2000 mg / tazobactam 250 mg injection
+- 150 ml vancomycin 5 mg/ml injection
+- 4 ml norepinephrine 1 mg/ml injection
+
+
+
+2002-05-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 34 year-old non-hispanic white female. Patient has a history of not in labor force (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+
+
+
+
+2000-12-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 33 year-old non-hispanic white female. Patient has a history of not in labor force (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- routine antenatal care
+
+
+
+1998-09-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 31 year-old non-hispanic white female. Patient has a history of social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+
+
+
+
+1993-02-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 25 year-old non-hispanic white female. Patient has a history of social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- routine antenatal care
+
+
+
+1992-09-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 25 year-old non-hispanic white female. Patient has a history of social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+1986-10-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 19 year-old non-hispanic white female. Patient has a history of social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The patient was placed on a careplan:
+- routine antenatal care
+
+
+
+1986-08-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 19 year-old non-hispanic white female. Patient has a history of social isolation (finding).
+
+# Social History
+Patient is married. Patient is temporarily homeless. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with transport problems (finding), stress (finding). 
+
+## Plan
+
+
+
+
+1985-08-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 18 year-old non-hispanic white female.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received certificate of high school equivalency (finding), lack of access to transportation (finding), social isolation (finding). 
+
+## Plan
+
+
+
+
+1984-04-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Rolanda
+ is a 16 year-old non-hispanic white female.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with chronic sinusitis (disorder). 
+
+## Plan
+
+
+
+

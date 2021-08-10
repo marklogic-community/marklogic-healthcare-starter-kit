@@ -1,0 +1,29 @@
+Frederick Breitenberg
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1973-03-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+39 | 39 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:2:0, Body Aches:30:0, Runny/Stuffy Nose:2:0, Fatigue:36:0, Swollen Lymph Nodes:48:0, Swollen Tonsils:20:0, Decreased Appetite:12:0, Fever:28:0, Sore Throat:47:0, Cough:2:0
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+41 | 41 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:24:0, Pain with Bright Lights:48:0, Facial Swelling:4:0, Nasal Discharge:5:0, Nasal Congestion:13:0, Fever:24:0, Sore Throat:12:0, Cough:30:0
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 |  | Victim of intimate partner abuse (finding) | 0 | 
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 | 46 | Not in labor force (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 | 48 | Part-time employment (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 | 46 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:1:0, Body Aches:0:0, Runny/Stuffy Nose:45:0, Fatigue:46:0, Swollen Lymph Nodes:17:0, Swollen Tonsils:26:0, Decreased Appetite:22:0, Fever:47:0, Sore Throat:29:0, Cough:21:0
+48 |  | Part-time employment (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

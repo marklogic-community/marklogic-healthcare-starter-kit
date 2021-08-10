@@ -1,0 +1,44 @@
+Sanford Kerluke
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1986-02-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+27 |  | Chronic low back pain (finding) | 0 | 
+27 |  | Chronic neck pain (finding) | 0 | 
+27 |  | Served in armed forces (finding) | 0 | 
+27 | 28 | Full-time employment (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 35 | Social isolation (finding) | 0 | 
+28 | 28 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:6:0, Fatigue:27:0, Mucus:36:0, Nasal Congestion:40:0, Shortness of Breath:59:0, Nausea/Vomiting:7:0, Cough:50:0, Sore Throat:42:0, Fever:25:0
+28 |  | Served in armed forces (finding) | 0 | 
+28 | 30 | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 30 | Stress (finding) | 0 | 
+30 | 30 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:22:0, Body Aches:40:0, Runny/Stuffy Nose:1:0, Fatigue:38:0, Swollen Lymph Nodes:2:0, Swollen Tonsils:44:0, Decreased Appetite:30:0, Cough:47:0, Sore Throat:31:0, Fever:32:0
+30 |  | Served in armed forces (finding) | 0 | 
+30 | 31 | Not in labor force (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+31 |  | Served in armed forces (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 |  | Served in armed forces (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+33 |  | Body mass index 30+ - obesity (finding) | 0 | 
+33 | 34 | Part-time employment (finding) | 0 | 
+33 |  | Served in armed forces (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 | 34 | Stress (finding) | 0 | 
+34 |  | Served in armed forces (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+35 |  | Served in armed forces (finding) | 0 | 
+35 |  | Full-time employment (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

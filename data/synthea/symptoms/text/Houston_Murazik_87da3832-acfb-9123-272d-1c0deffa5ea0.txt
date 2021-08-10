@@ -1,0 +1,54 @@
+Houston Murazik
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1934-08-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+55 |  | Prediabetes | 0 | 
+55 | 56 | Part-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 | 57 | Part-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 59 | Stress (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 58 | Viral sinusitis (disorder) | 9 | Sinus Pain:64:0, Headache:12:0, Pain with Bright Lights:25:0, Facial Swelling:28:0, Nasal Discharge:27:0, Nasal Congestion:5:0, Cough:28:0, Sore Throat:5:0, Fever:3:0
+58 |  | Prediabetes | 0 | 
+58 | 60 | Limited social contact (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+60 |  | Polyp of colon | 0 | 
+60 |  | Prediabetes | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 61 | Stress (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Social isolation (finding) | 0 | 
+61 |  | Recurrent rectal polyp | 0 | 
+61 |  | Overlapping malignant neoplasm of colon | 0 | 
+61 | 61 | Viral sinusitis (disorder) | 9 | Sinus Pain:55:0, Headache:44:0, Pain with Bright Lights:35:0, Facial Swelling:25:0, Nasal Discharge:35:0, Nasal Congestion:17:0, Cough:32:0, Sore Throat:33:0, Fever:20:0
+62 |  | Prediabetes | 0 | 
+62 | 63 | Limited social contact (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 |  | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 |  | Social isolation (finding) | 0 | 
+64 | 64 | Viral sinusitis (disorder) | 9 | Sinus Pain:71:0, Headache:7:0, Pain with Bright Lights:46:0, Facial Swelling:18:0, Nasal Discharge:24:0, Nasal Congestion:9:0, Cough:8:0, Sore Throat:26:0, Fever:13:0
+--------------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+Clemente Huel
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2007-05-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+4 | 4 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:1:0, Fatigue:61:0, Mucus:33:0, Nasal Congestion:33:0, Shortness of Breath:62:0, Nausea/Vomiting:24:0, Cough:30:0, Sore Throat:48:0, Fever:43:0
+4 | 4 | Otitis media | 0 | 
+5 | 5 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:7:0, Fatigue:52:0, Mucus:47:0, Nasal Congestion:45:0, Shortness of Breath:49:0, Nausea/Vomiting:0:0, Cough:60:0, Sore Throat:41:0, Fever:37:0
+9 | 9 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:48:0, Body Aches:16:0, Runny/Stuffy Nose:42:0, Fatigue:41:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:67:0, Decreased Appetite:14:0, Cough:0:0, Sore Throat:46:0, Fever:19:0
+9 | 9 | Sprain of ankle | 0 | 
+12 |  | Fever (finding) | 2 | fever:1, cough:1
+12 |  | Cough (finding) | 2 | fever:1, cough:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+12 | 13 | Fracture subluxation of wrist | 0 | 
+--------------------------------------------------------------------------------

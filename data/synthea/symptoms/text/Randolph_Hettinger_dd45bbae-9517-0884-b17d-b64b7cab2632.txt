@@ -1,0 +1,20 @@
+Randolph Hettinger
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2001-02-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+14 | 14 | Viral sinusitis (disorder) | 9 | Sinus Pain:51:0, Headache:7:0, Pain with Bright Lights:46:0, Facial Swelling:6:0, Nasal Discharge:24:0, Nasal Congestion:14:0, Cough:42:0, Sore Throat:46:0, Fever:19:0
+18 |  | Hypertension | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 20 | Stress (finding) | 0 | 
+19 | 20 | Social isolation (finding) | 0 | 
+20 |  | Full-time employment (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

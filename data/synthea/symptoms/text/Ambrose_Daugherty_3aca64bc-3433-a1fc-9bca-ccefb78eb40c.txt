@@ -1,0 +1,78 @@
+Ambrose Daugherty
+=================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1923-05-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+75 |  | Refugee (person) | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 | 81 | Limited social contact (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 |  | Refugee (person) | 0 | 
+76 |  | Served in armed forces (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Refugee (person) | 0 | 
+77 |  | Served in armed forces (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+77 | 78 | Stress (finding) | 0 | 
+78 |  | Refugee (person) | 0 | 
+78 |  | Served in armed forces (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 78 | Viral sinusitis (disorder) | 9 | Headache:13:0, Sinus Pain:50:0, Pain with Bright Lights:29:0, Facial Swelling:27:0, Nasal Discharge:33:0, Nasal Congestion:6:0, Sore Throat:25:0, Fever:10:0, Cough:11:0
+78 | 78 | Injury of medial collateral ligament of knee | 0 | 
+79 |  | Body mass index 30+ - obesity (finding) | 0 | 
+79 |  | Refugee (person) | 0 | 
+79 |  | Served in armed forces (finding) | 0 | 
+79 | 80 | Part-time employment (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+80 |  | Body mass index 30+ - obesity (finding) | 0 | 
+80 |  | Refugee (person) | 0 | 
+80 |  | Served in armed forces (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 | 84 | Stress (finding) | 0 | 
+80 |  | Suspected lung cancer (situation) | 2 | Chest Pain:86, Cough:51
+80 |  | Non-small cell lung cancer (disorder) | 0 | 
+80 |  | Non-small cell carcinoma of lung  TNM stage 1 (disorder) | 0 | 
+81 |  | Body mass index 30+ - obesity (finding) | 0 | 
+81 |  | Refugee (person) | 0 | 
+81 |  | Served in armed forces (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 | 81 | Concussion with no loss of consciousness | 0 | 
+82 |  | Body mass index 30+ - obesity (finding) | 0 | 
+82 |  | Refugee (person) | 0 | 
+82 |  | Served in armed forces (finding) | 0 | 
+82 | 84 | Limited social contact (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+83 |  | Body mass index 30+ - obesity (finding) | 0 | 
+83 |  | Refugee (person) | 0 | 
+83 |  | Served in armed forces (finding) | 0 | 
+83 | 84 | Part-time employment (finding) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+84 |  | Body mass index 30+ - obesity (finding) | 0 | 
+84 |  | Refugee (person) | 0 | 
+84 |  | Served in armed forces (finding) | 0 | 
+84 |  | Part-time employment (finding) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

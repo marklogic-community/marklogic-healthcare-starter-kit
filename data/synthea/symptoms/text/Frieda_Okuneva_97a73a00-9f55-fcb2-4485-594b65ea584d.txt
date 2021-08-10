@@ -1,0 +1,45 @@
+Frieda Okuneva
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1957-01-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 60 | Stress (finding) | 0 | 
+56 | 56 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:19:0, Body Aches:6:0, Runny/Stuffy Nose:49:0, Fatigue:30:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:10:0, Decreased Appetite:32:0, Sore Throat:35:0, Fever:13:0, Cough:33:0
+57 |  | Chronic low back pain (finding) | 0 | 
+57 |  | Chronic neck pain (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 | 58 | Victim of intimate partner abuse (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+58 | 59 | Part-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 | 64 | Victim of intimate partner abuse (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 | 62 | Stress (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Victim of intimate partner abuse (finding) | 0 | 
+63 |  | Fever (finding) | 1 | fever:1
+63 | 63 | Suspected COVID-19 | 0 | 
+63 |  | COVID-19 | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Victim of intimate partner abuse (finding) | 0 | 
+64 | 64 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:49:0, Body Aches:1:0, Runny/Stuffy Nose:17:0, Fatigue:20:0, Swollen Lymph Nodes:12:0, Swollen Tonsils:25:0, Decreased Appetite:19:0, Sore Throat:40:0, Fever:15:0, Cough:44:0
+64 |  | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

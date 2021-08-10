@@ -1,0 +1,56 @@
+Eldridge Murray
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1958-10-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 | 46 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 50 | Social isolation (finding) | 0 | 
+46 | 48 | Stress (finding) | 0 | 
+46 | 46 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:43:0, Body Aches:35:0, Runny/Stuffy Nose:49:0, Fatigue:20:0, Swollen Lymph Nodes:20:0, Swollen Tonsils:1:0, Decreased Appetite:22:0, Fever:16:0, Sore Throat:41:0, Cough:46:0
+46 | 46 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:18:0, Fatigue:60:0, Mucus:42:0, Nasal Congestion:27:0, Shortness of Breath:35:0, Nausea/Vomiting:10:0, Fever:42:0, Sore Throat:29:0, Cough:39:0
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 | 48 | Part-time employment (finding) | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Chronic obstructive bronchitis (disorder) | 2 | Shortness of Breath:116, Cough:81
+48 |  | Prediabetes | 0 | 
+48 |  | Anemia (disorder) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 51 | Not in labor force (finding) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Limited social contact (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Part-time employment (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 | 54 | Part-time employment (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 |  | Social isolation (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Limited social contact (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 |  | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:15, Body Aches:32, Runny/Stuffy Nose:8, Fatigue:43, Swollen Lymph Nodes:15, Swollen Tonsils:37, Decreased Appetite:39, Fever:32, Sore Throat:47, Cough:6
+--------------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+Ike Thiel
+=========
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1974-12-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+37 |  | Prediabetes | 0 | 
+37 | 46 | Reports of violence in the environment (finding) | 0 | 
+37 | 39 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+37 | 37 | Fracture subluxation of wrist | 0 | 
+38 |  | Localized  primary osteoarthritis of the hand | 2 | Joint Pain:0, Joint Stiffness:0
+39 | 39 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:20:0, Fatigue:46:0, Mucus:33:0, Nasal Congestion:33:0, Shortness of Breath:41:0, Nausea/Vomiting:22:0, Sore Throat:47:0, Fever:27:0, Cough:70:0
+39 |  | Prediabetes | 0 | 
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Received higher education (finding) | 0 | 
+39 | 40 | Stress (finding) | 0 | 
+40 |  | Prediabetes | 0 | 
+40 | 42 | Not in labor force (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 40 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:16:0, Fatigue:71:0, Mucus:26:0, Nasal Congestion:36:0, Shortness of Breath:39:0, Nausea/Vomiting:11:0, Sore Throat:44:0, Fever:46:0, Cough:51:0
+42 |  | Prediabetes | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 46 | Stress (finding) | 0 | 
+45 |  | Fever (finding) | 4 | sore throat:1, fever:1, headache:1, cough:1
+45 |  | Headache (finding) | 4 | sore throat:1, fever:1, headache:1, cough:1
+45 |  | Sore throat symptom (finding) | 4 | sore throat:1, fever:1, headache:1, cough:1
+45 |  | Cough (finding) | 4 | sore throat:1, fever:1, headache:1, cough:1
+45 | 45 | Suspected COVID-19 | 0 | 
+45 |  | COVID-19 | 0 | 
+46 |  | Prediabetes | 0 | 
+46 |  | Part-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

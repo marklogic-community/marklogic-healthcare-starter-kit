@@ -1,0 +1,27 @@
+{
+  "name": "Patient",
+  "description": "",
+  "batchSize": 100,
+  "threadCount": 4,
+  "stopOnError": false,
+  "options": { },
+  "version": 0,
+  "steps": {
+    "1": {
+      "stepId": "PatientIngest-ingestion"
+    },
+    "2": {
+      "stepId": "PatientMapping-mapping"
+    },
+    "3": {
+      "stepId": "GeneratePatientDictionaries-custom"
+    },
+    "4": {
+      "stepId": "MatchPatient-matching"
+    },
+    "5": {
+      "stepId": "MergePatient-merging"
+    }
+  },
+  "lastUpdated": "2021-07-29T12:08:35.6533103-06:00"
+}

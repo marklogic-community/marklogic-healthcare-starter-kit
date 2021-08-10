@@ -1,0 +1,21 @@
+Leeanne Gerlach
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2007-01-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+5 |  | Perennial allergic rhinitis | 5 | Nasal Discharge:8, Ear Pressure:20, Nasal Congestion:6, Sneezing Fits:0, Itching:4
+12 | 12 | Injury of tendon of the rotator cuff of shoulder | 0 | 
+13 | 14 | Risk activity involvement (finding) | 0 | 
+13 |  | Dyspnea (finding) | 5 | fatigue:1, chills:1, fever:1, dyspnea:1, cough:1
+13 |  | Chill (finding) | 5 | fatigue:1, chills:1, fever:1, dyspnea:1, cough:1
+13 |  | Fever (finding) | 5 | fatigue:1, chills:1, fever:1, dyspnea:1, cough:1
+13 |  | Fatigue (finding) | 5 | fatigue:1, chills:1, fever:1, dyspnea:1, cough:1
+13 |  | Wheezing (finding) | 5 | fatigue:1, chills:1, fever:1, dyspnea:1, cough:1
+13 |  | Cough (finding) | 5 | fatigue:1, chills:1, fever:1, dyspnea:1, cough:1
+13 | 13 | Suspected COVID-19 | 0 | 
+13 |  | COVID-19 | 0 | 
+13 | 13 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:13:0, Body Aches:35:0, Runny/Stuffy Nose:27:0, Fatigue:41:0, Swollen Lymph Nodes:32:0, Swollen Tonsils:46:0, Decreased Appetite:23:0, Sore Throat:27:0, Cough:0:0, Fever:7:0
+--------------------------------------------------------------------------------

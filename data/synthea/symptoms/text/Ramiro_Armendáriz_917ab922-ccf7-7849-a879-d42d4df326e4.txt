@@ -1,0 +1,22 @@
+Ramiro Armendáriz
+=============á===
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          2000-11-04
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+12 | 12 | Acute bronchitis (disorder) | 10 | Body Aches:4:0, Diarrhea:20:0, Fatigue:46:0, Mucus:39:0, Nasal Congestion:27:0, Shortness of Breath:28:0, Nausea/Vomiting:4:0, Fever:32:0, Sore Throat:34:0, Cough:58:0
+16 | 17 | Risk activity involvement (finding) | 0 | 
+16 | 17 | Fracture of clavicle | 0 | 
+18 | 19 | Reports of violence in the environment (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 19 | Social isolation (finding) | 0 | 
+19 |  | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Hemoptysis (finding) | 2 | hemoptysis:1, loss_of_taste:1
+19 |  | Loss of taste (finding) | 2 | hemoptysis:1, loss_of_taste:1
+19 | 19 | Suspected COVID-19 | 0 | 
+19 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

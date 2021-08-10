@@ -1,0 +1,57 @@
+Nellie Hilpert
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1973-03-04
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+38 | 38 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:32:0, Body Aches:45:0, Runny/Stuffy Nose:26:0, Fatigue:49:0, Swollen Lymph Nodes:56:0, Swollen Tonsils:24:0, Decreased Appetite:3:0, Sore Throat:2:0, Cough:0:0, Fever:6:0
+38 |  | Body mass index 30+ - obesity (finding) | 0 | 
+38 |  | Has a criminal record (finding) | 0 | 
+38 |  | Unemployed (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Has a criminal record (finding) | 0 | 
+40 |  | Unemployed (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 |  | Drug overdose | 0 | 
+40 | 40 | Viral sinusitis (disorder) | 9 | Headache:20:0, Sinus Pain:51:0, Pain with Bright Lights:35:0, Facial Swelling:17:0, Nasal Discharge:34:0, Nasal Congestion:5:0, Sore Throat:25:0, Cough:5:0, Fever:3:0
+41 | 41 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:8:0, Fatigue:73:0, Mucus:47:0, Nasal Congestion:33:0, Shortness of Breath:61:0, Nausea/Vomiting:15:0, Sore Throat:49:0, Cough:30:0, Fever:42:0
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 |  | Has a criminal record (finding) | 0 | 
+42 |  | Unemployed (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 |  | Drug overdose | 0 | 
+43 |  | Drug overdose | 0 | 
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 |  | Limited social contact (finding) | 0 | 
+44 |  | Has a criminal record (finding) | 0 | 
+44 |  | Unemployed (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+44 | 44 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:15:0, Runny/Stuffy Nose:21:0, Fatigue:10:0, Swollen Lymph Nodes:26:0, Swollen Tonsils:53:0, Decreased Appetite:8:0, Sore Throat:45:0, Cough:0:0, Fever:29:0
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 |  | Has a criminal record (finding) | 0 | 
+44 |  | Unemployed (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 | 48 | Stress (finding) | 0 | 
+44 | 48 | Social isolation (finding) | 0 | 
+45 | 45 | Facial laceration | 0 | 
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 |  | Unemployed (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 | 46 | Cystitis | 7 | Frequent Urination:13:0, Urgent Desire to Urinate:15:0, Discolored Urine:5:0, Odor of Urine:6:0, Pelvic Pain:14:0, Fever:3:0, Dysuria:7:0
+47 |  | Fever (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+47 |  | Sputum finding (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+47 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+47 |  | Cough (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+47 | 47 | Suspected COVID-19 | 0 | 
+47 |  | COVID-19 | 0 | 
+47 |  | Drug overdose | 0 | 
+48 |  | Body mass index 30+ - obesity (finding) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 |  | Unemployed (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

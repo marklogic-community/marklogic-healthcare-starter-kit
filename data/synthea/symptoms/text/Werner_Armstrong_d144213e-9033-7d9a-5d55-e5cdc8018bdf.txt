@@ -1,0 +1,58 @@
+Werner Armstrong
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1995-01-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+16 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+16 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+16 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+17 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+17 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+17 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+17 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+18 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+18 | 19 | Limited social contact (finding) | 0 | 
+18 | 22 | Full-time employment (finding) | 0 | 
+18 |  | Only received primary school education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 | 18 | Viral sinusitis (disorder) | 9 | Headache:34:0, Sinus Pain:77:0, Pain with Bright Lights:31:0, Facial Swelling:34:0, Nasal Discharge:24:0, Nasal Congestion:4:0, Sore Throat:41:0, Fever:24:0, Cough:5:0
+18 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+18 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+18 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+18 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+19 |  | Only received primary school education (finding) | 0 | 
+19 | 22 | Stress (finding) | 0 | 
+19 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+19 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+19 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+19 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+19 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+20 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+20 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+20 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+20 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+21 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+21 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+21 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+21 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+22 | 25 | Full-time employment (finding) | 0 | 
+22 |  | Only received primary school education (finding) | 0 | 
+22 | 25 | Social isolation (finding) | 0 | 
+22 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+22 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+22 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+22 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+22 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+23 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:1, Shortness Constipation Breath:9, Anxiety:13, Pain Sensitivity:9, Confusion:8, Cognitive Difficulties:5, Shallow Breathing:10, Mood Swing:9, Nausea/Vomiting:2
+25 |  | Chill (finding) | 3 | chills:1, fever:1, cough:1
+25 |  | Fever (finding) | 3 | chills:1, fever:1, cough:1
+25 |  | Cough (finding) | 3 | chills:1, fever:1, cough:1
+25 | 25 | Suspected COVID-19 | 0 | 
+25 |  | COVID-19 | 0 | 
+25 |  | Full-time employment (finding) | 0 | 
+25 |  | Only received primary school education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

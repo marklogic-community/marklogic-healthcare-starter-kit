@@ -1,0 +1,24 @@
+{
+  "valueSet": {
+      "valueSetName": "Marital Status Codes",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/marital-status",
+        "dereferenceable": "http://hl7.org/fhir/R4/valueset-marital-status.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This value set defines the set of codes that can be used to indicate the marital status of a person.",
+      "valueSetConcepts": {
+          "A": {"code": "A", "display": "Annulled", "definition": "Marriage contract has been declared null and to not have existed"},
+          "D": {"code": "D", "display": "Divorced", "definition": "Marriage contract has been declared dissolved and inactive"},
+          "I": {"code": "I", "display": "Interlocutory", "definition": "Subject to an Interlocutory Decree."},
+          "L": {"code": "L", "display": "Legally Separated", "definition": "Legally Separated"},
+          "M": {"code": "M", "display": "Married", "definition": "A current marriage contract is active"},
+          "P": {"code": "P", "display": "Polygamous", "definition": "More than 1 current spouse"},
+          "S": {"code": "S", "display": "Never Married", "definition": "No marriage contract has ever been entered"},
+          "T": {"code": "T", "display": "Domestic partner", "definition": "Person declares that a domestic partner relationship exists."},
+          "U": {"code": "U", "display": "unmarried", "definition": "Currently not in a marriage contract."},
+          "W": {"code": "W", "display": "Widowed", "definition": "The spouse has died"},
+          "UNK": {"code": "UNK", "display": "unknown", "definition": "A proper value is applicable, but not known"}
+      }
+  }
+}

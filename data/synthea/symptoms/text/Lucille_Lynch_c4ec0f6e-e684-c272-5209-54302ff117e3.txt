@@ -1,0 +1,66 @@
+Lucille Lynch
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1958-08-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+48 |  | Drug overdose | 0 | 
+48 |  | Prediabetes | 0 | 
+48 | 55 | Reports of violence in the environment (finding) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 | 57 | Social isolation (finding) | 0 | 
+49 |  | Drug overdose | 0 | 
+49 |  | Drug overdose | 0 | 
+50 |  | Prediabetes | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+50 |  | Drug overdose | 0 | 
+50 |  | Drug overdose | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 52 | Not in labor force (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+51 |  | Drug overdose | 0 | 
+51 | 51 | Viral sinusitis (disorder) | 9 | Headache:27:0, Sinus Pain:54:0, Pain with Bright Lights:35:0, Facial Swelling:0:0, Nasal Discharge:18:0, Nasal Congestion:16:0, Sore Throat:4:0, Fever:8:0, Cough:19:0
+51 |  | Drug overdose | 0 | 
+51 | 51 | Viral sinusitis (disorder) | 9 | Headache:9:0, Sinus Pain:73:0, Pain with Bright Lights:27:0, Facial Swelling:32:0, Nasal Discharge:37:0, Nasal Congestion:2:0, Sore Throat:40:0, Fever:2:0, Cough:3:0
+52 |  | Prediabetes | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 | 55 | Stress (finding) | 0 | 
+52 |  | Drug overdose | 0 | 
+52 | 52 | Viral sinusitis (disorder) | 9 | Headache:20:0, Sinus Pain:55:0, Pain with Bright Lights:36:0, Facial Swelling:36:0, Nasal Discharge:1:0, Nasal Congestion:6:0, Sore Throat:4:0, Fever:18:0, Cough:42:0
+53 |  | Prediabetes | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Drug overdose | 0 | 
+53 | 53 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:22:0, Body Aches:8:0, Runny/Stuffy Nose:4:0, Fatigue:9:0, Swollen Lymph Nodes:45:0, Swollen Tonsils:6:0, Decreased Appetite:30:0, Sore Throat:34:0, Fever:23:0, Cough:42:0
+54 |  | Prediabetes | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Drug overdose | 0 | 
+55 |  | Prediabetes | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 | 57 | Reports of violence in the environment (finding) | 0 | 
+56 | 56 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 56 | Stress (finding) | 0 | 
+56 | 56 | Viral sinusitis (disorder) | 9 | Headache:21:0, Sinus Pain:52:0, Pain with Bright Lights:47:0, Facial Swelling:40:0, Nasal Discharge:23:0, Nasal Congestion:5:0, Sore Throat:11:0, Fever:10:0, Cough:44:0
+56 |  | Prediabetes | 0 | 
+56 | 57 | Part-time employment (finding) | 0 | 
+56 | 57 | Victim of intimate partner abuse (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 | 56 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:33:0, Body Aches:13:0, Runny/Stuffy Nose:1:0, Fatigue:1:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:17:0, Decreased Appetite:31:0, Sore Throat:17:0, Fever:12:0, Cough:7:0
+57 |  | Prediabetes | 0 | 
+57 |  | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 | 57 | First degree burn | 0 | 
+57 |  | Drug overdose | 0 | 
+--------------------------------------------------------------------------------

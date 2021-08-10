@@ -1,0 +1,24 @@
+Ming Funk
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2012-11-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Otitis media | 0 | 
+2 | 2 | Viral sinusitis (disorder) | 9 | Sinus Pain:73:0, Headache:29:0, Pain with Bright Lights:47:0, Facial Swelling:48:0, Nasal Discharge:28:0, Nasal Congestion:13:0, Fever:21:0, Sore Throat:3:0, Cough:13:0
+2 | 3 | Otitis media | 0 | 
+4 | 4 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:8:0, Body Aches:49:0, Runny/Stuffy Nose:5:0, Fatigue:43:0, Swollen Lymph Nodes:7:0, Swollen Tonsils:36:0, Decreased Appetite:1:0, Fever:13:0, Sore Throat:39:0, Cough:10:0
+4 | 4 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:23:0, Body Aches:46:0, Runny/Stuffy Nose:5:0, Fatigue:40:0, Swollen Lymph Nodes:9:0, Swollen Tonsils:18:0, Decreased Appetite:0:0, Fever:18:0, Sore Throat:48:0, Cough:48:0
+5 | 5 | Viral sinusitis (disorder) | 9 | Sinus Pain:67:0, Headache:48:0, Pain with Bright Lights:46:0, Facial Swelling:43:0, Nasal Discharge:34:0, Nasal Congestion:9:0, Fever:15:0, Sore Throat:43:0, Cough:1:0
+7 | 7 | Otitis media | 0 | 
+7 |  | Dyspnea (finding) | 4 | fever:1, dyspnea:1, sputum production:1, cough:1
+7 |  | Fever (finding) | 4 | fever:1, dyspnea:1, sputum production:1, cough:1
+7 |  | Sputum finding (finding) | 4 | fever:1, dyspnea:1, sputum production:1, cough:1
+7 |  | Wheezing (finding) | 4 | fever:1, dyspnea:1, sputum production:1, cough:1
+7 |  | Cough (finding) | 4 | fever:1, dyspnea:1, sputum production:1, cough:1
+7 | 7 | Suspected COVID-19 | 0 | 
+7 |  | COVID-19 | 0 | 
+8 | 8 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:24:0, Pain with Bright Lights:25:0, Facial Swelling:28:0, Nasal Discharge:16:0, Nasal Congestion:9:0, Fever:14:0, Sore Throat:29:0, Cough:12:0
+--------------------------------------------------------------------------------

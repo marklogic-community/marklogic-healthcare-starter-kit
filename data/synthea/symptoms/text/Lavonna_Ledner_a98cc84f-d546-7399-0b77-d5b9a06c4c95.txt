@@ -1,0 +1,56 @@
+Lavonna Ledner
+==============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+42 |  | Unemployed (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 | 42 | Normal pregnancy | 0 | 
+42 |  | Miscarriage in first trimester | 0 | 
+42 | 42 | Blighted ovum | 0 | 
+43 | 43 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:15:0, Fatigue:35:0, Mucus:48:0, Nasal Congestion:41:0, Shortness of Breath:53:0, Nausea/Vomiting:12:0, Sore Throat:32:0, Cough:54:0, Fever:33:0
+43 |  | Has a criminal record (finding) | 0 | 
+43 |  | Unemployed (finding) | 0 | 
+43 |  | Received certificate of high school equivalency (finding) | 0 | 
+43 | 44 | Stress (finding) | 0 | 
+44 |  | Has a criminal record (finding) | 0 | 
+44 |  | Unemployed (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 | 51 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+44 | 44 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:8:0, Fatigue:40:0, Mucus:41:0, Nasal Congestion:37:0, Shortness of Breath:43:0, Nausea/Vomiting:16:0, Sore Throat:44:0, Cough:70:0, Fever:33:0
+44 |  | Has a criminal record (finding) | 0 | 
+44 |  | Unemployed (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 |  | Victim of intimate partner abuse (finding) | 0 | 
+45 | 45 | Viral sinusitis (disorder) | 9 | Headache:16:0, Sinus Pain:78:0, Pain with Bright Lights:48:0, Facial Swelling:24:0, Nasal Discharge:43:0, Nasal Congestion:23:0, Sore Throat:48:0, Cough:26:0, Fever:13:0
+45 |  | Has a criminal record (finding) | 0 | 
+45 |  | Unemployed (finding) | 0 | 
+45 |  | Received certificate of high school equivalency (finding) | 0 | 
+45 |  | Stress (finding) | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 |  | Unemployed (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 | 48 | Social isolation (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 |  | Rupture of appendix | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Loss of Appetite:0, Fever:0, Bloating/Gas:0
+46 |  | Appendicitis | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Loss of Appetite:0, Fever:0, Bloating/Gas:0
+46 |  | History of appendectomy | 7 | Diarrhea:0, Abdominal Pain:0, Nausea/Vomiting:0, Constipation:0, Loss of Appetite:0, Fever:0, Bloating/Gas:0
+47 |  | Osteoarthritis of hip | 2 | Joint Pain:0, Joint Stiffness:0
+47 | 47 | Viral sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:77:0, Pain with Bright Lights:30:0, Facial Swelling:33:0, Nasal Discharge:4:0, Nasal Congestion:14:0, Sore Throat:22:0, Cough:41:0, Fever:16:0
+48 |  | Has a criminal record (finding) | 0 | 
+48 |  | Unemployed (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 | 50 | Stress (finding) | 0 | 
+48 | 49 | Normal pregnancy | 0 | 
+50 | 51 | Limited social contact (finding) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 |  | Unemployed (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

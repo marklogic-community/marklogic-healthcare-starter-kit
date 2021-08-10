@@ -1,0 +1,13 @@
+Moses Ortiz
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2018-05-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Otitis media | 0 | 
+2 | 2 | Otitis media | 0 | 
+3 |  | Viral sinusitis (disorder) | 9 | Sinus Pain:74, Headache:34, Pain with Bright Lights:33, Facial Swelling:34, Nasal Discharge:19, Nasal Congestion:18, Fever:5, Sore Throat:9, Cough:2
+3 |  | Otitis media | 0 | 
+--------------------------------------------------------------------------------

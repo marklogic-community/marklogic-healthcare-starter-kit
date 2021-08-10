@@ -1,0 +1,57 @@
+Woodrow Deckow
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1954-12-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+57 |  | Prediabetes | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 59 | Stress (finding) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 | 59 | Part-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 | 59 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:36:0, Body Aches:40:0, Runny/Stuffy Nose:14:0, Fatigue:31:0, Swollen Lymph Nodes:20:0, Swollen Tonsils:12:0, Decreased Appetite:42:0, Sore Throat:27:0, Fever:15:0, Cough:48:0
+60 | 61 | Polyp of colon | 0 | 
+60 |  | Prediabetes | 0 | 
+60 |  | Osteoporosis (disorder) | 0 | 
+60 | 60 | Not in labor force (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 | 60 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:4:0, Fatigue:46:0, Mucus:28:0, Nasal Congestion:40:0, Shortness of Breath:61:0, Nausea/Vomiting:13:0, Sore Throat:29:0, Fever:32:0, Cough:32:0
+60 |  | Prediabetes | 0 | 
+60 | 61 | Not in labor force (finding) | 0 | 
+60 | 65 | Victim of intimate partner abuse (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 | 62 | Stress (finding) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 | 63 | Laceration of thigh | 0 | 
+63 |  | Prediabetes | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 | 65 | Part-time employment (finding) | 0 | 
+64 |  | Received certificate of high school equivalency (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 |  | Full-time employment (finding) | 0 | 
+66 |  | Victim of intimate partner abuse (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Social isolation (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

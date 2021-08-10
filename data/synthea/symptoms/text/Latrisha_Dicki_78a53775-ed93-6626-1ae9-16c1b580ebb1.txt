@@ -1,0 +1,18 @@
+Latrisha Dicki
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2007-12-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+4 |  | Seasonal allergic rhinitis | 5 | Nasal Discharge:8, Ear Pressure:22, Nasal Congestion:8, Sneezing Fits:20, Itching:8
+4 |  | Childhood asthma | 6 | Mucus Secretion:9, Chest Pressure:28, Wheezing:44, Nasal Congestion:15, Shortness of Breath:29, Cough:16
+5 | 5 | Otitis media | 0 | 
+6 | 6 | Laceration of foot | 0 | 
+8 | 8 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:13:0, Body Aches:20:0, Runny/Stuffy Nose:12:0, Fatigue:0:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:18:0, Decreased Appetite:43:0, Cough:15:0, Sore Throat:24:0, Fever:11:0
+12 |  | Fatigue (finding) | 2 | fatigue:1, sore throat:1
+12 |  | Sore throat symptom (finding) | 2 | fatigue:1, sore throat:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

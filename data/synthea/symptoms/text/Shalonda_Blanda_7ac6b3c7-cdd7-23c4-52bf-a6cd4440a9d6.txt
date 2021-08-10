@@ -1,0 +1,57 @@
+Shalonda Blanda
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1970-10-27
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+41 | 41 | Viral sinusitis (disorder) | 9 | Headache:12:0, Sinus Pain:73:0, Pain with Bright Lights:49:0, Facial Swelling:8:0, Nasal Discharge:9:0, Nasal Congestion:19:0, Sore Throat:47:0, Fever:5:0, Cough:49:0
+42 | 43 | Not in labor force (finding) | 0 | 
+42 |  | Transport problems (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 43 | Stress (finding) | 0 | 
+43 |  | Chronic neck pain (finding) | 0 | 
+43 | 44 | Full-time employment (finding) | 0 | 
+43 |  | Transport problems (finding) | 0 | 
+43 |  | Received higher education (finding) | 0 | 
+43 |  | Chronic neck pain (finding) | 0 | 
+43 |  | Chronic neck pain (finding) | 0 | 
+44 | 45 | Full-time employment (finding) | 0 | 
+44 |  | Transport problems (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+44 | 50 | Social isolation (finding) | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Transport problems (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Stress (finding) | 0 | 
+46 | 47 | Part-time employment (finding) | 0 | 
+46 |  | Lack of access to transportation (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 48 | Stress (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Lack of access to transportation (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+48 | 49 | Part-time employment (finding) | 0 | 
+48 |  | Lack of access to transportation (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+49 |  | Fever (finding) | 5 | fatigue:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+49 |  | Fatigue (finding) | 5 | fatigue:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+49 |  | Sore throat symptom (finding) | 5 | fatigue:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+49 |  | Cough (finding) | 5 | fatigue:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+49 |  | Loss of taste (finding) | 5 | fatigue:1, sore throat:1, fever:1, loss_of_taste:1, cough:1
+49 | 49 | Suspected COVID-19 | 0 | 
+49 |  | COVID-19 | 0 | 
+49 |  | Respiratory distress (finding) | 0 | 
+49 |  | Pneumonia (disorder) | 0 | 
+49 |  | Hypoxemia (disorder) | 0 | 
+49 | 50 | Not in labor force (finding) | 0 | 
+49 |  | Lack of access to transportation (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+50 |  | Full-time employment (finding) | 0 | 
+50 |  | Lack of access to transportation (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

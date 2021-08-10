@@ -1,0 +1,64 @@
+Jenna Turner
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1982-07-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+29 | 30 | Part-time employment (finding) | 0 | 
+29 |  | Has a criminal record (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 30 | Social isolation (finding) | 0 | 
+30 |  | Has a criminal record (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Victim of intimate partner abuse (finding) | 0 | 
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 |  | Has a criminal record (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Social isolation (finding) | 0 | 
+32 |  | Body mass index 30+ - obesity (finding) | 0 | 
+32 | 34 | Limited social contact (finding) | 0 | 
+32 |  | Has a criminal record (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+33 |  | Body mass index 30+ - obesity (finding) | 0 | 
+33 | 34 | Not in labor force (finding) | 0 | 
+33 |  | Has a criminal record (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+34 | 34 | Whiplash injury to neck | 0 | 
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 |  | Has a criminal record (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 | 35 | Stress (finding) | 0 | 
+35 |  | Body mass index 30+ - obesity (finding) | 0 | 
+35 | 38 | Limited social contact (finding) | 0 | 
+35 |  | Has a criminal record (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+36 |  | Has a criminal record (finding) | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 | 38 | Victim of intimate partner abuse (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+36 | 37 | Stress (finding) | 0 | 
+36 |  | Victim of intimate partner abuse (finding) | 0 | 
+37 | 37 | Not in labor force (finding) | 0 | 
+37 |  | Has a criminal record (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 |  | Muscle pain (finding) | 3 | myalgia:1, arthralgia:1, fever:1
+37 |  | Fever (finding) | 3 | myalgia:1, arthralgia:1, fever:1
+37 |  | Joint pain (finding) | 3 | myalgia:1, arthralgia:1, fever:1
+37 | 37 | Suspected COVID-19 | 0 | 
+37 |  | COVID-19 | 0 | 
+37 | 38 | Acute bronchitis (disorder) | 10 | Body Aches:4:0, Diarrhea:10:0, Fatigue:37:0, Mucus:42:0, Nasal Congestion:45:0, Shortness of Breath:60:0, Nausea/Vomiting:6:0, Fever:49:0, Sore Throat:45:0, Cough:34:0
+37 |  | Has a criminal record (finding) | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 | 38 | Stress (finding) | 0 | 
+38 |  | Part-time employment (finding) | 0 | 
+38 |  | Has a criminal record (finding) | 0 | 
+38 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

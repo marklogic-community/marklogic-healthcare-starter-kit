@@ -1,0 +1,20 @@
+{
+  "lang" : "zxx",
+  "name" : "GeneratePatientDictionaries",
+  "description" : "",
+  "type" : "CUSTOM",
+  "version" : 1,
+  "options" : {
+    "collections" : [ "GeneratePatientDictionaries" ],
+    "sourceDatabase" : "data-hub-STAGING",
+    "permissions" : "data-hub-common,read,data-hub-common,update",
+    "outputFormat" : "json",
+    "targetDatabase" : "data-hub-FINAL"
+  },
+  "customHook" : { },
+  "modulePath" : "/custom-modules/custom/GeneratePatientDictionaries/main.sjs",
+  "retryLimit" : 0,
+  "batchSize" : 100,
+  "threadCount" : 4,
+  "language" : "zxx"
+}

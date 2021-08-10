@@ -1,0 +1,25 @@
+{
+  "valueSet": {
+      "valueSetName": "OrganizationType",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/organization-type",
+        "dereferenceable": "http://hl7.org/fhir/valueset-organization-type.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This example value set defines a set of codes that can be used to indicate a type of organization.",
+      "valueSetConcepts": {
+          "prov": {"code": "prov", "display": "Healthcare Provider", "definition": "An organization that provides healthcare services."},
+          "dept": {"code": "dept", "display": "Hospital Department", "definition": "A department or ward within a hospital (Generally is not applicable to top level organizations)"},
+          "team": {"code": "team", "display": "Organizational team", "definition": "An organizational team is usually a grouping of practitioners that perform a specific function within an organization (which could be a top level organization, or a department)."},
+          "govt": {"code": "govt", "display": "Government", "definition": "A political body, often used when including organization records for government bodies such as a Federal Government, State or Local Government."},
+          "ins": {"code": "ins", "display": "Insurance Company", "definition": "A company that provides insurance to its subscribers that may include healthcare related policies."},
+          "pay": {"code": "pay", "display": "Payer", "definition": "A company, charity, or governmental organization, which processes claims and/or issues payments to providers on behalf of patients or groups of patients."},
+          "edu": {"code": "edu", "display": "Educational Institute", "definition": "An educational institution that provides education or research facilities."},
+          "reli": {"code": "reli", "display": "Religious Institution", "definition": "An organization that is identified as a part of a religious institution."},
+          "crs": {"code": "crs", "display": "Clinical Research Sponsor", "definition": "An organization that is identified as a Pharmaceutical/Clinical Research Sponsor."},
+          "cg": {"code": "cg", "display": "Community Group", "definition": "An un-incorporated community group."},
+          "bus": {"code": "bus", "display": "Non-Healthcare Business or Corporation", "definition": "An organization that is a registered business or corporation but not identified by other types."},
+          "other": {"code": "other", "display": "Other", "definition": "Other type of organization not already specified."}
+      }
+  }
+}

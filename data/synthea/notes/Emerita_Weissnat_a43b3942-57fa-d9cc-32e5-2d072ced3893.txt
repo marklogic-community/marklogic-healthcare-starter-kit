@@ -1,0 +1,1069 @@
+
+2020-10-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 62 year-old non-hispanic asian female. Patient has a history of polyp of colon, misuses drugs (finding), viral sinusitis (disorder), nausea (finding), suspected covid-19, covid-19, part-time employment (finding), vomiting symptom (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), cough (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2020-03-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 61 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with cough (finding), nausea (finding), vomiting symptom (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-11-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 61 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- colonoscopy
+
+
+
+2019-10-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 61 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2018-10-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 60 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with osteoporosis (disorder), part-time employment (finding), social isolation (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- bone density scan (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- alendronic acid 10 mg oral tablet
+
+
+
+2017-10-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 59 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2016-10-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 58 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2015-09-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 57 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), limited social contact (finding), stress (finding), reports of violence in the environment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2014-11-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 56 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- colonoscopy
+
+
+
+2014-09-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 56 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2014-09-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 56 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2013-09-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 55 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), polyp of colon, misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding), social isolation (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2013-08-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 55 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with polyp of colon. 
+
+## Plan
+
+The following procedures were conducted:
+- colonoscopy
+- screening for occult blood in feces (procedure)
+- rectal polypectomy
+
+
+
+2013-05-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 54 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), misuses drugs (finding), viral sinusitis (disorder), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2012-11-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 54 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), misuses drugs (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder), full-time employment (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2012-11-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 54 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), misuses drugs (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2012-09-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 54 year-old non-hispanic asian female. Patient has a history of part-time employment (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), misuses drugs (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+
+
+
+2011-09-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 53 year-old non-hispanic asian female. Patient has a history of limited social contact (finding), not in labor force (finding), full-time employment (finding), misuses drugs (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+
+
+
+2010-08-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 52 year-old non-hispanic asian female. Patient has a history of limited social contact (finding), full-time employment (finding), misuses drugs (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding). 
+
+## Plan
+
+
+
+
+2009-08-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 51 year-old non-hispanic asian female. Patient has a history of limited social contact (finding), full-time employment (finding), misuses drugs (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with stress (finding). 
+
+## Plan
+
+
+
+
+2008-08-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 50 year-old non-hispanic asian female. Patient has a history of limited social contact (finding), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), misuses drugs (finding). 
+
+## Plan
+
+
+
+
+2007-12-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 49 year-old non-hispanic asian female. Patient has a history of limited social contact (finding), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), limited social contact (finding). 
+
+## Plan
+
+
+
+
+2004-09-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 46 year-old non-hispanic asian female. Patient has a history of limited social contact (finding), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+2002-09-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 44 year-old non-hispanic asian female. Patient has a history of limited social contact (finding), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), limited social contact (finding). 
+
+## Plan
+
+
+
+
+1989-10-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 31 year-old non-hispanic asian female. Patient has a history of limited social contact (finding), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+1986-10-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 28 year-old non-hispanic asian female. Patient has a history of limited social contact (finding), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding), full-time employment (finding). 
+
+## Plan
+
+
+
+
+1983-10-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 25 year-old non-hispanic asian female. Patient has a history of limited social contact (finding), full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+1980-10-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 22 year-old non-hispanic asian female. Patient has a history of full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with limited social contact (finding). 
+
+## Plan
+
+
+
+
+1977-10-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 19 year-old non-hispanic asian female. Patient has a history of full-time employment (finding).
+
+# Social History
+Patient is single. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with social isolation (finding). 
+
+## Plan
+
+
+
+
+1976-10-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 18 year-old non-hispanic asian female.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding), full-time employment (finding). 
+
+## Plan
+
+
+
+
+1975-10-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 17 year-old non-hispanic asian female.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with miscarriage in first trimester. 
+
+## Plan
+
+
+
+
+1973-04-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Emerita
+ is a 14 year-old non-hispanic asian female.
+
+# Social History
+ Patient has never smoked and is an alcoholic.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with chronic sinusitis (disorder). 
+
+## Plan
+
+
+
+

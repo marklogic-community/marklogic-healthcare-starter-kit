@@ -1,0 +1,59 @@
+Lilia Schroeder
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1943-08-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 |  | Prediabetes | 0 | 
+67 |  | Unemployed (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 68 | Stress (finding) | 0 | 
+68 | 68 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:11:0, Fatigue:29:0, Mucus:34:0, Nasal Congestion:25:0, Shortness of Breath:27:0, Nausea/Vomiting:6:0, Sore Throat:31:0, Fever:48:0, Cough:67:0
+68 |  | Prediabetes | 0 | 
+68 |  | Unemployed (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Unemployed (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 |  | Unemployed (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 | 72 | Stress (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Unemployed (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+71 | 71 | Laceration of foot | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Unemployed (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 | 72 | Viral sinusitis (disorder) | 9 | Headache:1:0, Sinus Pain:62:0, Pain with Bright Lights:26:0, Facial Swelling:15:0, Nasal Discharge:3:0, Nasal Congestion:14:0, Sore Throat:1:0, Fever:1:0, Cough:0:0
+73 |  | Prediabetes | 0 | 
+73 |  | Unemployed (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Victim of intimate partner abuse (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Unemployed (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+74 |  | Social isolation (finding) | 0 | 
+75 | 76 | Polyp of colon | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Unemployed (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 |  | Social isolation (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Limited social contact (finding) | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+76 |  | Fever (finding) | 2 | fever:1, cough:1
+76 |  | Cough (finding) | 2 | fever:1, cough:1
+76 | 76 | Suspected COVID-19 | 0 | 
+76 |  | COVID-19 | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

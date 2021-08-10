@@ -1,0 +1,31 @@
+Sherly Yundt
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1997-05-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 | 19 | Part-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+19 | 22 | Not in labor force (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 23 | Stress (finding) | 0 | 
+20 | 20 | Fracture of forearm | 0 | 
+22 | 23 | Part-time employment (finding) | 0 | 
+22 | 23 | Limited social contact (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 | 23 | Normal pregnancy | 0 | 
+22 | 22 | Cystitis | 7 | Frequent Urination:23:0, Urgent Desire to Urinate:13:0, Discolored Urine:7:0, Odor of Urine:2:0, Pelvic Pain:9:0, Fever:9:0, Dysuria:24:0
+22 |  | Recurrent urinary tract infection | 7 | Frequent Urination:0:7:0, Urgent Desire to Urinate:0:24:0, Discolored Urine:0:9:0, Odor of Urine:0:6:0, Pelvic Pain:0:10:0, Fever:0:8:0, Dysuria:0:11:0
+22 | 22 | Escherichia coli urinary tract infection | 7 | Frequent Urination:7:0, Urgent Desire to Urinate:24:0, Discolored Urine:9:0, Odor of Urine:6:0, Pelvic Pain:10:0, Fever:8:0, Dysuria:11:0
+22 |  | Fever (finding) | 3 | fever:1, sputum production:1, diarrhea:1
+22 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, diarrhea:1
+22 |  | Diarrhea symptom (finding) | 3 | fever:1, sputum production:1, diarrhea:1
+22 | 22 | Suspected COVID-19 | 0 | 
+22 |  | COVID-19 | 0 | 
+23 | 23 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:5:0, Fatigue:31:0, Mucus:47:0, Nasal Congestion:37:0, Shortness of Breath:66:0, Nausea/Vomiting:8:0, Sore Throat:32:0, Cough:43:0, Fever:29:0
+23 |  | Full-time employment (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

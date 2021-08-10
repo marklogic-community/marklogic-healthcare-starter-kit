@@ -1,0 +1,44 @@
+Johnie Jenkins
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1936-04-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+74 |  | Prediabetes | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 | 82 | Victim of intimate partner abuse (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 | 74 | Concussion with no loss of consciousness | 0 | 
+74 | 74 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:22:0, Body Aches:22:0, Runny/Stuffy Nose:49:0, Fatigue:0:0, Swollen Lymph Nodes:41:0, Swollen Tonsils:31:0, Decreased Appetite:31:0, Sore Throat:41:0, Cough:27:0, Fever:16:0
+75 |  | Prediabetes | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 | 77 | Stress (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 | 78 | Not in labor force (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 | 79 | Stress (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received higher education (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received higher education (finding) | 0 | 
+80 | 82 | Stress (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Part-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+82 | 82 | Fracture subluxation of wrist | 0 | 
+83 |  | Prediabetes | 0 | 
+--------------------------------------------------------------------------------

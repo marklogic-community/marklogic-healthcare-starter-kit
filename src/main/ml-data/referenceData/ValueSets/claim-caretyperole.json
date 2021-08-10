@@ -1,0 +1,17 @@
+{
+  "valueSet": {
+      "valueSetName": "ClaimCareTeamRoleCodes",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/claim-careteamrole",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-claim-careteamrole.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This value set includes sample Claim Care Team Role codes.",
+      "valueSetConcepts": {
+          "primary": {"code": "primary", "display": "Primary provider", "definition": "The primary care provider."},
+          "assist": {"code": "assist", "display": "Assisting Provider", "definition": "Assisting care provider."},
+          "supervisory": {"code": "supervisory", "display": "Supervising Provider", "definition": "Supervising care provider."},
+          "other": {"code": "other", "display": "Other", "definition": "Other role on the care team."}
+      }
+  }
+}

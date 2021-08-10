@@ -1,0 +1,81 @@
+Millie Ernser
+=============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1958-08-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+51 |  | Prediabetes | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Part-time employment (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 55 | Stress (finding) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 | 60 | Victim of intimate partner abuse (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+54 | 54 | Viral sinusitis (disorder) | 9 | Headache:7:0, Sinus Pain:76:0, Pain with Bright Lights:42:0, Facial Swelling:46:0, Nasal Discharge:12:0, Nasal Congestion:15:0, Sore Throat:3:0, Fever:4:0, Cough:49:0
+54 |  | Prediabetes | 0 | 
+54 | 60 | Reports of violence in the environment (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 58 | Social isolation (finding) | 0 | 
+54 | 55 | Otitis media | 0 | 
+55 |  | Prediabetes | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 55 | Laceration of thigh | 0 | 
+56 |  | Prediabetes | 0 | 
+56 | 57 | Part-time employment (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 59 | Stress (finding) | 0 | 
+58 | 58 | Acute bacterial sinusitis (disorder) | 9 | Headache:49:0, Sinus Pain:55:0, Pain with Bright Lights:48:0, Facial Swelling:16:0, Nasal Discharge:33:0, Nasal Congestion:4:0, Sore Throat:31:0, Fever:6:0, Cough:39:0
+58 |  | Prediabetes | 0 | 
+58 | 59 | Not in labor force (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+59 |  | Hyperlipidemia | 1 | weight gain:1
+59 |  | Prediabetes | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 | 60 | Social isolation (finding) | 0 | 
+60 |  | Prediabetes | 0 | 
+60 |  | Part-time employment (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+61 |  | Dyspnea (finding) | 6 | fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+61 |  | Fever (finding) | 6 | fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+61 |  | Sputum finding (finding) | 6 | fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+61 |  | Wheezing (finding) | 6 | fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+61 |  | Headache (finding) | 6 | fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+61 |  | Cough (finding) | 6 | fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+61 |  | Loss of taste (finding) | 6 | fever:1, dyspnea:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+61 | 61 | Suspected COVID-19 | 0 | 
+61 |  | COVID-19 | 0 | 
+61 |  | Acute deep venous thrombosis (disorder) | 0 | 
+61 |  | Acute respiratory failure (disorder) | 0 | 
+61 |  | Respiratory distress (finding) | 0 | 
+61 |  | Sepsis caused by virus (disorder) | 0 | 
+61 |  | Injury of kidney (disorder) | 0 | 
+61 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+61 |  | Acquired coagulation disorder (disorder) | 0 | 
+61 |  | Septic shock (disorder) | 0 | 
+61 |  | Pneumonia (disorder) | 0 | 
+61 |  | Hypoxemia (disorder) | 0 | 
+--------------------------------------------------------------------------------

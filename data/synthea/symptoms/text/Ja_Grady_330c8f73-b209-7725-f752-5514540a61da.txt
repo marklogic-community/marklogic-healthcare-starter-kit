@@ -1,0 +1,49 @@
+Ja Grady
+========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1995-01-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 |  | Hypertension | 0 | 
+18 | 20 | Limited social contact (finding) | 0 | 
+18 |  | Unemployed (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 | 19 | Stress (finding) | 0 | 
+19 |  | Unemployed (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 | 26 | Misuses drugs (finding) | 0 | 
+20 |  | Unemployed (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 | 21 | Stress (finding) | 0 | 
+21 |  | Unemployed (finding) | 0 | 
+21 |  | Received certificate of high school equivalency (finding) | 0 | 
+21 | 23 | Social isolation (finding) | 0 | 
+22 | 22 | Normal pregnancy | 0 | 
+22 |  | Unemployed (finding) | 0 | 
+22 | 26 | Victim of intimate partner abuse (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 |  | Victim of intimate partner abuse (finding) | 0 | 
+23 |  | Unemployed (finding) | 0 | 
+23 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+24 | 24 | Cystitis | 7 | Frequent Urination:21:0, Urgent Desire to Urinate:21:0, Discolored Urine:0:0, Odor of Urine:0:0, Pelvic Pain:10:0, Fever:2:0, Dysuria:5:0
+24 | 25 | Limited social contact (finding) | 0 | 
+24 |  | Unemployed (finding) | 0 | 
+24 |  | Received certificate of high school equivalency (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+25 |  | Fever (finding) | 3 | sore throat:1, fever:1, loss_of_taste:1
+25 |  | Sore throat symptom (finding) | 3 | sore throat:1, fever:1, loss_of_taste:1
+25 |  | Loss of taste (finding) | 3 | sore throat:1, fever:1, loss_of_taste:1
+25 | 25 | Suspected COVID-19 | 0 | 
+25 |  | COVID-19 | 0 | 
+25 |  | Unemployed (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+26 |  | Unemployed (finding) | 0 | 
+26 |  | Received certificate of high school equivalency (finding) | 0 | 
+26 |  | Stress (finding) | 0 | 
+26 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

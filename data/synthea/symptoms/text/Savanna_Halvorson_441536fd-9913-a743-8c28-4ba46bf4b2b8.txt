@@ -1,0 +1,16 @@
+Savanna Halvorson
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2004-06-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+12 | 12 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:30:0, Body Aches:13:0, Runny/Stuffy Nose:35:0, Fatigue:36:0, Swollen Lymph Nodes:34:0, Swollen Tonsils:29:0, Decreased Appetite:32:0, Sore Throat:48:0, Cough:0:0, Fever:11:0
+13 |  | Risk activity involvement (finding) | 0 | 
+14 | 16 | Risk activity involvement (finding) | 0 | 
+15 |  | Fever (finding) | 2 | fever:1, cough:1
+15 |  | Cough (finding) | 2 | fever:1, cough:1
+15 | 15 | Suspected COVID-19 | 0 | 
+15 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

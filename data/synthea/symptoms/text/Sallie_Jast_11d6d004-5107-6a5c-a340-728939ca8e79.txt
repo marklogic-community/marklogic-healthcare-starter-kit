@@ -1,0 +1,62 @@
+Sallie Jast
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1984-04-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+27 | 28 | Full-time employment (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 |  | Victim of intimate partner abuse (finding) | 0 | 
+28 | 29 | Not in labor force (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 29 | Normal pregnancy | 0 | 
+28 | 28 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:6:0, Body Aches:21:0, Runny/Stuffy Nose:35:0, Fatigue:26:0, Swollen Lymph Nodes:58:0, Swollen Tonsils:48:0, Decreased Appetite:11:0, Sore Throat:6:0, Fever:14:0, Cough:0:0
+29 |  | Body mass index 30+ - obesity (finding) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+30 |  | Body mass index 30+ - obesity (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 | 35 | Victim of intimate partner abuse (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 33 | Stress (finding) | 0 | 
+32 |  | Body mass index 30+ - obesity (finding) | 0 | 
+32 | 36 | Reports of violence in the environment (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+33 | 33 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:18:0, Body Aches:37:0, Runny/Stuffy Nose:10:0, Fatigue:6:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:29:0, Decreased Appetite:36:0, Sore Throat:48:0, Fever:26:0, Cough:21:0
+33 |  | Body mass index 30+ - obesity (finding) | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 | 33 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:33:0, Runny/Stuffy Nose:34:0, Fatigue:25:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:14:0, Decreased Appetite:18:0, Sore Throat:29:0, Fever:36:0, Cough:18:0
+34 | 34 | Normal pregnancy | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 | 35 | Stress (finding) | 0 | 
+34 | 35 | Viral sinusitis (disorder) | 9 | Headache:32:0, Sinus Pain:66:0, Pain with Bright Lights:31:0, Facial Swelling:2:0, Nasal Discharge:27:0, Nasal Congestion:15:0, Sore Throat:9:0, Fever:5:0, Cough:29:0
+35 |  | Limited social contact (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 |  | Dyspnea (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+35 |  | Fever (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+35 |  | Sputum finding (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+35 |  | Wheezing (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+35 |  | Loss of taste (finding) | 4 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1
+35 | 35 | Suspected COVID-19 | 0 | 
+35 |  | COVID-19 | 0 | 
+35 |  | Acute respiratory failure (disorder) | 0 | 
+35 |  | Respiratory distress (finding) | 0 | 
+35 |  | Pneumonia (disorder) | 0 | 
+35 |  | Hypoxemia (disorder) | 0 | 
+35 |  | Acute pulmonary embolism (disorder) | 0 | 
+36 | 36 | Viral sinusitis (disorder) | 9 | Headache:48:0, Sinus Pain:70:0, Pain with Bright Lights:43:0, Facial Swelling:11:0, Nasal Discharge:45:0, Nasal Congestion:5:0, Sore Throat:18:0, Fever:1:0, Cough:44:0
+36 |  | Part-time employment (finding) | 0 | 
+36 |  | Victim of intimate partner abuse (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+36 |  | Social isolation (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

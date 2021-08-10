@@ -1,0 +1,394 @@
+Cassey Bogan
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1932-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Hypertriglyceridemia (disorder) | 0 | 
+70 |  | Diabetes | 0 | 
+70 |  | Housing unsatisfactory (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Hypertriglyceridemia (disorder) | 0 | 
+70 |  | Diabetes | 0 | 
+70 |  | Housing unsatisfactory (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Hypertriglyceridemia (disorder) | 0 | 
+71 |  | Diabetes | 0 | 
+71 | 71 | Part-time employment (finding) | 0 | 
+71 |  | Housing unsatisfactory (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Hypertriglyceridemia (disorder) | 0 | 
+71 |  | Diabetes | 0 | 
+71 |  | Housing unsatisfactory (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Hypertriglyceridemia (disorder) | 0 | 
+71 |  | Diabetes | 0 | 
+71 |  | Housing unsatisfactory (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Hypertriglyceridemia (disorder) | 0 | 
+71 |  | Diabetes | 0 | 
+71 |  | Housing unsatisfactory (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 | 72 | Stress (finding) | 0 | 
+71 | 74 | Severe anxiety (panic) (finding | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Diabetes | 0 | 
+72 | 72 | Not in labor force (finding) | 0 | 
+72 |  | Housing unsatisfactory (finding) | 0 | 
+72 | 79 | Reports of violence in the environment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Diabetes | 0 | 
+72 |  | Housing unsatisfactory (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Diabetes | 0 | 
+72 |  | Housing unsatisfactory (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 | 72 | Stress (finding) | 0 | 
+72 |  | Drug overdose | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Diabetes | 0 | 
+72 | 72 | Part-time employment (finding) | 0 | 
+72 |  | Housing unsatisfactory (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Diabetes | 0 | 
+72 |  | Housing unsatisfactory (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Diabetes | 0 | 
+72 |  | Housing unsatisfactory (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Diabetes | 0 | 
+73 |  | Housing unsatisfactory (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Drug overdose | 0 | 
+73 | 73 | Viral sinusitis (disorder) | 9 | Headache:42:0, Sinus Pain:78:0, Pain with Bright Lights:47:0, Facial Swelling:43:0, Nasal Discharge:13:0, Nasal Congestion:5:0, Sore Throat:21:0, Cough:11:0, Fever:21:0
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Diabetes | 0 | 
+73 | 73 | Part-time employment (finding) | 0 | 
+73 |  | Housing unsatisfactory (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Diabetes | 0 | 
+73 | 73 | Part-time employment (finding) | 0 | 
+73 |  | Housing unsatisfactory (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 73 | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Diabetes | 0 | 
+73 | 73 | Part-time employment (finding) | 0 | 
+73 |  | Housing unsatisfactory (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Diabetes | 0 | 
+73 |  | Housing unsatisfactory (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Diabetes | 0 | 
+74 |  | Housing unsatisfactory (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Diabetes | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Housing unsatisfactory (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+74 | 77 | Severe anxiety (panic) (finding | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Diabetes | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Diabetes | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Diabetes | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 | 76 | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Diabetes | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Victim of intimate partner abuse (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Diabetes | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Diabetes | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Drug overdose | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Diabetes | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Diabetes | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Diabetes | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Diabetes | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Diabetes | 0 | 
+76 | 77 | Not in labor force (finding) | 0 | 
+76 | 78 | Limited social contact (finding) | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Diabetes | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Diabetes | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 | 77 | Victim of intimate partner abuse (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 | 77 | Stress (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Diabetes | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Diabetes | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 | 79 | Victim of intimate partner abuse (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 | 78 | Severe anxiety (panic) (finding | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Diabetes | 0 | 
+77 | 77 | Not in labor force (finding) | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 | 77 | Stress (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Diabetes | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Diabetes | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+77 |  | Victim of intimate partner abuse (finding) | 0 | 
+77 | 78 | Viral sinusitis (disorder) | 9 | Headache:44:0, Sinus Pain:76:0, Pain with Bright Lights:40:0, Facial Swelling:12:0, Nasal Discharge:16:0, Nasal Congestion:16:0, Sore Throat:6:0, Cough:23:0, Fever:14:0
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Diabetes | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 | 78 | Stress (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Diabetes | 0 | 
+78 | 78 | Not in labor force (finding) | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Diabetes | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 79 | Social isolation (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Diabetes | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 78 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 78 | Severe anxiety (panic) (finding | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Diabetes | 0 | 
+78 | 78 | Part-time employment (finding) | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Diabetes | 0 | 
+78 | 79 | Not in labor force (finding) | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 80 | Severe anxiety (panic) (finding | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Diabetes | 0 | 
+79 | 79 | Part-time employment (finding) | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Diabetes | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 | 79 | Victim of intimate partner abuse (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 | 79 | Stress (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Diabetes | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 | 79 | Reports of violence in the environment (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 | 80 | Social isolation (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Diabetes | 0 | 
+79 | 80 | Part-time employment (finding) | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Victim of intimate partner abuse (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 | 79 | Viral sinusitis (disorder) | 9 | Headache:26:0, Sinus Pain:65:0, Pain with Bright Lights:34:0, Facial Swelling:4:0, Nasal Discharge:30:0, Nasal Congestion:11:0, Sore Throat:10:0, Cough:8:0, Fever:6:0
+80 |  | Drug overdose | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Diabetes | 0 | 
+80 | 80 | Not in labor force (finding) | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 | 80 | Reports of violence in the environment (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Diabetes | 0 | 
+80 |  | Part-time employment (finding) | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

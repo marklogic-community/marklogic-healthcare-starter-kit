@@ -1,0 +1,77 @@
+Sonja Koepp
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1980-05-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+31 | 31 | Acute bronchitis (disorder) | 10 | Body Aches:24:0, Diarrhea:0:0, Fatigue:25:0, Mucus:39:0, Nasal Congestion:36:0, Shortness of Breath:56:0, Nausea/Vomiting:5:0, Sore Throat:41:0, Cough:73:0, Fever:26:0
+31 |  | Prediabetes | 0 | 
+31 | 33 | Part-time employment (finding) | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+32 | 32 | Laceration of hand | 0 | 
+33 |  | Chronic low back pain (finding) | 0 | 
+33 |  | Chronic neck pain (finding) | 0 | 
+33 |  | Prediabetes | 0 | 
+33 | 34 | Not in labor force (finding) | 0 | 
+33 |  | Housing unsatisfactory (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+33 | 36 | Social isolation (finding) | 0 | 
+33 | 34 | Normal pregnancy | 0 | 
+34 | 34 | Normal pregnancy | 0 | 
+34 | 34 | Concussion with no loss of consciousness | 0 | 
+34 |  | Prediabetes | 0 | 
+34 |  | Housing unsatisfactory (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+35 | 35 | Normal pregnancy | 0 | 
+35 |  | Prediabetes | 0 | 
+35 | 36 | Part-time employment (finding) | 0 | 
+35 |  | Housing unsatisfactory (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 | 36 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:0:0, Fatigue:33:0, Mucus:47:0, Nasal Congestion:38:0, Shortness of Breath:69:0, Nausea/Vomiting:6:0, Sore Throat:48:0, Cough:48:0, Fever:35:0
+36 |  | Prediabetes | 0 | 
+36 |  | Housing unsatisfactory (finding) | 0 | 
+36 | 36 | Full-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 | 36 | Stress (finding) | 0 | 
+36 |  | Prediabetes | 0 | 
+36 |  | Housing unsatisfactory (finding) | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 | 40 | Social isolation (finding) | 0 | 
+37 |  | Prediabetes | 0 | 
+37 |  | Housing unsatisfactory (finding) | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+37 | 39 | Misuses drugs (finding) | 0 | 
+38 | 38 | Viral sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:69:0, Pain with Bright Lights:40:0, Facial Swelling:4:0, Nasal Discharge:16:0, Nasal Congestion:8:0, Sore Throat:1:0, Cough:25:0, Fever:21:0
+38 |  | Prediabetes | 0 | 
+38 | 39 | Part-time employment (finding) | 0 | 
+38 |  | Housing unsatisfactory (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 |  | Stress (finding) | 0 | 
+39 |  | Fever (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+39 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+39 |  | Loss of taste (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+39 | 39 | Suspected COVID-19 | 0 | 
+39 |  | COVID-19 | 0 | 
+39 |  | Prediabetes | 0 | 
+39 | 40 | Part-time employment (finding) | 0 | 
+39 |  | Housing unsatisfactory (finding) | 0 | 
+39 |  | Received certificate of high school equivalency (finding) | 0 | 
+39 |  | Stress (finding) | 0 | 
+40 | 40 | Viral sinusitis (disorder) | 9 | Headache:2:0, Sinus Pain:54:0, Pain with Bright Lights:46:0, Facial Swelling:20:0, Nasal Discharge:6:0, Nasal Congestion:21:0, Sore Throat:31:0, Cough:26:0, Fever:18:0
+40 | 40 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:63:0, Pain with Bright Lights:45:0, Facial Swelling:16:0, Nasal Discharge:3:0, Nasal Congestion:20:0, Sore Throat:3:0, Cough:48:0, Fever:15:0
+40 |  | Prediabetes | 0 | 
+40 |  | Housing unsatisfactory (finding) | 0 | 
+40 |  | Full-time employment (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

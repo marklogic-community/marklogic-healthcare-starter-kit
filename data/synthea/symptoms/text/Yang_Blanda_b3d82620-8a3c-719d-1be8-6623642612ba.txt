@@ -1,0 +1,22 @@
+Yang Blanda
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1979-10-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+34 | 37 | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+37 | 38 | Part-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+38 | 38 | Viral sinusitis (disorder) | 9 | Headache:46:0, Sinus Pain:74:0, Pain with Bright Lights:38:0, Facial Swelling:9:0, Nasal Discharge:36:0, Nasal Congestion:20:0, Sore Throat:48:0, Cough:12:0, Fever:11:0
+38 | 40 | Full-time employment (finding) | 0 | 
+38 |  | Received higher education (finding) | 0 | 
+38 | 40 | Stress (finding) | 0 | 
+38 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+41 | 41 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:5:0, Fatigue:35:0, Mucus:29:0, Nasal Congestion:49:0, Shortness of Breath:34:0, Nausea/Vomiting:11:0, Sore Throat:26:0, Cough:26:0, Fever:38:0
+--------------------------------------------------------------------------------

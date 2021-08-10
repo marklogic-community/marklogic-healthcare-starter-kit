@@ -1,0 +1,36 @@
+Olin Franecki
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1934-08-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 |  | Smokes tobacco daily | 0 | 
+40 |  | Served in armed forces (finding) | 0 | 
+40 | 42 | Not in labor force (finding) | 0 | 
+40 |  | Housing unsatisfactory (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 46 | Social isolation (finding) | 0 | 
+41 |  | Osteoarthritis of hip | 2 | Joint Pain:0, Joint Stiffness:0
+42 |  | Smokes tobacco daily | 0 | 
+42 |  | Served in armed forces (finding) | 0 | 
+42 |  | Housing unsatisfactory (finding) | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+44 |  | Smokes tobacco daily | 0 | 
+44 |  | Served in armed forces (finding) | 0 | 
+44 |  | Housing unsatisfactory (finding) | 0 | 
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+44 | 44 | Viral sinusitis (disorder) | 9 | Sinus Pain:66:0, Headache:29:0, Pain with Bright Lights:49:0, Facial Swelling:41:0, Nasal Discharge:6:0, Nasal Congestion:23:0, Sore Throat:0:0, Fever:17:0, Cough:7:0
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 |  | Smokes tobacco daily | 0 | 
+46 |  | Served in armed forces (finding) | 0 | 
+46 |  | Housing unsatisfactory (finding) | 0 | 
+46 |  | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

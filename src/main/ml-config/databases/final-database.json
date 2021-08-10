@@ -1,0 +1,21 @@
+{
+  "database-name": "%%mlFinalDbName%%",
+  "schema-database": "%%mlFinalSchemasDbName%%",
+  "triggers-database": "%%mlFinalTriggersDbName%%",
+  "triple-index": true,
+  "range-path-index" : [ {
+    "invalid-values" : "ignore",
+    "path-expression" : "/(es:envelope|envelope)/(es:instance|instance)/Patient/name/HumanName/given",
+    "range-value-positions" : false,
+    "scalar-type" : "string",
+    "collation" : "http://marklogic.com/collation/codepoint"
+  }, {
+    "invalid-values" : "ignore",
+    "path-expression" : "/(es:envelope|envelope)/(es:instance|instance)/Patient/name/HumanName/family",
+    "range-value-positions" : false,
+    "scalar-type" : "string",
+    "collation" : "http://marklogic.com/collation/codepoint"
+  } ],
+  "collection-lexicon": true,
+  "uri-lexicon": true
+}

@@ -1,0 +1,751 @@
+
+2021-05-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 22 year-old non-hispanic white male. Patient has a history of streptococcal sore throat (disorder), headache (finding), acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), victim of intimate partner abuse (finding), misuses drugs (finding), suspected covid-19, fracture of ankle, covid-19, part-time employment (finding), fever (finding), limited social contact (finding), not in labor force (finding), full-time employment (finding), cough (finding), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- lisinopril 10 mg oral tablet
+
+
+
+2020-04-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 21 year-old non-hispanic white male. Patient has a history of streptococcal sore throat (disorder), headache (finding), acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), victim of intimate partner abuse (finding), misuses drugs (finding), suspected covid-19, fracture of ankle, covid-19, part-time employment (finding), fever (finding), limited social contact (finding), full-time employment (finding), cough (finding), social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with not in labor force (finding), limited social contact (finding). 
+
+## Plan
+Patient was given the following immunizations: td (adult) preservative free, hep b, adult, meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+The patient was prescribed the following medications:
+- lisinopril 10 mg oral tablet
+
+
+
+2020-02-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 21 year-old non-hispanic white male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), limited social contact (finding), full-time employment (finding), acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), victim of intimate partner abuse (finding), misuses drugs (finding), fracture of ankle, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with headache (finding), cough (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2020-02-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 20 year-old non-hispanic white male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), limited social contact (finding), full-time employment (finding), acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder), full-time employment (finding), misuses drugs (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- lisinopril 10 mg oral tablet
+
+
+
+2020-02-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 20 year-old non-hispanic white male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), limited social contact (finding), full-time employment (finding), acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hep b, adult. 
+
+
+
+2019-12-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 20 year-old non-hispanic white male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), limited social contact (finding), full-time employment (finding), acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2019-04-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 20 year-old non-hispanic white male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), victim of intimate partner abuse (finding), fracture of ankle, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), limited social contact (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hep b, adult. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- lisinopril 10 mg oral tablet
+
+
+
+2018-04-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 19 year-old non-hispanic white male. Patient has a history of streptococcal sore throat (disorder), part-time employment (finding), acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), fracture of ankle, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding), part-time employment (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- lisinopril 10 mg oral tablet
+
+
+
+2017-12-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 18 year-old non-hispanic white male. Patient has a history of part-time employment (finding), acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), fracture of ankle, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with streptococcal sore throat (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- throat culture (procedure)
+The patient was prescribed the following medications:
+- penicillin v potassium 250 mg oral tablet
+
+
+
+2017-06-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 18 year-old non-hispanic white male. Patient has a history of part-time employment (finding), acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), fracture of ankle, social isolation (finding), stress (finding).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2017-04-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 18 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder), fracture of ankle.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with hypertension, received higher education (finding), part-time employment (finding), social isolation (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+The patient was prescribed the following medications:
+- lisinopril 10 mg oral tablet
+The patient was placed on a careplan:
+- lifestyle education regarding hypertension
+
+
+
+2017-03-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 18 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with fracture of ankle. 
+
+## Plan
+
+The following procedures were conducted:
+- ankle x-ray
+- bone immobilization
+The patient was prescribed the following medications:
+- naproxen sodium 220 mg oral tablet
+The patient was placed on a careplan:
+- fracture care
+
+
+
+2016-04-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 17 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), sprain of wrist, viral sinusitis (disorder).
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2015-10-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 16 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), sprain of wrist.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2015-04-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 16 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder), sprain of wrist.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, meningococcal mcv4p. 
+The following procedures were conducted:
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2015-03-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 16 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with sprain of wrist. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- physical therapy procedure
+
+
+
+2014-03-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 15 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2013-03-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 14 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2012-03-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 13 year-old non-hispanic white male. Patient has a history of acute viral pharyngitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2011-07-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 12 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- penicillin v potassium 250 mg oral tablet
+
+
+
+2003-01-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Adolfo
+ is a 3 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with chronic sinusitis (disorder). 
+
+## Plan
+
+
+
+

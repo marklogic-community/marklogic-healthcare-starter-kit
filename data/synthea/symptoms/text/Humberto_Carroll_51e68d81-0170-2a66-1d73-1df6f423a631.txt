@@ -1,0 +1,34 @@
+Humberto Carroll
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1987-01-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 |  | Housing unsatisfactory (finding) | 0 | 
+25 | 28 | Full-time employment (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 | 28 | Social isolation (finding) | 0 | 
+26 | 26 | Acute bacterial sinusitis (disorder) | 9 | Sinus Pain:66:0, Headache:20:0, Pain with Bright Lights:34:0, Facial Swelling:17:0, Nasal Discharge:10:0, Nasal Congestion:19:0, Cough:42:0, Sore Throat:30:0, Fever:6:0
+28 | 28 | Not in labor force (finding) | 0 | 
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 | 31 | Stress (finding) | 0 | 
+28 | 28 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:4:0, Fatigue:43:0, Mucus:45:0, Nasal Congestion:47:0, Shortness of Breath:74:0, Nausea/Vomiting:15:0, Cough:70:0, Sore Throat:27:0, Fever:41:0
+28 |  | Housing unsatisfactory (finding) | 0 | 
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Housing unsatisfactory (finding) | 0 | 
+31 | 34 | Reports of violence in the environment (finding) | 0 | 
+31 | 34 | Full-time employment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 | 34 | Social isolation (finding) | 0 | 
+33 | 33 | Laceration of hand | 0 | 
+34 |  | Not in labor force (finding) | 0 | 
+34 |  | Housing unsatisfactory (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+34 |  | Victim of intimate partner abuse (finding) | 0 | 
+--------------------------------------------------------------------------------

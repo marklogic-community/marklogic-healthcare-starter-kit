@@ -1,0 +1,17 @@
+Del Torp
+========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2018-05-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 |  | Vomiting symptom (finding) | 5 | fatigue:1, fever:1, cough:1, nausea:1, vomiting:1
+1 |  | Fever (finding) | 5 | fatigue:1, fever:1, cough:1, nausea:1, vomiting:1
+1 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, cough:1, nausea:1, vomiting:1
+1 |  | Cough (finding) | 5 | fatigue:1, fever:1, cough:1, nausea:1, vomiting:1
+1 |  | Nausea (finding) | 5 | fatigue:1, fever:1, cough:1, nausea:1, vomiting:1
+1 | 1 | Suspected COVID-19 | 0 | 
+1 |  | COVID-19 | 0 | 
+2 |  | Otitis media | 0 | 
+--------------------------------------------------------------------------------

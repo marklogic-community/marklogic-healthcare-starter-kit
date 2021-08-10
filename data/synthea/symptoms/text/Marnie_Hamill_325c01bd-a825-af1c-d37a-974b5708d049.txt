@@ -1,0 +1,66 @@
+Marnie Hamill
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1952-04-04
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+59 |  | Unemployed (finding) | 0 | 
+59 |  | Lack of access to transportation (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 | 60 | Stress (finding) | 0 | 
+60 |  | Unemployed (finding) | 0 | 
+60 |  | Lack of access to transportation (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 | 68 | Social isolation (finding) | 0 | 
+61 |  | Unemployed (finding) | 0 | 
+61 |  | Lack of access to transportation (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 |  | Chronic low back pain (finding) | 0 | 
+61 | 61 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:10:0, Runny/Stuffy Nose:1:0, Fatigue:27:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:32:0, Decreased Appetite:35:0, Sore Throat:47:0, Cough:41:0, Fever:23:0
+61 |  | Chronic low back pain (finding) | 0 | 
+62 | 62 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:7:0, Fatigue:43:0, Mucus:34:0, Nasal Congestion:26:0, Shortness of Breath:50:0, Nausea/Vomiting:2:0, Sore Throat:41:0, Cough:37:0, Fever:29:0
+62 |  | Unemployed (finding) | 0 | 
+62 |  | Transport problems (finding) | 0 | 
+62 | 63 | Victim of intimate partner abuse (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 | 64 | Stress (finding) | 0 | 
+63 |  | Unemployed (finding) | 0 | 
+63 |  | Transport problems (finding) | 0 | 
+63 |  | Received certificate of high school equivalency (finding) | 0 | 
+64 |  | Unemployed (finding) | 0 | 
+64 |  | Lack of access to transportation (finding) | 0 | 
+64 | 65 | Victim of intimate partner abuse (finding) | 0 | 
+64 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 | 65 | Sprain of ankle | 0 | 
+65 |  | Unemployed (finding) | 0 | 
+65 |  | Transport problems (finding) | 0 | 
+65 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 | 66 | Stress (finding) | 0 | 
+66 |  | Unemployed (finding) | 0 | 
+66 |  | Transport problems (finding) | 0 | 
+66 | 68 | Victim of intimate partner abuse (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Dyspnea (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+67 |  | Fever (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+67 |  | Sputum finding (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+67 |  | Wheezing (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+67 |  | Cough (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+67 |  | Loss of taste (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+67 | 67 | Suspected COVID-19 | 0 | 
+67 |  | COVID-19 | 0 | 
+67 |  | Respiratory distress (finding) | 0 | 
+67 |  | Pneumonia (disorder) | 0 | 
+67 |  | Hypoxemia (disorder) | 0 | 
+67 |  | Unemployed (finding) | 0 | 
+67 |  | Lack of access to transportation (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 |  | Acute deep venous thrombosis (disorder) | 0 | 
+68 |  | Unemployed (finding) | 0 | 
+68 |  | Transport problems (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+Gwen Lakin
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2000-12-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+11 | 11 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:43:0, Pain with Bright Lights:27:0, Facial Swelling:33:0, Nasal Discharge:43:0, Nasal Congestion:22:0, Fever:18:0, Sore Throat:24:0, Cough:1:0
+12 | 12 | Laceration of foot | 0 | 
+14 | 14 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:24:0, Fatigue:58:0, Mucus:28:0, Nasal Congestion:39:0, Shortness of Breath:30:0, Nausea/Vomiting:19:0, Fever:40:0, Sore Throat:36:0, Cough:71:0
+15 |  | Risk activity involvement (finding) | 0 | 
+16 |  | Risk activity involvement (finding) | 0 | 
+18 |  | Housing unsatisfactory (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Lack of access to transportation (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Social isolation (finding) | 0 | 
+19 |  | Housing unsatisfactory (finding) | 0 | 
+19 |  | Full-time employment (finding) | 0 | 
+19 |  | Lack of access to transportation (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Social isolation (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 |  | Fever (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+19 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+19 |  | Cough (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+19 |  | Loss of taste (finding) | 4 | fatigue:1, fever:1, loss_of_taste:1, cough:1
+19 | 19 | Suspected COVID-19 | 0 | 
+19 |  | COVID-19 | 0 | 
+19 | 19 | Viral sinusitis (disorder) | 9 | Sinus Pain:53:0, Headache:39:0, Pain with Bright Lights:29:0, Facial Swelling:18:0, Nasal Discharge:45:0, Nasal Congestion:2:0, Fever:9:0, Sore Throat:21:0, Cough:41:0
+--------------------------------------------------------------------------------

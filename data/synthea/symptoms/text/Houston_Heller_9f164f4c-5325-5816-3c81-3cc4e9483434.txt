@@ -1,0 +1,56 @@
+Houston Heller
+==============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-09-30
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+72 |  | Drug overdose | 0 | 
+73 |  | Housing unsatisfactory (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+74 | 75 | Not in labor force (finding) | 0 | 
+74 |  | Housing unsatisfactory (finding) | 0 | 
+74 | 82 | Reports of violence in the environment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+75 | 82 | Limited social contact (finding) | 0 | 
+75 |  | Housing unsatisfactory (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Hyperlipidemia | 1 | weight gain:1
+76 | 77 | Not in labor force (finding) | 0 | 
+76 |  | Housing unsatisfactory (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+77 | 78 | Part-time employment (finding) | 0 | 
+77 |  | Housing unsatisfactory (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 | 80 | Part-time employment (finding) | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 | 82 | Stress (finding) | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Drug overdose | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Dyspnea (finding) | 3 | fever:1, dyspnea:1, cough:1
+81 |  | Fever (finding) | 3 | fever:1, dyspnea:1, cough:1
+81 |  | Wheezing (finding) | 3 | fever:1, dyspnea:1, cough:1
+81 |  | Cough (finding) | 3 | fever:1, dyspnea:1, cough:1
+81 | 81 | Suspected COVID-19 | 0 | 
+81 |  | COVID-19 | 0 | 
+81 |  | Respiratory distress (finding) | 0 | 
+81 |  | Pneumonia (disorder) | 0 | 
+81 |  | Hypoxemia (disorder) | 0 | 
+82 |  | Part-time employment (finding) | 0 | 
+82 |  | Housing unsatisfactory (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

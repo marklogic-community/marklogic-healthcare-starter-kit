@@ -1,0 +1,61 @@
+Debby Marks
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1922-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+85 | 86 | Sprain of ankle | 0 | 
+86 |  | Prediabetes | 0 | 
+86 | 87 | Part-time employment (finding) | 0 | 
+86 |  | Housing unsatisfactory (finding) | 0 | 
+86 |  | Received certificate of high school equivalency (finding) | 0 | 
+87 |  | Prediabetes | 0 | 
+87 | 88 | Part-time employment (finding) | 0 | 
+87 |  | Housing unsatisfactory (finding) | 0 | 
+87 |  | Received certificate of high school equivalency (finding) | 0 | 
+87 |  | Stress (finding) | 0 | 
+88 | 88 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:11:0, Fatigue:66:0, Mucus:27:0, Nasal Congestion:27:0, Shortness of Breath:56:0, Nausea/Vomiting:1:0, Sore Throat:30:0, Cough:73:0, Fever:34:0
+88 |  | Prediabetes | 0 | 
+88 | 89 | Not in labor force (finding) | 0 | 
+88 |  | Housing unsatisfactory (finding) | 0 | 
+88 |  | Received certificate of high school equivalency (finding) | 0 | 
+88 |  | Stress (finding) | 0 | 
+89 |  | Prediabetes | 0 | 
+89 |  | Housing unsatisfactory (finding) | 0 | 
+89 | 90 | Full-time employment (finding) | 0 | 
+89 |  | Received certificate of high school equivalency (finding) | 0 | 
+89 | 90 | Stress (finding) | 0 | 
+90 |  | Prediabetes | 0 | 
+90 |  | Housing unsatisfactory (finding) | 0 | 
+90 | 91 | Full-time employment (finding) | 0 | 
+90 |  | Received certificate of high school equivalency (finding) | 0 | 
+90 | 90 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:5:0, Body Aches:2:0, Runny/Stuffy Nose:1:0, Fatigue:3:0, Swollen Lymph Nodes:19:0, Swollen Tonsils:43:0, Decreased Appetite:43:0, Sore Throat:19:0, Cough:26:0, Fever:24:0
+91 |  | Prediabetes | 0 | 
+91 |  | Housing unsatisfactory (finding) | 0 | 
+91 | 92 | Full-time employment (finding) | 0 | 
+91 |  | Received certificate of high school equivalency (finding) | 0 | 
+91 | 92 | Stress (finding) | 0 | 
+92 |  | Prediabetes | 0 | 
+92 |  | Housing unsatisfactory (finding) | 0 | 
+92 | 93 | Full-time employment (finding) | 0 | 
+92 |  | Received certificate of high school equivalency (finding) | 0 | 
+93 |  | Prediabetes | 0 | 
+93 |  | Housing unsatisfactory (finding) | 0 | 
+93 | 94 | Full-time employment (finding) | 0 | 
+93 |  | Received certificate of high school equivalency (finding) | 0 | 
+93 |  | Stress (finding) | 0 | 
+94 |  | Prediabetes | 0 | 
+94 | 95 | Part-time employment (finding) | 0 | 
+94 |  | Housing unsatisfactory (finding) | 0 | 
+94 |  | Received certificate of high school equivalency (finding) | 0 | 
+94 | 95 | Social isolation (finding) | 0 | 
+94 | 95 | Stress (finding) | 0 | 
+94 | 94 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:13:0, Runny/Stuffy Nose:11:0, Fatigue:41:0, Swollen Lymph Nodes:8:0, Swollen Tonsils:18:0, Decreased Appetite:7:0, Sore Throat:43:0, Cough:37:0, Fever:39:0
+95 |  | Prediabetes | 0 | 
+95 |  | Housing unsatisfactory (finding) | 0 | 
+95 |  | Full-time employment (finding) | 0 | 
+95 |  | Received certificate of high school equivalency (finding) | 0 | 
+95 |  | Victim of intimate partner abuse (finding) | 0 | 
+--------------------------------------------------------------------------------

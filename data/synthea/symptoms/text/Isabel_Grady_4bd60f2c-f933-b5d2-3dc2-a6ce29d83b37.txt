@@ -1,0 +1,91 @@
+Isabel Grady
+============
+Race:                Other
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1930-11-15
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+78 |  | Prediabetes | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 | 79 | Part-time employment (finding) | 0 | 
+78 |  | Housing unsatisfactory (finding) | 0 | 
+78 |  | Transport problems (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 | 79 | Viral sinusitis (disorder) | 9 | Sinus Pain:63:0, Headache:36:0, Pain with Bright Lights:44:0, Facial Swelling:0:0, Nasal Discharge:15:0, Nasal Congestion:22:0, Cough:30:0, Sore Throat:20:0, Fever:0:0
+79 | 79 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:25:0, Runny/Stuffy Nose:35:0, Fatigue:41:0, Swollen Lymph Nodes:62:0, Swollen Tonsils:46:0, Decreased Appetite:31:0, Cough:0:0, Sore Throat:4:0, Fever:29:0
+79 |  | Prediabetes | 0 | 
+79 |  | Lack of access to transportation (finding) | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 | 79 | Full-time employment (finding) | 0 | 
+79 | 79 | Stress (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 |  | Lack of access to transportation (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Housing unsatisfactory (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Lack of access to transportation (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Housing unsatisfactory (finding) | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+80 | 80 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:20:0, Fatigue:27:0, Mucus:42:0, Nasal Congestion:39:0, Shortness of Breath:38:0, Nausea/Vomiting:14:0, Cough:30:0, Sore Throat:26:0, Fever:43:0
+81 |  | Prediabetes | 0 | 
+81 |  | Lack of access to transportation (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 | 82 | Viral sinusitis (disorder) | 9 | Sinus Pain:77:0, Headache:31:0, Pain with Bright Lights:29:0, Facial Swelling:41:0, Nasal Discharge:34:0, Nasal Congestion:14:0, Cough:44:0, Sore Throat:47:0, Fever:14:0
+81 |  | Prediabetes | 0 | 
+81 |  | Lack of access to transportation (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Housing unsatisfactory (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Lack of access to transportation (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 | 83 | Part-time employment (finding) | 0 | 
+82 |  | Housing unsatisfactory (finding) | 0 | 
+82 | 83 | Stress (finding) | 0 | 
+82 | 82 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:14:0, Pain with Bright Lights:42:0, Facial Swelling:47:0, Nasal Discharge:43:0, Nasal Congestion:6:0, Cough:34:0, Sore Throat:29:0, Fever:8:0
+83 |  | Chronic low back pain (finding) | 0 | 
+83 |  | Chronic low back pain (finding) | 0 | 
+83 |  | Prediabetes | 0 | 
+83 |  | Lack of access to transportation (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Housing unsatisfactory (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Chronic low back pain (finding) | 0 | 
+83 | 84 | Otitis media | 0 | 
+83 |  | Chronic low back pain (finding) | 0 | 
+84 |  | Prediabetes | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 |  | Housing unsatisfactory (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Transport problems (finding) | 0 | 
+84 | 86 | Stress (finding) | 0 | 
+84 | 84 | Laceration of forearm | 0 | 
+85 |  | Prediabetes | 0 | 
+85 |  | Lack of access to transportation (finding) | 0 | 
+85 |  | Received certificate of high school equivalency (finding) | 0 | 
+85 |  | Housing unsatisfactory (finding) | 0 | 
+85 | 86 | Full-time employment (finding) | 0 | 
+86 |  | Prediabetes | 0 | 
+86 |  | Received certificate of high school equivalency (finding) | 0 | 
+86 |  | Housing unsatisfactory (finding) | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Transport problems (finding) | 0 | 
+86 | 86 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:14:0, Fatigue:53:0, Mucus:46:0, Nasal Congestion:39:0, Shortness of Breath:64:0, Nausea/Vomiting:22:0, Cough:37:0, Sore Throat:34:0, Fever:28:0
+86 | 86 | Fracture of ankle | 0 | 
+86 | 86 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+87 |  | Prediabetes | 0 | 
+87 |  | Victim of intimate partner abuse (finding) | 0 | 
+87 |  | Received certificate of high school equivalency (finding) | 0 | 
+87 |  | Part-time employment (finding) | 0 | 
+87 |  | Housing unsatisfactory (finding) | 0 | 
+87 |  | Transport problems (finding) | 0 | 
+87 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

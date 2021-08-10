@@ -1,0 +1,684 @@
+
+2020-09-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 10 year-old non-hispanic black male. Patient has a history of covid-19, dyspnea (finding), acute bronchitis (disorder), fever (finding), fatigue (finding), wheezing (finding), concussion with loss of consciousness, fracture of forearm, cough (finding), viral sinusitis (disorder), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2020-03-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 9 year-old non-hispanic black male. Patient has a history of acute bronchitis (disorder), concussion with loss of consciousness, fracture of forearm, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fatigue (finding), dyspnea (finding), wheezing (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-12-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 9 year-old non-hispanic black male. Patient has a history of acute bronchitis (disorder), concussion with loss of consciousness, fracture of forearm, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; acetaminophen 160 mg chewable tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2019-09-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 9 year-old non-hispanic black male. Patient has a history of acute bronchitis (disorder), concussion with loss of consciousness, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with fracture of forearm. 
+
+## Plan
+
+The following procedures were conducted:
+- upper arm x-ray
+- bone immobilization
+The patient was prescribed the following medications:
+- acetaminophen 160 mg chewable tablet
+The patient was placed on a careplan:
+- fracture care
+
+
+
+2019-09-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 9 year-old non-hispanic black male. Patient has a history of acute bronchitis (disorder), concussion with loss of consciousness, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2018-11-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 8 year-old non-hispanic black male. Patient has a history of acute bronchitis (disorder), concussion with loss of consciousness, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2018-09-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 7 year-old non-hispanic black male. Patient has a history of acute bronchitis (disorder), concussion with loss of consciousness, viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2018-09-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 7 year-old non-hispanic black male. Patient has a history of acute bronchitis (disorder), viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with concussion with loss of consciousness. 
+
+## Plan
+
+The patient was placed on a careplan:
+- head injury rehabilitation
+
+
+
+2018-03-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 7 year-old non-hispanic black male. Patient has a history of viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- measurement of respiratory function (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2017-09-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 6 year-old non-hispanic black male. Patient has a history of viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2016-08-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 5 year-old non-hispanic black male. Patient has a history of viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2015-08-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 4 year-old non-hispanic black male. Patient has a history of viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: varicella, ipv, influenza, seasonal, injectable, preservative free, dtap, mmr. 
+
+
+
+2014-08-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 3 year-old non-hispanic black male. Patient has a history of viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2014-02-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 3 year-old non-hispanic black male. Patient has a history of viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2013-08-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 2 year-old non-hispanic black male. Patient has a history of viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2013-02-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 2 year-old non-hispanic black male. Patient has a history of viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep a, ped/adol, 2 dose. 
+
+
+
+2012-08-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 1 year-old non-hispanic black male. Patient has a history of viral sinusitis (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2012-04-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 1 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with viral sinusitis (disorder). 
+
+## Plan
+
+
+
+
+2012-02-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 1 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: dtap. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2011-11-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 1 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), varicella, mmr, pneumococcal conjugate pcv 13, hep a, ped/adol, 2 dose. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2011-08-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Guy
+ is a 11 month-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+

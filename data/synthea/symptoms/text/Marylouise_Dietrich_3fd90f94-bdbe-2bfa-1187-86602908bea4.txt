@@ -1,0 +1,85 @@
+Marylouise Dietrich
+===================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1949-04-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+63 |  | Prediabetes | 0 | 
+63 | 65 | Limited social contact (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Drug overdose | 0 | 
+64 |  | Prediabetes | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+65 | 66 | Otitis media | 0 | 
+66 |  | Prediabetes | 0 | 
+66 | 71 | Limited social contact (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 | 71 | Victim of intimate partner abuse (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 68 | Stress (finding) | 0 | 
+67 | 67 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:24:0, Fatigue:52:0, Mucus:44:0, Nasal Congestion:27:0, Shortness of Breath:45:0, Nausea/Vomiting:22:0, Sore Throat:27:0, Fever:28:0, Cough:35:0
+67 |  | History of single seizure (situation) | 0 | 
+67 |  | Seizure disorder | 0 | 
+67 |  | Prediabetes | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 | 68 | Part-time employment (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 | 67 | Fracture of forearm | 0 | 
+67 | 67 | Pathological fracture due to osteoporosis (disorder) | 0 | 
+68 | 68 | Acute bronchitis (disorder) | 10 | Body Aches:3:0, Diarrhea:9:0, Fatigue:58:0, Mucus:40:0, Nasal Congestion:33:0, Shortness of Breath:33:0, Nausea/Vomiting:5:0, Sore Throat:28:0, Fever:31:0, Cough:39:0
+68 |  | Prediabetes | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 |  | History of single seizure (situation) | 0 | 
+68 |  | Epilepsy | 0 | 
+68 |  | Drug overdose | 0 | 
+69 |  | Prediabetes | 0 | 
+69 | 70 | Part-time employment (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 | 70 | Stress (finding) | 0 | 
+69 | 69 | Viral sinusitis (disorder) | 9 | Headache:21:0, Sinus Pain:76:0, Pain with Bright Lights:32:0, Facial Swelling:4:0, Nasal Discharge:26:0, Nasal Congestion:5:0, Sore Throat:10:0, Fever:8:0, Cough:30:0
+70 |  | Prediabetes | 0 | 
+70 |  | Reports of violence in the environment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Drug overdose | 0 | 
+70 | 70 | Sprain of ankle | 0 | 
+70 |  | Muscle pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+70 |  | Fever (finding) | 4 | myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+70 |  | Joint pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+70 |  | Loss of taste (finding) | 4 | myalgia:1, arthralgia:1, fever:1, loss_of_taste:1
+70 | 70 | Suspected COVID-19 | 0 | 
+70 |  | COVID-19 | 0 | 
+71 |  | Drug overdose | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Reports of violence in the environment (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

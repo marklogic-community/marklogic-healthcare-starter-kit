@@ -1,0 +1,18 @@
+Lessie Farrell
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2016-06-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Viral sinusitis (disorder) | 9 | Sinus Pain:66:0, Headache:4:0, Pain with Bright Lights:28:0, Facial Swelling:3:0, Nasal Discharge:40:0, Nasal Congestion:11:0, Fever:6:0, Sore Throat:17:0, Cough:20:0
+0 | 0 | Otitis media | 0 | 
+3 | 3 | Facial laceration | 0 | 
+3 |  | Fever (finding) | 2 | fever:1, loss_of_taste:1
+3 |  | Loss of taste (finding) | 2 | fever:1, loss_of_taste:1
+3 | 3 | Suspected COVID-19 | 0 | 
+3 |  | COVID-19 | 0 | 
+4 | 4 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:41:0, Runny/Stuffy Nose:43:0, Fatigue:18:0, Swollen Lymph Nodes:11:0, Swollen Tonsils:14:0, Decreased Appetite:41:0, Fever:2:0, Sore Throat:0:0, Cough:43:0
+4 | 4 | Otitis media | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,83 @@
+Rupert Lebsack
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1989-06-11
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+22 |  | Served in armed forces (finding) | 0 | 
+22 |  | Has a criminal record (finding) | 0 | 
+22 |  | Unemployed (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 |  | Victim of intimate partner abuse (finding) | 0 | 
+22 | 22 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:19:0, Pain with Bright Lights:39:0, Facial Swelling:27:0, Nasal Discharge:11:0, Nasal Congestion:19:0, Cough:19:0, Sore Throat:46:0, Fever:3:0
+23 |  | Served in armed forces (finding) | 0 | 
+23 |  | Has a criminal record (finding) | 0 | 
+23 |  | Unemployed (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+24 |  | Served in armed forces (finding) | 0 | 
+24 |  | Has a criminal record (finding) | 0 | 
+24 |  | Unemployed (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+24 |  | Social isolation (finding) | 0 | 
+24 |  | Misuses drugs (finding) | 0 | 
+25 |  | Served in armed forces (finding) | 0 | 
+25 | 27 | Limited social contact (finding) | 0 | 
+25 |  | Has a criminal record (finding) | 0 | 
+25 |  | Unemployed (finding) | 0 | 
+25 | 32 | Victim of intimate partner abuse (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 | 26 | Stress (finding) | 0 | 
+26 |  | Served in armed forces (finding) | 0 | 
+26 |  | Has a criminal record (finding) | 0 | 
+26 |  | Unemployed (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 | 26 | Viral sinusitis (disorder) | 9 | Sinus Pain:65:0, Headache:41:0, Pain with Bright Lights:42:0, Facial Swelling:21:0, Nasal Discharge:21:0, Nasal Congestion:22:0, Cough:34:0, Sore Throat:14:0, Fever:15:0
+26 | 26 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:28:0, Runny/Stuffy Nose:23:0, Fatigue:48:0, Swollen Lymph Nodes:44:0, Swollen Tonsils:21:0, Decreased Appetite:48:0, Cough:36:0, Sore Throat:1:0, Fever:41:0
+27 |  | Opioid abuse (disorder) | 0 | 
+27 |  | Served in armed forces (finding) | 0 | 
+27 |  | Has a criminal record (finding) | 0 | 
+27 |  | Unemployed (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 28 | Stress (finding) | 0 | 
+28 |  | Opioid abuse (disorder) | 0 | 
+28 |  | Served in armed forces (finding) | 0 | 
+28 | 32 | Limited social contact (finding) | 0 | 
+28 |  | Has a criminal record (finding) | 0 | 
+28 |  | Unemployed (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+29 |  | Opioid abuse (disorder) | 0 | 
+29 |  | Served in armed forces (finding) | 0 | 
+29 |  | Has a criminal record (finding) | 0 | 
+29 |  | Unemployed (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 32 | Stress (finding) | 0 | 
+29 | 30 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:32:0, Pain with Bright Lights:43:0, Facial Swelling:7:0, Nasal Discharge:4:0, Nasal Congestion:19:0, Cough:30:0, Sore Throat:18:0, Fever:14:0
+30 | 30 | Viral sinusitis (disorder) | 9 | Sinus Pain:52:0, Headache:13:0, Pain with Bright Lights:26:0, Facial Swelling:45:0, Nasal Discharge:48:0, Nasal Congestion:6:0, Cough:12:0, Sore Throat:2:0, Fever:11:0
+30 |  | Opioid abuse (disorder) | 0 | 
+30 |  | Served in armed forces (finding) | 0 | 
+30 |  | Has a criminal record (finding) | 0 | 
+30 |  | Unemployed (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Fever (finding) | 2 | fever:1, loss_of_taste:1
+30 |  | Loss of taste (finding) | 2 | fever:1, loss_of_taste:1
+30 | 30 | Suspected COVID-19 | 0 | 
+30 |  | COVID-19 | 0 | 
+31 |  | Opioid abuse (disorder) | 0 | 
+31 |  | Served in armed forces (finding) | 0 | 
+31 |  | Has a criminal record (finding) | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 31 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:42:0, Pain with Bright Lights:44:0, Facial Swelling:19:0, Nasal Discharge:22:0, Nasal Congestion:16:0, Cough:42:0, Sore Throat:25:0, Fever:20:0
+32 | 32 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:20:0, Fatigue:64:0, Mucus:35:0, Nasal Congestion:32:0, Shortness of Breath:28:0, Nausea/Vomiting:12:0, Cough:59:0, Sore Throat:36:0, Fever:37:0
+32 |  | Opioid abuse (disorder) | 0 | 
+32 |  | Served in armed forces (finding) | 0 | 
+32 |  | Has a criminal record (finding) | 0 | 
+32 |  | Reports of violence in the environment (finding) | 0 | 
+32 |  | Unemployed (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

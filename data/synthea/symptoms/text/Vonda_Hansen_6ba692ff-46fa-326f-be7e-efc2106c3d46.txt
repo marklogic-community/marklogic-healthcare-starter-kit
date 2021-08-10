@@ -1,0 +1,47 @@
+Vonda Hansen
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1971-09-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+40 |  | Prediabetes | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+40 | 40 | Viral sinusitis (disorder) | 9 | Sinus Pain:63:0, Headache:28:0, Pain with Bright Lights:44:0, Facial Swelling:33:0, Nasal Discharge:49:0, Nasal Congestion:15:0, Fever:12:0, Sore Throat:11:0, Cough:17:0
+42 |  | Prediabetes | 0 | 
+42 | 44 | Full-time employment (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+42 | 46 | Social isolation (finding) | 0 | 
+44 |  | Prediabetes | 0 | 
+44 | 45 | Part-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+45 | 45 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:3:0, Pain with Bright Lights:29:0, Facial Swelling:18:0, Nasal Discharge:28:0, Nasal Congestion:14:0, Fever:13:0, Sore Throat:5:0, Cough:42:0
+45 | 46 | Acute bacterial sinusitis (disorder) | 9 | Sinus Pain:62:117:0, Headache:19:0, Pain with Bright Lights:48:0, Facial Swelling:5:0, Nasal Discharge:30:0, Nasal Congestion:4:0, Fever:17:0, Sore Throat:41:0, Cough:25:0
+45 |  | Chronic sinusitis (disorder) | 9 | Sinus Pain:117:0:55:0:64:0, Headache:0:27:0:44:0, Pain with Bright Lights:0:29:0:29:0, Facial Swelling:0:33:0:7:0, Nasal Discharge:0:28:0:3:0, Nasal Congestion:0:23:0:11:0, Fever:0:13:0:1:0, Sore Throat:0:3:0:42:0, Cough:0:35:0:7:0
+45 |  | Prediabetes | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+45 |  | Stress (finding) | 0 | 
+45 |  | Severe anxiety (panic) (finding | 0 | 
+45 | 46 | Normal pregnancy | 0 | 
+46 |  | Prediabetes | 0 | 
+46 | 48 | Part-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 |  | Miscarriage in first trimester | 0 | 
+46 | 46 | Fetus with unknown complication | 0 | 
+46 | 46 | Viral sinusitis (disorder) | 9 | Sinus Pain:55:0, Headache:27:0, Pain with Bright Lights:29:0, Facial Swelling:33:0, Nasal Discharge:28:0, Nasal Congestion:23:0, Fever:13:0, Sore Throat:3:0, Cough:35:0
+46 | 47 | Normal pregnancy | 0 | 
+47 |  | Miscarriage in first trimester | 0 | 
+47 | 47 | Fetus with unknown complication | 0 | 
+47 | 47 | Viral sinusitis (disorder) | 9 | Sinus Pain:64:0, Headache:44:0, Pain with Bright Lights:29:0, Facial Swelling:7:0, Nasal Discharge:3:0, Nasal Congestion:11:0, Fever:1:0, Sore Throat:42:0, Cough:7:0
+47 | 48 | Normal pregnancy | 0 | 
+48 |  | Prediabetes | 0 | 
+48 |  | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,33 @@
+Nancey Hermiston
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1999-01-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+13 | 13 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:5:0, Runny/Stuffy Nose:46:0, Fatigue:19:0, Swollen Lymph Nodes:41:0, Swollen Tonsils:45:0, Decreased Appetite:35:0, Sore Throat:15:0, Cough:41:0, Fever:46:0
+13 | 13 | Viral sinusitis (disorder) | 9 | Headache:31:0, Sinus Pain:54:0, Pain with Bright Lights:39:0, Facial Swelling:35:0, Nasal Discharge:4:0, Nasal Congestion:20:0, Sore Throat:28:0, Cough:3:0, Fever:10:0
+13 | 13 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:24:0, Fatigue:53:0, Mucus:26:0, Nasal Congestion:31:0, Shortness of Breath:34:0, Nausea/Vomiting:2:0, Sore Throat:34:0, Cough:74:0, Fever:41:0
+13 | 14 | Risk activity involvement (finding) | 0 | 
+14 | 14 | Viral sinusitis (disorder) | 9 | Headache:35:0, Sinus Pain:51:0, Pain with Bright Lights:29:0, Facial Swelling:14:0, Nasal Discharge:5:0, Nasal Congestion:0:0, Sore Throat:32:0, Cough:44:0, Fever:6:0
+15 | 16 | Risk activity involvement (finding) | 0 | 
+15 | 15 | Fracture of forearm | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 | 18 | Fracture of forearm | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+21 |  | Dyspnea (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+21 |  | Fever (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+21 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+21 |  | Wheezing (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+21 |  | Loss of taste (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+21 | 21 | Suspected COVID-19 | 0 | 
+21 |  | COVID-19 | 0 | 
+22 |  | Full-time employment (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

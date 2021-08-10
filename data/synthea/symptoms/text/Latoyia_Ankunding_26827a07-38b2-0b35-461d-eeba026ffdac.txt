@@ -1,0 +1,57 @@
+Latoyia Ankunding
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1959-04-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+53 | 62 | Reports of violence in the environment (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 | 54 | Viral sinusitis (disorder) | 9 | Headache:32:0, Sinus Pain:64:0, Pain with Bright Lights:36:0, Facial Swelling:14:0, Nasal Discharge:47:0, Nasal Congestion:12:0, Sore Throat:0:0, Fever:1:0, Cough:22:0
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 | 57 | Part-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 |  | Drug overdose | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 | 58 | Viral sinusitis (disorder) | 9 | Headache:42:0, Sinus Pain:58:0, Pain with Bright Lights:42:0, Facial Swelling:31:0, Nasal Discharge:16:0, Nasal Congestion:10:0, Sore Throat:28:0, Fever:18:0, Cough:45:0
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 |  | Cholelithiasis | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 | 61 | Stress (finding) | 0 | 
+59 | 59 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:40:0, Body Aches:2:0, Runny/Stuffy Nose:48:0, Fatigue:27:0, Swollen Lymph Nodes:67:0, Swollen Tonsils:38:0, Decreased Appetite:43:0, Sore Throat:26:0, Fever:39:0, Cough:0:0
+60 |  | Osteoporosis (disorder) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received certificate of high school equivalency (finding) | 0 | 
+60 |  | Sputum finding (finding) | 3 | fatigue:1, sputum production:1, loss_of_taste:1
+60 |  | Fatigue (finding) | 3 | fatigue:1, sputum production:1, loss_of_taste:1
+60 |  | Loss of taste (finding) | 3 | fatigue:1, sputum production:1, loss_of_taste:1
+60 | 60 | Suspected COVID-19 | 0 | 
+60 |  | COVID-19 | 0 | 
+60 |  | Respiratory distress (finding) | 0 | 
+60 |  | Sepsis caused by virus (disorder) | 0 | 
+60 |  | Heart failure (disorder) | 0 | 
+60 |  | Pneumonia (disorder) | 0 | 
+60 |  | Hypoxemia (disorder) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Full-time employment (finding) | 0 | 
+62 |  | Received certificate of high school equivalency (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

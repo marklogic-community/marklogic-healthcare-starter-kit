@@ -1,0 +1,19 @@
+Tessa Sawayn
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2014-01-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Otitis media | 0 | 
+1 | 1 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:33:0, Body Aches:30:0, Runny/Stuffy Nose:38:0, Fatigue:5:0, Swollen Lymph Nodes:1:0, Decreased Appetite:6:0, Swollen Tonsils:41:0, Cough:22:0, Sore Throat:5:0, Fever:0:0
+3 | 3 | Otitis media | 0 | 
+6 |  | Chill (finding) | 4 | fatigue:1, chills:1, fever:1, cough:1
+6 |  | Fever (finding) | 4 | fatigue:1, chills:1, fever:1, cough:1
+6 |  | Fatigue (finding) | 4 | fatigue:1, chills:1, fever:1, cough:1
+6 |  | Cough (finding) | 4 | fatigue:1, chills:1, fever:1, cough:1
+6 | 6 | Suspected COVID-19 | 0 | 
+6 |  | COVID-19 | 0 | 
+6 | 6 | Otitis media | 0 | 
+--------------------------------------------------------------------------------

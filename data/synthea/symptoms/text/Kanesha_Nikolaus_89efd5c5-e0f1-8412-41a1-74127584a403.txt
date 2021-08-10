@@ -1,0 +1,52 @@
+Kanesha Nikolaus
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1932-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+54 | 54 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:60:0, Pain with Bright Lights:26:0, Facial Swelling:4:0, Nasal Discharge:0:0, Nasal Congestion:7:0, Sore Throat:10:0, Cough:7:0, Fever:4:0
+54 | 54 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:12:0, Body Aches:25:0, Runny/Stuffy Nose:16:0, Fatigue:27:0, Swollen Lymph Nodes:44:0, Swollen Tonsils:10:0, Decreased Appetite:43:0, Sore Throat:15:0, Cough:31:0, Fever:6:0
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Social isolation (finding) | 0 | 
+56 | 57 | Not in labor force (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Social isolation (finding) | 0 | 
+56 | 58 | Stress (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 | 63 | Victim of intimate partner abuse (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 | 61 | Social isolation (finding) | 0 | 
+57 |  | Impacted molars | 10 | Reduced Sex Drive:8, Slurred Speech:1, Shortness Constipation Breath:7, Anxiety:1, Pain Sensitivity:9, Confusion:0, Cognitive Difficulties:11, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:3
+58 |  | Body mass index 30+ - obesity (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Impacted molars | 10 | Reduced Sex Drive:8, Slurred Speech:1, Shortness Constipation Breath:7, Anxiety:1, Pain Sensitivity:9, Confusion:0, Cognitive Difficulties:11, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:3
+58 |  | Impacted molars | 10 | Reduced Sex Drive:8, Slurred Speech:1, Shortness Constipation Breath:7, Anxiety:1, Pain Sensitivity:9, Confusion:0, Cognitive Difficulties:11, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:3
+58 |  | Impacted molars | 10 | Reduced Sex Drive:8, Slurred Speech:1, Shortness Constipation Breath:7, Anxiety:1, Pain Sensitivity:9, Confusion:0, Cognitive Difficulties:11, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:3
+58 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:8, Slurred Speech:1, Shortness Constipation Breath:7, Anxiety:1, Pain Sensitivity:9, Confusion:0, Cognitive Difficulties:11, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:3
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 61 | Stress (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+61 | 63 | Reports of violence in the environment (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 | 63 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+62 |  | Limited social contact (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 | 63 | Stress (finding) | 0 | 
+63 |  | Body mass index 30+ - obesity (finding) | 0 | 
+63 | 63 | Part-time employment (finding) | 0 | 
+63 | 63 | Limited social contact (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 63 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:11:0, Fatigue:28:0, Mucus:26:0, Nasal Congestion:40:0, Shortness of Breath:66:0, Nausea/Vomiting:5:0, Sore Throat:49:0, Cough:68:0, Fever:32:0
+63 |  | Body mass index 30+ - obesity (finding) | 0 | 
+63 |  | Full-time employment (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 |  | Drug overdose | 0 | 
+--------------------------------------------------------------------------------

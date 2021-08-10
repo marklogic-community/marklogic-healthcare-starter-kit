@@ -1,0 +1,59 @@
+Chester Harber
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1961-08-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 | 50 | Part-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+50 | 50 | Injury of medial collateral ligament of knee | 0 | 
+50 | 50 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:12:0, Fatigue:35:0, Mucus:38:0, Nasal Congestion:42:0, Shortness of Breath:35:0, Nausea/Vomiting:23:0, Cough:50:0, Sore Throat:44:0, Fever:42:0
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 | 51 | Part-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+51 |  | Body mass index 30+ - obesity (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 | 54 | Victim of intimate partner abuse (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Body mass index 30+ - obesity (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+52 | 52 | Concussion with no loss of consciousness | 0 | 
+53 |  | Body mass index 30+ - obesity (finding) | 0 | 
+53 | 54 | Limited social contact (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+54 |  | Body mass index 30+ - obesity (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 | 59 | Victim of intimate partner abuse (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 59 | Social isolation (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+56 | 59 | Reports of violence in the environment (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 56 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:20:0, Body Aches:18:0, Runny/Stuffy Nose:14:0, Fatigue:17:0, Swollen Lymph Nodes:5:0, Swollen Tonsils:0:0, Decreased Appetite:23:0, Cough:25:0, Sore Throat:36:0, Fever:32:0
+57 | 58 | Part-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+58 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+58 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+58 | 58 | Suspected COVID-19 | 0 | 
+58 |  | COVID-19 | 0 | 
+59 |  | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

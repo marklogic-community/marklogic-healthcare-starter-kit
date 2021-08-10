@@ -1,0 +1,19 @@
+Ethelyn Kuhic
+=============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2016-08-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Otitis media | 0 | 
+2 | 2 | Otitis media | 0 | 
+2 | 2 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:4:0, Fatigue:50:0, Mucus:31:0, Nasal Congestion:42:0, Shortness of Breath:58:0, Nausea/Vomiting:21:0, Cough:51:0, Sore Throat:40:0, Fever:28:0
+3 |  | Muscle pain (finding) | 4 | fatigue:1, myalgia:1, arthralgia:1, fever:1
+3 |  | Fever (finding) | 4 | fatigue:1, myalgia:1, arthralgia:1, fever:1
+3 |  | Fatigue (finding) | 4 | fatigue:1, myalgia:1, arthralgia:1, fever:1
+3 |  | Joint pain (finding) | 4 | fatigue:1, myalgia:1, arthralgia:1, fever:1
+3 | 3 | Suspected COVID-19 | 0 | 
+4 | 4 | Fracture subluxation of wrist | 0 | 
+4 | 4 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:40:0, Runny/Stuffy Nose:0:0, Fatigue:15:0, Swollen Lymph Nodes:69:0, Swollen Tonsils:38:0, Decreased Appetite:39:0, Cough:0:0, Sore Throat:38:0, Fever:2:0
+--------------------------------------------------------------------------------

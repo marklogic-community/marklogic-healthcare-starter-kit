@@ -1,0 +1,405 @@
+Cherilyn Corwin
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1936-03-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 | 75 | Limited social contact (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Unemployed (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Unemployed (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 | 75 | Stress (finding) | 0 | 
+75 | 84 | Severe anxiety (panic) (finding | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Limited social contact (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Unemployed (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Unemployed (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 | 76 | Social isolation (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 | 76 | Stress (finding) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 | 77 | Limited social contact (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Unemployed (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 | 77 | Victim of intimate partner abuse (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 | 77 | Stress (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Social isolation (finding) | 0 | 
+77 | 77 | Viral sinusitis (disorder) | 9 | Sinus Pain:73:0, Pain with Bright Lights:32:0, Headache:29:0, Facial Swelling:7:0, Nasal Discharge:39:0, Nasal Congestion:7:0, Sore Throat:13:0, Fever:23:0, Cough:38:0
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 | 77 | Limited social contact (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 | 77 | Stress (finding) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Limited social contact (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 | 78 | Limited social contact (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Unemployed (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 | 85 | Victim of intimate partner abuse (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 |  | Social isolation (finding) | 0 | 
+78 | 78 | Viral sinusitis (disorder) | 9 | Sinus Pain:65:0, Pain with Bright Lights:47:0, Headache:34:0, Facial Swelling:18:0, Nasal Discharge:26:0, Nasal Congestion:2:0, Sore Throat:22:0, Fever:8:0, Cough:2:0
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 | 78 | Stress (finding) | 0 | 
+78 |  | Social isolation (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 | 78 | Limited social contact (finding) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 | 78 | Stress (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Metabolic syndrome X (disorder) | 0 | 
+78 |  | Hypertriglyceridemia (disorder) | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Unemployed (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 | 79 | Limited social contact (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Unemployed (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Unemployed (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 | 79 | Limited social contact (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Unemployed (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 | 79 | Stress (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Unemployed (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Unemployed (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 | 80 | Limited social contact (finding) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Unemployed (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 |  | Metabolic syndrome X (disorder) | 0 | 
+79 |  | Hypertriglyceridemia (disorder) | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 |  | Unemployed (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 | 80 | Stress (finding) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 | 80 | Social isolation (finding) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 | 80 | Stress (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 | 80 | Limited social contact (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 | 80 | Stress (finding) | 0 | 
+80 | 80 | Fracture of ankle | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Metabolic syndrome X (disorder) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 | 85 | Reports of violence in the environment (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+80 |  | Hypertriglyceridemia (disorder) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Unemployed (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 | 82 | Limited social contact (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Unemployed (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 | 81 | Stress (finding) | 0 | 
+81 | 81 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:30:0, Body Aches:8:0, Runny/Stuffy Nose:38:0, Fatigue:27:0, Swollen Lymph Nodes:39:0, Swollen Tonsils:22:0, Decreased Appetite:43:0, Sore Throat:11:0, Fever:12:0, Cough:38:0
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Unemployed (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Unemployed (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 | 82 | Stress (finding) | 0 | 
+81 |  | Metabolic syndrome X (disorder) | 0 | 
+81 |  | Hypertriglyceridemia (disorder) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Unemployed (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Victim of intimate partner abuse (finding) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 | 82 | Stress (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 | 82 | Stress (finding) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 | 82 | Social isolation (finding) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 | 83 | Stress (finding) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 | 84 | Social isolation (finding) | 0 | 
+82 |  | Metabolic syndrome X (disorder) | 0 | 
+82 |  | Hypertriglyceridemia (disorder) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Unemployed (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 |  | Hypertriglyceridemia (disorder) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Unemployed (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Hypertriglyceridemia (disorder) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Unemployed (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 |  | Hypertriglyceridemia (disorder) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Unemployed (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 | 83 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Pain with Bright Lights:44:0, Headache:36:0, Facial Swelling:47:0, Nasal Discharge:12:0, Nasal Congestion:19:0, Sore Throat:33:0, Fever:22:0, Cough:35:0
+83 |  | Hypertriglyceridemia (disorder) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Unemployed (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Metabolic syndrome X (disorder) | 0 | 
+83 |  | Hypertriglyceridemia (disorder) | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 |  | Unemployed (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Stress (finding) | 0 | 
+83 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+83 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+83 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+83 | 83 | Suspected COVID-19 | 0 | 
+83 |  | COVID-19 | 0 | 
+84 |  | Hypertriglyceridemia (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 |  | Hypertriglyceridemia (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 | 84 | Stress (finding) | 0 | 
+84 |  | Hypertriglyceridemia (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 | 84 | Social isolation (finding) | 0 | 
+84 |  | Metabolic syndrome X (disorder) | 0 | 
+84 |  | Hypertriglyceridemia (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 |  | Hypertriglyceridemia (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 |  | Metabolic syndrome X (disorder) | 0 | 
+84 |  | Hypertriglyceridemia (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 | 84 | Social isolation (finding) | 0 | 
+84 |  | Metabolic syndrome X (disorder) | 0 | 
+84 |  | Hypertriglyceridemia (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 |  | Hypertriglyceridemia (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 |  | Hypertriglyceridemia (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 |  | Hypertriglyceridemia (disorder) | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 |  | Unemployed (finding) | 0 | 
+84 |  | Received certificate of high school equivalency (finding) | 0 | 
+84 |  | Stress (finding) | 0 | 
+84 |  | Social isolation (finding) | 0 | 
+85 |  | Metabolic syndrome X (disorder) | 0 | 
+85 |  | Hypertriglyceridemia (disorder) | 0 | 
+85 |  | Has a criminal record (finding) | 0 | 
+85 |  | Unemployed (finding) | 0 | 
+85 |  | Received certificate of high school equivalency (finding) | 0 | 
+85 | 85 | Stress (finding) | 0 | 
+85 | 85 | Social isolation (finding) | 0 | 
+85 |  | Metabolic syndrome X (disorder) | 0 | 
+85 |  | Hypertriglyceridemia (disorder) | 0 | 
+85 |  | Has a criminal record (finding) | 0 | 
+85 |  | Unemployed (finding) | 0 | 
+85 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

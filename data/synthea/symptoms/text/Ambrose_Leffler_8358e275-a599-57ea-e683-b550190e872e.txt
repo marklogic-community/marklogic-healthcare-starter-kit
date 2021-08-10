@@ -1,0 +1,22 @@
+Ambrose Leffler
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2014-04-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 2 | Otitis media | 0 | 
+3 | 3 | Otitis media | 0 | 
+3 | 3 | Concussion with loss of consciousness | 0 | 
+5 |  | Muscle pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+5 |  | Fever (finding) | 5 | myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+5 |  | Sputum finding (finding) | 5 | myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+5 |  | Joint pain (finding) | 5 | myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+5 |  | Cough (finding) | 5 | myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+5 | 5 | Suspected COVID-19 | 0 | 
+5 |  | COVID-19 | 0 | 
+5 |  | Respiratory distress (finding) | 0 | 
+5 |  | Pneumonia (disorder) | 0 | 
+5 |  | Hypoxemia (disorder) | 0 | 
+--------------------------------------------------------------------------------

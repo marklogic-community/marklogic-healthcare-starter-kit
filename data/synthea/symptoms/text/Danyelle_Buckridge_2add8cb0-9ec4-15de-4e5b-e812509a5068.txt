@@ -1,0 +1,108 @@
+Danyelle Buckridge
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1966-09-13
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+45 | 45 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:20:0, Fatigue:67:0, Mucus:36:0, Nasal Congestion:47:0, Shortness of Breath:42:0, Nausea/Vomiting:22:0, Sore Throat:49:0, Cough:72:0, Fever:49:0
+45 |  | Metabolic syndrome X (disorder) | 0 | 
+45 |  | Hypertriglyceridemia (disorder) | 0 | 
+45 |  | Diabetes | 0 | 
+45 |  | Unemployed (finding) | 0 | 
+45 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Hypertriglyceridemia (disorder) | 0 | 
+46 |  | Diabetes | 0 | 
+46 | 49 | Reports of violence in the environment (finding) | 0 | 
+46 |  | Unemployed (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 | 46 | Viral sinusitis (disorder) | 9 | Headache:12:0, Sinus Pain:57:0, Pain with Bright Lights:34:0, Facial Swelling:0:0, Nasal Discharge:41:0, Nasal Congestion:1:0, Sore Throat:36:0, Cough:11:0, Fever:10:0
+46 | 47 | Normal pregnancy | 0 | 
+48 |  | Metabolic syndrome X (disorder) | 0 | 
+48 |  | Hypertriglyceridemia (disorder) | 0 | 
+48 |  | Diabetes | 0 | 
+48 |  | Unemployed (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+49 |  | Metabolic syndrome X (disorder) | 0 | 
+49 |  | Hypertriglyceridemia (disorder) | 0 | 
+49 |  | Hyperglycemia (disorder) | 0 | 
+49 |  | Unemployed (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+49 |  | Metabolic syndrome X (disorder) | 0 | 
+49 |  | Hypertriglyceridemia (disorder) | 0 | 
+49 |  | Hyperglycemia (disorder) | 0 | 
+49 |  | Unemployed (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+49 | 49 | Stress (finding) | 0 | 
+49 |  | Metabolic syndrome X (disorder) | 0 | 
+49 |  | Hypertriglyceridemia (disorder) | 0 | 
+49 | 54 | Reports of violence in the environment (finding) | 0 | 
+49 |  | Unemployed (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+49 | 50 | Severe anxiety (panic) (finding | 0 | 
+49 | 49 | Viral sinusitis (disorder) | 9 | Headache:41:0, Sinus Pain:75:0, Pain with Bright Lights:42:0, Facial Swelling:11:0, Nasal Discharge:29:0, Nasal Congestion:2:0, Sore Throat:3:0, Cough:25:0, Fever:20:0
+49 |  | Metabolic syndrome X (disorder) | 0 | 
+49 |  | Hypertriglyceridemia (disorder) | 0 | 
+49 |  | Hyperglycemia (disorder) | 0 | 
+49 |  | Unemployed (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+49 | 54 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+49 |  | Metabolic syndrome X (disorder) | 0 | 
+49 |  | Hypertriglyceridemia (disorder) | 0 | 
+49 |  | Hyperglycemia (disorder) | 0 | 
+49 |  | Unemployed (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Metabolic syndrome X (disorder) | 0 | 
+50 |  | Hypertriglyceridemia (disorder) | 0 | 
+50 |  | Hyperglycemia (disorder) | 0 | 
+50 |  | Unemployed (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 |  | Diabetic renal disease (disorder) | 0 | 
+51 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 |  | Hypertriglyceridemia (disorder) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Hyperglycemia (disorder) | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 | 52 | Stress (finding) | 0 | 
+51 |  | Chronic kidney disease stage 1 (disorder) | 0 | 
+51 |  | Metabolic syndrome X (disorder) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 | 53 | Severe anxiety (panic) (finding | 0 | 
+51 | 52 | Whiplash injury to neck | 0 | 
+52 |  | Metabolic syndrome X (disorder) | 0 | 
+52 |  | Unemployed (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 |  | Unemployed (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+53 |  | Muscle pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, cough:1
+53 |  | Fever (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, cough:1
+53 |  | Fatigue (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, cough:1
+53 |  | Joint pain (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, cough:1
+53 |  | Cough (finding) | 5 | fatigue:1, myalgia:1, arthralgia:1, fever:1, cough:1
+53 | 53 | Suspected COVID-19 | 0 | 
+53 |  | COVID-19 | 0 | 
+53 |  | Metabolic syndrome X (disorder) | 0 | 
+53 |  | Unemployed (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Unemployed (finding) | 0 | 
+54 | 54 | Victim of intimate partner abuse (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Metabolic syndrome X (disorder) | 0 | 
+54 |  | Unemployed (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+54 |  | Severe anxiety (panic) (finding | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,456 @@
+Juliane Schultz
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1944-06-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 | 67 | Viral sinusitis (disorder) | 9 | Headache:20:0, Sinus Pain:58:0, Pain with Bright Lights:37:0, Facial Swelling:33:0, Nasal Discharge:28:0, Nasal Congestion:2:0, Sore Throat:30:0, Cough:31:0, Fever:14:0
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 | 67 | Not in labor force (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 | 67 | Stress (finding) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 | 67 | Part-time employment (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 | 75 | Severe anxiety (panic) (finding | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 | 68 | Part-time employment (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 | 68 | Not in labor force (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 | 71 | Reports of violence in the environment (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 | 68 | Stress (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 | 68 | Not in labor force (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 | 68 | Part-time employment (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 68 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 |  | Hypertriglyceridemia (disorder) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 | 69 | Stress (finding) | 0 | 
+69 |  | Hypertriglyceridemia (disorder) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Hyperlipidemia | 1 | weight gain:1
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 |  | Hypertriglyceridemia (disorder) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 |  | Hypertriglyceridemia (disorder) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 |  | Hypertriglyceridemia (disorder) | 0 | 
+69 | 69 | Part-time employment (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 |  | Hypertriglyceridemia (disorder) | 0 | 
+69 | 69 | Part-time employment (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 | 69 | Stress (finding) | 0 | 
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 |  | Hypertriglyceridemia (disorder) | 0 | 
+69 | 69 | Not in labor force (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Metabolic syndrome X (disorder) | 0 | 
+69 |  | Hypertriglyceridemia (disorder) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 69 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 |  | Hypertriglyceridemia (disorder) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 |  | Hypertriglyceridemia (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+70 |  | Hypertriglyceridemia (disorder) | 0 | 
+70 | 70 | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+70 |  | Hypertriglyceridemia (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 70 | Stress (finding) | 0 | 
+70 |  | Hypertriglyceridemia (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Hypertriglyceridemia (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Hypertriglyceridemia (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+70 |  | Hypertriglyceridemia (disorder) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+70 |  | Metabolic syndrome X (disorder) | 0 | 
+70 |  | Hypertriglyceridemia (disorder) | 0 | 
+70 | 71 | Not in labor force (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 71 | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Hypertriglyceridemia (disorder) | 0 | 
+71 | 71 | Not in labor force (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Hypertriglyceridemia (disorder) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 | 71 | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Hypertriglyceridemia (disorder) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 71 | Full-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Victim of intimate partner abuse (finding) | 0 | 
+71 |  | Hypertriglyceridemia (disorder) | 0 | 
+71 | 71 | Part-time employment (finding) | 0 | 
+71 | 74 | Reports of violence in the environment (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 |  | Metabolic syndrome X (disorder) | 0 | 
+71 |  | Hypertriglyceridemia (disorder) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 | 72 | Part-time employment (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 | 72 | Stress (finding) | 0 | 
+72 | 72 | Social isolation (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 | 72 | Stress (finding) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 | 72 | Part-time employment (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 | 72 | Part-time employment (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 76 | Victim of intimate partner abuse (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Metabolic syndrome X (disorder) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 72 | Full-time employment (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+72 | 72 | Social isolation (finding) | 0 | 
+72 |  | Hypertriglyceridemia (disorder) | 0 | 
+72 | 73 | Not in labor force (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 |  | Received certificate of high school equivalency (finding) | 0 | 
+72 | 73 | Stress (finding) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 73 | Social isolation (finding) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 | 73 | Part-time employment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 73 | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 74 | Social isolation (finding) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 73 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 | 73 | Part-time employment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+73 |  | Metabolic syndrome X (disorder) | 0 | 
+73 |  | Hypertriglyceridemia (disorder) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 | 74 | Not in labor force (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 | 74 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+74 |  | Victim of intimate partner abuse (finding) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 | 77 | Reports of violence in the environment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 74 | Stress (finding) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 | 74 | Part-time employment (finding) | 0 | 
+74 | 76 | Limited social contact (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 | 74 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 74 | Stress (finding) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Alzheimer's disease (disorder) | 0 | 
+74 |  | Metabolic syndrome X (disorder) | 0 | 
+74 |  | Hypertriglyceridemia (disorder) | 0 | 
+74 | 75 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 | 75 | Stress (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Metabolic syndrome X (disorder) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 |  | Fever (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+75 |  | Sore throat symptom (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+75 |  | Cough (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+75 |  | Loss of taste (finding) | 4 | sore throat:1, fever:1, loss_of_taste:1, cough:1
+75 | 75 | Suspected COVID-19 | 0 | 
+75 |  | COVID-19 | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+75 |  | Hypertriglyceridemia (disorder) | 0 | 
+75 | 76 | Part-time employment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 | 76 | Part-time employment (finding) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 | 76 | Stress (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 | 76 | Victim of intimate partner abuse (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 | 77 | Social isolation (finding) | 0 | 
+76 |  | Metabolic syndrome X (disorder) | 0 | 
+76 |  | Hypertriglyceridemia (disorder) | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 | 77 | Stress (finding) | 0 | 
+77 |  | Metabolic syndrome X (disorder) | 0 | 
+77 |  | Hypertriglyceridemia (disorder) | 0 | 
+77 |  | Part-time employment (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Victim of intimate partner abuse (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

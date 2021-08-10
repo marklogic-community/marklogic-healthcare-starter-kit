@@ -1,0 +1,676 @@
+
+2020-12-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 7 year-old non-hispanic black female. Patient has a history of covid-19, streptococcal sore throat (disorder), acute bronchitis (disorder), otitis media, cough (finding), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; amoxicillin 500 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2020-12-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 7 year-old non-hispanic black female. Patient has a history of covid-19, streptococcal sore throat (disorder), otitis media, cough (finding), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; amoxicillin 500 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+## Plan
+
+The following procedures were conducted:
+- measurement of respiratory function (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2020-08-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 6 year-old non-hispanic black female. Patient has a history of covid-19, streptococcal sore throat (disorder), otitis media, cough (finding), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; amoxicillin 500 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2020-03-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 6 year-old non-hispanic black female. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; amoxicillin 500 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-08-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 5 year-old non-hispanic black female. Patient has a history of streptococcal sore throat (disorder), otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet; amoxicillin 500 mg oral tablet; ibuprofen 100 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2019-06-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 5 year-old non-hispanic black female. Patient has a history of streptococcal sore throat (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- amoxicillin 500 mg oral tablet
+- ibuprofen 100 mg oral tablet
+
+
+
+2018-08-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 4 year-old non-hispanic black female. Patient has a history of streptococcal sore throat (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+penicillin v potassium 250 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: varicella, ipv, influenza, seasonal, injectable, preservative free, dtap, mmr. 
+
+
+
+2018-05-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 4 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with streptococcal sore throat (disorder). 
+
+## Plan
+
+The patient was prescribed the following medications:
+- penicillin v potassium 250 mg oral tablet
+
+
+
+2017-08-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 3 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2017-02-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 3 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2016-08-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 2 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2016-02-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 2 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep a, ped/adol, 2 dose. 
+
+
+
+2015-08-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 1 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2015-02-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 1 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: dtap. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2014-11-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 1 year-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), varicella, mmr, pneumococcal conjugate pcv 13, hep a, ped/adol, 2 dose. 
+
+
+
+2014-08-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 11 month-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+
+
+
+2014-05-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 8 month-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: ipv, influenza, seasonal, injectable, preservative free, dtap, pneumococcal conjugate pcv 13, hep b, adolescent or pediatric. 
+
+
+
+2014-02-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 5 month-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+
+
+
+2013-12-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 3 month-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hib (prp-omp), rotavirus, monovalent, ipv, dtap, pneumococcal conjugate pcv 13. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2013-10-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a 1 month-old non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+
+
+
+2013-09-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Zana
+ is a newborn non-hispanic black female.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a high socioeconomic background.
+
+Patient currently has unknown insurance coverage.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: hep b, adolescent or pediatric. 
+
+
+

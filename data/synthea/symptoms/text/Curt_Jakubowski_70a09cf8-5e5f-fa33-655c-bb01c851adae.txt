@@ -1,0 +1,20 @@
+Curt Jakubowski
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2011-05-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Otitis media | 0 | 
+2 | 2 | Otitis media | 0 | 
+5 | 5 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:23:0, Runny/Stuffy Nose:8:0, Fatigue:28:0, Swollen Lymph Nodes:17:0, Swollen Tonsils:43:0, Decreased Appetite:40:0, Cough:10:0, Sore Throat:12:0, Fever:7:0
+5 | 5 | Fracture of clavicle | 0 | 
+5 | 5 | Viral sinusitis (disorder) | 9 | Sinus Pain:51:0, Headache:40:0, Pain with Bright Lights:46:0, Facial Swelling:19:0, Nasal Discharge:12:0, Nasal Congestion:13:0, Cough:31:0, Sore Throat:26:0, Fever:16:0
+7 | 7 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:12:0, Pain with Bright Lights:29:0, Facial Swelling:21:0, Nasal Discharge:2:0, Nasal Congestion:10:0, Cough:19:0, Sore Throat:2:0, Fever:8:0
+8 | 8 | Acute bacterial sinusitis (disorder) | 9 | Sinus Pain:55:0, Headache:15:0, Pain with Bright Lights:35:0, Facial Swelling:3:0, Nasal Discharge:37:0, Nasal Congestion:12:0, Cough:16:0, Sore Throat:49:0, Fever:2:0
+8 |  | Fever (finding) | 2 | fever:1, sputum production:1
+8 |  | Sputum finding (finding) | 2 | fever:1, sputum production:1
+8 | 8 | Suspected COVID-19 | 0 | 
+8 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

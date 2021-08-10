@@ -1,0 +1,16 @@
+Rhiannon Jakubowski
+===================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2012-09-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+2 | 2 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:8:0, Body Aches:27:0, Runny/Stuffy Nose:9:0, Fatigue:22:0, Swollen Lymph Nodes:45:0, Swollen Tonsils:16:0, Decreased Appetite:14:0, Cough:4:0, Sore Throat:18:0, Fever:38:0
+4 | 5 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:9:0, Pain with Bright Lights:27:0, Facial Swelling:6:0, Nasal Discharge:17:0, Nasal Congestion:12:0, Cough:7:0, Sore Throat:44:0, Fever:6:0
+7 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+7 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+7 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+7 | 7 | Suspected COVID-19 | 0 | 
+7 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

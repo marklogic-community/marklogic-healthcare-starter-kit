@@ -1,0 +1,910 @@
+
+2020-09-23
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 54 year-old non-hispanic white male. Patient has a history of respiratory distress (finding), acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), misuses drugs (finding), sprain of wrist, suspected covid-19, pneumonia (disorder), covid-19, acute bronchitis (disorder), chill (finding), sputum finding (finding), reports of violence in the environment (finding), full-time employment (finding), cough (finding), loss of taste (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2020-03-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 53 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), reports of violence in the environment (finding), full-time employment (finding), acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), misuses drugs (finding), sprain of wrist, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with pneumonia (disorder), hypoxemia (disorder), respiratory distress (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- plain chest x-ray (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+- oxygen administration by mask (procedure)
+- placing subject in prone position (procedure)
+The patient was prescribed the following medications:
+- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe
+- acetaminophen 500 mg oral tablet
+
+
+
+2020-03-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 53 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), reports of violence in the environment (finding), full-time employment (finding), acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), misuses drugs (finding), sprain of wrist, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), sputum finding (finding), chill (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+
+
+
+2019-09-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 53 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), reports of violence in the environment (finding), full-time employment (finding), acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), misuses drugs (finding), sprain of wrist, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2018-09-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 52 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), reports of violence in the environment (finding), full-time employment (finding), acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), misuses drugs (finding), sprain of wrist, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2017-12-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 51 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), misuses drugs (finding), sprain of wrist, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+## Plan
+
+
+
+
+2017-09-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 51 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), misuses drugs (finding), sprain of wrist, social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet; ibuprofen 200 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free, td (adult) preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2016-10-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 50 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), reports of violence in the environment (finding), full-time employment (finding), victim of intimate partner abuse (finding), misuses drugs (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with sprain of wrist. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- ibuprofen 200 mg oral tablet
+The patient was placed on a careplan:
+- physical therapy procedure
+
+
+
+2016-08-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 50 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), reports of violence in the environment (finding), victim of intimate partner abuse (finding), misuses drugs (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- colonoscopy
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2016-08-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 50 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: zoster, influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+
+
+
+2014-09-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 48 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+
+
+
+2012-09-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 46 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+
+
+
+2012-07-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 45 year-old non-hispanic white male. Patient has a history of acute bronchitis (disorder), full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding), stress (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 325 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+
+
+
+2012-07-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 45 year-old non-hispanic white male. Patient has a history of full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder), full-time employment (finding), stress (finding). 
+
+## Plan
+
+The following procedures were conducted:
+- sputum examination (procedure)
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 325 mg oral tablet
+The patient was placed on a careplan:
+- respiratory therapy
+
+
+
+2012-07-11
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 45 year-old non-hispanic white male. Patient has a history of full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2010-09-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 44 year-old non-hispanic white male. Patient has a history of full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+2008-09-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 42 year-old non-hispanic white male. Patient has a history of full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+2006-09-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 40 year-old non-hispanic white male. Patient has a history of full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with body mass index 30+ - obesity (finding), full-time employment (finding). 
+
+## Plan
+
+
+
+
+2003-11-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 37 year-old non-hispanic white male. Patient has a history of full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+2001-12-28
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 35 year-old non-hispanic white male. Patient has a history of full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Humana.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+2000-11-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 34 year-old non-hispanic white male. Patient has a history of full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+1997-11-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 31 year-old non-hispanic white male. Patient has a history of full-time employment (finding), victim of intimate partner abuse (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+1991-11-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 25 year-old non-hispanic white male. Patient has a history of full-time employment (finding), social isolation (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has UnitedHealthcare.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), victim of intimate partner abuse (finding). 
+
+## Plan
+
+
+
+
+1988-11-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 22 year-old non-hispanic white male. Patient has a history of full-time employment (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with social isolation (finding). 
+
+## Plan
+
+
+
+
+1985-10-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 19 year-old non-hispanic white male. Patient has a history of full-time employment (finding).
+
+# Social History
+Patient is married. Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Blue Cross Blue Shield.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding). 
+
+## Plan
+
+
+
+
+1984-10-24
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Randell
+ is a 18 year-old non-hispanic white male.
+
+# Social History
+ Patient is an active smoker and is an alcoholic.
+ Patient identifies as heterosexual.
+
+Patient comes from a high socioeconomic background.
+ Patient has a high school education.
+Patient currently has Cigna Health.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received certificate of high school equivalency (finding), full-time employment (finding). 
+
+## Plan
+
+
+
+

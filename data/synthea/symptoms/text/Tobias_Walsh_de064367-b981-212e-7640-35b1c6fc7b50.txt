@@ -1,0 +1,27 @@
+Tobias Walsh
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2007-03-13
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+4 | 4 | Otitis media | 0 | 
+5 | 5 | Otitis media | 0 | 
+7 | 7 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:46:0, Body Aches:36:0, Runny/Stuffy Nose:42:0, Fatigue:22:0, Swollen Lymph Nodes:23:0, Swollen Tonsils:3:0, Decreased Appetite:43:0, Fever:31:0, Sore Throat:31:0, Cough:0:0
+8 | 8 | Viral sinusitis (disorder) | 9 | Sinus Pain:74:0, Headache:11:0, Pain with Bright Lights:29:0, Facial Swelling:28:0, Nasal Discharge:31:0, Nasal Congestion:6:0, Fever:12:0, Sore Throat:46:0, Cough:33:0
+10 | 10 | Viral sinusitis (disorder) | 9 | Sinus Pain:69:0, Headache:0:0, Pain with Bright Lights:46:0, Facial Swelling:34:0, Nasal Discharge:5:0, Nasal Congestion:13:0, Fever:5:0, Sore Throat:18:0, Cough:6:0
+11 | 11 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:32:0, Pain with Bright Lights:49:0, Facial Swelling:40:0, Nasal Discharge:11:0, Nasal Congestion:8:0, Fever:7:0, Sore Throat:0:0, Cough:12:0
+11 | 11 | Laceration of forearm | 0 | 
+12 | 12 | Sinusitis (disorder) | 9 | Sinus Pain:46:0, Headache:20:0, Pain with Bright Lights:43:0, Facial Swelling:38:0, Nasal Discharge:5:0, Nasal Congestion:12:0, Fever:1:0, Sore Throat:5:0, Cough:23:0
+12 |  | Muscle pain (finding) | 6 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 |  | Fever (finding) | 6 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 |  | Sputum finding (finding) | 6 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 |  | Fatigue (finding) | 6 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 |  | Joint pain (finding) | 6 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 |  | Cough (finding) | 6 | fatigue:1, myalgia:1, arthralgia:1, fever:1, sputum production:1, cough:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+13 | 13 | Viral sinusitis (disorder) | 9 | Sinus Pain:61:0, Headache:9:0, Pain with Bright Lights:35:0, Facial Swelling:17:0, Nasal Discharge:28:0, Nasal Congestion:15:0, Fever:4:0, Sore Throat:42:0, Cough:5:0
+14 |  | Risk activity involvement (finding) | 0 | 
+--------------------------------------------------------------------------------

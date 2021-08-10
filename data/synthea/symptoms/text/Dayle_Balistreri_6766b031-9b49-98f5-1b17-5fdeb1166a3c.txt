@@ -1,0 +1,25 @@
+Dayle Balistreri
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2003-02-12
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+9 | 9 | Viral sinusitis (disorder) | 9 | Sinus Pain:63:0, Headache:1:0, Pain with Bright Lights:43:0, Facial Swelling:22:0, Nasal Discharge:3:0, Nasal Congestion:9:0, Fever:9:0, Sore Throat:9:0, Cough:20:0
+11 | 12 | Otitis media | 0 | 
+12 |  | Risk activity involvement (finding) | 0 | 
+12 | 12 | Viral sinusitis (disorder) | 9 | Sinus Pain:76:0, Headache:45:0, Pain with Bright Lights:49:0, Facial Swelling:38:0, Nasal Discharge:8:0, Nasal Congestion:10:0, Fever:2:0, Sore Throat:30:0, Cough:28:0
+13 | 13 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:1:0, Fatigue:31:0, Mucus:37:0, Nasal Congestion:48:0, Shortness of Breath:28:0, Nausea/Vomiting:8:0, Fever:32:0, Sore Throat:27:0, Cough:66:0
+14 |  | Risk activity involvement (finding) | 0 | 
+14 | 14 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:33:0, Body Aches:32:0, Runny/Stuffy Nose:30:0, Fatigue:6:0, Swollen Lymph Nodes:12:0, Swollen Tonsils:25:0, Decreased Appetite:30:0, Fever:8:0, Sore Throat:29:0, Cough:8:0
+15 | 16 | Risk activity involvement (finding) | 0 | 
+15 | 15 | Acute bronchitis (disorder) | 10 | Body Aches:9:0, Diarrhea:1:0, Fatigue:38:0, Mucus:40:0, Nasal Congestion:26:0, Shortness of Breath:47:0, Nausea/Vomiting:13:0, Fever:30:0, Sore Throat:25:0, Cough:40:0
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Chronic neck pain (finding) | 0 | 
+18 |  | Part-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Social isolation (finding) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Chronic neck pain (finding) | 0 | 
+--------------------------------------------------------------------------------

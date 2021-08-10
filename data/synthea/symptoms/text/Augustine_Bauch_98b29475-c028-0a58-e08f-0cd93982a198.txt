@@ -1,0 +1,57 @@
+Augustine Bauch
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1988-03-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+23 | 23 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:26:0, Runny/Stuffy Nose:17:0, Fatigue:39:0, Swollen Lymph Nodes:9:0, Swollen Tonsils:0:0, Decreased Appetite:46:0, Fever:43:0, Sore Throat:11:0, Cough:26:0
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+24 | 24 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:29:0, Runny/Stuffy Nose:29:0, Fatigue:41:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:14:0, Decreased Appetite:37:0, Fever:8:0, Sore Throat:45:0, Cough:8:0
+25 | 26 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 | 26 | Stress (finding) | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+27 | 28 | Not in labor force (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 28 | Stress (finding) | 0 | 
+28 |  | Body mass index 30+ - obesity (finding) | 0 | 
+28 | 29 | Part-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 32 | Social isolation (finding) | 0 | 
+29 |  | Body mass index 30+ - obesity (finding) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+30 |  | Body mass index 30+ - obesity (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 | 31 | Stress (finding) | 0 | 
+31 | 31 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:22:0, Runny/Stuffy Nose:42:0, Fatigue:31:0, Swollen Lymph Nodes:63:0, Swollen Tonsils:36:0, Decreased Appetite:29:0, Fever:43:0, Sore Throat:43:0, Cough:0:0
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 | 31 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 | 32 | Victim of intimate partner abuse (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+31 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+31 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+31 | 31 | Suspected COVID-19 | 0 | 
+31 |  | COVID-19 | 0 | 
+31 |  | Respiratory distress (finding) | 0 | 
+31 |  | Sepsis caused by virus (disorder) | 0 | 
+31 |  | Heart failure (disorder) | 0 | 
+31 |  | Pneumonia (disorder) | 0 | 
+31 |  | Hypoxemia (disorder) | 0 | 
+31 |  | Acute pulmonary embolism (disorder) | 0 | 
+32 |  | Body mass index 30+ - obesity (finding) | 0 | 
+32 |  | Full-time employment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

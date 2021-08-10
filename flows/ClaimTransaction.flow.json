@@ -1,0 +1,10 @@
+{
+  "name": "ClaimTransaction",
+  "steps": {
+    "1": {
+      "stepId": "ClaimTransactionIngest-ingestion"
+    }
+  },
+  "description": "ClaimTransaction Flow",
+  "lastUpdated": "2021-07-14T20:11:21.917866Z"
+}

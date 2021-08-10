@@ -1,0 +1,56 @@
+Darren Senger
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1912-08-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+52 |  | Opioid abuse (disorder) | 0 | 
+52 |  | Body mass index 30+ - obesity (finding) | 0 | 
+52 |  | Served in armed forces (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+53 |  | Opioid abuse (disorder) | 0 | 
+53 | 54 | Part-time employment (finding) | 0 | 
+53 |  | Served in armed forces (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+54 | 54 | Sprain of wrist | 0 | 
+54 |  | Opioid abuse (disorder) | 0 | 
+54 | 55 | Part-time employment (finding) | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 61 | Social isolation (finding) | 0 | 
+55 |  | Opioid abuse (disorder) | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+56 |  | Opioid abuse (disorder) | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+56 | 58 | Stress (finding) | 0 | 
+57 |  | Opioid abuse (disorder) | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+58 |  | Opioid abuse (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+59 |  | Opioid abuse (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 |  | Opioid abuse (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 | 61 | Not in labor force (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 61 | Stress (finding) | 0 | 
+60 | 60 | Second degree burn | 0 | 
+61 |  | Opioid abuse (disorder) | 0 | 
+61 |  | Part-time employment (finding) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

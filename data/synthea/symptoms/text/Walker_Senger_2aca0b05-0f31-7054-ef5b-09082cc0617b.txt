@@ -1,0 +1,38 @@
+Walker Senger
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2002-03-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+12 | 15 | Risk activity involvement (finding) | 0 | 
+15 | 16 | Severe anxiety (panic) (finding | 0 | 
+15 | 15 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:27:0, Body Aches:47:0, Runny/Stuffy Nose:20:0, Fatigue:33:0, Swollen Lymph Nodes:9:0, Swollen Tonsils:24:0, Decreased Appetite:14:0, Cough:48:0, Sore Throat:5:0, Fever:47:0
+15 | 16 | Risk activity involvement (finding) | 0 | 
+18 |  | Fever (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+18 |  | Sputum finding (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+18 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+18 |  | Cough (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+18 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+18 | 18 | Suspected COVID-19 | 0 | 
+18 |  | COVID-19 | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Fibromyalgia (disorder) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Fibromyalgia (disorder) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Fibromyalgia (disorder) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Fibromyalgia (disorder) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Fibromyalgia (disorder) | 0 | 
+18 |  | Chronic low back pain (finding) | 0 | 
+18 |  | Fibromyalgia (disorder) | 0 | 
+19 |  | Part-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

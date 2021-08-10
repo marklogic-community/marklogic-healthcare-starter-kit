@@ -1,0 +1,59 @@
+Hang Homenick
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1984-09-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+27 | 27 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:20:0, Fatigue:44:0, Mucus:33:0, Nasal Congestion:36:0, Shortness of Breath:48:0, Nausea/Vomiting:24:0, Sore Throat:32:0, Fever:31:0, Cough:73:0
+27 | 28 | Full-time employment (finding) | 0 | 
+27 |  | Only received primary school education (finding) | 0 | 
+27 | 30 | Stress (finding) | 0 | 
+27 |  | Drug overdose | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Only received primary school education (finding) | 0 | 
+29 | 29 | Normal pregnancy | 0 | 
+29 |  | Transformed migraine (disorder) | 0 | 
+29 | 30 | Part-time employment (finding) | 0 | 
+29 |  | Only received primary school education (finding) | 0 | 
+30 |  | Drug overdose | 0 | 
+30 | 30 | Viral sinusitis (disorder) | 9 | Headache:40:0, Sinus Pain:54:0, Pain with Bright Lights:39:0, Facial Swelling:18:0, Nasal Discharge:0:0, Nasal Congestion:7:0, Sore Throat:14:0, Fever:1:0, Cough:1:0
+30 | 30 | Full-time employment (finding) | 0 | 
+30 |  | Only received primary school education (finding) | 0 | 
+30 | 30 | Viral sinusitis (disorder) | 9 | Headache:30:0, Sinus Pain:50:0, Pain with Bright Lights:49:0, Facial Swelling:31:0, Nasal Discharge:10:0, Nasal Congestion:21:0, Sore Throat:2:0, Fever:23:0, Cough:23:0
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Only received primary school education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Only received primary school education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 |  | Drug overdose | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 |  | Only received primary school education (finding) | 0 | 
+32 | 33 | Stress (finding) | 0 | 
+33 |  | Drug overdose | 0 | 
+33 | 34 | Part-time employment (finding) | 0 | 
+33 |  | Only received primary school education (finding) | 0 | 
+33 | 33 | Normal pregnancy | 0 | 
+33 |  | Miscarriage in second trimester | 0 | 
+33 | 33 | Fetus with chromosomal abnormality | 0 | 
+33 | 34 | Normal pregnancy | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Only received primary school education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+35 | 35 | Normal pregnancy | 0 | 
+35 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+35 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+35 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+35 | 35 | Suspected COVID-19 | 0 | 
+35 | 36 | Not in labor force (finding) | 0 | 
+35 |  | Only received primary school education (finding) | 0 | 
+35 | 36 | Stress (finding) | 0 | 
+35 | 35 | Antepartum eclampsia | 0 | 
+36 |  | Body mass index 30+ - obesity (finding) | 0 | 
+36 |  | Reports of violence in the environment (finding) | 0 | 
+36 |  | Full-time employment (finding) | 0 | 
+36 |  | Victim of intimate partner abuse (finding) | 0 | 
+36 |  | Only received primary school education (finding) | 0 | 
+--------------------------------------------------------------------------------

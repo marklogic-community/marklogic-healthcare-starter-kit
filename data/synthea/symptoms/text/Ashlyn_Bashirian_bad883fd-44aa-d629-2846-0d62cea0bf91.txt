@@ -1,0 +1,119 @@
+Ashlyn Bashirian
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1932-02-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+72 | 72 | Fracture of ankle | 0 | 
+72 | 72 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:33:0, Runny/Stuffy Nose:1:0, Fatigue:31:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:42:0, Decreased Appetite:10:0, Sore Throat:49:0, Cough:46:0, Fever:28:0
+73 |  | Prediabetes | 0 | 
+73 | 73 | Part-time employment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 82 | Victim of intimate partner abuse (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 |  | Drug overdose | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 74 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 74 | Part-time employment (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 82 | Reports of violence in the environment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 75 | Not in labor force (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 | 75 | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Part-time employment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 77 | Full-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 | 82 | Social isolation (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 | 79 | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 80 | Severe anxiety (panic) (finding | 0 | 
+78 | 78 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:39:0, Body Aches:14:0, Runny/Stuffy Nose:28:0, Fatigue:13:0, Swollen Lymph Nodes:50:0, Swollen Tonsils:67:0, Decreased Appetite:11:0, Sore Throat:35:0, Cough:0:0, Fever:13:0
+79 |  | Prediabetes | 0 | 
+79 |  | Has a criminal record (finding) | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Only received primary school education (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 | 80 | Full-time employment (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 | 81 | Part-time employment (finding) | 0 | 
+80 |  | Has a criminal record (finding) | 0 | 
+80 |  | Only received primary school education (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Stress (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 81 | Full-time employment (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 | 81 | Stress (finding) | 0 | 
+81 |  | Severe anxiety (panic) (finding | 0 | 
+81 |  | Prediabetes | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Only received primary school education (finding) | 0 | 
+81 |  | Chronic low back pain (finding) | 0 | 
+81 |  | Fibromyalgia (disorder) | 0 | 
+82 |  | Chronic low back pain (finding) | 0 | 
+82 |  | Fibromyalgia (disorder) | 0 | 
+82 |  | Chronic low back pain (finding) | 0 | 
+82 |  | Fibromyalgia (disorder) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 | 82 | Injury of tendon of the rotator cuff of shoulder | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Not in labor force (finding) | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 |  | Only received primary school education (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

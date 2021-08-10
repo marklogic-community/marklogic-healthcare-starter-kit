@@ -1,0 +1,48 @@
+Diana Kautzer
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1933-09-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+44 | 46 | Part-time employment (finding) | 0 | 
+44 |  | Has a criminal record (finding) | 0 | 
+44 | 52 | Reports of violence in the environment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 53 | Severe anxiety (panic) (finding | 0 | 
+46 |  | Has a criminal record (finding) | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+47 | 47 | Sinusitis (disorder) | 9 | Sinus Pain:43:76:97:83:91:0, Headache:28:0, Pain with Bright Lights:33:0, Facial Swelling:30:0, Nasal Discharge:21:0, Nasal Congestion:18:0, Cough:0:0, Sore Throat:21:0, Fever:2:0
+47 | 47 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:14:0, Runny/Stuffy Nose:47:0, Fatigue:46:0, Swollen Lymph Nodes:66:0, Swollen Tonsils:36:0, Decreased Appetite:23:0, Cough:0:0, Sore Throat:9:0, Fever:47:0
+47 |  | Has a criminal record (finding) | 0 | 
+47 | 48 | Full-time employment (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+48 |  | Has a criminal record (finding) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 | 51 | Stress (finding) | 0 | 
+48 | 48 | Viral sinusitis (disorder) | 9 | Sinus Pain:56:0, Headache:2:0, Pain with Bright Lights:32:0, Facial Swelling:18:0, Nasal Discharge:26:0, Nasal Congestion:14:0, Cough:2:0, Sore Throat:46:0, Fever:8:0
+50 | 51 | Not in labor force (finding) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 50 | Normal pregnancy | 0 | 
+50 |  | Suspected lung cancer (situation) | 2 | Chest Pain:91, Cough:65
+50 |  | Non-small cell lung cancer (disorder) | 0 | 
+50 |  | Anemia (disorder) | 0 | 
+50 |  | Non-small cell carcinoma of lung  TNM stage 1 (disorder) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+53 |  | Part-time employment (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 |  | Reports of violence in the environment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

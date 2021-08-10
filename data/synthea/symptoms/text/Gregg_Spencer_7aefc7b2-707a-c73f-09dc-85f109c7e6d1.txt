@@ -1,0 +1,38 @@
+Gregg Spencer
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1998-09-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+13 | 13 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:28:0, Body Aches:39:0, Runny/Stuffy Nose:22:0, Fatigue:11:0, Swollen Lymph Nodes:24:0, Swollen Tonsils:39:0, Decreased Appetite:45:0, Fever:32:0, Sore Throat:33:0, Cough:0:0
+14 |  | Risk activity involvement (finding) | 0 | 
+15 | 17 | Risk activity involvement (finding) | 0 | 
+15 | 15 | Laceration of forearm | 0 | 
+16 | 16 | Viral sinusitis (disorder) | 9 | Sinus Pain:74:0, Headache:20:0, Pain with Bright Lights:41:0, Facial Swelling:7:0, Nasal Discharge:19:0, Nasal Congestion:14:0, Fever:17:0, Sore Throat:31:0, Cough:48:0
+18 |  | Hypertension | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 19 | Stress (finding) | 0 | 
+19 |  | Limited social contact (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+20 | 21 | Full-time employment (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 | 22 | Stress (finding) | 0 | 
+20 |  | Social isolation (finding) | 0 | 
+20 | 20 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:23:0, Body Aches:40:0, Runny/Stuffy Nose:34:0, Fatigue:22:0, Swollen Lymph Nodes:11:0, Swollen Tonsils:18:0, Decreased Appetite:4:0, Fever:32:0, Sore Throat:23:0, Cough:12:0
+20 | 20 | Viral sinusitis (disorder) | 9 | Sinus Pain:63:0, Headache:44:0, Pain with Bright Lights:49:0, Facial Swelling:11:0, Nasal Discharge:32:0, Nasal Congestion:0:0, Fever:14:0, Sore Throat:38:0, Cough:38:0
+21 |  | Limited social contact (finding) | 0 | 
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+21 |  | Victim of intimate partner abuse (finding) | 0 | 
+21 |  | Fatigue (finding) | 2 | fatigue:1, loss_of_taste:1
+21 |  | Loss of taste (finding) | 2 | fatigue:1, loss_of_taste:1
+21 | 21 | Suspected COVID-19 | 0 | 
+21 |  | COVID-19 | 0 | 
+22 |  | Limited social contact (finding) | 0 | 
+22 |  | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

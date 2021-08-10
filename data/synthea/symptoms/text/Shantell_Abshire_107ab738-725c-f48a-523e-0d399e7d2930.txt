@@ -1,0 +1,21 @@
+Shantell Abshire
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2011-10-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Viral sinusitis (disorder) | 9 | Sinus Pain:79:0, Headache:27:0, Pain with Bright Lights:48:0, Facial Swelling:40:0, Nasal Discharge:49:0, Nasal Congestion:8:0, Fever:12:0, Sore Throat:36:0, Cough:4:0
+2 | 2 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:4:0, Runny/Stuffy Nose:40:0, Fatigue:17:0, Swollen Lymph Nodes:50:0, Swollen Tonsils:44:0, Decreased Appetite:31:0, Fever:38:0, Sore Throat:28:0, Cough:0:0
+2 | 2 | Otitis media | 0 | 
+4 | 4 | Fracture of clavicle | 0 | 
+5 | 5 | Otitis media | 0 | 
+6 | 6 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:9:0, Runny/Stuffy Nose:0:0, Fatigue:24:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:34:0, Decreased Appetite:44:0, Fever:49:0, Sore Throat:31:0, Cough:11:0
+7 | 7 | Viral sinusitis (disorder) | 9 | Sinus Pain:68:0, Headache:43:0, Pain with Bright Lights:44:0, Facial Swelling:37:0, Nasal Discharge:47:0, Nasal Congestion:15:0, Fever:0:0, Sore Throat:35:0, Cough:0:0
+8 |  | Fatigue (finding) | 2 | fatigue:1, cough:1
+8 |  | Cough (finding) | 2 | fatigue:1, cough:1
+8 | 8 | Suspected COVID-19 | 0 | 
+8 |  | COVID-19 | 0 | 
+9 | 9 | Acute bronchitis (disorder) | 10 | Body Aches:22:0, Diarrhea:22:0, Fatigue:30:0, Mucus:41:0, Nasal Congestion:29:0, Shortness of Breath:58:0, Nausea/Vomiting:24:0, Fever:46:0, Sore Throat:41:0, Cough:34:0
+--------------------------------------------------------------------------------

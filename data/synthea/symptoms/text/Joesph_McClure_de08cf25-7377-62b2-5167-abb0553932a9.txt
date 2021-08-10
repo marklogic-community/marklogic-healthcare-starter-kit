@@ -1,0 +1,21 @@
+Joesph McClure
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1985-06-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+27 | 27 | Viral sinusitis (disorder) | 9 | Sinus Pain:70:0, Headache:31:0, Pain with Bright Lights:30:0, Facial Swelling:10:0, Nasal Discharge:42:0, Nasal Congestion:18:0, Fever:4:0, Sore Throat:27:0, Cough:18:0
+28 | 31 | Full-time employment (finding) | 0 | 
+28 |  | Only received primary school education (finding) | 0 | 
+28 | 34 | Social isolation (finding) | 0 | 
+30 | 30 | Viral sinusitis (disorder) | 9 | Sinus Pain:71:0, Headache:41:0, Pain with Bright Lights:47:0, Facial Swelling:28:0, Nasal Discharge:13:0, Nasal Congestion:15:0, Fever:4:0, Sore Throat:41:0, Cough:15:0
+30 | 30 | Viral sinusitis (disorder) | 9 | Sinus Pain:62:0, Headache:28:0, Pain with Bright Lights:28:0, Facial Swelling:13:0, Nasal Discharge:33:0, Nasal Congestion:1:0, Fever:5:0, Sore Throat:13:0, Cough:34:0
+31 | 34 | Full-time employment (finding) | 0 | 
+31 |  | Only received primary school education (finding) | 0 | 
+34 |  | Full-time employment (finding) | 0 | 
+34 |  | Only received primary school education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+34 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+--------------------------------------------------------------------------------

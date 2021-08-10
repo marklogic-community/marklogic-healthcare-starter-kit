@@ -1,0 +1,36 @@
+Rudolf Rohan
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1969-02-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+43 | 43 | Whiplash injury to neck | 0 | 
+44 |  | Unemployed (finding) | 0 | 
+44 | 50 | Victim of intimate partner abuse (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Unemployed (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+48 |  | Unemployed (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+50 |  | Unemployed (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+51 | 52 | Limited social contact (finding) | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 | 52 | Victim of intimate partner abuse (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Muscle pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+51 |  | Fever (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+51 |  | Joint pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+51 |  | Cough (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+51 | 51 | Suspected COVID-19 | 0 | 
+51 |  | COVID-19 | 0 | 
+52 |  | Unemployed (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 | 52 | Injury of medial collateral ligament of knee | 0 | 
+--------------------------------------------------------------------------------

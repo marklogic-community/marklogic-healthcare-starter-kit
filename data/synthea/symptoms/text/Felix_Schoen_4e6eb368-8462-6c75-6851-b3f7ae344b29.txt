@@ -1,0 +1,63 @@
+Felix Schoen
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1993-02-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+18 | 18 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:7:0, Body Aches:48:0, Runny/Stuffy Nose:46:0, Fatigue:34:0, Swollen Lymph Nodes:49:0, Swollen Tonsils:44:0, Decreased Appetite:15:0, Sore Throat:29:0, Cough:28:0, Fever:4:0
+19 | 20 | Part-time employment (finding) | 0 | 
+19 | 28 | Limited social contact (finding) | 0 | 
+19 |  | Transport problems (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 | 19 | Viral sinusitis (disorder) | 9 | Headache:35:0, Sinus Pain:76:0, Pain with Bright Lights:44:0, Facial Swelling:47:0, Nasal Discharge:10:0, Nasal Congestion:20:0, Sore Throat:36:0, Cough:14:0, Fever:23:0
+20 |  | Asthma | 0 | 
+20 | 21 | Not in labor force (finding) | 0 | 
+20 |  | Transport problems (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 |  | Stress (finding) | 0 | 
+20 |  | Chronic low back pain (finding) | 0 | 
+20 |  | Chronic neck pain (finding) | 0 | 
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Lack of access to transportation (finding) | 0 | 
+21 |  | Received certificate of high school equivalency (finding) | 0 | 
+21 | 25 | Stress (finding) | 0 | 
+21 |  | Victim of intimate partner abuse (finding) | 0 | 
+22 | 23 | Part-time employment (finding) | 0 | 
+22 | 28 | Homeless (finding) | 0 | 
+22 |  | Lack of access to transportation (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Transport problems (finding) | 0 | 
+23 |  | Received certificate of high school equivalency (finding) | 0 | 
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Lack of access to transportation (finding) | 0 | 
+24 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 | 26 | Part-time employment (finding) | 0 | 
+25 |  | Transport problems (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+26 | 26 | Full-time employment (finding) | 0 | 
+26 |  | Transport problems (finding) | 0 | 
+26 |  | Received certificate of high school equivalency (finding) | 0 | 
+26 | 26 | Stress (finding) | 0 | 
+26 | 26 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:39:0, Runny/Stuffy Nose:12:0, Fatigue:33:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:38:0, Decreased Appetite:25:0, Sore Throat:33:0, Cough:19:0, Fever:30:0
+26 | 27 | Not in labor force (finding) | 0 | 
+26 |  | Lack of access to transportation (finding) | 0 | 
+26 |  | Received certificate of high school equivalency (finding) | 0 | 
+27 |  | Fever (finding) | 2 | fever:1, loss_of_taste:1
+27 |  | Loss of taste (finding) | 2 | fever:1, loss_of_taste:1
+27 | 27 | Suspected COVID-19 | 0 | 
+27 |  | COVID-19 | 0 | 
+27 |  | Has a criminal record (finding) | 0 | 
+27 | 28 | Full-time employment (finding) | 0 | 
+27 |  | Transport problems (finding) | 0 | 
+27 |  | Received certificate of high school equivalency (finding) | 0 | 
+27 |  | Stress (finding) | 0 | 
+27 | 28 | Misuses drugs (finding) | 0 | 
+28 |  | Has a criminal record (finding) | 0 | 
+28 |  | Full-time employment (finding) | 0 | 
+28 |  | Transport problems (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

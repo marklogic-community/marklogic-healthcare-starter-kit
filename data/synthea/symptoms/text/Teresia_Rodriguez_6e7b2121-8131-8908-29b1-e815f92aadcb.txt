@@ -1,0 +1,28 @@
+Teresia Rodriguez
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1988-11-11
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 |  | Unemployed (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+25 | 25 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:26:0, Runny/Stuffy Nose:11:0, Fatigue:34:0, Swollen Lymph Nodes:28:0, Swollen Tonsils:32:0, Decreased Appetite:38:0, Fever:3:0, Sore Throat:17:0, Cough:0:0
+25 | 26 | Normal pregnancy | 0 | 
+27 | 27 | Viral sinusitis (disorder) | 9 | Sinus Pain:63:0, Headache:23:0, Pain with Bright Lights:32:0, Facial Swelling:20:0, Nasal Discharge:39:0, Nasal Congestion:15:0, Fever:23:0, Sore Throat:13:0, Cough:37:0
+28 |  | Unemployed (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+29 | 30 | Normal pregnancy | 0 | 
+30 | 31 | Normal pregnancy | 0 | 
+30 | 30 | Viral sinusitis (disorder) | 9 | Sinus Pain:54:0, Headache:25:0, Pain with Bright Lights:37:0, Facial Swelling:45:0, Nasal Discharge:17:0, Nasal Congestion:21:0, Fever:5:0, Sore Throat:19:0, Cough:16:0
+30 |  | Anemia (disorder) | 0 | 
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 31 | Stress (finding) | 0 | 
+31 | 31 | Viral sinusitis (disorder) | 9 | Sinus Pain:51:0, Headache:49:0, Pain with Bright Lights:34:0, Facial Swelling:45:0, Nasal Discharge:10:0, Nasal Congestion:18:0, Fever:15:0, Sore Throat:39:0, Cough:44:0
+31 |  | Unemployed (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 32 | Normal pregnancy | 0 | 
+--------------------------------------------------------------------------------

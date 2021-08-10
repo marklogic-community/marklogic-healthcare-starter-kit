@@ -1,0 +1,40 @@
+Quintin Heller
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+33 |  | Unemployed (finding) | 0 | 
+33 |  | Only received primary school education (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+34 |  | Unemployed (finding) | 0 | 
+34 |  | Only received primary school education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+34 | 34 | Viral sinusitis (disorder) | 9 | Sinus Pain:73:0, Headache:33:0, Pain with Bright Lights:31:0, Facial Swelling:5:0, Nasal Discharge:15:0, Nasal Congestion:12:0, Cough:28:0, Sore Throat:42:0, Fever:9:0
+35 |  | Unemployed (finding) | 0 | 
+35 |  | Only received primary school education (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+36 |  | Unemployed (finding) | 0 | 
+36 |  | Only received primary school education (finding) | 0 | 
+36 | 37 | Stress (finding) | 0 | 
+36 | 41 | Severe anxiety (panic) (finding | 0 | 
+37 |  | Unemployed (finding) | 0 | 
+37 |  | Only received primary school education (finding) | 0 | 
+38 | 38 | Laceration of hand | 0 | 
+38 |  | Unemployed (finding) | 0 | 
+38 |  | Only received primary school education (finding) | 0 | 
+38 | 39 | Stress (finding) | 0 | 
+39 |  | Unemployed (finding) | 0 | 
+39 |  | Only received primary school education (finding) | 0 | 
+40 |  | Unemployed (finding) | 0 | 
+40 |  | Only received primary school education (finding) | 0 | 
+40 | 41 | Stress (finding) | 0 | 
+41 |  | Prediabetes | 0 | 
+41 |  | Anemia (disorder) | 0 | 
+41 |  | Limited social contact (finding) | 0 | 
+41 |  | Unemployed (finding) | 0 | 
+41 |  | Only received primary school education (finding) | 0 | 
+42 | 42 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:44:0, Body Aches:10:0, Runny/Stuffy Nose:10:0, Fatigue:5:0, Swollen Lymph Nodes:56:0, Swollen Tonsils:34:0, Decreased Appetite:19:0, Cough:0:0, Sore Throat:48:0, Fever:11:0
+--------------------------------------------------------------------------------

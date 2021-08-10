@@ -1,0 +1,19 @@
+{
+  "name": "Provider",
+  "steps": {
+    "1": {
+      "stepId": "ProviderIngest-ingestion"
+    },
+    "2": {
+      "stepId": "PractitionerMapping-mapping"
+    },
+    "3": {
+      "stepId": "PractitionerRoleMapping-mapping"
+    },
+    "4": {
+      "stepId": "ProviderLocation-mapping"
+    }
+  },
+  "description": "Provider Flow",
+  "lastUpdated": "2021-08-02T10:28:19.414499-04:00"
+}

@@ -1,0 +1,33 @@
+Kendrick Kunde
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1915-11-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+44 | 46 | Part-time employment (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 | 48 | Stress (finding) | 0 | 
+44 | 44 | Viral sinusitis (disorder) | 9 | Sinus Pain:71:0, Headache:42:0, Pain with Bright Lights:47:0, Facial Swelling:3:0, Nasal Discharge:34:0, Nasal Congestion:0:0, Cough:47:0, Sore Throat:3:0, Fever:5:0
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 48 | Severe anxiety (panic) (finding | 0 | 
+46 | 47 | Acute bronchitis (disorder) | 10 | Body Aches:21:0, Diarrhea:1:0, Fatigue:34:0, Mucus:45:0, Nasal Congestion:39:0, Shortness of Breath:68:0, Nausea/Vomiting:14:0, Cough:56:0, Sore Throat:45:0, Fever:31:0
+47 |  | Suspected lung cancer (situation) | 2 | Chest Pain:77, Cough:60
+47 |  | Non-small cell lung cancer (disorder) | 0 | 
+47 |  | Non-small cell carcinoma of lung  TNM stage 1 (disorder) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 | 51 | Victim of intimate partner abuse (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Social isolation (finding) | 0 | 
+50 | 52 | Limited social contact (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 52 | Stress (finding) | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Full-time employment (finding) | 0 | 
+52 |  | Victim of intimate partner abuse (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

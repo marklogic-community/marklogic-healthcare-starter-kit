@@ -1,0 +1,1 @@
+{"name":"HealthcareStarter","edges":{},"nodes":{"patient":{"id":"patient","label":"Patient","entityName":"Patient","type":"entity","baseUri":"http://marklogic.envision.com/","version":"0.0.1","properties":[]}},"img":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAHElEQVRYhe3BAQEAAACCIP+vbkhAAQAAAAAAfBoZKAABpFjcSAAAAABJRU5ErkJggg=="}

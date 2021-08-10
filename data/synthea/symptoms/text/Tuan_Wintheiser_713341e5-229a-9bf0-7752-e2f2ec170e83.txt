@@ -1,0 +1,47 @@
+Tuan Wintheiser
+===============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1956-06-24
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 | 50 | Whiplash injury to neck | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 | 58 | Social isolation (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 |  | Hyperlipidemia | 1 | weight gain:1
+53 | 54 | Part-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+53 |  | Severe anxiety (panic) (finding | 0 | 
+53 | 54 | Fracture of rib | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 | 55 | Viral sinusitis (disorder) | 9 | Sinus Pain:71:0, Headache:30:0, Pain with Bright Lights:41:0, Facial Swelling:47:0, Nasal Discharge:16:0, Nasal Congestion:15:0, Cough:35:0, Sore Throat:20:0, Fever:3:0
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+57 |  | Chronic low back pain (finding) | 0 | 
+57 |  | Fibromyalgia (disorder) | 0 | 
+57 |  | Chronic low back pain (finding) | 0 | 
+57 |  | Fibromyalgia (disorder) | 0 | 
+57 | 58 | Part-time employment (finding) | 0 | 
+57 | 58 | Victim of intimate partner abuse (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+58 |  | Localized  primary osteoarthritis of the hand | 2 | Joint Pain:0, Joint Stiffness:0
+58 |  | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

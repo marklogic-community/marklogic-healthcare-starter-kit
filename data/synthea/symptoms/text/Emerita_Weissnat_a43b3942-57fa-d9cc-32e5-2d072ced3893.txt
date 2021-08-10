@@ -1,0 +1,55 @@
+Emerita Weissnat
+================
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1958-08-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+53 | 54 | Part-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 54 | Social isolation (finding) | 0 | 
+54 | 54 | Viral sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:75:0, Pain with Bright Lights:44:0, Facial Swelling:41:0, Nasal Discharge:44:0, Nasal Congestion:17:0, Sore Throat:27:0, Fever:5:0, Cough:20:0
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+54 | 54 | Viral sinusitis (disorder) | 9 | Headache:29:0, Sinus Pain:74:0, Pain with Bright Lights:44:0, Facial Swelling:3:0, Nasal Discharge:44:0, Nasal Congestion:22:0, Sore Throat:38:0, Fever:22:0, Cough:18:0
+55 | 56 | Polyp of colon | 0 | 
+55 | 56 | Not in labor force (finding) | 0 | 
+55 |  | Received higher education (finding) | 0 | 
+55 | 56 | Stress (finding) | 0 | 
+55 | 56 | Social isolation (finding) | 0 | 
+56 | 56 | Viral sinusitis (disorder) | 9 | Headache:5:0, Sinus Pain:77:0, Pain with Bright Lights:44:0, Facial Swelling:15:0, Nasal Discharge:43:0, Nasal Congestion:10:0, Sore Throat:3:0, Fever:22:0, Cough:9:0
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received higher education (finding) | 0 | 
+57 |  | Limited social contact (finding) | 0 | 
+57 | 62 | Reports of violence in the environment (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received higher education (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+58 | 59 | Part-time employment (finding) | 0 | 
+58 |  | Limited social contact (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+59 |  | Limited social contact (finding) | 0 | 
+59 | 60 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 | 60 | Stress (finding) | 0 | 
+60 |  | Osteoporosis (disorder) | 0 | 
+60 | 61 | Part-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 |  | Social isolation (finding) | 0 | 
+61 |  | Limited social contact (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 | 62 | Stress (finding) | 0 | 
+61 |  | Vomiting symptom (finding) | 3 | cough:1, vomiting:1, nausea:1
+61 |  | Cough (finding) | 3 | cough:1, vomiting:1, nausea:1
+61 |  | Nausea (finding) | 3 | cough:1, vomiting:1, nausea:1
+61 | 61 | Suspected COVID-19 | 0 | 
+61 |  | COVID-19 | 0 | 
+62 |  | Limited social contact (finding) | 0 | 
+62 |  | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

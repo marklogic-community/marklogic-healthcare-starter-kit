@@ -1,0 +1,20 @@
+Juan Carlos Maya
+================
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          2006-01-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+5 | 5 | Otitis media | 0 | 
+7 | 7 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:28:0, Body Aches:24:0, Runny/Stuffy Nose:30:0, Fatigue:6:0, Swollen Lymph Nodes:47:0, Swollen Tonsils:9:0, Decreased Appetite:47:0, Cough:18:0, Sore Throat:10:0, Fever:22:0
+10 | 10 | Viral sinusitis (disorder) | 9 | Sinus Pain:74:0, Headache:12:0, Pain with Bright Lights:47:0, Facial Swelling:11:0, Nasal Discharge:20:0, Nasal Congestion:0:0, Cough:31:0, Sore Throat:19:0, Fever:0:0
+14 |  | Fever (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 |  | Sputum finding (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 |  | Cough (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+14 | 14 | Suspected COVID-19 | 0 | 
+14 |  | COVID-19 | 0 | 
+15 | 15 | Sprain of wrist | 0 | 
+--------------------------------------------------------------------------------

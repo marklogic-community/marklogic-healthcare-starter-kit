@@ -1,0 +1,41 @@
+{
+  "valueSet": {
+      "valueSetName": "ClaimCareTeamRoleCodes",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/ex-benefitcategory",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-ex-benefitcategory.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This value set includes examples of Benefit Category codes.",
+      "valueSetConcepts": {
+            "1": {"code": "1", "display": "Medical Care", "definition": "Medical Care."},
+            "2": {"code": "2", "display": "Surgical", "definition": "Surgical."},
+            "3": {"code": "3", "display": "Consultation", "definition": "Consultation."},
+            "4": {"code": "4", "display": "Diagnostic XRay", "definition": "Diagnostic XRay."},
+            "5": {"code": "5", "display": "Diagnostic Lab", "definition": "Diagnostic Lab."},
+            "14": {"code": "14", "display": "Renal Supplies", "definition": "Renal Supplies excluding Dialysis."},
+            "23": {"code": "23", "display": "Diagnostic Dental", "definition": "Diagnostic Dental."},
+            "24": {"code": "24", "display": "Periodontics", "definition": "Periodontics."},
+            "25": {"code": "25", "display": "Restorative", "definition": "Restorative."},
+            "26": {"code": "26", "display": "Endodontics", "definition": "Endodontics."},
+            "27": {"code": "27", "display": "Maxillofacial Prosthetics", "definition": "Maxillofacial Prosthetics."},
+            "28": {"code": "28", "display": "Adjunctive Dental Services", "definition": "Adjunctive Dental Services."},
+            "30": {"code": "30", "display": "Health Benefit Plan Coverage", "definition": "Health Benefit Plan Coverage."},
+            "35": {"code": "35", "display": "Dental Care", "definition": "Dental Care."},
+            "36": {"code": "36", "display": "Dental Crowns", "definition": "Dental Crowns."},
+            "37": {"code": "37", "display": "Dental Accident", "definition": "Dental Accident."},
+            "49": {"code": "49", "display": "Hospital Room and Board", "definition": "Hospital Room and Board."},
+            "55": {"code": "55", "display": "Major Medical", "definition": "Major Medical."},
+            "56": {"code": "56", "display": "Medically Related Transportation", "definition": "Medically Related Transportation."},
+            "61": {"code": "61", "display": "In-vitro Fertilization", "definition": "In-vitro Fertilization."},
+            "62": {"code": "62", "display": "MRI Scan", "definition": "MRI Scan."},
+            "63": {"code": "63", "display": "Donor Procedures", "definition": "Donor Procedures such as organ harvest."},
+            "69": {"code": "69", "display": "Maternity", "definition": "Maternity."},
+            "76": {"code": "76", "display": "Renal Dialysis", "definition": "Renal dialysis."},
+            "F1": {"code": "F1", "display": "Medical Coverage", "definition": "Medical Coverage."},
+            "F3": {"code": "F3", "display": "Dental Coverage", "definition": "Dental Coverage."},
+            "F4": {"code": "F4", "display": "Hearing Coverage", "definition": "Hearing Coverage."},
+            "F6": {"code": "F6", "display": "Vision Coverage", "definition": "Vision Coverage"}
+      }
+  }
+}

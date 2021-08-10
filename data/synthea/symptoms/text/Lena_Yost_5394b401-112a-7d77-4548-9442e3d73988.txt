@@ -1,0 +1,73 @@
+Lena Yost
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1983-09-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 | 28 | Viral sinusitis (disorder) | 9 | Sinus Pain:56:0, Headache:34:0, Pain with Bright Lights:44:0, Facial Swelling:7:0, Nasal Discharge:45:0, Nasal Congestion:17:0, Cough:14:0, Sore Throat:13:0, Fever:17:0
+28 |  | Body mass index 30+ - obesity (finding) | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+29 |  | Body mass index 30+ - obesity (finding) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Received certificate of high school equivalency (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+30 | 30 | Normal pregnancy | 0 | 
+30 |  | Body mass index 30+ - obesity (finding) | 0 | 
+30 | 31 | Not in labor force (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+30 | 31 | Stress (finding) | 0 | 
+30 | 30 | Antepartum eclampsia | 0 | 
+31 |  | Body mass index 30+ - obesity (finding) | 0 | 
+31 | 32 | Not in labor force (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 |  | Social isolation (finding) | 0 | 
+31 | 31 | Normal pregnancy | 0 | 
+31 |  | Miscarriage in first trimester | 0 | 
+31 | 31 | Fetus with unknown complication | 0 | 
+32 | 32 | Normal pregnancy | 0 | 
+32 |  | Body mass index 30+ - obesity (finding) | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+32 |  | Social isolation (finding) | 0 | 
+33 | 33 | Viral sinusitis (disorder) | 9 | Sinus Pain:64:0, Headache:43:0, Pain with Bright Lights:41:0, Facial Swelling:2:0, Nasal Discharge:12:0, Nasal Congestion:24:0, Cough:49:0, Sore Throat:4:0, Fever:11:0
+33 |  | Body mass index 30+ - obesity (finding) | 0 | 
+33 | 34 | Part-time employment (finding) | 0 | 
+33 |  | Limited social contact (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+33 |  | Stress (finding) | 0 | 
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 |  | Limited social contact (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 | 35 | Stress (finding) | 0 | 
+35 |  | Body mass index 30+ - obesity (finding) | 0 | 
+35 | 36 | Limited social contact (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 | 36 | Normal pregnancy | 0 | 
+36 |  | Chill (finding) | 4 | fatigue:1, chills:1, fever:1, sputum production:1
+36 |  | Fever (finding) | 4 | fatigue:1, chills:1, fever:1, sputum production:1
+36 |  | Sputum finding (finding) | 4 | fatigue:1, chills:1, fever:1, sputum production:1
+36 |  | Fatigue (finding) | 4 | fatigue:1, chills:1, fever:1, sputum production:1
+36 | 36 | Suspected COVID-19 | 0 | 
+36 |  | COVID-19 | 0 | 
+36 |  | Acute respiratory failure (disorder) | 0 | 
+36 |  | Respiratory distress (finding) | 0 | 
+36 |  | Sepsis caused by virus (disorder) | 0 | 
+36 |  | Heart failure (disorder) | 0 | 
+36 |  | Pneumonia (disorder) | 0 | 
+36 |  | Hypoxemia (disorder) | 0 | 
+36 |  | Body mass index 30+ - obesity (finding) | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 | 37 | Stress (finding) | 0 | 
+36 |  | Acute deep venous thrombosis (disorder) | 0 | 
+37 |  | Body mass index 30+ - obesity (finding) | 0 | 
+37 |  | Not in labor force (finding) | 0 | 
+37 |  | Limited social contact (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

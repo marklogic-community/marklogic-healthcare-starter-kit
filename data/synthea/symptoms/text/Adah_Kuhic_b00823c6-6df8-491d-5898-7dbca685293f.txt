@@ -1,0 +1,50 @@
+Adah Kuhic
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1952-10-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+58 |  | Unemployed (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Unemployed (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 60 | Stress (finding) | 0 | 
+59 | 67 | Severe anxiety (panic) (finding | 0 | 
+60 |  | Unemployed (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+61 | 67 | Reports of violence in the environment (finding) | 0 | 
+61 |  | Unemployed (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+62 | 62 | Viral sinusitis (disorder) | 9 | Headache:26:0, Sinus Pain:53:0, Pain with Bright Lights:36:0, Facial Swelling:23:0, Nasal Discharge:28:0, Nasal Congestion:3:0, Sore Throat:33:0, Fever:22:0, Cough:17:0
+62 | 62 | Sprain of wrist | 0 | 
+62 |  | Unemployed (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+63 |  | Unemployed (finding) | 0 | 
+63 |  | Only received primary school education (finding) | 0 | 
+63 | 65 | Stress (finding) | 0 | 
+64 |  | Unemployed (finding) | 0 | 
+64 |  | Only received primary school education (finding) | 0 | 
+64 | 67 | Social isolation (finding) | 0 | 
+65 |  | Unemployed (finding) | 0 | 
+65 |  | Only received primary school education (finding) | 0 | 
+66 |  | Unemployed (finding) | 0 | 
+66 |  | Only received primary school education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+67 |  | Muscle pain (finding) | 3 | myalgia:1, arthralgia:1, fever:1
+67 |  | Fever (finding) | 3 | myalgia:1, arthralgia:1, fever:1
+67 |  | Joint pain (finding) | 3 | myalgia:1, arthralgia:1, fever:1
+67 | 67 | Suspected COVID-19 | 0 | 
+67 |  | COVID-19 | 0 | 
+67 |  | Respiratory distress (finding) | 0 | 
+67 |  | Pneumonia (disorder) | 0 | 
+67 |  | Hypoxemia (disorder) | 0 | 
+67 |  | Acute pulmonary embolism (disorder) | 0 | 
+67 |  | Unemployed (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

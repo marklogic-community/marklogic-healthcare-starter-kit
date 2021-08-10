@@ -1,0 +1,75 @@
+Verda Klocko
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1922-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 |  | Has a criminal record (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+51 |  | Body mass index 30+ - obesity (finding) | 0 | 
+51 |  | Has a criminal record (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+52 |  | Body mass index 30+ - obesity (finding) | 0 | 
+52 |  | Has a criminal record (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 | 53 | Fracture subluxation of wrist | 0 | 
+53 |  | Body mass index 30+ - obesity (finding) | 0 | 
+53 |  | Has a criminal record (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+54 | 54 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:5:0, Fatigue:67:0, Mucus:29:0, Nasal Congestion:47:0, Shortness of Breath:58:0, Nausea/Vomiting:5:0, Sore Throat:42:0, Cough:56:0, Fever:37:0
+54 |  | Body mass index 30+ - obesity (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 54 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 | 59 | Social isolation (finding) | 0 | 
+54 |  | Body mass index 30+ - obesity (finding) | 0 | 
+54 |  | Has a criminal record (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Body mass index 30+ - obesity (finding) | 0 | 
+55 |  | Has a criminal record (finding) | 0 | 
+55 | 59 | Reports of violence in the environment (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 | 56 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:2:0, Fatigue:62:0, Mucus:43:0, Nasal Congestion:27:0, Shortness of Breath:58:0, Nausea/Vomiting:10:0, Sore Throat:41:0, Cough:69:0, Fever:48:0
+56 | 56 | Not in labor force (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 | 56 | Stress (finding) | 0 | 
+56 |  | Has a criminal record (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Has a criminal record (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 | 58 | Stress (finding) | 0 | 
+58 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+58 |  | Body mass index 30+ - obesity (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 | 59 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:13:0, Runny/Stuffy Nose:31:0, Fatigue:36:0, Swollen Lymph Nodes:59:0, Swollen Tonsils:52:0, Decreased Appetite:12:0, Sore Throat:31:0, Cough:0:0, Fever:33:0
+59 |  | Body mass index 30+ - obesity (finding) | 0 | 
+59 | 59 | Not in labor force (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 |  | Body mass index 30+ - obesity (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 |  | Full-time employment (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 |  | Polyp of colon | 0 | 
+--------------------------------------------------------------------------------

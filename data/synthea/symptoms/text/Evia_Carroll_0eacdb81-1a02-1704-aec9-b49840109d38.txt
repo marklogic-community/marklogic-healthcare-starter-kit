@@ -1,0 +1,39 @@
+Evia Carroll
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1979-01-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+34 |  | Body mass index 30+ - obesity (finding) | 0 | 
+34 | 37 | Limited social contact (finding) | 0 | 
+34 | 37 | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+35 | 35 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:14:0, Body Aches:18:0, Runny/Stuffy Nose:21:0, Fatigue:19:0, Swollen Lymph Nodes:39:0, Swollen Tonsils:8:0, Decreased Appetite:20:0, Sore Throat:46:0, Fever:41:0, Cough:44:0
+36 | 36 | Normal pregnancy | 0 | 
+37 |  | Body mass index 30+ - obesity (finding) | 0 | 
+37 | 40 | Full-time employment (finding) | 0 | 
+37 | 42 | Victim of intimate partner abuse (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 | 42 | Stress (finding) | 0 | 
+37 | 37 | Laceration of forearm | 0 | 
+40 |  | Body mass index 30+ - obesity (finding) | 0 | 
+40 | 42 | Limited social contact (finding) | 0 | 
+40 |  | Has a criminal record (finding) | 0 | 
+40 | 42 | Full-time employment (finding) | 0 | 
+40 |  | Received higher education (finding) | 0 | 
+41 |  | Dyspnea (finding) | 4 | fever:1, dyspnea:1, cough:1, diarrhea:1
+41 |  | Fever (finding) | 4 | fever:1, dyspnea:1, cough:1, diarrhea:1
+41 |  | Wheezing (finding) | 4 | fever:1, dyspnea:1, cough:1, diarrhea:1
+41 |  | Cough (finding) | 4 | fever:1, dyspnea:1, cough:1, diarrhea:1
+41 |  | Diarrhea symptom (finding) | 4 | fever:1, dyspnea:1, cough:1, diarrhea:1
+41 | 41 | Suspected COVID-19 | 0 | 
+41 |  | COVID-19 | 0 | 
+41 | 42 | Viral sinusitis (disorder) | 9 | Headache:17:0, Sinus Pain:76:0, Pain with Bright Lights:37:0, Facial Swelling:36:0, Nasal Discharge:19:0, Nasal Congestion:13:0, Sore Throat:11:0, Fever:24:0, Cough:26:0
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 |  | Part-time employment (finding) | 0 | 
+42 |  | Has a criminal record (finding) | 0 | 
+42 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

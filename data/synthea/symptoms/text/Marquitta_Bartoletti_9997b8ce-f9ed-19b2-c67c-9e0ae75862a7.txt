@@ -1,0 +1,34 @@
+Marquitta Bartoletti
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1985-05-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 |  | Prediabetes | 0 | 
+28 | 31 | Part-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 34 | Misuses drugs (finding) | 0 | 
+30 | 30 | Viral sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:79:0, Pain with Bright Lights:49:0, Facial Swelling:16:0, Nasal Discharge:30:0, Nasal Congestion:14:0, Sore Throat:14:0, Fever:13:0, Cough:33:0
+31 |  | Prediabetes | 0 | 
+31 | 31 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 | 31 | Acute bronchitis (disorder) | 10 | Body Aches:1:0, Diarrhea:1:0, Fatigue:50:0, Mucus:37:0, Nasal Congestion:47:0, Shortness of Breath:62:0, Nausea/Vomiting:0:0, Sore Throat:48:0, Fever:49:0, Cough:54:0
+31 |  | Prediabetes | 0 | 
+31 | 34 | Reports of violence in the environment (finding) | 0 | 
+31 | 34 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 | 34 | Stress (finding) | 0 | 
+33 | 33 | Escherichia coli urinary tract infection | 7 | Frequent Urination:6:0, Urgent Desire to Urinate:16:0, Discolored Urine:4:0, Odor of Urine:3:0, Pelvic Pain:1:0, Fever:8:0, Dysuria:20:0
+34 |  | Prediabetes | 0 | 
+34 |  | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Headache (finding) | 3 | headache:1, loss_of_taste:1, cough:1
+34 |  | Cough (finding) | 3 | headache:1, loss_of_taste:1, cough:1
+34 |  | Loss of taste (finding) | 3 | headache:1, loss_of_taste:1, cough:1
+34 | 34 | Suspected COVID-19 | 0 | 
+34 |  | COVID-19 | 0 | 
+35 | 35 | Fracture of rib | 0 | 
+--------------------------------------------------------------------------------

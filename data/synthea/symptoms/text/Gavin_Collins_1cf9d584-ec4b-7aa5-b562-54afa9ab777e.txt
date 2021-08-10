@@ -1,0 +1,24 @@
+Gavin Collins
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2002-07-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+13 | 13 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:14:0, Fatigue:25:0, Mucus:39:0, Nasal Congestion:33:0, Shortness of Breath:30:0, Nausea/Vomiting:16:0, Fever:38:0, Sore Throat:31:0, Cough:51:0
+14 |  | Risk activity involvement (finding) | 0 | 
+15 | 17 | Risk activity involvement (finding) | 0 | 
+15 | 15 | Whiplash injury to neck | 0 | 
+18 |  | Chronic low back pain (finding) | 3 | Cognitive Difficulties:95, Sensitivity to Pain:61, Nausea/Vomiting:39
+18 |  | Opioid abuse (disorder) | 3 | Cognitive Difficulties:95, Sensitivity to Pain:61, Nausea/Vomiting:39
+18 |  | Opioid abuse (disorder) | 0 | 
+18 |  | Not in labor force (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Opioid abuse (disorder) | 0 | 
+18 |  | Opioid abuse (disorder) | 0 | 
+18 |  | Opioid abuse (disorder) | 0 | 
+18 |  | Opioid abuse (disorder) | 0 | 
+18 |  | Opioid abuse (disorder) | 0 | 
+18 |  | Opioid abuse (disorder) | 0 | 
+--------------------------------------------------------------------------------

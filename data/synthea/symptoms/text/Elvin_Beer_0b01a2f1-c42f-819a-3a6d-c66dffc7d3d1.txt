@@ -1,0 +1,23 @@
+Elvin Beer
+==========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1912-08-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+13 | 13 | Fracture of clavicle | 0 | 
+16 | 17 | Risk activity involvement (finding) | 0 | 
+17 | 19 | Severe anxiety (panic) (finding | 0 | 
+18 |  | Served in armed forces (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+19 |  | Served in armed forces (finding) | 0 | 
+19 |  | Limited social contact (finding) | 0 | 
+19 |  | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+20 | 20 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:5:0, Pain with Bright Lights:45:0, Facial Swelling:18:0, Nasal Discharge:13:0, Nasal Congestion:8:0, Cough:48:0, Sore Throat:38:0, Fever:0:0
+20 | 20 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:41:0, Pain with Bright Lights:37:0, Facial Swelling:13:0, Nasal Discharge:29:0, Nasal Congestion:6:0, Cough:40:0, Sore Throat:15:0, Fever:1:0
+--------------------------------------------------------------------------------

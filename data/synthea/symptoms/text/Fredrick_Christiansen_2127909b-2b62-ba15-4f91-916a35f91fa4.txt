@@ -1,0 +1,90 @@
+Fredrick Christiansen
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+52 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:6, Shortness Constipation Breath:9, Anxiety:2, Pain Sensitivity:4, Confusion:3, Cognitive Difficulties:19, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:6
+52 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:6, Shortness Constipation Breath:9, Anxiety:2, Pain Sensitivity:4, Confusion:3, Cognitive Difficulties:19, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:6
+52 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:9, Slurred Speech:6, Shortness Constipation Breath:9, Anxiety:2, Pain Sensitivity:4, Confusion:3, Cognitive Difficulties:19, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:6
+53 |  | Chronic pain | 10 | Reduced Sex Drive:9, Slurred Speech:6, Shortness Constipation Breath:9, Anxiety:2, Pain Sensitivity:4, Confusion:3, Cognitive Difficulties:19, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:6
+53 |  | Opioid abuse (disorder) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Served in armed forces (finding) | 0 | 
+53 | 53 | Full-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 | 55 | Stress (finding) | 0 | 
+53 | 53 | Acute bronchitis (disorder) | 10 | Body Aches:9:0, Diarrhea:18:0, Fatigue:43:0, Mucus:28:0, Nasal Congestion:40:0, Shortness of Breath:52:0, Nausea/Vomiting:9:0, Sore Throat:26:0, Fever:35:0, Cough:57:0
+53 |  | Opioid abuse (disorder) | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Served in armed forces (finding) | 0 | 
+53 | 54 | Not in labor force (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+53 |  | Impacted molars | 10 | Reduced Sex Drive:9, Slurred Speech:6, Shortness Constipation Breath:9, Anxiety:2, Pain Sensitivity:4, Confusion:3, Cognitive Difficulties:19, Shallow Breathing:1, Mood Swing:0, Nausea/Vomiting:6
+53 |  | Drug overdose | 0 | 
+54 |  | Opioid abuse (disorder) | 0 | 
+54 |  | Prediabetes | 0 | 
+54 |  | Served in armed forces (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 |  | Drug overdose | 0 | 
+55 |  | Opioid abuse (disorder) | 0 | 
+55 |  | Prediabetes | 0 | 
+55 |  | Served in armed forces (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+55 |  | Drug overdose | 0 | 
+56 |  | Opioid abuse (disorder) | 0 | 
+56 |  | Prediabetes | 0 | 
+56 |  | Served in armed forces (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+56 |  | Drug overdose | 0 | 
+57 |  | Opioid abuse (disorder) | 0 | 
+57 |  | Prediabetes | 0 | 
+57 |  | Served in armed forces (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Only received primary school education (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 |  | Drug overdose | 0 | 
+58 | 58 | Cystitis | 7 | Frequent Urination:19:0, Urgent Desire to Urinate:13:0, Discolored Urine:5:0, Odor of Urine:9:0, Pelvic Pain:7:0, Fever:5:0, Dysuria:22:0
+58 |  | Opioid abuse (disorder) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Only received primary school education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Opioid abuse (disorder) | 0 | 
+59 |  | Prediabetes | 0 | 
+59 | 60 | Part-time employment (finding) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 |  | Only received primary school education (finding) | 0 | 
+59 | 60 | Stress (finding) | 0 | 
+60 |  | Opioid abuse (disorder) | 0 | 
+60 |  | Prediabetes | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Only received primary school education (finding) | 0 | 
+61 |  | Opioid abuse (disorder) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Only received primary school education (finding) | 0 | 
+61 | 62 | Stress (finding) | 0 | 
+61 |  | Hyperlipidemia | 1 | weight gain:1
+62 |  | Opioid abuse (disorder) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 |  | Neoplasm of prostate | 1 | urinary frequency:20
+62 |  | Carcinoma in situ of prostate (disorder) | 1 | urinary frequency:20
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Not in labor force (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 |  | Only received primary school education (finding) | 0 | 
+62 |  | Carcinoma in situ of prostate (disorder) | 0 | 
+--------------------------------------------------------------------------------

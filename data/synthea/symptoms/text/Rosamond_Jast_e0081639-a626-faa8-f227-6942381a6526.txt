@@ -1,0 +1,46 @@
+Rosamond Jast
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1965-04-14
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+47 | 47 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:37:0, Body Aches:21:0, Runny/Stuffy Nose:47:0, Fatigue:0:0, Swollen Lymph Nodes:22:0, Swollen Tonsils:33:0, Decreased Appetite:14:0, Sore Throat:6:0, Cough:2:0, Fever:42:0
+47 |  | Osteoarthritis of knee | 2 | Joint Pain:0, Joint Stiffness:0
+48 | 50 | Part-time employment (finding) | 0 | 
+48 |  | Only received primary school education (finding) | 0 | 
+48 | 51 | Stress (finding) | 0 | 
+48 | 56 | Severe anxiety (panic) (finding | 0 | 
+48 | 48 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:30:0, Body Aches:44:0, Runny/Stuffy Nose:9:0, Fatigue:15:0, Swollen Lymph Nodes:31:0, Swollen Tonsils:26:0, Decreased Appetite:46:0, Sore Throat:20:0, Cough:44:0, Fever:31:0
+50 | 56 | Limited social contact (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Only received primary school education (finding) | 0 | 
+50 | 50 | Normal pregnancy | 0 | 
+50 |  | Miscarriage in first trimester | 0 | 
+50 | 50 | Blighted ovum | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Only received primary school education (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Only received primary school education (finding) | 0 | 
+52 | 53 | Stress (finding) | 0 | 
+53 | 54 | Part-time employment (finding) | 0 | 
+53 |  | Only received primary school education (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Only received primary school education (finding) | 0 | 
+54 | 55 | Stress (finding) | 0 | 
+54 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+54 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+54 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+54 | 54 | Suspected COVID-19 | 0 | 
+54 |  | COVID-19 | 0 | 
+54 |  | Acute respiratory failure (disorder) | 0 | 
+54 |  | Respiratory distress (finding) | 0 | 
+54 |  | Pneumonia (disorder) | 0 | 
+54 |  | Hypoxemia (disorder) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Only received primary school education (finding) | 0 | 
+56 |  | Full-time employment (finding) | 0 | 
+56 |  | Only received primary school education (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

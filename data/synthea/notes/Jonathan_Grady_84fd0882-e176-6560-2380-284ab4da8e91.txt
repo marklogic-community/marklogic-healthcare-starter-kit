@@ -1,0 +1,1510 @@
+
+2020-10-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 19 year-old non-hispanic black male. Patient has a history of covid-19, dyspnea (finding), part-time employment (finding), fever (finding), child attention deficit disorder, wheezing (finding), loss of taste (finding), suspected covid-19.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with part-time employment (finding), stress (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire two-item score (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+
+
+
+2020-03-02
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 18 year-old non-hispanic black male. Patient has a history of part-time employment (finding), child attention deficit disorder.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with dyspnea (finding), wheezing (finding), fever (finding), loss of taste (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-10-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 18 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient has completed some college courses.
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with received higher education (finding), part-time employment (finding), limited social contact (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- medication reconciliation (procedure)
+
+
+
+2018-10-09
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 17 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with risk activity involvement (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- depression screening (procedure)
+- medication reconciliation (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- health risks education (procedure)
+
+
+
+2018-03-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 16 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2018-02-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 16 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-12-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 16 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-11-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 16 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-10-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 16 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-10-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 16 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2017-09-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 16 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-08-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 16 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-07-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-06-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-05-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-04-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-03-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-02-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2017-01-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-12-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-11-13
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-10-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-09-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- depression screening (procedure)
+- medication reconciliation (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2016-09-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 15 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-08-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-07-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-05-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-05-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-03-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-02-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2016-01-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2015-12-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2015-11-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2015-10-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2015-09-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2015-09-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 14 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2015-08-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 13 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2015-07-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 13 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2015-06-19
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 13 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2015-05-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 13 year-old non-hispanic black male. Patient has a history of child attention deficit disorder.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+
+The following procedures were conducted:
+- cognitive and behavioral therapy
+
+
+
+2015-04-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 13 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with child attention deficit disorder. 
+
+## Plan
+
+The patient was placed on a careplan:
+- overactivity/inattention behavior management
+
+
+
+2014-09-16
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 13 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+
+
+
+2013-09-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 12 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+
+
+
+2012-09-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 11 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+
+
+
+2011-08-30
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Jonathan
+ is a 10 year-old non-hispanic black male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+

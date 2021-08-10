@@ -1,0 +1,297 @@
+Dino Schmitt
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1912-08-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+58 |  | Opioid abuse (disorder) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 58 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Opioid abuse (disorder) | 0 | 
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Hypertriglyceridemia (disorder) | 0 | 
+58 |  | Served in armed forces (finding) | 0 | 
+58 |  | Has a criminal record (finding) | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+59 |  | Opioid abuse (disorder) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 59 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Opioid abuse (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 59 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 | 59 | Social isolation (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 |  | Opioid abuse (disorder) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 | 59 | Part-time employment (finding) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 60 | Victim of intimate partner abuse (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 |  | Opioid abuse (disorder) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 | 59 | Full-time employment (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+59 |  | Victim of intimate partner abuse (finding) | 0 | 
+59 |  | Opioid abuse (disorder) | 0 | 
+59 |  | Hypertriglyceridemia (disorder) | 0 | 
+59 | 60 | Part-time employment (finding) | 0 | 
+59 |  | Served in armed forces (finding) | 0 | 
+59 |  | Has a criminal record (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+60 |  | Opioid abuse (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 62 | Social isolation (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 |  | Opioid abuse (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 |  | Stress (finding) | 0 | 
+60 |  | Opioid abuse (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 60 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 | 60 | Stress (finding) | 0 | 
+60 |  | Opioid abuse (disorder) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 | 60 | Part-time employment (finding) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+60 |  | Opioid abuse (disorder) | 0 | 
+60 |  | Hypertriglyceridemia (disorder) | 0 | 
+60 | 61 | Part-time employment (finding) | 0 | 
+60 |  | Served in armed forces (finding) | 0 | 
+60 |  | Has a criminal record (finding) | 0 | 
+60 | 64 | Victim of intimate partner abuse (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+61 |  | Opioid abuse (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 | 61 | Part-time employment (finding) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+61 |  | Opioid abuse (disorder) | 0 | 
+61 |  | Hypertriglyceridemia (disorder) | 0 | 
+61 |  | Served in armed forces (finding) | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 |  | Stress (finding) | 0 | 
+62 |  | Opioid abuse (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 | 62 | Part-time employment (finding) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Opioid abuse (disorder) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 62 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Stress (finding) | 0 | 
+62 |  | Opioid abuse (disorder) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 | 62 | Part-time employment (finding) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 | 62 | Stress (finding) | 0 | 
+62 |  | Opioid abuse (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 | 62 | Part-time employment (finding) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 62 | Reports of violence in the environment (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 |  | Opioid abuse (disorder) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Hypertriglyceridemia (disorder) | 0 | 
+62 | 63 | Part-time employment (finding) | 0 | 
+62 |  | Served in armed forces (finding) | 0 | 
+62 | 64 | Limited social contact (finding) | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+62 | 63 | Stress (finding) | 0 | 
+63 | 63 | Viral sinusitis (disorder) | 9 | Headache:10:0, Sinus Pain:77:0, Pain with Bright Lights:25:0, Facial Swelling:42:0, Nasal Discharge:14:0, Nasal Congestion:23:0, Sore Throat:35:0, Cough:24:0, Fever:20:0
+63 |  | Opioid abuse (disorder) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 | 68 | Reports of violence in the environment (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Opioid abuse (disorder) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Opioid abuse (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Opioid abuse (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 63 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 | 63 | Laceration of thigh | 0 | 
+63 |  | Opioid abuse (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 | 63 | Part-time employment (finding) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+63 |  | Opioid abuse (disorder) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Hypertriglyceridemia (disorder) | 0 | 
+63 |  | Served in armed forces (finding) | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 |  | Opioid abuse (disorder) | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 64 | Stress (finding) | 0 | 
+64 |  | Opioid abuse (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 | 64 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Opioid abuse (disorder) | 0 | 
+64 |  | Hypertriglyceridemia (disorder) | 0 | 
+64 | 65 | Part-time employment (finding) | 0 | 
+64 |  | Served in armed forces (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+65 | 66 | Polyp of colon | 0 | 
+65 |  | Opioid abuse (disorder) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Hypertriglyceridemia (disorder) | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 | 68 | Victim of intimate partner abuse (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 |  | Social isolation (finding) | 0 | 
+65 | 66 | Stress (finding) | 0 | 
+66 |  | Opioid abuse (disorder) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 66 | Social isolation (finding) | 0 | 
+66 |  | Opioid abuse (disorder) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 | 66 | Part-time employment (finding) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 66 | Stress (finding) | 0 | 
+66 |  | Opioid abuse (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 66 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Opioid abuse (disorder) | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Hypertriglyceridemia (disorder) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 68 | Social isolation (finding) | 0 | 
+66 | 67 | Stress (finding) | 0 | 
+67 |  | Opioid abuse (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Neoplasm of prostate | 1 | urinary frequency:20
+67 |  | Carcinoma in situ of prostate (disorder) | 1 | urinary frequency:20
+67 |  | Served in armed forces (finding) | 0 | 
+67 | 67 | Not in labor force (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Opioid abuse (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Opioid abuse (disorder) | 0 | 
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Hypertriglyceridemia (disorder) | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 |  | Opioid abuse (disorder) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 | 68 | Part-time employment (finding) | 0 | 
+68 |  | Served in armed forces (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 | 68 | Stress (finding) | 0 | 
+68 |  | Opioid abuse (disorder) | 0 | 
+68 |  | Metabolic syndrome X (disorder) | 0 | 
+68 |  | Hypertriglyceridemia (disorder) | 0 | 
+68 |  | Served in armed forces (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

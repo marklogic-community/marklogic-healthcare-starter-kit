@@ -1,0 +1,67 @@
+Bret Steuber
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1984-01-19
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+28 | 28 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:9:0, Body Aches:46:0, Runny/Stuffy Nose:40:0, Fatigue:7:0, Swollen Lymph Nodes:19:0, Swollen Tonsils:36:0, Decreased Appetite:28:0, Sore Throat:22:0, Cough:1:0, Fever:1:0
+28 | 29 | Part-time employment (finding) | 0 | 
+28 |  | Transport problems (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 32 | Social isolation (finding) | 0 | 
+29 | 30 | Not in labor force (finding) | 0 | 
+29 |  | Transport problems (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+30 |  | Chronic low back pain (finding) | 0 | 
+30 |  | Chronic low back pain (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Lack of access to transportation (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+30 |  | Victim of intimate partner abuse (finding) | 0 | 
+30 |  | Chronic low back pain (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Transport problems (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Lack of access to transportation (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 | 33 | Stress (finding) | 0 | 
+33 | 33 | Sinusitis (disorder) | 9 | Headache:19:0, Sinus Pain:30:92:85:0, Pain with Bright Lights:45:0, Facial Swelling:34:0, Nasal Discharge:14:0, Nasal Congestion:7:0, Sore Throat:8:0, Cough:40:0, Fever:13:0
+33 |  | Limited social contact (finding) | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Transport problems (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 |  | Chronic sinusitis (disorder) | 9 | Headache:0, Sinus Pain:92:85:0, Pain with Bright Lights:0, Facial Swelling:0, Nasal Discharge:0, Nasal Congestion:0, Sore Throat:0, Cough:0, Fever:0
+34 | 34 | Sprain of ankle | 0 | 
+34 | 37 | Limited social contact (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Transport problems (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 | 36 | Stress (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 |  | Transport problems (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 | 36 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:3:0, Fatigue:35:0, Mucus:30:0, Nasal Congestion:39:0, Shortness of Breath:46:0, Nausea/Vomiting:15:0, Sore Throat:46:0, Cough:55:0, Fever:35:0
+36 |  | Body mass index 30+ - obesity (finding) | 0 | 
+36 | 36 | Part-time employment (finding) | 0 | 
+36 |  | Transport problems (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+36 |  | Muscle pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+36 |  | Fever (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+36 |  | Joint pain (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+36 |  | Cough (finding) | 4 | myalgia:1, arthralgia:1, fever:1, cough:1
+36 | 36 | Suspected COVID-19 | 0 | 
+36 |  | COVID-19 | 0 | 
+36 | 37 | Part-time employment (finding) | 0 | 
+36 |  | Lack of access to transportation (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+37 |  | Not in labor force (finding) | 0 | 
+37 |  | Transport problems (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+37 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

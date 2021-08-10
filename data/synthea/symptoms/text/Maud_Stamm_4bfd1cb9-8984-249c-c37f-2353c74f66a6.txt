@@ -1,0 +1,22 @@
+Maud Stamm
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2012-12-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:18:0, Body Aches:25:0, Runny/Stuffy Nose:16:0, Fatigue:15:0, Swollen Lymph Nodes:10:0, Swollen Tonsils:41:0, Decreased Appetite:2:0, Sore Throat:37:0, Fever:32:0, Cough:23:0
+1 | 1 | Viral sinusitis (disorder) | 9 | Headache:17:0, Sinus Pain:56:0, Pain with Bright Lights:46:0, Facial Swelling:7:0, Nasal Discharge:17:0, Nasal Congestion:15:0, Sore Throat:8:0, Fever:14:0, Cough:17:0
+2 |  | Perennial allergic rhinitis with seasonal variation | 5 | Nasal Discharge:16, Ear Pressure:2, Nasal Congestion:14, Sneezing Fits:19, Itching:14
+2 | 2 | Otitis media | 0 | 
+3 | 3 | Otitis media | 0 | 
+5 | 5 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:30:0, Body Aches:7:0, Runny/Stuffy Nose:23:0, Fatigue:0:0, Swollen Lymph Nodes:41:0, Swollen Tonsils:41:0, Decreased Appetite:37:0, Sore Throat:1:0, Fever:1:0, Cough:0:0
+5 | 6 | Whiplash injury to neck | 0 | 
+7 |  | Sore throat symptom (finding) | 2 | sore throat:1, cough:1
+7 |  | Cough (finding) | 2 | sore throat:1, cough:1
+7 | 7 | Suspected COVID-19 | 0 | 
+7 |  | COVID-19 | 0 | 
+7 | 7 | Acute bronchitis (disorder) | 10 | Body Aches:17:0, Diarrhea:9:0, Fatigue:74:0, Mucus:32:0, Nasal Congestion:41:0, Shortness of Breath:50:0, Nausea/Vomiting:18:0, Sore Throat:25:0, Fever:32:0, Cough:69:0
+8 |  | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:46, Body Aches:38, Runny/Stuffy Nose:43, Fatigue:49, Swollen Lymph Nodes:5, Swollen Tonsils:29, Decreased Appetite:38, Sore Throat:43, Fever:28, Cough:24
+--------------------------------------------------------------------------------

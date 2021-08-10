@@ -1,0 +1,85 @@
+Hunter Tillman
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-07-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+65 |  | Smokes tobacco daily | 0 | 
+65 |  | Prediabetes | 0 | 
+65 |  | Served in armed forces (finding) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received certificate of high school equivalency (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+65 | 69 | Social isolation (finding) | 0 | 
+66 |  | Smokes tobacco daily | 0 | 
+66 |  | Prediabetes | 0 | 
+66 | 67 | Part-time employment (finding) | 0 | 
+66 |  | Served in armed forces (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Received certificate of high school equivalency (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+67 |  | Smokes tobacco daily | 0 | 
+67 |  | Prediabetes | 0 | 
+67 |  | Served in armed forces (finding) | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received certificate of high school equivalency (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 | 68 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:40:0, Body Aches:32:0, Runny/Stuffy Nose:35:0, Fatigue:6:0, Swollen Lymph Nodes:17:0, Swollen Tonsils:5:0, Decreased Appetite:5:0, Cough:45:0, Sore Throat:2:0, Fever:16:0
+68 |  | Smokes tobacco daily | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 69 | Part-time employment (finding) | 0 | 
+68 |  | Served in armed forces (finding) | 0 | 
+68 | 75 | Reports of violence in the environment (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 |  | Received certificate of high school equivalency (finding) | 0 | 
+68 | 70 | Stress (finding) | 0 | 
+69 | 69 | Fracture of clavicle | 0 | 
+69 |  | Smokes tobacco daily | 0 | 
+69 |  | Prediabetes | 0 | 
+69 |  | Served in armed forces (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 |  | Smokes tobacco daily | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Served in armed forces (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Received certificate of high school equivalency (finding) | 0 | 
+70 | 73 | Social isolation (finding) | 0 | 
+70 | 75 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+71 | 72 | Polyp of colon | 0 | 
+71 |  | Smokes tobacco daily | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 73 | Part-time employment (finding) | 0 | 
+71 |  | Served in armed forces (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Received certificate of high school equivalency (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+73 |  | Smokes tobacco daily | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Served in armed forces (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+74 |  | Smokes tobacco daily | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Served in armed forces (finding) | 0 | 
+74 | 75 | Limited social contact (finding) | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 |  | Stress (finding) | 0 | 
+75 |  | Smokes tobacco daily | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Served in armed forces (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

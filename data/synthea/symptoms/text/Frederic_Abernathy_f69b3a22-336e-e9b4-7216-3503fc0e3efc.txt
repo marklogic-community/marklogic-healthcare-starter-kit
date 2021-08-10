@@ -1,0 +1,15 @@
+Frederic Abernathy
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2008-06-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+11 |  | Fever (finding) | 1 | fever:1
+11 | 11 | Suspected COVID-19 | 0 | 
+11 |  | COVID-19 | 0 | 
+12 | 13 | Risk activity involvement (finding) | 0 | 
+12 | 12 | Viral sinusitis (disorder) | 9 | Sinus Pain:59:0, Headache:23:0, Pain with Bright Lights:25:0, Facial Swelling:9:0, Nasal Discharge:42:0, Nasal Congestion:16:0, Fever:7:0, Sore Throat:38:0, Cough:40:0
+13 |  | Viral sinusitis (disorder) | 9 | Sinus Pain:75, Headache:14, Pain with Bright Lights:28, Facial Swelling:10, Nasal Discharge:36, Nasal Congestion:22, Fever:2, Sore Throat:28, Cough:42
+--------------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+Nana Funk
+=========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1954-10-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+10 | 10 | Acute bronchitis (disorder) | 10 | Body Aches:23:0, Diarrhea:22:0, Fatigue:68:0, Mucus:26:0, Nasal Congestion:32:0, Shortness of Breath:51:0, Nausea/Vomiting:24:0, Fever:47:0, Sore Throat:32:0, Cough:60:0
+11 | 11 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:42:0, Body Aches:18:0, Runny/Stuffy Nose:42:0, Fatigue:7:0, Swollen Lymph Nodes:24:0, Swollen Tonsils:27:0, Decreased Appetite:23:0, Fever:38:0, Sore Throat:29:0, Cough:0:0
+11 | 11 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:41:0, Runny/Stuffy Nose:43:0, Fatigue:45:0, Swollen Lymph Nodes:12:0, Swollen Tonsils:40:0, Decreased Appetite:35:0, Fever:41:0, Sore Throat:40:0, Cough:20:0
+13 |  | Body mass index 30+ - obesity (finding) | 0 | 
+14 | 14 | Viral sinusitis (disorder) | 9 | Sinus Pain:50:0, Headache:4:0, Pain with Bright Lights:26:0, Facial Swelling:44:0, Nasal Discharge:43:0, Nasal Congestion:5:0, Fever:1:0, Sore Throat:32:0, Cough:0:0
+14 | 15 | Laceration of foot | 0 | 
+15 |  | Body mass index 30+ - obesity (finding) | 0 | 
+16 |  | Body mass index 30+ - obesity (finding) | 0 | 
+17 | 17 | Viral sinusitis (disorder) | 9 | Sinus Pain:55:0, Headache:13:0, Pain with Bright Lights:32:0, Facial Swelling:18:0, Nasal Discharge:9:0, Nasal Congestion:15:0, Fever:6:0, Sore Throat:12:0, Cough:41:0
+18 |  | Not in labor force (finding) | 0 | 
+18 |  | Housing unsatisfactory (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 |  | Fracture of the vertebral column with spinal cord injury | 0 | 
+--------------------------------------------------------------------------------

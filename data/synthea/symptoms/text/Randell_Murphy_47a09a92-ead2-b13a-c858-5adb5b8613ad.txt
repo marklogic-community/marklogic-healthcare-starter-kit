@@ -1,0 +1,54 @@
+Randell Murphy
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1966-08-31
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+45 | 45 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:24:0, Fatigue:39:0, Mucus:40:0, Nasal Congestion:42:0, Shortness of Breath:45:0, Nausea/Vomiting:20:0, Sore Throat:41:0, Fever:41:0, Cough:42:0
+45 |  | Body mass index 30+ - obesity (finding) | 0 | 
+45 | 45 | Full-time employment (finding) | 0 | 
+45 |  | Received certificate of high school equivalency (finding) | 0 | 
+45 | 46 | Stress (finding) | 0 | 
+45 |  | Body mass index 30+ - obesity (finding) | 0 | 
+45 | 46 | Full-time employment (finding) | 0 | 
+45 | 54 | Victim of intimate partner abuse (finding) | 0 | 
+45 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Body mass index 30+ - obesity (finding) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 | 54 | Reports of violence in the environment (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+50 |  | Victim of intimate partner abuse (finding) | 0 | 
+50 | 51 | Misuses drugs (finding) | 0 | 
+50 | 50 | Sprain of wrist | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Stress (finding) | 0 | 
+51 | 51 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:29:0, Body Aches:34:0, Runny/Stuffy Nose:24:0, Fatigue:8:0, Swollen Lymph Nodes:17:0, Swollen Tonsils:32:0, Decreased Appetite:14:0, Sore Throat:15:0, Fever:21:0, Cough:3:0
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+53 |  | Chill (finding) | 4 | chills:1, sputum production:1, loss_of_taste:1, cough:1
+53 |  | Sputum finding (finding) | 4 | chills:1, sputum production:1, loss_of_taste:1, cough:1
+53 |  | Cough (finding) | 4 | chills:1, sputum production:1, loss_of_taste:1, cough:1
+53 |  | Loss of taste (finding) | 4 | chills:1, sputum production:1, loss_of_taste:1, cough:1
+53 | 53 | Suspected COVID-19 | 0 | 
+53 |  | COVID-19 | 0 | 
+53 |  | Respiratory distress (finding) | 0 | 
+53 |  | Pneumonia (disorder) | 0 | 
+53 |  | Hypoxemia (disorder) | 0 | 
+54 |  | Full-time employment (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+--------------------------------------------------------------------------------

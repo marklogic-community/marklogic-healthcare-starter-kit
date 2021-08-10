@@ -1,0 +1,63 @@
+Cristopher Walter
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1949-10-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+61 |  | Prediabetes | 0 | 
+61 |  | Has a criminal record (finding) | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+61 | 64 | Stress (finding) | 0 | 
+62 | 62 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:23:0, Runny/Stuffy Nose:46:0, Fatigue:44:0, Swollen Lymph Nodes:19:0, Swollen Tonsils:13:0, Decreased Appetite:22:0, Fever:8:0, Sore Throat:22:0, Cough:3:0
+62 |  | Prediabetes | 0 | 
+62 |  | Has a criminal record (finding) | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 |  | Has a criminal record (finding) | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+64 |  | Chronic low back pain (finding) | 0 | 
+64 |  | Chronic low back pain (finding) | 0 | 
+64 |  | Chronic low back pain (finding) | 0 | 
+64 |  | Prediabetes | 0 | 
+64 | 65 | Not in labor force (finding) | 0 | 
+64 |  | Limited social contact (finding) | 0 | 
+64 |  | Has a criminal record (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 | 66 | Part-time employment (finding) | 0 | 
+65 | 70 | Limited social contact (finding) | 0 | 
+65 |  | Has a criminal record (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 | 66 | Stress (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 | 67 | Not in labor force (finding) | 0 | 
+66 |  | Has a criminal record (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 66 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:1:0, Body Aches:38:0, Runny/Stuffy Nose:31:0, Fatigue:34:0, Swollen Lymph Nodes:33:0, Swollen Tonsils:33:0, Decreased Appetite:10:0, Fever:25:0, Sore Throat:48:0, Cough:34:0
+67 |  | Prediabetes | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 | 69 | Stress (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 | 70 | Part-time employment (finding) | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+70 |  | Hyperlipidemia | 1 | weight gain:1
+70 | 70 | Concussion with loss of consciousness | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

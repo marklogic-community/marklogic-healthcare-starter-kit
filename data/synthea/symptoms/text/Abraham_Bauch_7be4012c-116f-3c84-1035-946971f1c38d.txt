@@ -1,0 +1,58 @@
+Abraham Bauch
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1947-05-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+64 |  | Prediabetes | 0 | 
+64 | 65 | Part-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 | 67 | Stress (finding) | 0 | 
+65 |  | Social isolation (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Social isolation (finding) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 | 73 | Limited social contact (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 | 73 | Victim of intimate partner abuse (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 | 70 | Stress (finding) | 0 | 
+68 | 68 | Viral sinusitis (disorder) | 9 | Headache:15:0, Sinus Pain:63:0, Pain with Bright Lights:25:0, Facial Swelling:7:0, Nasal Discharge:9:0, Nasal Congestion:3:0, Sore Throat:26:0, Fever:11:0, Cough:1:0
+69 |  | Prediabetes | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 72 | Not in labor force (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 | 73 | Stress (finding) | 0 | 
+71 | 71 | Viral sinusitis (disorder) | 9 | Headache:5:0, Sinus Pain:79:0, Pain with Bright Lights:45:0, Facial Swelling:14:0, Nasal Discharge:48:0, Nasal Congestion:18:0, Sore Throat:38:0, Fever:17:0, Cough:4:0
+72 | 72 | Viral sinusitis (disorder) | 9 | Headache:8:0, Sinus Pain:66:0, Pain with Bright Lights:31:0, Facial Swelling:35:0, Nasal Discharge:4:0, Nasal Congestion:0:0, Sore Throat:16:0, Fever:12:0, Cough:46:0
+72 |  | Prediabetes | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+72 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+72 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+72 | 72 | Suspected COVID-19 | 0 | 
+72 |  | COVID-19 | 0 | 
+72 |  | Respiratory distress (finding) | 0 | 
+72 |  | Pneumonia (disorder) | 0 | 
+72 |  | Hypoxemia (disorder) | 0 | 
+72 |  | Acute pulmonary embolism (disorder) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Full-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

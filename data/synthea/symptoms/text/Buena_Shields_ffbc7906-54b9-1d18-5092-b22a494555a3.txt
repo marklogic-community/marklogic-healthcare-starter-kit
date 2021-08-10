@@ -1,0 +1,23 @@
+Buena Shields
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2000-03-09
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+13 | 13 | Viral sinusitis (disorder) | 9 | Sinus Pain:60:0, Headache:34:0, Pain with Bright Lights:46:0, Facial Swelling:24:0, Nasal Discharge:38:0, Nasal Congestion:22:0, Sore Throat:32:0, Cough:15:0, Fever:2:0
+15 | 18 | Severe anxiety (panic) (finding | 0 | 
+17 | 17 | Viral sinusitis (disorder) | 9 | Sinus Pain:57:0, Headache:25:0, Pain with Bright Lights:48:0, Facial Swelling:39:0, Nasal Discharge:4:0, Nasal Congestion:3:0, Sore Throat:39:0, Cough:29:0, Fever:9:0
+18 | 19 | Part-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+19 |  | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 |  | Fever (finding) | 3 | fatigue:1, fever:1, loss_of_taste:1
+19 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, loss_of_taste:1
+19 |  | Loss of taste (finding) | 3 | fatigue:1, fever:1, loss_of_taste:1
+19 | 19 | Suspected COVID-19 | 0 | 
+19 |  | COVID-19 | 0 | 
+20 | 20 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:28:0, Body Aches:41:0, Runny/Stuffy Nose:45:0, Fatigue:15:0, Swollen Lymph Nodes:11:0, Swollen Tonsils:38:0, Decreased Appetite:11:0, Sore Throat:29:0, Cough:4:0, Fever:10:0
+--------------------------------------------------------------------------------

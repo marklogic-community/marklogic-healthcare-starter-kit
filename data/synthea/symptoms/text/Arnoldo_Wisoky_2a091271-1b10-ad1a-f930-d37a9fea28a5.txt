@@ -1,0 +1,59 @@
+Arnoldo Wisoky
+==============
+Race:                Asian
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1923-05-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+81 |  | Prediabetes | 0 | 
+81 |  | Refugee (person) | 0 | 
+81 | 82 | Not in labor force (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 | 82 | Social isolation (finding) | 0 | 
+82 | 82 | Viral sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:63:0, Pain with Bright Lights:27:0, Facial Swelling:28:0, Nasal Discharge:17:0, Nasal Congestion:18:0, Sore Throat:27:0, Fever:15:0, Cough:26:0
+82 |  | Prediabetes | 0 | 
+82 |  | Refugee (person) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+83 |  | Prediabetes | 0 | 
+83 |  | Refugee (person) | 0 | 
+83 | 90 | Limited social contact (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+84 | 84 | Injury of tendon of the rotator cuff of shoulder | 0 | 
+84 |  | Prediabetes | 0 | 
+84 |  | Refugee (person) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 | 86 | Stress (finding) | 0 | 
+85 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:20, Memory Loss:29:12:5, Decreased in Judgement:46, Decreased Communication:3, Decreased Attentiveness:6, Confusion:41
+85 |  | Prediabetes | 0 | 
+85 | 86 | Part-time employment (finding) | 0 | 
+85 |  | Refugee (person) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+86 |  | Prediabetes | 0 | 
+86 |  | Refugee (person) | 0 | 
+86 | 87 | Full-time employment (finding) | 0 | 
+86 |  | Received higher education (finding) | 0 | 
+87 | 87 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:36:0, Body Aches:42:0, Runny/Stuffy Nose:23:0, Fatigue:45:0, Swollen Lymph Nodes:4:0, Swollen Tonsils:3:0, Decreased Appetite:43:0, Sore Throat:20:0, Fever:44:0, Cough:22:0
+87 |  | Prediabetes | 0 | 
+87 |  | Refugee (person) | 0 | 
+87 | 88 | Full-time employment (finding) | 0 | 
+87 |  | Received higher education (finding) | 0 | 
+87 |  | Stress (finding) | 0 | 
+88 |  | Prediabetes | 0 | 
+88 |  | Refugee (person) | 0 | 
+88 | 89 | Full-time employment (finding) | 0 | 
+88 | 90 | Victim of intimate partner abuse (finding) | 0 | 
+88 |  | Received higher education (finding) | 0 | 
+88 | 90 | Stress (finding) | 0 | 
+89 |  | Prediabetes | 0 | 
+89 |  | Refugee (person) | 0 | 
+89 | 90 | Full-time employment (finding) | 0 | 
+89 |  | Received higher education (finding) | 0 | 
+90 |  | Prediabetes | 0 | 
+90 |  | Refugee (person) | 0 | 
+90 |  | Full-time employment (finding) | 0 | 
+90 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

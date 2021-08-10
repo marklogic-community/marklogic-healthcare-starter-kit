@@ -1,0 +1,16 @@
+Mohammed Mueller
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2011-12-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Acute bronchitis (disorder) | 10 | Body Aches:14:0, Diarrhea:1:0, Fatigue:74:0, Mucus:40:0, Nasal Congestion:25:0, Shortness of Breath:39:0, Nausea/Vomiting:3:0, Cough:29:0, Sore Throat:34:0, Fever:25:0
+2 | 2 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:21:0, Body Aches:15:0, Runny/Stuffy Nose:4:0, Fatigue:0:0, Swollen Lymph Nodes:55:0, Swollen Tonsils:21:0, Decreased Appetite:27:0, Cough:0:0, Sore Throat:32:0, Fever:27:0
+4 | 4 | Otitis media | 0 | 
+5 | 5 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:15:0, Fatigue:59:0, Mucus:39:0, Nasal Congestion:26:0, Shortness of Breath:44:0, Nausea/Vomiting:13:0, Cough:37:0, Sore Throat:34:0, Fever:25:0
+8 |  | Sore throat symptom (finding) | 1 | sore throat:1
+8 | 8 | Suspected COVID-19 | 0 | 
+8 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,78 @@
+Breann Ullrich
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1944-03-05
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 |  | Prediabetes | 0 | 
+67 |  | Has a criminal record (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 | 68 | Stress (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 76 | Reports of violence in the environment (finding) | 0 | 
+68 |  | Has a criminal record (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 | 71 | Polyp of colon | 0 | 
+70 | 70 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:14:0, Fatigue:69:0, Mucus:27:0, Nasal Congestion:39:0, Shortness of Breath:33:0, Nausea/Vomiting:13:0, Fever:38:0, Sore Throat:38:0, Cough:67:0
+70 |  | Prediabetes | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 70 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+70 |  | Social isolation (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 77 | Limited social contact (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 | 71 | Fracture of clavicle | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 73 | Full-time employment (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 | 74 | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+74 | 74 | Viral sinusitis (disorder) | 9 | Sinus Pain:69:0, Headache:1:0, Pain with Bright Lights:27:0, Facial Swelling:36:0, Nasal Discharge:12:0, Nasal Congestion:22:0, Fever:23:0, Sore Throat:1:0, Cough:17:0
+75 |  | Prediabetes | 0 | 
+75 | 76 | Part-time employment (finding) | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 | 76 | Stress (finding) | 0 | 
+75 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+75 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+75 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+75 | 75 | Suspected COVID-19 | 0 | 
+75 |  | COVID-19 | 0 | 
+75 |  | Acute respiratory failure (disorder) | 0 | 
+75 |  | Respiratory distress (finding) | 0 | 
+75 |  | Pneumonia (disorder) | 0 | 
+75 |  | Hypoxemia (disorder) | 0 | 
+76 |  | Acute pulmonary embolism (disorder) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 |  | Part-time employment (finding) | 0 | 
+77 |  | Reports of violence in the environment (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+Karry Davis
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2016-09-26
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+0 | 0 | Acute bronchitis (disorder) | 10 | Body Aches:16:0, Diarrhea:22:0, Fatigue:45:0, Mucus:48:0, Nasal Congestion:45:0, Shortness of Breath:65:0, Nausea/Vomiting:15:0, Cough:37:0, Sore Throat:39:0, Fever:33:0
+0 | 1 | Viral sinusitis (disorder) | 9 | Sinus Pain:63:0, Headache:18:0, Pain with Bright Lights:45:0, Facial Swelling:27:0, Nasal Discharge:44:0, Nasal Congestion:15:0, Cough:15:0, Sore Throat:30:0, Fever:19:0
+2 | 2 | Otitis media | 0 | 
+3 |  | Dyspnea (finding) | 3 | fever:1, dyspnea:1, cough:1
+3 |  | Fever (finding) | 3 | fever:1, dyspnea:1, cough:1
+3 |  | Wheezing (finding) | 3 | fever:1, dyspnea:1, cough:1
+3 |  | Cough (finding) | 3 | fever:1, dyspnea:1, cough:1
+3 | 3 | Suspected COVID-19 | 0 | 
+3 |  | COVID-19 | 0 | 
+4 | 4 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:13:0, Body Aches:19:0, Runny/Stuffy Nose:24:0, Fatigue:43:0, Swollen Lymph Nodes:32:0, Swollen Tonsils:60:0, Decreased Appetite:8:0, Cough:0:0, Sore Throat:22:0, Fever:48:0
+--------------------------------------------------------------------------------

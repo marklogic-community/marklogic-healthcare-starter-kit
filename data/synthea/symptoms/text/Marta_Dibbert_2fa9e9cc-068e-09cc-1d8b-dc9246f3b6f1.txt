@@ -1,0 +1,53 @@
+Marta Dibbert
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1997-10-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+14 |  | Impacted molars | 10 | Reduced Sex Drive:4, Slurred Speech:14, Shortness Constipation Breath:4, Anxiety:1, Pain Sensitivity:1, Confusion:9, Cognitive Difficulties:8, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:2
+14 |  | Impacted molars | 10 | Reduced Sex Drive:4, Slurred Speech:14, Shortness Constipation Breath:4, Anxiety:1, Pain Sensitivity:1, Confusion:9, Cognitive Difficulties:8, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:2
+14 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:4, Slurred Speech:14, Shortness Constipation Breath:4, Anxiety:1, Pain Sensitivity:1, Confusion:9, Cognitive Difficulties:8, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:2
+14 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:4, Slurred Speech:14, Shortness Constipation Breath:4, Anxiety:1, Pain Sensitivity:1, Confusion:9, Cognitive Difficulties:8, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:2
+14 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:4, Slurred Speech:14, Shortness Constipation Breath:4, Anxiety:1, Pain Sensitivity:1, Confusion:9, Cognitive Difficulties:8, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:2
+15 |  | Impacted molars | 10 | Reduced Sex Drive:4, Slurred Speech:14, Shortness Constipation Breath:4, Anxiety:1, Pain Sensitivity:1, Confusion:9, Cognitive Difficulties:8, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:2
+15 |  | Chronic intractable migraine without aura | 10 | Reduced Sex Drive:4, Slurred Speech:14, Shortness Constipation Breath:4, Anxiety:1, Pain Sensitivity:1, Confusion:9, Cognitive Difficulties:8, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:2
+15 |  | Chronic pain | 10 | Reduced Sex Drive:4, Slurred Speech:14, Shortness Constipation Breath:4, Anxiety:1, Pain Sensitivity:1, Confusion:9, Cognitive Difficulties:8, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:2
+15 | 15 | Viral sinusitis (disorder) | 9 | Headache:4:0, Sinus Pain:52:0, Pain with Bright Lights:49:0, Facial Swelling:28:0, Nasal Discharge:11:0, Nasal Congestion:11:0, Sore Throat:3:0, Fever:10:0, Cough:1:0
+15 |  | Chronic pain | 10 | Reduced Sex Drive:4, Slurred Speech:14, Shortness Constipation Breath:4, Anxiety:1, Pain Sensitivity:1, Confusion:9, Cognitive Difficulties:8, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:2
+16 |  | Impacted molars | 10 | Reduced Sex Drive:4, Slurred Speech:14, Shortness Constipation Breath:4, Anxiety:1, Pain Sensitivity:1, Confusion:9, Cognitive Difficulties:8, Shallow Breathing:8, Mood Swing:5, Nausea/Vomiting:2
+16 | 16 | Concussion with loss of consciousness | 0 | 
+16 |  | Drug overdose | 0 | 
+17 | 17 | Concussion with no loss of consciousness | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 |  | Drug overdose | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 | 23 | Victim of intimate partner abuse (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 | 20 | Stress (finding) | 0 | 
+20 | 20 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:44:0, Body Aches:38:0, Runny/Stuffy Nose:49:0, Fatigue:42:0, Swollen Lymph Nodes:37:0, Swollen Tonsils:13:0, Decreased Appetite:2:0, Sore Throat:34:0, Fever:25:0, Cough:43:0
+20 |  | Body mass index 30+ - obesity (finding) | 0 | 
+20 | 22 | Full-time employment (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+21 | 22 | Normal pregnancy | 0 | 
+22 |  | Drug overdose | 0 | 
+22 |  | Body mass index 30+ - obesity (finding) | 0 | 
+22 | 23 | Part-time employment (finding) | 0 | 
+22 | 23 | Limited social contact (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 |  | Chill (finding) | 3 | chills:1, fever:1, loss_of_taste:1
+22 |  | Fever (finding) | 3 | chills:1, fever:1, loss_of_taste:1
+22 |  | Loss of taste (finding) | 3 | chills:1, fever:1, loss_of_taste:1
+22 | 22 | Suspected COVID-19 | 0 | 
+22 |  | COVID-19 | 0 | 
+22 | 22 | Viral sinusitis (disorder) | 9 | Headache:13:0, Sinus Pain:57:0, Pain with Bright Lights:30:0, Facial Swelling:11:0, Nasal Discharge:25:0, Nasal Congestion:0:0, Sore Throat:36:0, Fever:5:0, Cough:28:0
+23 | 23 | Viral sinusitis (disorder) | 9 | Headache:13:0, Sinus Pain:64:0, Pain with Bright Lights:27:0, Facial Swelling:14:0, Nasal Discharge:24:0, Nasal Congestion:11:0, Sore Throat:47:0, Fever:17:0, Cough:26:0
+23 |  | Body mass index 30+ - obesity (finding) | 0 | 
+23 |  | Full-time employment (finding) | 0 | 
+23 |  | Received certificate of high school equivalency (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,62 @@
+Christoper Zemlak
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1976-03-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+35 | 36 | Part-time employment (finding) | 0 | 
+35 |  | Received certificate of high school equivalency (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received certificate of high school equivalency (finding) | 0 | 
+36 |  | Stress (finding) | 0 | 
+37 | 37 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:30:0, Runny/Stuffy Nose:33:0, Fatigue:20:0, Swollen Lymph Nodes:15:0, Swollen Tonsils:12:0, Decreased Appetite:19:0, Sore Throat:23:0, Fever:38:0, Cough:45:0
+37 |  | Body mass index 30+ - obesity (finding) | 0 | 
+37 | 37 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+37 | 38 | Stress (finding) | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 | 39 | Full-time employment (finding) | 0 | 
+38 |  | Received certificate of high school equivalency (finding) | 0 | 
+38 | 40 | Social isolation (finding) | 0 | 
+39 | 39 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:9:0, Runny/Stuffy Nose:47:0, Fatigue:14:0, Swollen Lymph Nodes:38:0, Swollen Tonsils:61:0, Decreased Appetite:39:0, Sore Throat:14:0, Fever:20:0, Cough:0:0
+39 | 40 | Full-time employment (finding) | 0 | 
+39 |  | Received certificate of high school equivalency (finding) | 0 | 
+39 | 41 | Stress (finding) | 0 | 
+40 | 40 | Full-time employment (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 | 40 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:40:0, Body Aches:32:0, Runny/Stuffy Nose:9:0, Fatigue:22:0, Swollen Lymph Nodes:11:0, Swollen Tonsils:29:0, Decreased Appetite:5:0, Sore Throat:15:0, Fever:43:0, Cough:28:0
+40 | 41 | Not in labor force (finding) | 0 | 
+40 |  | Received certificate of high school equivalency (finding) | 0 | 
+40 | 44 | Social isolation (finding) | 0 | 
+41 | 42 | Full-time employment (finding) | 0 | 
+41 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 |  | Body mass index 30+ - obesity (finding) | 0 | 
+42 | 43 | Part-time employment (finding) | 0 | 
+42 |  | Received certificate of high school equivalency (finding) | 0 | 
+42 |  | Stress (finding) | 0 | 
+43 | 43 | Viral sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:70:0, Pain with Bright Lights:27:0, Facial Swelling:26:0, Nasal Discharge:19:0, Nasal Congestion:4:0, Sore Throat:19:0, Fever:20:0, Cough:0:0
+43 |  | Body mass index 30+ - obesity (finding) | 0 | 
+43 | 43 | Part-time employment (finding) | 0 | 
+43 |  | Received certificate of high school equivalency (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+43 |  | Body mass index 30+ - obesity (finding) | 0 | 
+43 | 44 | Full-time employment (finding) | 0 | 
+43 |  | Received certificate of high school equivalency (finding) | 0 | 
+43 |  | Stress (finding) | 0 | 
+43 |  | Dyspnea (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+43 |  | Fever (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+43 |  | Sputum finding (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+43 |  | Wheezing (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+43 |  | Cough (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+43 |  | Loss of taste (finding) | 5 | fever:1, dyspnea:1, sputum production:1, loss_of_taste:1, cough:1
+43 | 43 | Suspected COVID-19 | 0 | 
+43 |  | COVID-19 | 0 | 
+44 |  | Body mass index 30+ - obesity (finding) | 0 | 
+44 |  | Part-time employment (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+Reid Hartmann
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1920-09-21
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+81 |  | Prediabetes | 0 | 
+81 | 82 | Part-time employment (finding) | 0 | 
+81 |  | Has a criminal record (finding) | 0 | 
+81 |  | Received higher education (finding) | 0 | 
+81 | 82 | Stress (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 |  | Has a criminal record (finding) | 0 | 
+82 | 83 | Full-time employment (finding) | 0 | 
+82 |  | Received higher education (finding) | 0 | 
+83 |  | Prediabetes | 0 | 
+83 |  | Has a criminal record (finding) | 0 | 
+83 | 84 | Full-time employment (finding) | 0 | 
+83 |  | Received higher education (finding) | 0 | 
+83 | 84 | Stress (finding) | 0 | 
+84 |  | Prediabetes | 0 | 
+84 |  | Has a criminal record (finding) | 0 | 
+84 | 85 | Full-time employment (finding) | 0 | 
+84 |  | Received higher education (finding) | 0 | 
+84 | 90 | Social isolation (finding) | 0 | 
+85 |  | Prediabetes | 0 | 
+85 |  | Has a criminal record (finding) | 0 | 
+85 | 86 | Full-time employment (finding) | 0 | 
+85 |  | Received higher education (finding) | 0 | 
+85 |  | Stress (finding) | 0 | 
+86 |  | Prediabetes | 0 | 
+86 | 87 | Not in labor force (finding) | 0 | 
+86 |  | Has a criminal record (finding) | 0 | 
+86 | 90 | Victim of intimate partner abuse (finding) | 0 | 
+86 |  | Received higher education (finding) | 0 | 
+86 |  | Stress (finding) | 0 | 
+87 |  | Prediabetes | 0 | 
+87 |  | Has a criminal record (finding) | 0 | 
+87 | 88 | Full-time employment (finding) | 0 | 
+87 |  | Received higher education (finding) | 0 | 
+87 | 89 | Stress (finding) | 0 | 
+88 |  | Prediabetes | 0 | 
+88 |  | Has a criminal record (finding) | 0 | 
+88 | 89 | Full-time employment (finding) | 0 | 
+88 |  | Received higher education (finding) | 0 | 
+89 |  | Prediabetes | 0 | 
+89 |  | Has a criminal record (finding) | 0 | 
+89 | 90 | Full-time employment (finding) | 0 | 
+89 |  | Received higher education (finding) | 0 | 
+90 |  | Prediabetes | 0 | 
+90 |  | Part-time employment (finding) | 0 | 
+90 |  | Has a criminal record (finding) | 0 | 
+90 |  | Received higher education (finding) | 0 | 
+90 |  | Stress (finding) | 0 | 
+90 |  | Pneumonia | 0 | 
+--------------------------------------------------------------------------------

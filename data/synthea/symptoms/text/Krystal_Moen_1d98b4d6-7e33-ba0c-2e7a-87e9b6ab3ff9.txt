@@ -1,0 +1,59 @@
+Krystal Moen
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1990-10-20
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+21 | 22 | Full-time employment (finding) | 0 | 
+21 |  | Received higher education (finding) | 0 | 
+22 |  | Limited social contact (finding) | 0 | 
+22 | 30 | Reports of violence in the environment (finding) | 0 | 
+22 | 23 | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 | 27 | Misuses drugs (finding) | 0 | 
+23 |  | Limited social contact (finding) | 0 | 
+23 | 24 | Full-time employment (finding) | 0 | 
+23 |  | Received higher education (finding) | 0 | 
+23 |  | Stress (finding) | 0 | 
+24 | 25 | Limited social contact (finding) | 0 | 
+24 | 25 | Full-time employment (finding) | 0 | 
+24 |  | Received higher education (finding) | 0 | 
+24 |  | Stress (finding) | 0 | 
+25 | 26 | Full-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 | 28 | Stress (finding) | 0 | 
+25 | 28 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+26 | 26 | Full-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 |  | Social isolation (finding) | 0 | 
+26 | 26 | Viral sinusitis (disorder) | 9 | Headache:22:0, Sinus Pain:57:0, Pain with Bright Lights:49:0, Facial Swelling:47:0, Nasal Discharge:46:0, Nasal Congestion:6:0, Sore Throat:3:0, Cough:33:0, Fever:22:0
+26 | 26 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:9:0, Fatigue:51:0, Mucus:27:0, Nasal Congestion:30:0, Shortness of Breath:62:0, Nausea/Vomiting:20:0, Sore Throat:40:0, Cough:42:0, Fever:30:0
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 | 30 | Social isolation (finding) | 0 | 
+27 | 28 | Part-time employment (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 27 | Acute bronchitis (disorder) | 10 | Body Aches:10:0, Diarrhea:1:0, Fatigue:36:0, Mucus:42:0, Nasal Congestion:48:0, Shortness of Breath:60:0, Nausea/Vomiting:20:0, Sore Throat:45:0, Cough:55:0, Fever:27:0
+28 | 29 | Part-time employment (finding) | 0 | 
+28 |  | Victim of intimate partner abuse (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 | 30 | Victim of intimate partner abuse (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 | 30 | Stress (finding) | 0 | 
+29 |  | Fever (finding) | 2 | fatigue:1, fever:1
+29 |  | Fatigue (finding) | 2 | fatigue:1, fever:1
+29 | 29 | Suspected COVID-19 | 0 | 
+29 |  | COVID-19 | 0 | 
+29 |  | Respiratory distress (finding) | 0 | 
+29 |  | Pneumonia (disorder) | 0 | 
+29 |  | Hypoxemia (disorder) | 0 | 
+29 |  | Acute deep venous thrombosis (disorder) | 0 | 
+29 | 29 | Viral sinusitis (disorder) | 9 | Headache:29:0, Sinus Pain:52:0, Pain with Bright Lights:37:0, Facial Swelling:45:0, Nasal Discharge:33:0, Nasal Congestion:5:0, Sore Throat:15:0, Cough:8:0, Fever:18:0
+30 |  | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Victim of intimate partner abuse (finding) | 0 | 
+30 | 30 | Viral sinusitis (disorder) | 9 | Headache:29:0, Sinus Pain:64:0, Pain with Bright Lights:42:0, Facial Swelling:2:0, Nasal Discharge:48:0, Nasal Congestion:2:0, Sore Throat:33:0, Cough:11:0, Fever:17:0
+--------------------------------------------------------------------------------

@@ -1,0 +1,82 @@
+Vera Hermiston
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1982-09-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+29 |  | Prediabetes | 0 | 
+29 | 30 | Part-time employment (finding) | 0 | 
+29 |  | Has a criminal record (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+29 | 38 | Misuses drugs (finding) | 0 | 
+30 |  | Prediabetes | 0 | 
+30 |  | Has a criminal record (finding) | 0 | 
+30 | 31 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 |  | Prediabetes | 0 | 
+31 |  | Has a criminal record (finding) | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+31 |  | Chronic low back pain (finding) | 0 | 
+31 |  | Fibromyalgia (disorder) | 0 | 
+31 |  | Chronic low back pain (finding) | 0 | 
+31 |  | Fibromyalgia (disorder) | 0 | 
+31 |  | Chronic low back pain (finding) | 0 | 
+31 |  | Fibromyalgia (disorder) | 0 | 
+31 |  | Chronic low back pain (finding) | 0 | 
+31 |  | Fibromyalgia (disorder) | 0 | 
+32 |  | Prediabetes | 0 | 
+32 |  | Has a criminal record (finding) | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 | 33 | Stress (finding) | 0 | 
+32 | 32 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:11:0, Pain with Bright Lights:33:0, Facial Swelling:7:0, Nasal Discharge:12:0, Nasal Congestion:13:0, Cough:2:0, Sore Throat:9:0, Fever:1:0
+32 | 33 | Fracture of rib | 0 | 
+33 |  | Prediabetes | 0 | 
+33 | 34 | Part-time employment (finding) | 0 | 
+33 |  | Has a criminal record (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+33 | 38 | Severe anxiety (panic) (finding | 0 | 
+34 |  | Prediabetes | 0 | 
+34 |  | Has a criminal record (finding) | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+34 |  | Victim of intimate partner abuse (finding) | 0 | 
+34 | 35 | Normal pregnancy | 0 | 
+35 |  | Prediabetes | 0 | 
+35 | 35 | Part-time employment (finding) | 0 | 
+35 |  | Has a criminal record (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 | 35 | Stress (finding) | 0 | 
+35 | 35 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:10:0, Body Aches:5:0, Runny/Stuffy Nose:27:0, Fatigue:45:0, Swollen Lymph Nodes:30:0, Swollen Tonsils:17:0, Decreased Appetite:16:0, Cough:19:0, Sore Throat:35:0, Fever:9:0
+35 | 35 | Acute bronchitis (disorder) | 10 | Body Aches:20:0, Diarrhea:7:0, Fatigue:63:0, Mucus:46:0, Nasal Congestion:43:0, Shortness of Breath:36:0, Nausea/Vomiting:14:0, Cough:37:0, Sore Throat:36:0, Fever:43:0
+35 |  | Prediabetes | 0 | 
+35 |  | Has a criminal record (finding) | 0 | 
+35 | 36 | Full-time employment (finding) | 0 | 
+35 | 38 | Victim of intimate partner abuse (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+36 |  | Prediabetes | 0 | 
+36 |  | Has a criminal record (finding) | 0 | 
+36 | 37 | Full-time employment (finding) | 0 | 
+36 |  | Received higher education (finding) | 0 | 
+36 | 37 | Stress (finding) | 0 | 
+37 | 37 | Normal pregnancy | 0 | 
+37 |  | Miscarriage in first trimester | 0 | 
+37 | 37 | Fetus with unknown complication | 0 | 
+37 |  | Prediabetes | 0 | 
+37 |  | Has a criminal record (finding) | 0 | 
+37 | 38 | Full-time employment (finding) | 0 | 
+37 |  | Received higher education (finding) | 0 | 
+38 |  | Prediabetes | 0 | 
+38 |  | Has a criminal record (finding) | 0 | 
+38 |  | Full-time employment (finding) | 0 | 
+38 |  | Received higher education (finding) | 0 | 
+38 |  | Social isolation (finding) | 0 | 
+38 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

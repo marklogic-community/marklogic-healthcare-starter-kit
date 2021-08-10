@@ -1,0 +1,20 @@
+Glen Hagenes
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2007-11-17
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+4 | 4 | Otitis media | 0 | 
+6 | 6 | Acute bronchitis (disorder) | 10 | Body Aches:5:0, Diarrhea:12:0, Fatigue:73:0, Mucus:33:0, Nasal Congestion:39:0, Shortness of Breath:37:0, Nausea/Vomiting:2:0, Cough:50:0, Sore Throat:45:0, Fever:41:0
+6 | 6 | Sprain of ankle | 0 | 
+8 | 9 | Second degree burn | 0 | 
+11 | 11 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:18:0, Runny/Stuffy Nose:24:0, Fatigue:2:0, Swollen Lymph Nodes:10:0, Swollen Tonsils:21:0, Decreased Appetite:18:0, Cough:23:0, Sore Throat:46:0, Fever:14:0
+12 |  | Chill (finding) | 4 | chills:1, fever:1, cough:1, diarrhea:1
+12 |  | Fever (finding) | 4 | chills:1, fever:1, cough:1, diarrhea:1
+12 |  | Cough (finding) | 4 | chills:1, fever:1, cough:1, diarrhea:1
+12 |  | Diarrhea symptom (finding) | 4 | chills:1, fever:1, cough:1, diarrhea:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

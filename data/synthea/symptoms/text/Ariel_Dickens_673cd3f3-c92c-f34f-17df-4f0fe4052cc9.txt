@@ -1,0 +1,62 @@
+Ariel Dickens
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1961-02-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Transport problems (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 | 53 | Stress (finding) | 0 | 
+51 | 54 | Reports of violence in the environment (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Transport problems (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Transport problems (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Transport problems (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 | 59 | Limited social contact (finding) | 0 | 
+54 | 55 | Full-time employment (finding) | 0 | 
+54 |  | Transport problems (finding) | 0 | 
+54 |  | Received certificate of high school equivalency (finding) | 0 | 
+54 |  | Stress (finding) | 0 | 
+55 | 55 | Acute bronchitis (disorder) | 10 | Body Aches:6:0, Diarrhea:16:0, Fatigue:45:0, Mucus:47:0, Nasal Congestion:32:0, Shortness of Breath:58:0, Nausea/Vomiting:22:0, Sore Throat:47:0, Fever:39:0, Cough:61:0
+55 | 59 | Reports of violence in the environment (finding) | 0 | 
+55 | 55 | Full-time employment (finding) | 0 | 
+55 |  | Lack of access to transportation (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+55 | 56 | Full-time employment (finding) | 0 | 
+55 |  | Lack of access to transportation (finding) | 0 | 
+55 |  | Received certificate of high school equivalency (finding) | 0 | 
+55 |  | Stress (finding) | 0 | 
+56 | 57 | Full-time employment (finding) | 0 | 
+56 |  | Lack of access to transportation (finding) | 0 | 
+56 |  | Received certificate of high school equivalency (finding) | 0 | 
+56 |  | Stress (finding) | 0 | 
+57 | 58 | Full-time employment (finding) | 0 | 
+57 |  | Transport problems (finding) | 0 | 
+57 |  | Received certificate of high school equivalency (finding) | 0 | 
+57 |  | Stress (finding) | 0 | 
+57 | 59 | Severe anxiety (panic) (finding | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Lack of access to transportation (finding) | 0 | 
+58 |  | Received certificate of high school equivalency (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+59 |  | Fever (finding) | 5 | fatigue:1, fever:1, sputum production:1, headache:1, loss_of_taste:1
+59 |  | Sputum finding (finding) | 5 | fatigue:1, fever:1, sputum production:1, headache:1, loss_of_taste:1
+59 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, sputum production:1, headache:1, loss_of_taste:1
+59 |  | Headache (finding) | 5 | fatigue:1, fever:1, sputum production:1, headache:1, loss_of_taste:1
+59 |  | Loss of taste (finding) | 5 | fatigue:1, fever:1, sputum production:1, headache:1, loss_of_taste:1
+59 | 59 | Suspected COVID-19 | 0 | 
+59 |  | COVID-19 | 0 | 
+59 |  | Full-time employment (finding) | 0 | 
+59 |  | Lack of access to transportation (finding) | 0 | 
+59 |  | Received certificate of high school equivalency (finding) | 0 | 
+59 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

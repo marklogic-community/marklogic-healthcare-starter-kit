@@ -1,0 +1,76 @@
+Mary Bednar
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1985-05-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+26 |  | Prediabetes | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received higher education (finding) | 0 | 
+26 | 27 | Stress (finding) | 0 | 
+27 |  | Prediabetes | 0 | 
+27 | 35 | Reports of violence in the environment (finding) | 0 | 
+27 | 27 | Full-time employment (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 27 | Acute bronchitis (disorder) | 10 | Body Aches:7:0, Diarrhea:3:0, Fatigue:60:0, Mucus:35:0, Nasal Congestion:40:0, Shortness of Breath:57:0, Nausea/Vomiting:15:0, Sore Throat:37:0, Fever:26:0, Cough:42:0
+27 |  | Prediabetes | 0 | 
+27 | 28 | Part-time employment (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 | 30 | Social isolation (finding) | 0 | 
+28 |  | Prediabetes | 0 | 
+28 |  | Anemia (disorder) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 | 28 | Stress (finding) | 0 | 
+28 | 28 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:46:0, Body Aches:28:0, Runny/Stuffy Nose:44:0, Fatigue:0:0, Swollen Lymph Nodes:5:0, Swollen Tonsils:34:0, Decreased Appetite:17:0, Sore Throat:15:0, Fever:35:0, Cough:24:0
+28 |  | Prediabetes | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Chronic low back pain (finding) | 0 | 
+28 |  | Chronic neck pain (finding) | 0 | 
+29 |  | Prediabetes | 0 | 
+29 | 30 | Not in labor force (finding) | 0 | 
+29 |  | Received higher education (finding) | 0 | 
+29 |  | Stress (finding) | 0 | 
+30 | 30 | Viral sinusitis (disorder) | 9 | Headache:2:0, Sinus Pain:76:0, Pain with Bright Lights:46:0, Facial Swelling:19:0, Nasal Discharge:35:0, Nasal Congestion:10:0, Sore Throat:34:0, Fever:20:0, Cough:7:0
+30 |  | Prediabetes | 0 | 
+30 | 30 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+30 |  | Prediabetes | 0 | 
+30 | 30 | Full-time employment (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+30 | 30 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:9:0, Fatigue:74:0, Mucus:34:0, Nasal Congestion:43:0, Shortness of Breath:26:0, Nausea/Vomiting:4:0, Sore Throat:37:0, Fever:47:0, Cough:64:0
+30 |  | Prediabetes | 0 | 
+30 | 31 | Part-time employment (finding) | 0 | 
+30 | 35 | Limited social contact (finding) | 0 | 
+30 |  | Received higher education (finding) | 0 | 
+30 |  | Stress (finding) | 0 | 
+31 |  | Prediabetes | 0 | 
+31 | 32 | Full-time employment (finding) | 0 | 
+31 |  | Received higher education (finding) | 0 | 
+31 |  | Stress (finding) | 0 | 
+32 |  | Prediabetes | 0 | 
+32 | 33 | Full-time employment (finding) | 0 | 
+32 |  | Received higher education (finding) | 0 | 
+32 | 33 | Stress (finding) | 0 | 
+32 | 32 | Viral sinusitis (disorder) | 9 | Headache:35:0, Sinus Pain:77:0, Pain with Bright Lights:29:0, Facial Swelling:43:0, Nasal Discharge:46:0, Nasal Congestion:4:0, Sore Throat:44:0, Fever:6:0, Cough:21:0
+33 |  | Prediabetes | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Received higher education (finding) | 0 | 
+34 |  | Prediabetes | 0 | 
+34 | 35 | Full-time employment (finding) | 0 | 
+34 |  | Received higher education (finding) | 0 | 
+34 |  | Stress (finding) | 0 | 
+34 | 34 | Acute bronchitis (disorder) | 10 | Body Aches:19:0, Diarrhea:11:0, Fatigue:65:0, Mucus:31:0, Nasal Congestion:32:0, Shortness of Breath:36:0, Nausea/Vomiting:2:0, Sore Throat:34:0, Fever:30:0, Cough:41:0
+34 |  | Fever (finding) | 2 | sore throat:1, fever:1
+34 |  | Sore throat symptom (finding) | 2 | sore throat:1, fever:1
+34 | 34 | Suspected COVID-19 | 0 | 
+34 |  | COVID-19 | 0 | 
+35 |  | Prediabetes | 0 | 
+35 |  | Full-time employment (finding) | 0 | 
+35 |  | Received higher education (finding) | 0 | 
+35 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

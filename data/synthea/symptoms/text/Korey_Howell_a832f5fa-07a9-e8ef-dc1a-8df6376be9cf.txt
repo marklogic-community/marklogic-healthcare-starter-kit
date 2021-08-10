@@ -1,0 +1,31 @@
+Korey Howell
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2000-12-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+11 |  | Body mass index 30+ - obesity (finding) | 0 | 
+12 | 12 | Viral sinusitis (disorder) | 9 | Sinus Pain:52:0, Headache:38:0, Pain with Bright Lights:31:0, Facial Swelling:40:0, Nasal Discharge:9:0, Nasal Congestion:22:0, Fever:19:0, Sore Throat:19:0, Cough:3:0
+12 | 12 | Sinusitis (disorder) | 9 | Sinus Pain:32:0, Headache:40:0, Pain with Bright Lights:29:0, Facial Swelling:34:0, Nasal Discharge:25:0, Nasal Congestion:7:0, Fever:4:0, Sore Throat:36:0, Cough:2:0
+12 | 12 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:37:0, Body Aches:2:0, Runny/Stuffy Nose:45:0, Fatigue:24:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:23:0, Decreased Appetite:26:0, Fever:43:0, Sore Throat:9:0, Cough:0:0
+13 | 14 | Risk activity involvement (finding) | 0 | 
+14 |  | Body mass index 30+ - obesity (finding) | 0 | 
+15 |  | Body mass index 30+ - obesity (finding) | 0 | 
+15 | 17 | Risk activity involvement (finding) | 0 | 
+16 |  | Body mass index 30+ - obesity (finding) | 0 | 
+16 | 16 | Concussion with no loss of consciousness | 0 | 
+16 | 16 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:37:0, Body Aches:0:0, Runny/Stuffy Nose:10:0, Fatigue:7:0, Swollen Lymph Nodes:26:0, Swollen Tonsils:4:0, Decreased Appetite:32:0, Fever:18:0, Sore Throat:30:0, Cough:45:0
+17 | 17 | Viral sinusitis (disorder) | 9 | Sinus Pain:73:0, Headache:48:0, Pain with Bright Lights:31:0, Facial Swelling:10:0, Nasal Discharge:2:0, Nasal Congestion:20:0, Fever:23:0, Sore Throat:30:0, Cough:43:0
+17 | 17 | Laceration of thigh | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+19 |  | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Social isolation (finding) | 0 | 
+19 |  | Fever (finding) | 3 | fever:1, headache:1, cough:1
+19 |  | Headache (finding) | 3 | fever:1, headache:1, cough:1
+19 |  | Cough (finding) | 3 | fever:1, headache:1, cough:1
+19 | 19 | Suspected COVID-19 | 0 | 
+--------------------------------------------------------------------------------

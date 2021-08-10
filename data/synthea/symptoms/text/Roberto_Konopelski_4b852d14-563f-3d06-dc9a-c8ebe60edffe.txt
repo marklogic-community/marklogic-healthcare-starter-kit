@@ -1,0 +1,60 @@
+Roberto Konopelski
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1937-07-23
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+69 |  | Prediabetes | 0 | 
+69 |  | Has a criminal record (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 | 72 | Part-time employment (finding) | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 | 73 | Not in labor force (finding) | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 78 | Victim of intimate partner abuse (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 |  | Has a criminal record (finding) | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received higher education (finding) | 0 | 
+74 |  | Polyp of colon | 0 | 
+75 |  | Prediabetes | 0 | 
+75 |  | Has a criminal record (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received higher education (finding) | 0 | 
+75 | 77 | Stress (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 |  | Has a criminal record (finding) | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received higher education (finding) | 0 | 
+76 |  | Recurrent rectal polyp | 0 | 
+76 |  | Overlapping malignant neoplasm of colon | 0 | 
+76 |  | Chronic low back pain (finding) | 0 | 
+76 |  | Chronic low back pain (finding) | 0 | 
+76 |  | Chronic low back pain (finding) | 0 | 
+77 |  | Chronic low back pain (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 | 78 | Not in labor force (finding) | 0 | 
+77 |  | Has a criminal record (finding) | 0 | 
+77 |  | Received higher education (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 |  | Has a criminal record (finding) | 0 | 
+78 |  | Full-time employment (finding) | 0 | 
+78 |  | Received higher education (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 |  | Pneumonia | 0 | 
+--------------------------------------------------------------------------------

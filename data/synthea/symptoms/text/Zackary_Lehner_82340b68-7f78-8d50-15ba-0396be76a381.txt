@@ -1,0 +1,37 @@
+Zackary Lehner
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1996-05-03
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+17 | 17 | Acute bronchitis (disorder) | 10 | Body Aches:15:0, Diarrhea:10:0, Fatigue:59:0, Mucus:46:0, Nasal Congestion:33:0, Shortness of Breath:39:0, Nausea/Vomiting:12:0, Cough:68:0, Sore Throat:47:0, Fever:44:0
+18 |  | Served in armed forces (finding) | 0 | 
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 18 | Viral sinusitis (disorder) | 9 | Sinus Pain:72:0, Headache:2:0, Pain with Bright Lights:29:0, Facial Swelling:27:0, Nasal Discharge:32:0, Nasal Congestion:0:0, Cough:4:0, Sore Throat:15:0, Fever:9:0
+18 | 18 | Facial laceration | 0 | 
+19 |  | Served in armed forces (finding) | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 | 22 | Social isolation (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+22 | 22 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:12:0, Runny/Stuffy Nose:4:0, Fatigue:37:0, Swollen Lymph Nodes:1:0, Swollen Tonsils:23:0, Decreased Appetite:16:0, Cough:14:0, Sore Throat:26:0, Fever:12:0
+22 |  | Served in armed forces (finding) | 0 | 
+22 | 22 | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+22 | 22 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:48:0, Body Aches:12:0, Runny/Stuffy Nose:28:0, Fatigue:38:0, Swollen Lymph Nodes:40:0, Swollen Tonsils:66:0, Decreased Appetite:21:0, Cough:0:0, Sore Throat:30:0, Fever:36:0
+22 |  | Part-time employment (finding) | 0 | 
+22 |  | Served in armed forces (finding) | 0 | 
+22 |  | Limited social contact (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+23 |  | Fever (finding) | 2 | fever:1, cough:1
+23 |  | Cough (finding) | 2 | fever:1, cough:1
+23 | 23 | Suspected COVID-19 | 0 | 
+23 |  | COVID-19 | 0 | 
+24 | 24 | Viral sinusitis (disorder) | 9 | Sinus Pain:53:0, Headache:34:0, Pain with Bright Lights:32:0, Facial Swelling:12:0, Nasal Discharge:42:0, Nasal Congestion:12:0, Cough:16:0, Sore Throat:5:0, Fever:17:0
+--------------------------------------------------------------------------------

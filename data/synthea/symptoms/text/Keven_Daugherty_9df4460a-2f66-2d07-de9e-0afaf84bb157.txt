@@ -1,0 +1,57 @@
+Keven Daugherty
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1969-03-16
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+44 |  | Prediabetes | 0 | 
+44 |  | Unemployed (finding) | 0 | 
+44 |  | Received higher education (finding) | 0 | 
+44 |  | Chronic low back pain (finding) | 0 | 
+44 |  | Chronic neck pain (finding) | 0 | 
+45 |  | Prediabetes | 0 | 
+45 | 46 | Limited social contact (finding) | 0 | 
+45 |  | Unemployed (finding) | 0 | 
+45 |  | Received higher education (finding) | 0 | 
+46 |  | Prediabetes | 0 | 
+46 |  | Unemployed (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+47 |  | Prediabetes | 0 | 
+47 |  | Unemployed (finding) | 0 | 
+47 |  | Received higher education (finding) | 0 | 
+47 |  | Stress (finding) | 0 | 
+47 | 52 | Social isolation (finding) | 0 | 
+48 |  | Prediabetes | 0 | 
+48 |  | Unemployed (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 | 52 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+49 |  | Prediabetes | 0 | 
+49 |  | Unemployed (finding) | 0 | 
+49 |  | Received higher education (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+49 | 49 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:13:0, Fatigue:37:0, Mucus:46:0, Nasal Congestion:32:0, Shortness of Breath:40:0, Nausea/Vomiting:2:0, Fever:34:0, Sore Throat:34:0, Cough:25:0
+50 |  | Prediabetes | 0 | 
+50 |  | Unemployed (finding) | 0 | 
+50 | 52 | Victim of intimate partner abuse (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 |  | Stress (finding) | 0 | 
+50 |  | Fever (finding) | 3 | fatigue:1, fever:1, loss_of_taste:1
+50 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, loss_of_taste:1
+50 |  | Loss of taste (finding) | 3 | fatigue:1, fever:1, loss_of_taste:1
+50 | 50 | Suspected COVID-19 | 0 | 
+50 |  | COVID-19 | 0 | 
+50 |  | Respiratory distress (finding) | 0 | 
+50 |  | Pneumonia (disorder) | 0 | 
+50 |  | Hypoxemia (disorder) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Unemployed (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+51 | 52 | Stress (finding) | 0 | 
+52 |  | Prediabetes | 0 | 
+52 |  | Unemployed (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

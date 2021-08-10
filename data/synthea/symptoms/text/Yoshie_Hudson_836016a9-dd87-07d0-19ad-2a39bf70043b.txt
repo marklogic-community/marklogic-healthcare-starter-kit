@@ -1,0 +1,59 @@
+Yoshie Hudson
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1936-04-10
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+64 |  | Prediabetes | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 |  | Stress (finding) | 0 | 
+64 | 64 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:41:0, Body Aches:25:0, Runny/Stuffy Nose:37:0, Fatigue:18:0, Swollen Lymph Nodes:11:0, Swollen Tonsils:33:0, Decreased Appetite:0:0, Sore Throat:48:0, Cough:5:0, Fever:23:0
+65 |  | Prediabetes | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 | 68 | Stress (finding) | 0 | 
+66 | 66 | Viral sinusitis (disorder) | 9 | Headache:36:0, Sinus Pain:54:0, Pain with Bright Lights:44:0, Facial Swelling:21:0, Nasal Discharge:31:0, Nasal Congestion:2:0, Sore Throat:26:0, Cough:14:0, Fever:23:0
+67 |  | Prediabetes | 0 | 
+67 | 73 | Reports of violence in the environment (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+68 |  | Prediabetes | 0 | 
+68 | 73 | Limited social contact (finding) | 0 | 
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+69 |  | Prediabetes | 0 | 
+69 | 70 | Not in labor force (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 | 70 | Stress (finding) | 0 | 
+70 |  | Prediabetes | 0 | 
+70 | 70 | Part-time employment (finding) | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 | 70 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:20:0, Runny/Stuffy Nose:39:0, Fatigue:48:0, Swollen Lymph Nodes:22:0, Swollen Tonsils:29:0, Decreased Appetite:27:0, Sore Throat:25:0, Cough:47:0, Fever:47:0
+70 |  | Prediabetes | 0 | 
+70 |  | Has a criminal record (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 | 71 | Stress (finding) | 0 | 
+71 |  | Prediabetes | 0 | 
+71 |  | Has a criminal record (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+72 |  | Prediabetes | 0 | 
+72 |  | Has a criminal record (finding) | 0 | 
+72 | 73 | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+73 |  | Prediabetes | 0 | 
+73 |  | Part-time employment (finding) | 0 | 
+73 |  | Has a criminal record (finding) | 0 | 
+73 |  | Received higher education (finding) | 0 | 
+73 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

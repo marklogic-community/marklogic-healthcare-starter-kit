@@ -1,0 +1,33 @@
+Lucille Shanahan
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1994-12-22
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+17 |  | Risk activity involvement (finding) | 0 | 
+18 | 19 | Not in labor force (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+18 |  | Stress (finding) | 0 | 
+18 | 19 | Normal pregnancy | 0 | 
+19 |  | Anemia (disorder) | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+21 | 21 | Normal pregnancy | 0 | 
+22 |  | Limited social contact (finding) | 0 | 
+22 | 25 | Full-time employment (finding) | 0 | 
+22 |  | Received certificate of high school equivalency (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+25 |  | Part-time employment (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 |  | Social isolation (finding) | 0 | 
+25 |  | Unhealthy alcohol drinking behavior (finding) | 0 | 
+25 |  | Fever (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+25 |  | Sputum finding (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+25 |  | Loss of taste (finding) | 3 | fever:1, sputum production:1, loss_of_taste:1
+25 | 25 | Suspected COVID-19 | 0 | 
+25 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

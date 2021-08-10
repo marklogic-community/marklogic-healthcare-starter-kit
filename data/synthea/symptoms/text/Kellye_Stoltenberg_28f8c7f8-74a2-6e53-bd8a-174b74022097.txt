@@ -1,0 +1,19 @@
+Kellye Stoltenberg
+==================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2006-11-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+8 | 8 | Acute bronchitis (disorder) | 10 | Body Aches:11:0, Diarrhea:11:0, Fatigue:27:0, Mucus:38:0, Nasal Congestion:38:0, Shortness of Breath:36:0, Nausea/Vomiting:1:0, Sore Throat:39:0, Cough:27:0, Fever:30:0
+9 | 9 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:20:0, Runny/Stuffy Nose:49:0, Fatigue:21:0, Swollen Lymph Nodes:39:0, Swollen Tonsils:40:0, Decreased Appetite:33:0, Sore Throat:18:0, Cough:20:0, Fever:28:0
+9 | 9 | Injury of tendon of the rotator cuff of shoulder | 0 | 
+11 | 11 | Viral sinusitis (disorder) | 9 | Headache:15:0, Sinus Pain:68:0, Pain with Bright Lights:33:0, Facial Swelling:2:0, Nasal Discharge:22:0, Nasal Congestion:20:0, Sore Throat:13:0, Cough:46:0, Fever:9:0
+13 |  | Fever (finding) | 4 | fatigue:1, fever:1, headache:1, loss_of_taste:1
+13 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, headache:1, loss_of_taste:1
+13 |  | Headache (finding) | 4 | fatigue:1, fever:1, headache:1, loss_of_taste:1
+13 |  | Loss of taste (finding) | 4 | fatigue:1, fever:1, headache:1, loss_of_taste:1
+13 | 13 | Suspected COVID-19 | 0 | 
+13 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

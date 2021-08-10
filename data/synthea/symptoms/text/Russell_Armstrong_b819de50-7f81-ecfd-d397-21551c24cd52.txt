@@ -1,0 +1,63 @@
+Russell Armstrong
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1938-07-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+73 |  | Prediabetes | 0 | 
+73 | 74 | Part-time employment (finding) | 0 | 
+73 |  | Received certificate of high school equivalency (finding) | 0 | 
+73 | 75 | Stress (finding) | 0 | 
+74 |  | Prediabetes | 0 | 
+74 | 75 | Not in labor force (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 |  | Chronic low back pain (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Prediabetes | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 79 | Part-time employment (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+78 | 79 | Fracture of rib | 0 | 
+79 |  | Prediabetes | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 | 80 | Stress (finding) | 0 | 
+80 |  | Prediabetes | 0 | 
+80 | 81 | Full-time employment (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 | 82 | Limited social contact (finding) | 0 | 
+81 | 82 | Not in labor force (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 | 82 | Stress (finding) | 0 | 
+81 | 81 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:2:0, Runny/Stuffy Nose:32:0, Fatigue:3:0, Swollen Lymph Nodes:18:0, Swollen Tonsils:41:0, Decreased Appetite:35:0, Sore Throat:36:0, Fever:25:0, Cough:12:0
+81 |  | Fever (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+81 |  | Sputum finding (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+81 |  | Fatigue (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+81 |  | Nasal congestion (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+81 |  | Cough (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+81 |  | Loss of taste (finding) | 6 | fatigue:1, nasal congestion:1, fever:1, sputum production:1, loss_of_taste:1, cough:1
+81 | 81 | Suspected COVID-19 | 0 | 
+81 |  | COVID-19 | 0 | 
+82 |  | Prediabetes | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Viral sinusitis (disorder) | 9 | Headache:18, Sinus Pain:51, Pain with Bright Lights:35, Facial Swelling:22, Nasal Discharge:40, Nasal Congestion:20, Sore Throat:1, Fever:9, Cough:4
+82 |  | Prediabetes | 0 | 
+82 |  | Full-time employment (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+82 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,71 @@
+Ahmad Quitzon
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1947-05-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+64 | 65 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:35:0, Body Aches:49:0, Runny/Stuffy Nose:16:0, Fatigue:47:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:10:0, Decreased Appetite:11:0, Sore Throat:34:0, Fever:4:0, Cough:29:0
+65 | 65 | Part-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 | 65 | Viral sinusitis (disorder) | 9 | Headache:3:0, Sinus Pain:66:0, Pain with Bright Lights:39:0, Facial Swelling:5:0, Nasal Discharge:36:0, Nasal Congestion:21:0, Sore Throat:46:0, Fever:11:0, Cough:27:0
+65 |  | Alzheimer's disease (disorder) | 6 | Decreased Visual Perception:45, Memory Loss:10:24:11:35, Decreased in Judgement:3, Decreased Communication:17, Decreased Attentiveness:32, Confusion:13
+66 | 67 | Full-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+66 | 72 | Social isolation (finding) | 0 | 
+67 | 72 | Reports of violence in the environment (finding) | 0 | 
+67 | 67 | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 | 67 | Acute bronchitis (disorder) | 10 | Body Aches:1:0, Diarrhea:22:0, Fatigue:59:0, Mucus:37:0, Nasal Congestion:40:0, Shortness of Breath:37:0, Nausea/Vomiting:13:0, Sore Throat:28:0, Fever:28:0, Cough:29:0
+67 | 68 | Full-time employment (finding) | 0 | 
+67 | 72 | Victim of intimate partner abuse (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+67 | 67 | Viral sinusitis (disorder) | 9 | Headache:45:0, Sinus Pain:63:0, Pain with Bright Lights:34:0, Facial Swelling:18:0, Nasal Discharge:12:0, Nasal Congestion:22:0, Sore Throat:25:0, Fever:10:0, Cough:36:0
+68 | 69 | Full-time employment (finding) | 0 | 
+68 |  | Received higher education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 | 70 | Full-time employment (finding) | 0 | 
+69 |  | Received higher education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+70 | 70 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:25:0, Body Aches:35:0, Runny/Stuffy Nose:25:0, Fatigue:23:0, Swollen Lymph Nodes:3:0, Swollen Tonsils:3:0, Decreased Appetite:5:0, Sore Throat:0:0, Fever:49:0, Cough:49:0
+70 | 70 | Part-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Received higher education (finding) | 0 | 
+70 | 71 | Stress (finding) | 0 | 
+71 | 72 | Full-time employment (finding) | 0 | 
+71 |  | Received higher education (finding) | 0 | 
+71 | 71 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:5:0, Body Aches:23:0, Runny/Stuffy Nose:34:0, Fatigue:38:0, Swollen Lymph Nodes:12:0, Swollen Tonsils:38:0, Decreased Appetite:49:0, Sore Throat:41:0, Fever:46:0, Cough:15:0
+72 |  | Full-time employment (finding) | 0 | 
+72 |  | Received higher education (finding) | 0 | 
+72 |  | Stress (finding) | 0 | 
+72 |  | Dyspnea (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+72 |  | Fever (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+72 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+72 |  | Wheezing (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+72 |  | Loss of taste (finding) | 4 | fatigue:1, fever:1, dyspnea:1, loss_of_taste:1
+72 | 72 | Suspected COVID-19 | 0 | 
+72 |  | COVID-19 | 0 | 
+72 |  | Acute respiratory failure (disorder) | 0 | 
+72 |  | Respiratory distress (finding) | 0 | 
+72 |  | Sepsis caused by virus (disorder) | 0 | 
+72 |  | Injury of kidney (disorder) | 0 | 
+72 |  | Acute respiratory distress syndrome (disorder) | 0 | 
+72 |  | Injury of heart (disorder) | 0 | 
+72 |  | Acquired coagulation disorder (disorder) | 0 | 
+72 |  | Pneumonia (disorder) | 0 | 
+72 |  | Hypoxemia (disorder) | 0 | 
+72 |  | Acute deep venous thrombosis (disorder) | 0 | 
+--------------------------------------------------------------------------------

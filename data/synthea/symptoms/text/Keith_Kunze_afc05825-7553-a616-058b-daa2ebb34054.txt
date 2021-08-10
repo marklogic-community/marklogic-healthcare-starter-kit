@@ -1,0 +1,20 @@
+Keith Kunze
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2008-04-25
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+4 | 4 | Sprain of ankle | 0 | 
+8 | 8 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:12:0, Body Aches:21:0, Runny/Stuffy Nose:10:0, Fatigue:8:0, Swollen Lymph Nodes:43:0, Decreased Appetite:9:0, Swollen Tonsils:21:0, Cough:39:0, Sore Throat:10:0, Fever:45:0
+9 | 9 | Fracture of forearm | 0 | 
+10 | 10 | Streptococcal sore throat (disorder) | 10 | Difficulty Swallowing:6:0, Body Aches:46:0, Runny/Stuffy Nose:44:0, Fatigue:25:0, Swollen Lymph Nodes:29:0, Decreased Appetite:3:0, Swollen Tonsils:30:0, Cough:0:0, Sore Throat:8:0, Fever:2:0
+11 |  | Fever (finding) | 5 | fatigue:1, fever:1, sputum production:1, cough:1, diarrhea:1
+11 |  | Sputum finding (finding) | 5 | fatigue:1, fever:1, sputum production:1, cough:1, diarrhea:1
+11 |  | Fatigue (finding) | 5 | fatigue:1, fever:1, sputum production:1, cough:1, diarrhea:1
+11 |  | Cough (finding) | 5 | fatigue:1, fever:1, sputum production:1, cough:1, diarrhea:1
+11 |  | Diarrhea symptom (finding) | 5 | fatigue:1, fever:1, sputum production:1, cough:1, diarrhea:1
+11 | 11 | Suspected COVID-19 | 0 | 
+11 |  | COVID-19 | 0 | 
+--------------------------------------------------------------------------------

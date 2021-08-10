@@ -1,0 +1,482 @@
+
+2021-01-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 17 year-old non-hispanic white male. Patient has a history of covid-19, dyspnea (finding), fever (finding), whiplash injury to neck, fatigue (finding), wheezing (finding), otitis media, cough (finding), suspected covid-19, severe anxiety (panic) (finding.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+The following procedures were conducted:
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+The patient was prescribed the following medications:
+- naproxen sodium 220 mg oral tablet
+
+
+
+2020-12-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 17 year-old non-hispanic white male. Patient has a history of covid-19, dyspnea (finding), fever (finding), whiplash injury to neck, fatigue (finding), wheezing (finding), otitis media, cough (finding), suspected covid-19, severe anxiety (panic) (finding.
+
+# Social History
+ Patient is an active smoker.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- medication reconciliation (procedure)
+
+
+
+2020-03-04
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 16 year-old non-hispanic white male. Patient has a history of whiplash injury to neck, otitis media, severe anxiety (panic) (finding.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with cough (finding), fatigue (finding), dyspnea (finding), wheezing (finding), fever (finding), suspected covid-19, covid-19. 
+
+## Plan
+
+The following procedures were conducted:
+- face mask (physical object)
+The patient was placed on a careplan:
+- infectious disease care plan (record artifact)
+- infectious disease care plan (record artifact)
+
+
+
+2019-12-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 16 year-old non-hispanic white male. Patient has a history of whiplash injury to neck, otitis media.
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+naproxen sodium 220 mg oral tablet
+
+# Assessment and Plan
+Patient is presenting with severe anxiety (panic) (finding, risk activity involvement (finding). 
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, meningococcal mcv4p. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- health risks education (procedure)
+
+
+
+2019-04-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 15 year-old non-hispanic white male. Patient has a history of otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with whiplash injury to neck. 
+
+## Plan
+
+The patient was prescribed the following medications:
+- naproxen sodium 220 mg oral tablet
+The patient was placed on a careplan:
+- musculoskeletal care
+
+
+
+2018-12-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 15 year-old non-hispanic white male. Patient has a history of otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2017-12-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 14 year-old non-hispanic white male. Patient has a history of otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- medication reconciliation (procedure)
+
+
+
+2016-12-08
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 13 year-old non-hispanic white male. Patient has a history of otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2015-12-03
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 12 year-old non-hispanic white male. Patient has a history of otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free, hpv, quadrivalent. 
+The following procedures were conducted:
+- depression screening (procedure)
+- medication reconciliation (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+
+
+
+2014-11-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 11 year-old non-hispanic white male. Patient has a history of otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: tdap, influenza, seasonal, injectable, preservative free, hpv, quadrivalent, meningococcal mcv4p. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2013-11-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 10 year-old non-hispanic white male. Patient has a history of otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2012-11-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 9 year-old non-hispanic white male. Patient has a history of otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+
+
+
+2011-11-10
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 7 year-old non-hispanic white male. Patient has a history of otitis media.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+## Plan
+Patient was given the following immunizations: influenza, seasonal, injectable, preservative free. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+
+
+
+2006-01-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Hershel
+ is a 2 year-old non-hispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Medicaid.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with otitis media. 
+
+## Plan
+
+
+
+

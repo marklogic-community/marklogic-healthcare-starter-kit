@@ -1,0 +1,48 @@
+Numbers Carter
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+67 | 68 | Limited social contact (finding) | 0 | 
+67 | 68 | Full-time employment (finding) | 0 | 
+67 |  | Only received primary school education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+68 | 69 | Not in labor force (finding) | 0 | 
+68 | 77 | Reports of violence in the environment (finding) | 0 | 
+68 |  | Only received primary school education (finding) | 0 | 
+68 |  | Stress (finding) | 0 | 
+69 | 70 | Part-time employment (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+69 |  | Stress (finding) | 0 | 
+69 | 71 | Social isolation (finding) | 0 | 
+70 | 71 | Part-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 | 71 | First degree burn | 0 | 
+71 | 71 | Acute bronchitis (disorder) | 10 | Body Aches:17:0, Diarrhea:17:0, Fatigue:45:0, Mucus:48:0, Nasal Congestion:31:0, Shortness of Breath:33:0, Nausea/Vomiting:19:0, Sore Throat:38:0, Cough:25:0, Fever:35:0
+71 | 71 | Part-time employment (finding) | 0 | 
+71 | 77 | Victim of intimate partner abuse (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+71 | 71 | Viral sinusitis (disorder) | 9 | Headache:21:0, Sinus Pain:56:0, Pain with Bright Lights:47:0, Facial Swelling:2:0, Nasal Discharge:24:0, Nasal Congestion:18:0, Sore Throat:33:0, Cough:20:0, Fever:14:0
+71 | 72 | Not in labor force (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 |  | Stress (finding) | 0 | 
+72 | 74 | Full-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+72 | 75 | Stress (finding) | 0 | 
+72 |  | Social isolation (finding) | 0 | 
+74 | 77 | Limited social contact (finding) | 0 | 
+74 | 75 | Not in labor force (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 |  | Stress (finding) | 0 | 
+77 |  | Full-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+77 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

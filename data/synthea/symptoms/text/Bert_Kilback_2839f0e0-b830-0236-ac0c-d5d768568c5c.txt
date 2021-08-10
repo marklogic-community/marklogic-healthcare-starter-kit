@@ -1,0 +1,34 @@
+Bert Kilback
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2000-10-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+11 | 11 | Acute bronchitis (disorder) | 10 | Body Aches:2:0, Diarrhea:13:0, Fatigue:38:0, Mucus:45:0, Nasal Congestion:44:0, Shortness of Breath:48:0, Nausea/Vomiting:6:0, Cough:28:0, Sore Throat:29:0, Fever:42:0
+14 | 14 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:38:0, Body Aches:25:0, Runny/Stuffy Nose:31:0, Fatigue:4:0, Swollen Lymph Nodes:23:0, Swollen Tonsils:33:0, Decreased Appetite:12:0, Cough:4:0, Sore Throat:48:0, Fever:4:0
+16 | 16 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:8:0, Fatigue:59:0, Mucus:35:0, Nasal Congestion:46:0, Shortness of Breath:33:0, Nausea/Vomiting:19:0, Cough:29:0, Sore Throat:48:0, Fever:40:0
+17 | 17 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:23:0, Body Aches:31:0, Runny/Stuffy Nose:24:0, Fatigue:13:0, Swollen Lymph Nodes:40:0, Swollen Tonsils:31:0, Decreased Appetite:48:0, Cough:35:0, Sore Throat:22:0, Fever:46:0
+18 |  | Hypertension | 0 | 
+18 | 19 | Not in labor force (finding) | 0 | 
+18 |  | Housing unsatisfactory (finding) | 0 | 
+18 |  | Transport problems (finding) | 0 | 
+18 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Housing unsatisfactory (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Transport problems (finding) | 0 | 
+19 |  | Received certificate of high school equivalency (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 |  | Fever (finding) | 3 | fatigue:1, fever:1, cough:1
+19 |  | Fatigue (finding) | 3 | fatigue:1, fever:1, cough:1
+19 |  | Cough (finding) | 3 | fatigue:1, fever:1, cough:1
+19 | 19 | Suspected COVID-19 | 0 | 
+19 |  | COVID-19 | 0 | 
+20 |  | Housing unsatisfactory (finding) | 0 | 
+20 |  | Full-time employment (finding) | 0 | 
+20 |  | Transport problems (finding) | 0 | 
+20 |  | Received certificate of high school equivalency (finding) | 0 | 
+20 |  | Stress (finding) | 0 | 
+20 |  | Social isolation (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+Riley Prosacco
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2007-10-11
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+6 | 7 | Sprain of wrist | 0 | 
+12 |  | Chill (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+12 |  | Fever (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+12 |  | Sputum finding (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+12 |  | Headache (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+12 |  | Cough (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+12 |  | Loss of taste (finding) | 6 | chills:1, fever:1, sputum production:1, headache:1, loss_of_taste:1, cough:1
+12 | 12 | Suspected COVID-19 | 0 | 
+12 |  | COVID-19 | 0 | 
+13 |  | Risk activity involvement (finding) | 0 | 
+--------------------------------------------------------------------------------

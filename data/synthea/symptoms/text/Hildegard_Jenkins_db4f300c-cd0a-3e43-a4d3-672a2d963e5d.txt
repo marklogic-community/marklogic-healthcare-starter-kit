@@ -1,0 +1,18 @@
+Hildegard Jenkins
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          2004-03-07
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+14 | 16 | Risk activity involvement (finding) | 0 | 
+15 | 15 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:10:0, Fatigue:37:0, Mucus:48:0, Nasal Congestion:37:0, Shortness of Breath:61:0, Nausea/Vomiting:9:0, Fever:43:0, Sore Throat:49:0, Cough:72:0
+15 |  | Dyspnea (finding) | 3 | fever:1, dyspnea:1, sputum production:1
+15 |  | Fever (finding) | 3 | fever:1, dyspnea:1, sputum production:1
+15 |  | Sputum finding (finding) | 3 | fever:1, dyspnea:1, sputum production:1
+15 |  | Wheezing (finding) | 3 | fever:1, dyspnea:1, sputum production:1
+15 | 15 | Suspected COVID-19 | 0 | 
+15 |  | COVID-19 | 0 | 
+17 |  | Risk activity involvement (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+Rosalva Kautzer
+===============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1955-07-22
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+45 | 45 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:46:0, Body Aches:48:0, Runny/Stuffy Nose:42:0, Fatigue:27:0, Swollen Lymph Nodes:0:0, Swollen Tonsils:4:0, Decreased Appetite:47:0, Cough:29:0, Sore Throat:19:0, Fever:24:0
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Received higher education (finding) | 0 | 
+46 | 54 | Social isolation (finding) | 0 | 
+48 |  | Body mass index 30+ - obesity (finding) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received higher education (finding) | 0 | 
+48 | 51 | Stress (finding) | 0 | 
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received higher education (finding) | 0 | 
+50 | 50 | Escherichia coli urinary tract infection | 7 | Frequent Urination:18:0, Urgent Desire to Urinate:14:0, Discolored Urine:8:0, Odor of Urine:9:0, Pelvic Pain:13:0, Fever:9:0, Dysuria:15:0
+50 |  | Chronic intractable migraine without aura | 0 | 
+51 |  | Body mass index 30+ - obesity (finding) | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received higher education (finding) | 0 | 
+52 |  | Body mass index 30+ - obesity (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Received higher education (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 | 52 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:10:0, Body Aches:17:0, Runny/Stuffy Nose:47:0, Fatigue:44:0, Swollen Lymph Nodes:5:0, Swollen Tonsils:14:0, Decreased Appetite:11:0, Cough:13:0, Sore Throat:35:0, Fever:28:0
+53 |  | Body mass index 30+ - obesity (finding) | 0 | 
+53 | 54 | Full-time employment (finding) | 0 | 
+53 |  | Received higher education (finding) | 0 | 
+53 | 54 | Stress (finding) | 0 | 
+54 |  | Body mass index 30+ - obesity (finding) | 0 | 
+54 |  | Full-time employment (finding) | 0 | 
+54 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+Latoyia Barrows
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1993-04-08
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+19 |  | Limited social contact (finding) | 0 | 
+19 | 20 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+20 | 21 | Normal pregnancy | 0 | 
+20 | 20 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:45:0, Body Aches:41:0, Runny/Stuffy Nose:18:0, Fatigue:17:0, Swollen Lymph Nodes:2:0, Swollen Tonsils:39:0, Decreased Appetite:13:0, Fever:47:0, Sore Throat:45:0, Cough:45:0
+20 |  | Limited social contact (finding) | 0 | 
+20 | 22 | Full-time employment (finding) | 0 | 
+20 |  | Received higher education (finding) | 0 | 
+20 |  | Stress (finding) | 0 | 
+21 | 21 | Preeclampsia | 0 | 
+22 | 25 | Part-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+22 | 28 | Social isolation (finding) | 0 | 
+25 | 28 | Part-time employment (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 | 28 | Stress (finding) | 0 | 
+26 |  | Dyspnea (finding) | 3 | fever:1, dyspnea:1, cough:1
+26 |  | Fever (finding) | 3 | fever:1, dyspnea:1, cough:1
+26 |  | Wheezing (finding) | 3 | fever:1, dyspnea:1, cough:1
+26 |  | Cough (finding) | 3 | fever:1, dyspnea:1, cough:1
+26 | 26 | Suspected COVID-19 | 0 | 
+26 |  | COVID-19 | 0 | 
+28 |  | Part-time employment (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+--------------------------------------------------------------------------------

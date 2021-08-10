@@ -1,0 +1,67 @@
+Mandie Hagenes
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1922-11-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+74 |  | Prediabetes | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Received certificate of high school equivalency (finding) | 0 | 
+74 | 75 | Stress (finding) | 0 | 
+75 |  | Prediabetes | 0 | 
+75 | 75 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 | 75 | Viral sinusitis (disorder) | 9 | Headache:11:0, Sinus Pain:70:0, Pain with Bright Lights:36:0, Facial Swelling:26:0, Nasal Discharge:48:0, Nasal Congestion:9:0, Sore Throat:38:0, Cough:9:0, Fever:9:0
+75 | 75 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:11:0, Runny/Stuffy Nose:29:0, Fatigue:13:0, Swollen Lymph Nodes:31:0, Swollen Tonsils:29:0, Decreased Appetite:18:0, Sore Throat:35:0, Cough:12:0, Fever:49:0
+75 |  | Prediabetes | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Received certificate of high school equivalency (finding) | 0 | 
+75 | 77 | Stress (finding) | 0 | 
+76 |  | Prediabetes | 0 | 
+76 | 77 | Full-time employment (finding) | 0 | 
+76 |  | Received certificate of high school equivalency (finding) | 0 | 
+76 | 76 | Acute bronchitis (disorder) | 10 | Body Aches:8:0, Diarrhea:10:0, Fatigue:61:0, Mucus:43:0, Nasal Congestion:38:0, Shortness of Breath:71:0, Nausea/Vomiting:2:0, Sore Throat:26:0, Cough:68:0, Fever:41:0
+77 |  | Prediabetes | 0 | 
+77 | 78 | Full-time employment (finding) | 0 | 
+77 | 83 | Victim of intimate partner abuse (finding) | 0 | 
+77 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Prediabetes | 0 | 
+78 | 79 | Part-time employment (finding) | 0 | 
+78 |  | Received certificate of high school equivalency (finding) | 0 | 
+78 |  | Stress (finding) | 0 | 
+79 |  | Prediabetes | 0 | 
+79 | 80 | Full-time employment (finding) | 0 | 
+79 |  | Received certificate of high school equivalency (finding) | 0 | 
+79 |  | Stress (finding) | 0 | 
+79 | 79 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:31:0, Body Aches:33:0, Runny/Stuffy Nose:16:0, Fatigue:46:0, Swollen Lymph Nodes:29:0, Swollen Tonsils:33:0, Decreased Appetite:33:0, Sore Throat:9:0, Cough:44:0, Fever:8:0
+80 |  | Prediabetes | 0 | 
+80 | 81 | Part-time employment (finding) | 0 | 
+80 | 82 | Limited social contact (finding) | 0 | 
+80 |  | Received certificate of high school equivalency (finding) | 0 | 
+80 |  | Stress (finding) | 0 | 
+81 |  | Prediabetes | 0 | 
+81 | 82 | Full-time employment (finding) | 0 | 
+81 |  | Received certificate of high school equivalency (finding) | 0 | 
+81 | 82 | Stress (finding) | 0 | 
+82 |  | Prediabetes | 0 | 
+82 | 82 | Full-time employment (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 | 82 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:3:0, Body Aches:20:0, Runny/Stuffy Nose:38:0, Fatigue:41:0, Swollen Lymph Nodes:20:0, Swollen Tonsils:38:0, Decreased Appetite:9:0, Sore Throat:37:0, Cough:21:0, Fever:12:0
+82 |  | Prediabetes | 0 | 
+82 | 83 | Not in labor force (finding) | 0 | 
+82 |  | Received certificate of high school equivalency (finding) | 0 | 
+82 | 83 | Social isolation (finding) | 0 | 
+82 |  | Stress (finding) | 0 | 
+83 |  | Prediabetes | 0 | 
+83 | 83 | Part-time employment (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 | 83 | Stress (finding) | 0 | 
+83 | 83 | Viral sinusitis (disorder) | 9 | Headache:24:0, Sinus Pain:60:0, Pain with Bright Lights:38:0, Facial Swelling:16:0, Nasal Discharge:37:0, Nasal Congestion:22:0, Sore Throat:34:0, Cough:13:0, Fever:21:0
+83 |  | Prediabetes | 0 | 
+83 |  | Full-time employment (finding) | 0 | 
+83 |  | Received certificate of high school equivalency (finding) | 0 | 
+83 |  | Severe anxiety (panic) (finding | 0 | 
+83 |  | Pneumonia | 0 | 
+--------------------------------------------------------------------------------

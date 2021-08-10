@@ -1,0 +1,58 @@
+Scotty Stroman
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1968-01-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+44 |  | Prediabetes | 0 | 
+44 | 44 | Part-time employment (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 | 46 | Stress (finding) | 0 | 
+44 | 44 | Viral sinusitis (disorder) | 9 | Headache:46:0, Sinus Pain:55:0, Pain with Bright Lights:38:0, Facial Swelling:14:0, Nasal Discharge:31:0, Nasal Congestion:19:0, Sore Throat:24:0, Cough:42:0, Fever:15:0
+44 |  | Prediabetes | 0 | 
+44 | 46 | Not in labor force (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Prediabetes | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+47 |  | Drug overdose | 0 | 
+47 | 47 | Viral sinusitis (disorder) | 9 | Headache:6:0, Sinus Pain:61:0, Pain with Bright Lights:35:0, Facial Swelling:6:0, Nasal Discharge:16:0, Nasal Congestion:5:0, Sore Throat:42:0, Cough:20:0, Fever:4:0
+48 |  | Prediabetes | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 | 52 | Stress (finding) | 0 | 
+48 |  | Drug overdose | 0 | 
+49 |  | Drug overdose | 0 | 
+50 |  | Prediabetes | 0 | 
+50 |  | Polyp of colon | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 |  | Drug overdose | 0 | 
+51 |  | Prediabetes | 0 | 
+51 | 51 | Full-time employment (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 | 53 | Malignant tumor of colon | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+51 |  | Recurrent rectal polyp | 5 | Cramping:0, Weight Loss:0, Fatigue:0, Abdominal Pain:0, Constipation:0
+51 | 51 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:6:0, Fatigue:32:0, Mucus:42:0, Nasal Congestion:30:0, Shortness of Breath:30:0, Nausea/Vomiting:22:0, Sore Throat:48:0, Cough:25:0, Fever:46:0
+51 |  | Prediabetes | 0 | 
+51 | 52 | Full-time employment (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 |  | Drug overdose | 0 | 
+52 |  | Prediabetes | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 | 53 | Victim of intimate partner abuse (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Nasal congestion (finding) | 4 | nasal congestion:1, sore throat:1, loss_of_taste:1, cough:1
+52 |  | Sore throat symptom (finding) | 4 | nasal congestion:1, sore throat:1, loss_of_taste:1, cough:1
+52 |  | Cough (finding) | 4 | nasal congestion:1, sore throat:1, loss_of_taste:1, cough:1
+52 |  | Loss of taste (finding) | 4 | nasal congestion:1, sore throat:1, loss_of_taste:1, cough:1
+52 | 52 | Suspected COVID-19 | 0 | 
+52 |  | COVID-19 | 0 | 
+52 |  | Drug overdose | 0 | 
+53 |  | Prediabetes | 0 | 
+53 |  | Not in labor force (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

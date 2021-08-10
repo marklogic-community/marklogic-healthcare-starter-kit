@@ -1,0 +1,16 @@
+{
+  "valueSet": {
+      "valueSetName": "FundsReserve",
+      "valueSetIRI": {
+        "logical": "http://hl7.org/fhir/ValueSet/fundsreserve",
+        "dereferenceable": "https://www.hl7.org/fhir/valueset-fundsreserve.html"
+      },
+      "valueSetVersion": "4.0.1",
+      "valueSetDefinition": "This value set includes sample funds reservation type codes.",
+      "valueSetConcepts": {
+          "patient": {"code": "patient", "display": "Patient", "definition": "The payor is requested to reserve funds for the provision of the named services by any provider for settlement of future claims related to this request."},
+          "provider": {"code": "provider", "display": "Provider", "definition": "The payor is requested to reserve funds solely for the named provider for settlement of future claims related to this request."},
+          "none": {"code": "none", "display": "None", "definition": "The payor is not being requested to reserve any funds for the settlement of future claims."}
+      }
+  }
+}

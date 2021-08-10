@@ -1,0 +1,66 @@
+Charley Hahn
+============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1912-08-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+58 |  | Metabolic syndrome X (disorder) | 0 | 
+58 |  | Prediabetes | 0 | 
+58 | 59 | Full-time employment (finding) | 0 | 
+58 |  | Received higher education (finding) | 0 | 
+58 |  | Stress (finding) | 0 | 
+58 | 67 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+59 |  | Metabolic syndrome X (disorder) | 0 | 
+59 | 60 | Not in labor force (finding) | 0 | 
+59 |  | Received higher education (finding) | 0 | 
+59 | 62 | Stress (finding) | 0 | 
+60 |  | Metabolic syndrome X (disorder) | 0 | 
+60 |  | Prediabetes | 0 | 
+60 | 61 | Full-time employment (finding) | 0 | 
+60 |  | Received higher education (finding) | 0 | 
+61 |  | Metabolic syndrome X (disorder) | 0 | 
+61 |  | Prediabetes | 0 | 
+61 | 62 | Full-time employment (finding) | 0 | 
+61 |  | Received higher education (finding) | 0 | 
+62 |  | Metabolic syndrome X (disorder) | 0 | 
+62 |  | Prediabetes | 0 | 
+62 | 63 | Full-time employment (finding) | 0 | 
+62 |  | Received higher education (finding) | 0 | 
+63 |  | Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder) | 0 | 
+63 |  | Metabolic syndrome X (disorder) | 0 | 
+63 |  | Diabetic retinopathy associated with type II diabetes mellitus (disorder) | 0 | 
+63 |  | Prediabetes | 0 | 
+63 | 64 | Full-time employment (finding) | 0 | 
+63 |  | Received higher education (finding) | 0 | 
+63 |  | Stress (finding) | 0 | 
+64 | 64 | Laceration of foot | 0 | 
+64 |  | Metabolic syndrome X (disorder) | 0 | 
+64 | 65 | Full-time employment (finding) | 0 | 
+64 |  | Received higher education (finding) | 0 | 
+64 | 65 | Stress (finding) | 0 | 
+65 | 65 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:20:0, Fatigue:39:0, Mucus:28:0, Nasal Congestion:31:0, Shortness of Breath:31:0, Nausea/Vomiting:19:0, Sore Throat:44:0, Fever:36:0, Cough:71:0
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 | 65 | Part-time employment (finding) | 0 | 
+65 | 66 | Limited social contact (finding) | 0 | 
+65 |  | Received higher education (finding) | 0 | 
+65 |  | Metabolic syndrome X (disorder) | 0 | 
+65 |  | Prediabetes | 0 | 
+65 | 66 | Full-time employment (finding) | 0 | 
+65 |  | Stress (finding) | 0 | 
+66 | 66 | Fracture of forearm | 0 | 
+66 |  | Metabolic syndrome X (disorder) | 0 | 
+66 |  | Prediabetes | 0 | 
+66 | 67 | Part-time employment (finding) | 0 | 
+66 |  | Received higher education (finding) | 0 | 
+66 |  | Stress (finding) | 0 | 
+67 |  | Chronic congestive heart failure (disorder) | 6 | Dyspnea (finding):1, Orthopnea (finding):1, Edema (finding):1, Dyspnea on exertion (finding):1, Rales (finding):1, Paroxysmal dyspnea (finding):1
+67 |  | Metabolic syndrome X (disorder) | 0 | 
+67 |  | Prediabetes | 0 | 
+67 |  | Limited social contact (finding) | 0 | 
+67 |  | Full-time employment (finding) | 0 | 
+67 |  | Received higher education (finding) | 0 | 
+67 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

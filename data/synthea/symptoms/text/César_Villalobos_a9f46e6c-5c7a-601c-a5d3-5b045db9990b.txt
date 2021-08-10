@@ -1,0 +1,30 @@
+César Villalobos
+=é==============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Birth Date:          1999-01-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+15 |  | Body mass index 30+ - obesity (finding) | 0 | 
+15 | 16 | Viral sinusitis (disorder) | 9 | Sinus Pain:77:0, Headache:49:0, Pain with Bright Lights:48:0, Facial Swelling:14:0, Nasal Discharge:49:0, Nasal Congestion:23:0, Fever:4:0, Sore Throat:3:0, Cough:9:0
+16 | 16 | Sprain of ankle | 0 | 
+17 | 17 | Viral sinusitis (disorder) | 9 | Sinus Pain:67:0, Headache:45:0, Pain with Bright Lights:35:0, Facial Swelling:43:0, Nasal Discharge:40:0, Nasal Congestion:18:0, Fever:20:0, Sore Throat:20:0, Cough:14:0
+18 | 19 | Full-time employment (finding) | 0 | 
+18 |  | Received higher education (finding) | 0 | 
+18 | 22 | Social isolation (finding) | 0 | 
+18 | 18 | Facial laceration | 0 | 
+19 | 22 | Full-time employment (finding) | 0 | 
+19 |  | Received higher education (finding) | 0 | 
+19 |  | Stress (finding) | 0 | 
+19 | 19 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:17:0, Body Aches:0:0, Runny/Stuffy Nose:27:0, Fatigue:24:0, Swollen Lymph Nodes:16:0, Swollen Tonsils:15:0, Decreased Appetite:43:0, Fever:46:0, Sore Throat:11:0, Cough:11:0
+21 |  | Fever (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+21 |  | Cough (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+21 |  | Loss of taste (finding) | 3 | fever:1, loss_of_taste:1, cough:1
+21 | 21 | Suspected COVID-19 | 0 | 
+21 |  | COVID-19 | 0 | 
+22 |  | Body mass index 30+ - obesity (finding) | 0 | 
+22 |  | Full-time employment (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

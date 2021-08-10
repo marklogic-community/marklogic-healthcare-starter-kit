@@ -1,0 +1,34 @@
+Rosalind Gaylord
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1944-08-02
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+42 | 42 | Viral sinusitis (disorder) | 9 | Sinus Pain:64:0, Headache:14:0, Pain with Bright Lights:29:0, Facial Swelling:25:0, Nasal Discharge:0:0, Nasal Congestion:7:0, Cough:47:0, Sore Throat:45:0, Fever:9:0
+44 | 46 | Full-time employment (finding) | 0 | 
+44 |  | Received certificate of high school equivalency (finding) | 0 | 
+44 |  | Stress (finding) | 0 | 
+46 | 48 | Full-time employment (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+48 | 50 | Full-time employment (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+48 |  | Stress (finding) | 0 | 
+48 | 52 | Social isolation (finding) | 0 | 
+48 |  | Victim of intimate partner abuse (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+51 |  | Prediabetes | 0 | 
+51 |  | Anemia (disorder) | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 | 52 | Reports of violence in the environment (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 | 51 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:20:0, Body Aches:0:0, Runny/Stuffy Nose:48:0, Fatigue:41:0, Swollen Lymph Nodes:22:0, Swollen Tonsils:35:0, Decreased Appetite:31:0, Cough:24:0, Sore Throat:1:0, Fever:34:0
+52 |  | Prediabetes | 0 | 
+52 |  | Part-time employment (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

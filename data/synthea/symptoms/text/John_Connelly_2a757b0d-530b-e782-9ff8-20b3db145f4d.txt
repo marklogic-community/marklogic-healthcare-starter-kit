@@ -1,0 +1,51 @@
+John Connelly
+=============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1986-05-28
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+25 |  | Prediabetes | 0 | 
+25 | 26 | Full-time employment (finding) | 0 | 
+25 |  | Received certificate of high school equivalency (finding) | 0 | 
+26 |  | Prediabetes | 0 | 
+26 | 27 | Full-time employment (finding) | 0 | 
+26 |  | Received certificate of high school equivalency (finding) | 0 | 
+26 | 27 | Social isolation (finding) | 0 | 
+27 | 27 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:6:0, Body Aches:39:0, Runny/Stuffy Nose:7:0, Fatigue:22:0, Swollen Lymph Nodes:11:0, Swollen Tonsils:9:0, Decreased Appetite:12:0, Cough:38:0, Sore Throat:6:0, Fever:21:0
+27 |  | Prediabetes | 0 | 
+27 | 28 | Part-time employment (finding) | 0 | 
+27 |  | Received certificate of high school equivalency (finding) | 0 | 
+27 | 28 | Unhealthy alcohol drinking behavior (finding) | 0 | 
+28 | 28 | Viral sinusitis (disorder) | 9 | Sinus Pain:74:0, Headache:41:0, Pain with Bright Lights:37:0, Facial Swelling:1:0, Nasal Discharge:8:0, Nasal Congestion:5:0, Cough:38:0, Sore Throat:39:0, Fever:14:0
+28 |  | Prediabetes | 0 | 
+28 | 29 | Full-time employment (finding) | 0 | 
+28 |  | Received certificate of high school equivalency (finding) | 0 | 
+28 | 34 | Social isolation (finding) | 0 | 
+29 |  | Prediabetes | 0 | 
+29 | 30 | Full-time employment (finding) | 0 | 
+29 |  | Received certificate of high school equivalency (finding) | 0 | 
+29 | 30 | Contact dermatitis | 3 | Rash:11:0, Red Skin:2:0, Itchiness:14:0
+30 |  | Prediabetes | 0 | 
+30 | 31 | Part-time employment (finding) | 0 | 
+30 |  | Received certificate of high school equivalency (finding) | 0 | 
+31 | 31 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:34:0, Body Aches:30:0, Runny/Stuffy Nose:46:0, Fatigue:1:0, Swollen Lymph Nodes:27:0, Swollen Tonsils:42:0, Decreased Appetite:20:0, Cough:30:0, Sore Throat:30:0, Fever:36:0
+31 |  | Prediabetes | 0 | 
+31 | 32 | Not in labor force (finding) | 0 | 
+31 | 32 | Reports of violence in the environment (finding) | 0 | 
+31 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 |  | Prediabetes | 0 | 
+32 | 33 | Part-time employment (finding) | 0 | 
+32 |  | Received certificate of high school equivalency (finding) | 0 | 
+32 |  | Stress (finding) | 0 | 
+33 |  | Prediabetes | 0 | 
+33 | 34 | Reports of violence in the environment (finding) | 0 | 
+33 | 34 | Full-time employment (finding) | 0 | 
+33 |  | Received certificate of high school equivalency (finding) | 0 | 
+33 | 34 | Stress (finding) | 0 | 
+34 |  | Prediabetes | 0 | 
+34 |  | Part-time employment (finding) | 0 | 
+34 |  | Received certificate of high school equivalency (finding) | 0 | 
+34 | 34 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:13:0, Runny/Stuffy Nose:36:0, Fatigue:26:0, Swollen Lymph Nodes:22:0, Swollen Tonsils:3:0, Decreased Appetite:41:0, Cough:18:0, Sore Throat:46:0, Fever:12:0
+--------------------------------------------------------------------------------

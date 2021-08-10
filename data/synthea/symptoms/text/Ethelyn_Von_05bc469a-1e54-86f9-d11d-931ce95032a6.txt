@@ -1,0 +1,43 @@
+Ethelyn Von
+===========
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Birth Date:          1911-12-29
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+69 | 70 | Part-time employment (finding) | 0 | 
+69 | 75 | Limited social contact (finding) | 0 | 
+69 |  | Only received primary school education (finding) | 0 | 
+70 | 71 | Full-time employment (finding) | 0 | 
+70 |  | Only received primary school education (finding) | 0 | 
+70 |  | Stress (finding) | 0 | 
+71 | 72 | Not in labor force (finding) | 0 | 
+71 |  | Only received primary school education (finding) | 0 | 
+71 | 72 | Stress (finding) | 0 | 
+72 | 73 | Part-time employment (finding) | 0 | 
+72 |  | Only received primary school education (finding) | 0 | 
+73 | 74 | Full-time employment (finding) | 0 | 
+73 |  | Only received primary school education (finding) | 0 | 
+73 | 74 | Stress (finding) | 0 | 
+73 | 73 | Fracture of ankle | 0 | 
+74 | 75 | Full-time employment (finding) | 0 | 
+74 |  | Only received primary school education (finding) | 0 | 
+75 | 76 | Full-time employment (finding) | 0 | 
+75 |  | Only received primary school education (finding) | 0 | 
+75 |  | Stress (finding) | 0 | 
+76 | 77 | Limited social contact (finding) | 0 | 
+76 | 76 | Full-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+76 | 78 | Stress (finding) | 0 | 
+76 | 76 | Acute bronchitis (disorder) | 10 | Body Aches:13:0, Diarrhea:10:0, Fatigue:62:0, Mucus:33:0, Nasal Congestion:36:0, Shortness of Breath:29:0, Nausea/Vomiting:5:0, Sore Throat:33:0, Cough:66:0, Fever:30:0
+76 | 77 | Part-time employment (finding) | 0 | 
+76 |  | Only received primary school education (finding) | 0 | 
+77 | 78 | Part-time employment (finding) | 0 | 
+77 |  | Only received primary school education (finding) | 0 | 
+78 |  | Impacted molars | 10 | Reduced Sex Drive:7, Slurred Speech:11, Shortness Constipation Breath:3, Anxiety:12, Pain Sensitivity:6, Confusion:6, Cognitive Difficulties:9, Shallow Breathing:13, Mood Swing:6, Nausea/Vomiting:7
+78 |  | Full-time employment (finding) | 0 | 
+78 |  | Only received primary school education (finding) | 0 | 
+78 |  | Social isolation (finding) | 0 | 
+78 |  | Viral sinusitis (disorder) | 9 | Headache:29, Sinus Pain:51, Pain with Bright Lights:45, Facial Swelling:24, Nasal Discharge:11, Nasal Congestion:17, Sore Throat:10, Cough:38, Fever:0
+--------------------------------------------------------------------------------

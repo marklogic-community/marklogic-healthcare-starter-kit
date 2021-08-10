@@ -1,0 +1,12 @@
+Gus Kling
+=========
+Race:                Native
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          2016-08-06
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+1 | 1 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:16:0, Body Aches:7:0, Runny/Stuffy Nose:7:0, Fatigue:12:0, Swollen Lymph Nodes:2:0, Swollen Tonsils:23:0, Decreased Appetite:34:0, Cough:39:0, Sore Throat:37:0, Fever:47:0
+3 | 3 | Viral sinusitis (disorder) | 9 | Sinus Pain:77:0, Headache:31:0, Pain with Bright Lights:28:0, Facial Swelling:2:0, Nasal Discharge:18:0, Nasal Congestion:12:0, Cough:9:0, Sore Throat:28:0, Fever:11:0
+4 | 4 | Concussion with no loss of consciousness | 0 | 
+--------------------------------------------------------------------------------

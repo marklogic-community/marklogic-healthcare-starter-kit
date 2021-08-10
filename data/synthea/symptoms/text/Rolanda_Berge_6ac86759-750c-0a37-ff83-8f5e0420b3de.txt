@@ -1,0 +1,67 @@
+Rolanda Berge
+=============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Birth Date:          1967-07-01
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+44 | 44 | Escherichia coli urinary tract infection | 7 | Frequent Urination:11:0, Urgent Desire to Urinate:14:0, Discolored Urine:4:0, Odor of Urine:1:0, Pelvic Pain:1:0, Fever:4:0, Dysuria:12:0
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 | 53 | Limited social contact (finding) | 0 | 
+46 | 46 | Not in labor force (finding) | 0 | 
+46 |  | Transport problems (finding) | 0 | 
+46 | 53 | Victim of intimate partner abuse (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+46 |  | Chronic neck pain (finding) | 0 | 
+46 | 46 | Acute bronchitis (disorder) | 10 | Body Aches:6:0, Diarrhea:13:0, Fatigue:65:0, Mucus:38:0, Nasal Congestion:36:0, Shortness of Breath:67:0, Nausea/Vomiting:3:0, Sore Throat:25:0, Cough:34:0, Fever:37:0
+46 |  | Body mass index 30+ - obesity (finding) | 0 | 
+46 | 47 | Full-time employment (finding) | 0 | 
+46 |  | Lack of access to transportation (finding) | 0 | 
+46 |  | Received certificate of high school equivalency (finding) | 0 | 
+46 |  | Stress (finding) | 0 | 
+47 |  | Body mass index 30+ - obesity (finding) | 0 | 
+47 | 48 | Not in labor force (finding) | 0 | 
+47 |  | Transport problems (finding) | 0 | 
+47 |  | Received certificate of high school equivalency (finding) | 0 | 
+47 | 48 | Stress (finding) | 0 | 
+48 |  | Body mass index 30+ - obesity (finding) | 0 | 
+48 | 49 | Full-time employment (finding) | 0 | 
+48 |  | Transport problems (finding) | 0 | 
+48 |  | Received certificate of high school equivalency (finding) | 0 | 
+49 |  | Body mass index 30+ - obesity (finding) | 0 | 
+49 | 50 | Full-time employment (finding) | 0 | 
+49 |  | Transport problems (finding) | 0 | 
+49 |  | Received certificate of high school equivalency (finding) | 0 | 
+49 |  | Stress (finding) | 0 | 
+49 | 50 | Cystitis | 7 | Frequent Urination:18:0, Urgent Desire to Urinate:9:0, Discolored Urine:9:0, Odor of Urine:0:0, Pelvic Pain:9:0, Fever:9:0, Dysuria:18:0
+50 |  | Body mass index 30+ - obesity (finding) | 0 | 
+50 | 51 | Full-time employment (finding) | 0 | 
+50 |  | Lack of access to transportation (finding) | 0 | 
+50 |  | Received certificate of high school equivalency (finding) | 0 | 
+50 | 51 | Stress (finding) | 0 | 
+50 | 50 | Acute viral pharyngitis (disorder) | 10 | Difficulty Swallowing:18:0, Body Aches:35:0, Runny/Stuffy Nose:36:0, Fatigue:15:0, Swollen Lymph Nodes:40:0, Swollen Tonsils:10:0, Decreased Appetite:11:0, Sore Throat:18:0, Cough:11:0, Fever:0:0
+50 | 50 | Viral sinusitis (disorder) | 9 | Headache:7:0, Sinus Pain:77:0, Pain with Bright Lights:45:0, Facial Swelling:8:0, Nasal Discharge:22:0, Nasal Congestion:19:0, Sore Throat:40:0, Cough:21:0, Fever:23:0
+51 |  | Body mass index 30+ - obesity (finding) | 0 | 
+51 | 52 | Part-time employment (finding) | 0 | 
+51 |  | Lack of access to transportation (finding) | 0 | 
+51 |  | Received certificate of high school equivalency (finding) | 0 | 
+51 | 51 | Cystitis | 7 | Frequent Urination:16:0, Urgent Desire to Urinate:19:0, Discolored Urine:3:0, Odor of Urine:7:0, Pelvic Pain:11:0, Fever:7:0, Dysuria:19:0
+52 |  | Body mass index 30+ - obesity (finding) | 0 | 
+52 | 53 | Full-time employment (finding) | 0 | 
+52 |  | Lack of access to transportation (finding) | 0 | 
+52 |  | Received certificate of high school equivalency (finding) | 0 | 
+52 |  | Stress (finding) | 0 | 
+52 |  | Fever (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+52 |  | Sputum finding (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+52 |  | Fatigue (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+52 |  | Cough (finding) | 4 | fatigue:1, fever:1, sputum production:1, cough:1
+52 | 52 | Suspected COVID-19 | 0 | 
+52 |  | COVID-19 | 0 | 
+53 |  | Body mass index 30+ - obesity (finding) | 0 | 
+53 |  | Not in labor force (finding) | 0 | 
+53 |  | Transport problems (finding) | 0 | 
+53 |  | Received certificate of high school equivalency (finding) | 0 | 
+53 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------

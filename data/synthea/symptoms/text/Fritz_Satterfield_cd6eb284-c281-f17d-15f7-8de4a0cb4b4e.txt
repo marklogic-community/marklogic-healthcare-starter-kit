@@ -1,0 +1,30 @@
+Fritz Satterfield
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Birth Date:          1992-01-18
+--------------------------------------------------------------------------------
+CONDITIONS WITH SYMPTOMS:
+22 | 25 | Full-time employment (finding) | 0 | 
+22 |  | Lack of access to transportation (finding) | 0 | 
+22 |  | Received higher education (finding) | 0 | 
+22 |  | Stress (finding) | 0 | 
+24 | 24 | Acute bronchitis (disorder) | 10 | Body Aches:18:0, Diarrhea:18:0, Fatigue:56:0, Mucus:39:0, Nasal Congestion:48:0, Shortness of Breath:58:0, Nausea/Vomiting:0:0, Cough:51:0, Sore Throat:47:0, Fever:28:0
+24 |  | Sepsis (disorder) | 0 | 
+25 | 27 | Part-time employment (finding) | 0 | 
+25 |  | Transport problems (finding) | 0 | 
+25 |  | Received higher education (finding) | 0 | 
+25 |  | Stress (finding) | 0 | 
+25 | 25 | Whiplash injury to neck | 0 | 
+26 | 27 | Acute bronchitis (disorder) | 10 | Body Aches:0:0, Diarrhea:18:0, Fatigue:33:0, Mucus:48:0, Nasal Congestion:46:0, Shortness of Breath:43:0, Nausea/Vomiting:3:0, Cough:41:0, Sore Throat:46:0, Fever:49:0
+27 | 28 | Full-time employment (finding) | 0 | 
+27 |  | Transport problems (finding) | 0 | 
+27 |  | Received higher education (finding) | 0 | 
+27 |  | Stress (finding) | 0 | 
+27 | 27 | Viral sinusitis (disorder) | 9 | Sinus Pain:62:0, Headache:39:0, Pain with Bright Lights:25:0, Facial Swelling:27:0, Nasal Discharge:13:0, Nasal Congestion:14:0, Cough:21:0, Sore Throat:17:0, Fever:19:0
+28 |  | Part-time employment (finding) | 0 | 
+28 |  | Lack of access to transportation (finding) | 0 | 
+28 |  | Received higher education (finding) | 0 | 
+28 |  | Stress (finding) | 0 | 
+--------------------------------------------------------------------------------
