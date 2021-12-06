@@ -4,10 +4,10 @@ buildscript {
     maven {url 'http://developer.marklogic.com/maven2/'}
     jcenter()
   }
-  dependencies {
-       classpath "com.marklogic:ml-data-hub:5.5.1"
-       classpath "com.marklogic:marklogic-unit-test-client:1.1.0"
 
+  dependencies {
+    classpath "com.marklogic:ml-data-hub:5.5.1"
+    classpath "com.marklogic:marklogic-unit-test-client:1.1.0"
   }
 }
 
@@ -15,12 +15,12 @@ plugins {
   id 'java'
   id 'eclipse'
   id 'idea'
-  
-    // Gradle Properties plugin
-    id 'net.saliman.properties' version '1.4.6'
 
-    // Data Hub plugin
-    id 'com.marklogic.ml-data-hub' version '5.5.1'
+  // Gradle Properties plugin
+  id 'net.saliman.properties' version '1.4.6'
+
+  // Data Hub plugin
+  id 'com.marklogic.ml-data-hub' version '5.5.1'
 
   //Data services needs these
   id 'com.marklogic.ml-development-tools' version '5.4.0'
@@ -32,7 +32,7 @@ repositories {
   jcenter()
   maven {url 'http://developer.marklogic.com/maven2/'}
   if (project.hasProperty("testing")) {
-      mavenLocal()
+    mavenLocal()
   }
 }
 
@@ -46,23 +46,23 @@ dependencies {
 }
 
 dependencies {
-    // Ensures that the marklogic-unit-test modules are loaded into the modules database when the application is deployed
-    mlBundle "com.marklogic:marklogic-unit-test-modules:1.0.0"
-    
-    testImplementation "com.marklogic:marklogic-data-hub-junit5:5.5.1"
-    
-    // Adds logging support for tests
-    testImplementation "ch.qos.logback:logback-classic:1.2.3"
-    
-    mlcp "com.marklogic:mlcp:10.0.6.2"
-    mlcp files("lib")
+  // Ensures that the marklogic-unit-test modules are loaded into the modules database when the application is deployed
+  mlBundle "com.marklogic:marklogic-unit-test-modules:1.0.0"
 
-    implementation group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-base', version: '5.3.3'
-    implementation group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-structures-r4', version: '5.3.3'
+  testImplementation "com.marklogic:marklogic-data-hub-junit5:5.5.1"
+
+  // Adds logging support for tests
+  testImplementation "ch.qos.logback:logback-classic:1.2.3"
+
+  mlcp "com.marklogic:mlcp:10.0.6.2"
+  mlcp files("lib")
+
+  implementation group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-base', version: '5.3.3'
+  implementation group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-structures-r4', version: '5.3.3'
 }
 
 test {
-    useJUnitPlatform()
+  useJUnitPlatform()
 }
 
 task resetDBs(type: com.marklogic.gradle.task.ServerEvalTask) {
@@ -77,13 +77,28 @@ task loadReferenceDataStaging(type: com.marklogic.gradle.task.MlcpTask) {
   classpath = configurations.mlcp
   command = "IMPORT"
   args = [
-      "-input_file_path", "$project.projectDir/src/main/ml-data/referenceData/ValueSets",
-      "-output_collections", "referenceData",
-      "-output_permissions", "rest-reader,read,rest-writer,update",
-      "-document_type", "json",
-      "-output_uri_replace", ".*src/main/ml-data,''",
-      "-modules_root", "/",
+    "-input_file_path", "$project.projectDir/src/main/ml-data/referenceData/ValueSets",
+    "-output_collections", "referenceData",
+    "-output_permissions", "rest-reader,read,rest-writer,update",
+    "-document_type", "json",
+    "-output_uri_replace", ".*src/main/ml-data,''",
+    "-modules_root", "/",
+  ]
+}
+
+task loadIcd10PcsOntology(type: com.marklogic.gradle.task.MlcpTask) {
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = 'IMPORT'
+  args = [
+    '-input_file_path', "$project.projectDir/src/main/ml-data/ontologies/ICD10PCS.ttl",
+    '-output_graph', 'icd10pcsOntology',
+    '-input_file_type', 'rdf',
   ]
 }
 
 mlLoadData.dependsOn loadReferenceDataStaging
+mlLoadData.dependsOn loadIcd10PcsOntology
