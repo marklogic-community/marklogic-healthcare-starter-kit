@@ -100,5 +100,19 @@ task loadIcd10PcsOntology(type: com.marklogic.gradle.task.MlcpTask) {
   ]
 }
 
+task loadIcd10CmOntology(type: com.marklogic.gradle.task.MlcpTask) {
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = 'IMPORT'
+  args = [
+    '-input_file_path', "$project.projectDir/src/main/ml-data/ontologies/ICD10CM.ttl",
+    '-output_graph', 'icd10cmOntology',
+    '-input_file_type', 'rdf',
+  ]
+}
+
 mlLoadData.dependsOn loadReferenceDataStaging
 mlLoadData.dependsOn loadIcd10PcsOntology
