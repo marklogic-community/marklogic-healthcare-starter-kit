@@ -49,68 +49,11 @@
     "status": {
       "sourcedFrom": "valueSetLookup(\"active\", \"fm-status\")/code"
     },
-    "type": {
-      "sourcedFrom": ".",
-      "properties": {
-        "coding": {
-          "sourcedFrom": ".",
-          "properties": {
-            "system": {
-              "sourcedFrom": "\"http://terminology.hl7.org/CodeSystem/claim-type\""
-            },
-            "id": {
-              "sourcedFrom": ""
-            },
-            "code": {
-              "sourcedFrom": "valueSetLookup(\"institutional\", \"claim-type\")/code"
-            },
-            "display": {
-              "sourcedFrom": "valueSetLookup(\"institutional\", \"claim-type\")/display"
-            }
-          },
-          "targetEntityType": "#/definitions/Coding"
-        },
-        "text": {
-          "sourcedFrom": "valueSetLookup(\"institutional\", \"claim-type\")/display"
-        }
-      },
-      "targetEntityType": "#/definitions/CodeableConcept"
+    "code__type": {
+      "sourcedFrom": "\"institutional\""
     },
-    "identifier": {
-      "sourcedFrom": ".",
-      "properties": {
-        "value": {
-          "sourcedFrom": "Id/normalize-space()"
-        },
-        "system": {
-          "sourcedFrom": "\"http://marklogic.com/hsk/fhir/v4/Claim\""
-        },
-        "use": {
-          "sourcedFrom": "valueSetLookup(\"official\", \"identifier-use\")/code"
-        },
-        "type": {
-          "sourcedFrom": ".",
-          "properties": {
-            "coding": {
-              "sourcedFrom": ".",
-              "properties": {
-                "code": {
-                  "sourcedFrom": "valueSetLookup(\"FILL\", \"identifier-type\")/code"
-                },
-                "display": {
-                  "sourcedFrom": "valueSetLookup(\"FILL\", \"identifier-type\")/display"
-                }
-              },
-              "targetEntityType": "#/definitions/Coding"
-            },
-            "text": {
-              "sourcedFrom": "valueSetLookup(\"FILL\", \"identifier-type\")/display"
-            }
-          },
-          "targetEntityType": "#/definitions/CodeableConcept"
-        }
-      },
-      "targetEntityType": "#/definitions/Identifier"
+    "identifier__FILL": {
+      "sourcedFrom": "Id/normalize-space()"
     },
     "provider": {
       "sourcedFrom": ".",
@@ -120,51 +63,6 @@
         },
         "type": {
           "sourcedFrom": "\"Practitioner\""
-        },
-        "identifier": {
-          "sourcedFrom": ".",
-          "properties": {
-            "use": {
-              "sourcedFrom": "valueSetLookup(\"usual\", \"identifier-use\")/code"
-            },
-            "type": {
-              "sourcedFrom": ".",
-              "properties": {
-                "coding": {
-                  "sourcedFrom": ".",
-                  "properties": {
-                    "system": {
-                      "sourcedFrom": "\"http://terminology.hl7.org/CodeSystem/v2-0203\""
-                    },
-                    "code": {
-                      "sourcedFrom": "valueSetLookup(\"FILL\", \"identifier-type\")/code"
-                    },
-                    "display": {
-                      "sourcedFrom": "valueSetLookup(\"FILL\", \"identifier-type\")/display"
-                    },
-                    "userSelected": {
-                      "sourcedFrom": "false()"
-                    }
-                  },
-                  "targetEntityType": "#/definitions/Coding"
-                },
-                "text": {
-                  "sourcedFrom": "valueSetLookup(\"FILL\", \"identifier-type\")/display"
-                }
-              },
-              "targetEntityType": "#/definitions/CodeableConcept"
-            },
-            "system": {
-              "sourcedFrom": "\"http://hl7.org/fhir/identifier-use\""
-            },
-            "value": {
-              "sourcedFrom": "concat(\"Provider/\", PROVIDERID/normalize-space())"
-            }
-          },
-          "targetEntityType": "#/definitions/Identifier"
-        },
-        "display": {
-          "sourcedFrom": "PROVIDERID/normalize-space()"
         }
       },
       "targetEntityType": "#/definitions/Reference"
@@ -181,29 +79,8 @@
       },
       "targetEntityType": "#/definitions/Reference"
     },
-    "priority": {
-      "sourcedFrom": ".",
-      "properties": {
-        "text": {
-          "sourcedFrom": "valueSetLookup(\"normal\", \"process-priority\")/display"
-        },
-        "coding": {
-          "sourcedFrom": ".",
-          "properties": {
-            "system": {
-              "sourcedFrom": "\"http://terminology.hl7.org/CodeSystem/processpriority\""
-            },
-            "code": {
-              "sourcedFrom": "valueSetLookup(\"normal\", \"process-priority\")/code"
-            },
-            "display": {
-              "sourcedFrom": "valueSetLookup(\"normal\", \"process-priority\")/display"
-            }
-          },
-          "targetEntityType": "#/definitions/Coding"
-        }
-      },
-      "targetEntityType": "#/definitions/CodeableConcept"
+    "code__priority": {
+      "sourcedFrom": "\"normal\""
     },
     "billablePeriod": {
       "sourcedFrom": ".",
@@ -232,62 +109,20 @@
       },
       "targetEntityType": "#/definitions/Reference"
     },
-    "fundsReserve": {
-      "sourcedFrom": ".",
-      "properties": {
-        "coding": {
-          "sourcedFrom": ".",
-          "properties": {
-            "system": {
-              "sourcedFrom": "\"http://hl7.org/fhir/ValueSet/fundsreserve\""
-            },
-            "code": {
-              "sourcedFrom": "valueSetLookup(\"none\", \"fundsreserve\")/code"
-            },
-            "display": {
-              "sourcedFrom": "valueSetLookup(\"none\", \"fundsreserve\")/display"
-            }
-          },
-          "targetEntityType": "#/definitions/Coding"
-        },
-        "text": {
-          "sourcedFrom": "valueSetLookup(\"none\", \"fundsreserve\")/display"
-        }
-      },
-      "targetEntityType": "#/definitions/CodeableConcept"
+    "code__fundsReserve": {
+      "sourcedFrom": "\"none\""
     },
     "payee": {
       "sourcedFrom": ".",
       "properties": {
-        "type": {
-          "sourcedFrom": ".",
-          "properties": {
-            "coding": {
-              "sourcedFrom": ".",
-              "properties": {
-                "system": {
-                  "sourcedFrom": "\"http://hl7.org/fhir/ValueSet/payeetype\""
-                },
-                "code": {
-                  "sourcedFrom": "valueSetLookup(\"provider\", \"payeetype\")/code"
-                },
-                "display": {
-                  "sourcedFrom": "valueSetLookup(\"provider\", \"payeetype\")/display"
-                }
-              },
-              "targetEntityType": "#/definitions/Coding"
-            },
-            "text": {
-              "sourcedFrom": "valueSetLookup(\"provider\", \"payeetype\")/display"
-            }
-          },
-          "targetEntityType": "#/definitions/CodeableConcept"
+        "code__type": {
+          "sourcedFrom": "\"provider\""
         },
         "party": {
           "sourcedFrom": ".",
           "properties": {
             "reference": {
-              "sourcedFrom": "concat(\"Provider/\", PROVIDERID/normalize-space())"
+              "sourcedFrom": "concat(\"Practitioner/\", PROVIDERID/normalize-space())"
             },
             "type": {
               "sourcedFrom": "\"Practitioner\""
@@ -319,38 +154,8 @@
         "responsible": {
           "sourcedFrom": "true()"
         },
-        "role": {
-          "sourcedFrom": ".",
-          "properties": {
-            "text": {
-              "sourcedFrom": "valueSetLookup(\"primary\", \"claim-caretyperole\")/display"
-            },
-            "coding": {
-              "sourcedFrom": ".",
-              "properties": {
-                "system": {
-                  "sourcedFrom": "\"http://terminology.hl7.org/CodeSystem/claimcareteamrole\""
-                },
-                "code": {
-                  "sourcedFrom": "valueSetLookup(\"primary\", \"claim-caretyperole\")/code"
-                },
-                "display": {
-                  "sourcedFrom": "valueSetLookup(\"primary\", \"claim-caretyperole\")/display"
-                },
-                "userSelected": {
-                  "sourcedFrom": "false()"
-                },
-                "version": {
-                  "sourcedFrom": ""
-                }
-              },
-              "targetEntityType": "#/definitions/Coding"
-            }
-          },
-          "targetEntityType": "#/definitions/CodeableConcept"
-        },
-        "qualification": {
-          "sourcedFrom": ""
+        "code__role": {
+          "sourcedFrom": "\"primary\""
         }
       },
       "targetEntityType": "#/definitions/CareTeamMember"
@@ -361,32 +166,8 @@
         "sequence": {
           "sourcedFrom": "position()"
         },
-        "diagnosisCodeableConcept": {
-          "sourcedFrom": ".",
-          "properties": {
-            "coding": {
-              "sourcedFrom": ".",
-              "properties": {
-                "code": {
-                  "sourcedFrom": "."
-                },
-                "userSelected": {
-                  "sourcedFrom": "false()"
-                },
-                "system": {
-                  "sourcedFrom": "\"http://snomed.info/sct\""
-                },
-                "display": {
-                  "sourcedFrom": "."
-                }
-              },
-              "targetEntityType": "#/definitions/Coding"
-            },
-            "text": {
-              "sourcedFrom": "."
-            }
-          },
-          "targetEntityType": "#/definitions/CodeableConcept"
+        "code__diagnosisCodeableConcept_SNOMED": {
+          "sourcedFrom": "."
         }
       },
       "targetEntityType": "#/definitions/Diagnosis"
@@ -398,61 +179,13 @@
           "sourcedFrom": "position()"
         },
         "type": {
-          "sourcedFrom": ".",
-          "properties": {
-            "id": {
-              "sourcedFrom": ""
-            },
-            "coding": {
-              "sourcedFrom": ".",
-              "properties": {
-                "system": {
-                  "sourcedFrom": "\"http://hl7.org/fhir/sid/ex-icd-10-procedures\""
-                },
-                "code": {
-                  "sourcedFrom": "\"primary\""
-                },
-                "display": {
-                  "sourcedFrom": "\"Primary procedure\""
-                },
-                "userSelected": {
-                  "sourcedFrom": "false()"
-                }
-              },
-              "targetEntityType": "#/definitions/Coding"
-            },
-            "text": {
-              "sourcedFrom": "\"Primary procedure\""
-            }
-          },
-          "targetEntityType": "#/definitions/CodeableConcept"
+          "sourcedFrom": "\"primary\""
         },
         "date": {
           "sourcedFrom": "substring-before(./claimLine/TODATE, \"T\")"
         },
         "procedureCodeableConcept": {
-          "sourcedFrom": ".",
-          "properties": {
-            "coding": {
-              "sourcedFrom": ".",
-              "properties": {
-                "system": {
-                  "sourcedFrom": "\"http://hl7.org/fhir/sid/ex-icd-10-procedures\""
-                },
-                "code": {
-                  "sourcedFrom": "./claimLine/PROCEDURECODE"
-                },
-                "display": {
-                  "sourcedFrom": "./claimLine/NOTES"
-                }
-              },
-              "targetEntityType": "#/definitions/Coding"
-            },
-            "text": {
-              "sourcedFrom": "./claimLine/NOTES"
-            }
-          },
-          "targetEntityType": "#/definitions/CodeableConcept"
+          "sourcedFrom": "./claimLine/PROCEDURECODE"
         }
       },
       "targetEntityType": "#/definitions/Procedure"
@@ -466,44 +199,8 @@
         "focal": {
           "sourcedFrom": "true()"
         },
-        "identifier": {
-          "sourcedFrom": ".",
-          "properties": {
-            "use": {
-              "sourcedFrom": "valueSetLookup(\"official\", \"identifier-use\")/code"
-            },
-            "type": {
-              "sourcedFrom": ".",
-              "properties": {
-                "coding": {
-                  "sourcedFrom": ".",
-                  "properties": {
-                    "code": {
-                      "sourcedFrom": "valueSetLookup(\"NIIP\", \"identifier-type\")/code"
-                    },
-                    "display": {
-                      "sourcedFrom": "valueSetLookup(\"NIIP\", \"identifier-type\")/display"
-                    },
-                    "system": {
-                      "sourcedFrom": "\"http://terminology.hl7.org/CodeSystem/v2-0203\""
-                    }
-                  },
-                  "targetEntityType": "#/definitions/Coding"
-                },
-                "text": {
-                  "sourcedFrom": "valueSetLookup(\"NIIP\", \"identifier-type\")/display"
-                }
-              },
-              "targetEntityType": "#/definitions/CodeableConcept"
-            },
-            "value": {
-              "sourcedFrom": "."
-            },
-            "system": {
-              "sourcedFrom": "\"http://terminology.hl7.org/CodeSystem/v2-0203\""
-            }
-          },
-          "targetEntityType": "#/definitions/Identifier"
+        "identifier__NIIP": {
+          "sourcedFrom": "."
         },
         "coverage": {
           "sourcedFrom": ".",
@@ -566,61 +263,10 @@
           "targetEntityType": "#/definitions/Period"
         },
         "category": {
-          "sourcedFrom": ".",
-          "properties": {
-            "coding": {
-              "sourcedFrom": ".",
-              "properties": {
-                "system": {
-                  "sourcedFrom": "\"http://terminology.hl7.org/CodeSystem/ex-benefitcategory\""
-                },
-                "version": {
-                  "sourcedFrom": ""
-                },
-                "code": {
-                  "sourcedFrom": "valueSetLookup(\"1\", \"ex-benefitcategory\")/code"
-                },
-                "display": {
-                  "sourcedFrom": "valueSetLookup(\"1\", \"ex-benefitcategory\")/display"
-                },
-                "userSelected": {
-                  "sourcedFrom": "false()"
-                }
-              },
-              "targetEntityType": "#/definitions/Coding"
-            },
-            "text": {
-              "sourcedFrom": "valueSetLookup(\"1\", \"ex-benefitcategory\")/display"
-            }
-          },
-          "targetEntityType": "#/definitions/CodeableConcept"
+          "sourcedFrom": "\"1\""
         },
         "productOrService": {
-          "sourcedFrom": ".",
-          "properties": {
-            "coding": {
-              "sourcedFrom": ".",
-              "properties": {
-                "system": {
-                  "sourcedFrom": "\"http://terminology.hl7.org/CodeSystem/ex-USCLS\""
-                },
-                "code": {
-                  "sourcedFrom": "valueSetLookup(\"99555\", \"service-uscls\")/code"
-                },
-                "display": {
-                  "sourcedFrom": "valueSetLookup(\"99555\", \"service-uscls\")/display"
-                },
-                "userSelected": {
-                  "sourcedFrom": "false()"
-                }
-              },
-              "targetEntityType": "#/definitions/Coding"
-            },
-            "text": {
-              "sourcedFrom": "valueSetLookup(\"99555\", \"service-uscls\")/display"
-            }
-          },
-          "targetEntityType": "#/definitions/CodeableConcept"
+          "sourcedFrom": "\"99555\""
         },
         "locationAddress": {
           "sourcedFrom": "claimGetOrganizationLocation(./claimLine/PLACEOFSERVICE/normalize-space())",
@@ -656,28 +302,10 @@
           "sourcedFrom": ".",
           "properties": {
             "reference": {
-              "sourcedFrom": "\"internal\""
+              "sourcedFrom": "concat(\"Location/\", ./claimLine/PLACEOFSERVICE/normalize-space())"
             },
             "type": {
               "sourcedFrom": "\"Location\""
-            },
-            "identifier": {
-              "sourcedFrom": ".",
-              "properties": {
-                "value": {
-                  "sourcedFrom": "concat(\"Location/\", ./claimLine/PLACEOFSERVICE/normalize-space())"
-                },
-                "use": {
-                  "sourcedFrom": "valueSetLookup(\"usual\", \"identifier-use\")/code"
-                },
-                "system": {
-                  "sourcedFrom": "\"http://hl7.org/fhir/identifier-use\""
-                }
-              },
-              "targetEntityType": "#/definitions/Identifier"
-            },
-            "display": {
-              "sourcedFrom": "./claimLine/PLACEOFSERVICE/normalize-space()"
             }
           },
           "targetEntityType": "#/definitions/Reference"
