@@ -74,3 +74,5 @@ build/test-results/test/TEST-com.marklogic.hsk.claim.ClaimTest.xml
 marklogic-data-hub-central-5.5.1.war
 
 bin/
+
+build/
