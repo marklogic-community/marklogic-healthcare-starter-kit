@@ -184,7 +184,7 @@
         "date": {
           "sourcedFrom": "substring-before(./claimLine/TODATE, \"T\")"
         },
-        "procedureCodeableConcept": {
+        "code__procedureCodeableConcept__SNOMED": {
           "sourcedFrom": "./claimLine/PROCEDURECODE"
         }
       },
