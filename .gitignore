@@ -72,3 +72,7 @@ build/reports/tests/test/classes/com.marklogic.hsk.claim.ClaimTest.html
 build/reports/tests/test/packages/com.marklogic.hsk.claim.html
 build/test-results/test/TEST-com.marklogic.hsk.claim.ClaimTest.xml
 marklogic-data-hub-central-5.5.1.war
+
+bin/
+
+build/

@@ -156,29 +156,8 @@
     "communication": {
       "sourcedFrom": "/",
       "properties": {
-        "language": {
-          "sourcedFrom": "/",
-          "properties": {
-            "coding": {
-              "sourcedFrom": "/",
-              "properties": {
-                "system": {
-                  "sourcedFrom": "\"urn:ietf:bcp:47\""
-                },
-                "code": {
-                  "sourcedFrom": "\"en-US\""
-                },
-                "display": {
-                  "sourcedFrom": "\"English\""
-                }
-              },
-              "targetEntityType": "#/definitions/Coding"
-            },
-            "text": {
-              "sourcedFrom": "\"English\""
-            }
-          },
-          "targetEntityType": "#/definitions/CodeableConcept"
+        "code__language": {
+          "sourcedFrom": "\"en-US\""
         }
       },
       "targetEntityType": "#/definitions/Communication"

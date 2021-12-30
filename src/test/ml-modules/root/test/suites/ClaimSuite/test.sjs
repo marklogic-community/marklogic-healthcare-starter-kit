@@ -69,12 +69,12 @@ const content = result.contentArray[0];
 const context = content.context;
 const claim = content.value.toObject().envelope.instance.Claim;
 
+xdmp.log(xdmp.quote(claim)) 
+
 assertions.push(
   test.assertEqual("0a8c5c5f-46ff-28b5-3cba-309d1c4637fa", claim.id),
-  test.assertEqual("http://hl7.org/fhir/ValueSet/payeetype", claim.payee.Payee.type.CodeableConcept.coding[0].Coding.system),
-  test.assertEqual("provider", claim.payee.Payee.type.CodeableConcept.coding[0].Coding.code),
-  test.assertEqual("Provider", claim.payee.Payee.type.CodeableConcept.coding[0].Coding.display),
-  test.assertEqual("702927004", claim.procedure[0].Procedure.procedureCodeableConcept.CodeableConcept.coding[0].Coding.code),
+  test.assertEqual("provider", claim.payee.Payee.code__type),
+  test.assertEqual("702927004", claim.procedure[0].Procedure.code__procedureCodeableConcept__SNOMED),
   test.assertEqual(2, claim.item.length),
   test.assertEqual("102.15", xs.string(claim.total.Money.value)),
   test.assertEqual("WELLSTAR URGENT CARE - DELK ROAD, 2890 DELK ROAD SOUTHEAST, MARIETTA, GA, 30067", claim.item[0].ClaimItem.locationAddress.Address.text),

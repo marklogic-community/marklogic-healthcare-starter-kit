@@ -49,10 +49,8 @@ public class ClaimTest {
     public void testClaimFinal() {
         JsonNode finalDoc = client.newJSONDocumentManager().read("/claim/0a8c5c5f-46ff-28b5-3cba-309d1c4637fa.json", new JacksonHandle()).get();
         assertEquals("0a8c5c5f-46ff-28b5-3cba-309d1c4637fa", finalDoc.get("envelope").get("instance").get("Claim").get("id").asText());
-        assertEquals("http://hl7.org/fhir/ValueSet/payeetype", finalDoc.get("envelope").get("instance").get("Claim").get("payee").get("Payee").get("type").get("CodeableConcept").get("coding").get(0).get("Coding").get("system").asText());
-        assertEquals("provider", finalDoc.get("envelope").get("instance").get("Claim").get("payee").get("Payee").get("type").get("CodeableConcept").get("coding").get(0).get("Coding").get("code").asText());
-        assertEquals("Provider", finalDoc.get("envelope").get("instance").get("Claim").get("payee").get("Payee").get("type").get("CodeableConcept").get("coding").get(0).get("Coding").get("display").asText());
-        assertEquals("702927004", finalDoc.get("envelope").get("instance").get("Claim").get("procedure").get(0).get("Procedure").get("procedureCodeableConcept").get("CodeableConcept").get("coding").get(0).get("Coding").get("code").asText());
+        assertEquals("provider", finalDoc.get("envelope").get("instance").get("Claim").get("payee").get("Payee").get("code__type").asText());
+        assertEquals("702927004", finalDoc.get("envelope").get("instance").get("Claim").get("procedure").get(0).get("Procedure").get("code__procedureCodeableConcept__SNOMED").asText());
         assertEquals(2, finalDoc.get("envelope").get("instance").get("Claim").get("item").size());
         assertEquals("102.15", finalDoc.get("envelope").get("instance").get("Claim").get("total").get("Money").get("value").asText());
         assertEquals("WELLSTAR URGENT CARE - DELK ROAD, 2890 DELK ROAD SOUTHEAST, MARIETTA, GA, 30067", finalDoc.get("envelope").get("instance").get("Claim").get("item").get(0).get("ClaimItem").get("locationAddress").get("Address").get("text").asText());
