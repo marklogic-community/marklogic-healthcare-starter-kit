@@ -1,6 +1,8 @@
 'use strict';
 
 /**
+* Note: as a JavaScript mapping function, this will incur significant overhead at runtime. XPath/XSLT functions run much faster.
+*
 * This custom mapping function serves as a corollary to the fn.distinctValues() function, which is not an available function in the Data Hub mapping utility.
 * 
 * Use in mapping steps where needed to determine distinct values from a sequence.

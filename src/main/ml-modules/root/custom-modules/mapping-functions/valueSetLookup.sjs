@@ -1,6 +1,8 @@
 'use strict';
 
 /**
+* Note: as a JavaScript mapping function, this will incur significant overhead at runtime. XPath/XSLT functions run much faster. 
+* 
 * This custom mapping function allows for looking up values and mapping them to FHIR ValueSet codes, display labels, and definitions.
 * It leverages the FHIR ValueSet definition documents found in src/main/ml-data/referenceData/ValueSets/ which are derived directly from the FHIR specification.
 * 
