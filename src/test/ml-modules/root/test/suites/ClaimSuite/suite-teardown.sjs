@@ -1,0 +1,2 @@
+declareUpdate()
+xdmp.collectionDelete("testclaimline")

@@ -19,7 +19,7 @@ const contentArray = [{
 		},
 		"triples": [],
 		"instance": {
-			"Id": "0a8c5c5f-46ff-28b5-3cba-309d1c4637fa",
+			"Id": "99999999-TEST-9999-9999-SUITE-MLUNIT",
 			"PATIENTID": "d9fb22dd-45ab-41e3-7c6c-393d74805e67",
 			"PROVIDERID": "91ded9ef-a836-32be-9449-bda240c260a9",
 			"PRIMARYPATIENTINSURANCEID": "0",
@@ -72,7 +72,7 @@ const claim = content.value.toObject().envelope.instance.Claim;
 xdmp.log(xdmp.quote(claim)) 
 
 assertions.push(
-  test.assertEqual("0a8c5c5f-46ff-28b5-3cba-309d1c4637fa", claim.id),
+  test.assertEqual("99999999-TEST-9999-9999-SUITE-MLUNIT", claim.id),
   test.assertEqual("provider", claim.payee.Payee.code__type),
   test.assertEqual("702927004", claim.procedure[0].Procedure.code__procedureCodeableConcept__SNOMED),
   test.assertEqual(2, claim.item.length),
