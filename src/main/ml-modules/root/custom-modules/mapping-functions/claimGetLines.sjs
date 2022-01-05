@@ -20,8 +20,8 @@ function claimGetLines(claim) {
   let nodes = [];
   let search = cts.search(
     cts.andQuery([
-        cts.jsonPropertyValueQuery("CLAIMID", claim), 
-        cts.collectionQuery("ClaimTransactionIngest")
+      cts.jsonPropertyRangeQuery("CLAIMID", "=", claim), 
+      cts.collectionQuery("ClaimTransactionIngest")
     ])
   );
   for (var hit of search) {

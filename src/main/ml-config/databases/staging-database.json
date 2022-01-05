@@ -5,5 +5,14 @@
     "triple-index": true,
     "collection-lexicon": true,
     "uri-lexicon": true,
-    "range-element-index" : []
+    "range-element-index" : [
+        {
+          "scalar-type": "string",
+          "namespace-uri": "",
+          "localname": "CLAIMID",
+          "collation": "http://marklogic.com/collation/codepoint",
+          "range-value-positions": false,
+          "invalid-values": "reject"
+        }
+    ]
 }
