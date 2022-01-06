@@ -1,0 +1,57 @@
+{
+	"envelope": {
+		"headers": {
+			"sources": [
+				{
+					"name": "ClaimTransactionIngest",
+					"file": [
+						"data/synthea/csv/claim_transactions/claim_transactions_1.csv",
+						"data/synthea/csv/claim_transactions/claim_transactions_2.csv"
+					]
+				},
+				{
+					"datahubSourceName": "data/synthea/csv/claims_transactions/",
+					"datahubSourceType": "ClaimTransaction"
+				}
+			],
+			"createdUsingFile": "/Users/damonfeldman/ProjectRepos/marklogic-healthcare-starter-kit/data/synthea/csv/claims_transactions-smaller/claim_transactions_01.csv"
+		},
+		"triples": [],
+		"instance": {
+			"ID": "bcfcdbf1-d9a7-0ee4-cd5e-8050484d787c",
+			"CLAIMID": "99999999-TEST-9999-9999-SUITE-MLUNIT",
+			"CHARGEID": "35819",
+			"PATIENTID": "d9fb22dd-45ab-41e3-7c6c-393d74805e67",
+			"TYPE": "TRANSFERIN",
+			"AMOUNT": "21.23",
+			"METHOD": "",
+			"FROMDATE": "1998-07-19T13:46:24Z",
+			"TODATE": "1998-12-06T13:46:24Z",
+			"PLACEOFSERVICE": "99999999-TEST-LOCN-0001-999999999999",
+			"PROCEDURECODE": "860975",
+			"MODIFIER1": "",
+			"MODIFIER2": "",
+			"DIAGNOSISREF1": "1",
+			"DIAGNOSISREF2": "",
+			"DIAGNOSISREF3": "",
+			"DIAGNOSISREF4": "",
+			"UNITS": "1",
+			"DEPARTMENTID": "2",
+			"NOTES": "24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet",
+			"UNITAMOUNT": "",
+			"TRANSFEROUTID": "35818",
+			"TRANSFERTYPE": "p",
+			"PAYMENTS": "",
+			"ADJUSTMENTS": "",
+			"TRANSFERS": "21.23",
+			"OUTSTANDING": "29.23",
+			"APPOINTMENTID": "427ec00c-b261-afc0-a55d-0ad73097f153",
+			"LINENOTE": "",
+			"PATIENTINSURANCEID": "d9fb22dd-45ab-41e3-7c6c-393d74805e67",
+			"FEESCHEDULEID": "1",
+			"PROVIDERID": "3436a94f-b383-3aea-92b7-c0f85b94c24b",
+			"SUPERVISINGPROVIDERID": "3436a94f-b383-3aea-92b7-c0f85b94c24b"
+		},
+		"attachments": null
+	}
+}

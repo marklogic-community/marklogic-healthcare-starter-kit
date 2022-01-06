@@ -1,0 +1,32 @@
+{
+	"envelope": {
+		"headers": {
+			"sources": [
+				{
+					"name": "OrganizationIngest",
+					"file": "data/synthea/csv/organizations.csv"
+				},
+				{
+					"datahubSourceName": "data/synthea/csv/organizations/organizations.csv",
+					"datahubSourceType": "Organization"
+				}
+			],
+			"createdUsingFile": "/Users/damonfeldman/ProjectRepos/marklogic-healthcare-starter-kit/data/synthea/csv/organizations/organizations.csv"
+		},
+		"triples": [],
+		"instance": {
+			"Id": "99999999-TEST-LOCN-0001-999999999999",
+			"NAME": "SOUTHEAST GEORGIA HEALTH SYSTEM- BRUNSWICK CAMPUS",
+			"ADDRESS": "2415 PARKWOOD DRIVE",
+			"CITY": "BRUNSWICK",
+			"STATE": "GA",
+			"ZIP": "31520",
+			"LAT": "31.13617",
+			"LON": "-81.466915",
+			"PHONE": "9124667000",
+			"REVENUE": "0.0",
+			"UTILIZATION": "390"
+		},
+		"attachments": null
+	}
+}

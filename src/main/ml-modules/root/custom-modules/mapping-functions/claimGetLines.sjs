@@ -13,19 +13,17 @@
 * Example usage: 
 * claimGetLines("0002d470-664d-cf7c-3c66-cf3bcda1f2f6") 
 * returns...
-* [{"claimLine": {"ID": "ca9a22af-a924-7007-1d8f-884940455579", ...more details...}}]
+* Sequence object with {"claimLine": {"ID": "ca9a22af-a924-7007-1d8f-884940455579", ...more details...}}
 */
 
 function claimGetLines(claimId) {
-  xdmp.log("in getClaimLines id="+claimId)
   let nodes = [];
   let q =  cts.andQuery([
       cts.jsonPropertyRangeQuery("CLAIMID", "=", claimId), 
       cts.collectionQuery("ClaimTransactionIngest")
     ])
   let search = cts.search(q);
-  xdmp.log("executed search q="+xdmp.quote(q))
-  xdmp.log("got claims search result"+xdmp.quote(search))
+
   for (var hit of search) {
     let builder = new NodeBuilder();
     let doc = hit.root.envelope.instance;
@@ -34,6 +32,7 @@ function claimGetLines(claimId) {
     });
     nodes.push(builder.toNode());
   }
+
   return Sequence.from(nodes);
 }
 

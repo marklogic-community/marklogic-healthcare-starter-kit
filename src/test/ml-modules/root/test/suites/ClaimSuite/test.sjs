@@ -21,7 +21,7 @@ const content = result.contentArray[0];
 const context = content.context;
 const claim = content.value.toObject().envelope.instance.Claim;
 
-xdmp.log(xdmp.quote(claim)) 
+// xdmp.log(xdmp.quote(claim)) 
 
 assertions.push(
   test.assertEqual("99999999-TEST-9999-9999-SUITE-MLUNIT", claim.id),

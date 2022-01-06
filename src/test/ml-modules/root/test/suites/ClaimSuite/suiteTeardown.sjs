@@ -1,4 +1,4 @@
 declareUpdate()
+xdmp.collectionDelete("testclaim")
 xdmp.collectionDelete("testclaimline")
-xdmp.collectionDelete("OrganizationIngest")
-xdmp.log("TEARDOWN complete")
+xdmp.collectionDelete("testorganization")
