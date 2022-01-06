@@ -4,7 +4,7 @@
 * This custom mapping function takes a Claim Id as input, and fetches the claim's associated "claim lines" via cts.search for inclusion in the FHIR Claim entity modeling.  
 * These are also known as claim "items" in FHIR parlance, or claim transactions based on the input sample project data.
 * 
-* @param claim: the claim identifier of interest, to determine which claim's lines to retrieve.
+* @param claimId: the claim identifier of interest, to determine which claim's lines to retrieve.
 * 
 * Returns: A Sequence, built from an array of JSON Objects, with each object possessing a "claimLine" property detailing the claim transaction. 
 * 
@@ -16,14 +16,16 @@
 * [{"claimLine": {"ID": "ca9a22af-a924-7007-1d8f-884940455579", ...more details...}}]
 */
 
-function claimGetLines(claim) {
+function claimGetLines(claimId) {
+  xdmp.log("in getClaimLines id="+claimId)
   let nodes = [];
-  let search = cts.search(
-    cts.andQuery([
-      cts.jsonPropertyRangeQuery("CLAIMID", "=", claim), 
+  let q =  cts.andQuery([
+      cts.jsonPropertyRangeQuery("CLAIMID", "=", claimId), 
       cts.collectionQuery("ClaimTransactionIngest")
     ])
-  );
+  let search = cts.search(q);
+  xdmp.log("executed search q="+xdmp.quote(q))
+  xdmp.log("got claims search result"+xdmp.quote(search))
   for (var hit of search) {
     let builder = new NodeBuilder();
     let doc = hit.root.envelope.instance;

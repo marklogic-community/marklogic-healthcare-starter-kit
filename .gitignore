@@ -76,3 +76,4 @@ marklogic-data-hub-central-5.5.1.war
 bin/
 
 build/
+.DS_Store

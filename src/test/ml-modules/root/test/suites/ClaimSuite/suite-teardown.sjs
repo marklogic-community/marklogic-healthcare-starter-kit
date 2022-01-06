@@ -1,2 +1,0 @@
-declareUpdate()
-xdmp.collectionDelete("testclaimline")
