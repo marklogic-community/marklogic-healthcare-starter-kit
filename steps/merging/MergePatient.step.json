@@ -2,7 +2,7 @@
   "batchSize": 100,
   "sourceDatabase": "data-hub-FINAL",
   "targetDatabase": "data-hub-FINAL",
-  "permissions": "data-hub-common,read,data-hub-common,update",
+  "permissions": "data-hub-common,read,data-hub-common,update,mes-writer,update",
   "targetEntityType": "Patient",
   "sourceQuery": "cts.collectionQuery(['datahubMasteringMatchSummary-Patient'])",
   "provenanceGranularityLevel": "off",
@@ -20,7 +20,12 @@
   "timestamp": "",
   "additionalCollections": [ ],
   "headers": { },
-  "interceptors": [ ],
+  "interceptors": [
+    {
+      "path": "/lib/interceptors/patient-mapping.sjs",
+      "when": "beforeContentPersisted"
+    }
+  ],
   "customHook": { },
   "stepDefinitionName": "default-merging",
   "stepDefinitionType": "merging",

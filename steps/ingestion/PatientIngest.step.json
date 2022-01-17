@@ -12,7 +12,7 @@
   "collections": [
     "PatientIngest"
   ],
-  "permissions": "data-hub-common,read,data-hub-common,update",
+  "permissions": "data-hub-common,read,data-hub-common,update,raw-data-reader,read,mes-writer,update",
   "batchSize": 100,
   "name": "PatientIngest",
   "description": "Ingestion for Patients data",

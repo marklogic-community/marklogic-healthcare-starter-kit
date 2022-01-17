@@ -10,7 +10,7 @@
   "collections": [
     "ClaimTransactionIngest"
   ],
-  "permissions": "data-hub-common,read,data-hub-common,update",
+  "permissions": "data-hub-common,read,data-hub-common,update,raw-data-reader,read,mes-writer,update",
   "batchSize": 100,
   "name": "ClaimTransactionIngest",
   "description": "Ingest ClaimTransaction data",

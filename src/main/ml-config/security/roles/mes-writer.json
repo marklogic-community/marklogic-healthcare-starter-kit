@@ -1,0 +1,10 @@
+{
+  "role-name": "mes-writer",
+  "description": "Custom Role for SLED Demo to write or overwrite documents",
+  "role": [
+  ],
+  "permission": [
+  ],
+  "privilege": [
+  ]
+}
