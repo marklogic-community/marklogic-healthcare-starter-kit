@@ -166,7 +166,7 @@
         "sequence": {
           "sourcedFrom": "position()"
         },
-        "code__diagnosisCodeableConcept_SNOMED": {
+        "code__diagnosisCodeableConcept__SNOMED": {
           "sourcedFrom": "."
         }
       },
