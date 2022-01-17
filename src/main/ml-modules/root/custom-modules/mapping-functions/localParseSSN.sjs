@@ -1,6 +1,8 @@
 'use strict';
 
 /**
+* Note: as a JavaScript mapping function, this will incur significant overhead at runtime. XPath/XSLT functions run much faster.
+*
 * This custom mapping function serves as a parsing mechanism for handling both well-formed and malformed United States Social Security Numbers (SSN).  The usual dashes found in SSNs are allowed.
 * For malformed numbers to be handled properly, they must still possess 9 digits in the string.  If the value passed in does not contain 9 digits, then a HSK-MALFORMED-SSN trace event can be logged if enabled. A null value is returned in this scenario.  
 * 
