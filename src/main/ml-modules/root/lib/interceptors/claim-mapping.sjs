@@ -17,10 +17,14 @@ const employeeReader = xdmp.permission('employee-reader', 'read');
 const psychReader = xdmp.permission('psych-reader', 'read');
 const phiReader = xdmp.permission('phi-reader', 'read');
 
+/** Check to see if any of the SNOMED diagnosis codes on the claim are psychological in nature */
 function isPsychClaim(claim) {
-  return psychDiagnoses.includes(claim.envelope.instance.Claim.diagnosis[0].Diagnosis.code__diagnosisCodeableConcept_SNOMED.toString());
+  return claim.envelope.instance.Claim.diagnosis.some(
+    diagnosis => psychDiagnoses.includes(diagnosis.Diagnosis.code__procedureCodeableConcept__SNOMED.toString())
+  );
 }
 
+/** Check to see if the patient referenced by this claim is a current/former HHS employee or a relative thereof */
 function isClaimForEmployeeOrRelative(claim) {
   return employeesAndRelatives.includes(claim.envelope.instance.Claim.patient.Reference.reference.toString().replace('Patient/', ''));
 }

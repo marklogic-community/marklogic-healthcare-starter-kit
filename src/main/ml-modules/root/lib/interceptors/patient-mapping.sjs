@@ -12,10 +12,12 @@ traceObject(employeesAndRelatives);
 const employeeReader = xdmp.permission('employee-reader', 'read');
 const phiReader = xdmp.permission('phi-reader', 'read');
 
+/** Check if the patient's ID matches that of a current/former HHS employee or a relative thereof */
 function isEmployeeOrRelative(patient) {
   return employeesAndRelatives.includes(patient.envelope.instance.Patient.id.toString());
 }
 
+/** Predicate to filter non-Patient content values during post-merge run */
 function isPatient(value) {
   return !!value.envelope;
 }
