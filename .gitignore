@@ -76,3 +76,5 @@ marklogic-data-hub-central-5.5.1.war
 bin/
 
 build/
+
+src/main/ml-data/ontologies/SNOMED-CT.ttl
