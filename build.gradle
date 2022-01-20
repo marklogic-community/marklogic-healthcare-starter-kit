@@ -86,6 +86,21 @@ task loadReferenceDataStaging(type: com.marklogic.gradle.task.MlcpTask) {
   ]
 }
 
+mlLoadData.dependsOn loadReferenceDataStaging
+
+ext.getOntologyLoadArgs = { ttlFile, outputGraph ->
+  assert (!ttlFile.equals(''))
+  assert ttlFile.endsWith('.ttl')
+  assert file(ttlFile).exists()
+  assert (!outputGraph.equals(''))
+
+  return [
+    '-input_file_path', ttlFile,
+    '-output_graph', outputGraph,
+    '-input_file_type', 'rdf'
+  ]
+}
+
 task loadIcd10PcsOntology(type: com.marklogic.gradle.task.MlcpTask) {
   doFirst {
     database = mlFinalDbName
@@ -93,11 +108,7 @@ task loadIcd10PcsOntology(type: com.marklogic.gradle.task.MlcpTask) {
   }
   classpath = configurations.mlcp
   command = 'IMPORT'
-  args = [
-    '-input_file_path', "$project.projectDir/src/main/ml-data/ontologies/ICD10PCS.ttl",
-    '-output_graph', 'icd10pcsOntology',
-    '-input_file_type', 'rdf',
-  ]
+  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/ICD10PCS.ttl", 'icd-10-pcs-ontology')
 }
 
 task loadIcd10CmOntology(type: com.marklogic.gradle.task.MlcpTask) {
@@ -107,12 +118,25 @@ task loadIcd10CmOntology(type: com.marklogic.gradle.task.MlcpTask) {
   }
   classpath = configurations.mlcp
   command = 'IMPORT'
-  args = [
-    '-input_file_path', "$project.projectDir/src/main/ml-data/ontologies/ICD10CM.ttl",
-    '-output_graph', 'icd10cmOntology',
-    '-input_file_type', 'rdf',
-  ]
+  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/ICD10CM.ttl", 'icd-10-cm-ontology')
 }
 
-mlLoadData.dependsOn loadReferenceDataStaging
-mlLoadData.dependsOn loadIcd10PcsOntology
+task loadIcd10Ontologies {
+  dependsOn loadIcd10PcsOntology
+  dependsOn loadIcd10CmOntology
+}
+
+task loadSnomedCTOntology(type: com.marklogic.gradle.task.MlcpTask) {
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = 'IMPORT'
+  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/SNOMED-CT.ttl", 'snomed-ct-ontology')
+}
+
+task loadOntologies {
+  dependsOn loadIcd10Ontologies
+  dependsOn loadSnomedCTOntology
+}
