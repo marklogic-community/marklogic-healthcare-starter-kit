@@ -17,30 +17,28 @@
 * Example usage: 
 * claimGetLinesTotalAmount("a7130de1-e4c1-274e-475f-4da35bac6c78")
 * returns...
-* {"claimAmountTotal": 61.29}
+* Sequence object containing: {"claimAmountTotal": 61.29}
 */
 
 function claimGetLinesTotalAmount(claimId) {
   const reducer = (accumulator, currentValue) => accumulator + currentValue;
-  let amounts = [];
   let nodes = [];
   let search = cts.search(
     cts.andQuery([
-        cts.jsonPropertyValueQuery("CLAIMID", claimId), 
+        cts.jsonPropertyValueQuery("CLAIMID", claimId),
         cts.collectionQuery("ClaimTransactionIngest")
     ])
   );
-  for (var hit of search) {
-    let amt = hit.root.envelope.instance.AMOUNT;
-    if (fn.stringLength(amt) > 0 && xs.decimal(amt)) {
-      amounts.push(amt);
-    }
-  }
+  let amounts = search.toArray()
+      .map(hit => hit.root.envelope.instance.AMOUNT)
+          .filter(amt => fn.stringLength(amt) > 0 && xs.decimal(amt)) // sum all the non-zero, non-empty amounts
+
   let builder = new NodeBuilder();
   builder.addNode({
     "claimAmountTotal": fn.sum(amounts)
   });
   nodes.push(builder.toNode());
+
   return Sequence.from(nodes);
 }
 
