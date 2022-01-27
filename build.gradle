@@ -89,10 +89,11 @@ task loadReferenceDataStaging(type: com.marklogic.gradle.task.MlcpTask) {
 mlLoadData.dependsOn loadReferenceDataStaging
 
 ext.getOntologyLoadArgs = { ttlFile, outputGraph ->
-  assert (!ttlFile.equals(''))
-  assert ttlFile.endsWith('.ttl')
-  assert file(ttlFile).exists()
-  assert (!outputGraph.equals(''))
+  // Get custom assertion failure messages: https://stackoverflow.com/a/51447369
+  assert 'You must provide a filename to load from.' && !ttlFile.equals('')
+  assert "Invalid file extension for \"$ttlFile\". Expected \".ttl\" extension." && ttlFile.endsWith('.ttl')
+  assert "Unable to find file \"$ttlFile\"" && file(ttlFile).exists()
+  assert 'You must provide a graph name to output into.' && !outputGraph.equals('')
 
   return [
     '-input_file_path', ttlFile,

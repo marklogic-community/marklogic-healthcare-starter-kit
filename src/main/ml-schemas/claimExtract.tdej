@@ -1,0 +1,139 @@
+{
+  "template": {
+    "context": "/envelope/instance/Claim",
+    "collections": ["Claim"],
+    "rows": [
+      {
+        "schemaName": "Claim",
+        "viewName": "Reference_Projection",
+        "viewLayout": "sparse",
+        "columns": [
+          {
+            "name": "id",
+            "scalarType": "string",
+            "val": "./id",
+            "nullable": false,
+            "invalidValues": "ignore"
+          },
+          {
+            "name": "patientId",
+            "scalarType": "string",
+            "val": "fn:substring-after(./patient/Reference/reference, 'Patient/')",
+            "nullable": true,
+            "invalidValues": "ignore"
+          },
+          {
+            "name": "providerId",
+            "scalarType": "string",
+            "val": "fn:substring-after(./provider/Reference/reference, 'Provider/')",
+            "nullable": true,
+            "invalidValues": "ignore"
+          },
+          {
+            "name": "insurerId",
+            "scalarType": "string",
+            "val": "fn:substring-after(./insurer/Reference/reference, 'Organization/')",
+            "nullable": true,
+            "invalidValues": "ignore"
+          },
+          {
+            "name": "billablePeriodStart",
+            "scalarType": "string",
+            "val": "./billablePeriod/Period/start",
+            "nullable": true,
+            "invalidValues": "ignore"
+          },
+          {
+            "name": "billablePeriodEnd",
+            "scalarType": "string",
+            "val": "./billablePeriod/Period/end",
+            "nullable": true,
+            "invalidValues": "ignore"
+          },
+          {
+            "name": "totalAmount",
+            "scalarType": "decimal",
+            "val": "./total/Money/value",
+            "nullable": true,
+            "invalidValues": "ignore"
+          },
+          {
+            "name": "totalCurrency",
+            "scalarType": "string",
+            "val": "./total/Money/currency",
+            "nullable": true,
+            "invalidValues": "ignore"
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "context": "./diagnosis/Diagnosis",
+        "rows": [
+          {
+            "schemaName": "Claim",
+            "viewName": "Reference_Projection_By_Diagnosis",
+            "viewLayout": "sparse",
+            "columns": [
+              {
+                "name": "id",
+                "scalarType": "string",
+                "val": "../../../id",
+                "nullable": false,
+                "invalidValues": "ignore"
+              },
+              {
+                "name": "diagnosis__SNOMED",
+                "scalarType": "string",
+                "val": "./code__diagnosisCodeableConcept_SNOMED",
+                "nullable": true,
+                "invalidValues": "ignore"
+              },
+              {
+                "name": "diagnosis__ICD10CM",
+                "scalarType": "string",
+                "val": "./code__diagnosisCodeableConcept_ICD10CM",
+                "nullable": true,
+                "invalidValues": "ignore"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "context": "./procedure/Procedure",
+        "rows": [
+          {
+            "schemaName": "Claim",
+            "viewName": "Reference_Projection_By_Procedure",
+            "viewLayout": "sparse",
+            "columns": [
+              {
+                "name": "id",
+                "scalarType": "string",
+                "val": "../../../id",
+                "nullable": false,
+                "invalidValues": "ignore"
+              },
+              {
+                "name": "procedure__SNOMED",
+                "scalarType": "string",
+                "val": "./code__procedureCodeableConcept__SNOMED",
+                "nullable": true,
+                "invalidValues": "ignore"
+              },
+              {
+                "name": "procedure__ICD10CM",
+                "scalarType": "string",
+                "val": "./code__procedureCodeableConcept__ICD10CM",
+                "nullable": true,
+                "invalidValues": "ignore"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
