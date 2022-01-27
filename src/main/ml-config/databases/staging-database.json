@@ -5,5 +5,22 @@
     "triple-index": true,
     "collection-lexicon": true,
     "uri-lexicon": true,
-    "range-element-index" : []
+    "range-element-index" : [
+        {
+          "scalar-type": "string",
+          "namespace-uri": "",
+          "localname": "CLAIMID",
+          "collation": "http://marklogic.com/collation/codepoint",
+          "range-value-positions": false,
+          "invalid-values": "reject"
+        }
+    ],
+    "range-path-index" : [ {
+        "invalid-values" : "ignore",
+        "path-expression" : "/envelope[headers/sources/name ='OrganizationIngest']/instance/Id",
+        "range-value-positions" : false,
+        "scalar-type" : "string",
+        "collation" : "http://marklogic.com/collation/codepoint"
+      }
+    ]
 }

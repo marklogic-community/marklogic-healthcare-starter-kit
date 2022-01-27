@@ -1,0 +1,56 @@
+{
+	"envelope": {
+		"headers": {
+			"sources": [
+				{
+					"name": "ClaimTransactionIngest",
+					"file": [
+						"data/synthea/csv/claim_transactions/claim_transactions_1.csv",
+						"data/synthea/csv/claim_transactions/claim_transactions_2.csv"
+					]
+				},
+				{
+					"datahubSourceName": "data/synthea/csv/claims_transactions/",
+					"datahubSourceType": "ClaimTransaction"
+				}
+			],
+			"createdUsingFile": "/Users/damonfeldman/ProjectRepos/marklogic-healthcare-starter-kit/data/synthea/csv/claims_transactions-smaller/claim_transactions_01.csv"
+		},
+		"triples": [],
+		"instance": {
+			"CLAIMID": "99999999-TEST-9999-9999-SUITE-MLUNIT",
+			"CHARGEID": "37759",
+			"PATIENTID": "d9fb22dd-45ab-41e3-7c6c-393d74805e67",
+			"TYPE": "PAYMENT",
+			"AMOUNT": "61.77",
+			"METHOD": "CHECK",
+			"FROMDATE": "2009-04-19T13:46:24Z",
+			"TODATE": "2009-04-19T14:01:24Z",
+			"PLACEOFSERVICE": "99999999-TEST-LOCN-0001-999999999999",
+			"PROCEDURECODE": "185349003",
+			"MODIFIER1": "",
+			"MODIFIER2": "",
+			"DIAGNOSISREF1": "1",
+			"DIAGNOSISREF2": "",
+			"DIAGNOSISREF3": "",
+			"DIAGNOSISREF4": "",
+			"UNITS": "1",
+			"DEPARTMENTID": "2",
+			"NOTES": "Encounter for check up (procedure)",
+			"UNITAMOUNT": "",
+			"TRANSFEROUTID": "",
+			"TRANSFERTYPE": "",
+			"PAYMENTS": "40.00",
+			"ADJUSTMENTS": "-20.77",
+			"TRANSFERS": "",
+			"OUTSTANDING": "0.00",
+			"APPOINTMENTID": "d2ba2cea-42ae-bf01-f4fa-9feb4db9b6ac",
+			"LINENOTE": "",
+			"PATIENTINSURANCEID": "d9fb22dd-45ab-41e3-7c6c-393d74805e67",
+			"FEESCHEDULEID": "1",
+			"PROVIDERID": "3436a94f-b383-3aea-92b7-c0f85b94c24b",
+			"SUPERVISINGPROVIDERID": "3436a94f-b383-3aea-92b7-c0f85b94c24b"
+		},
+		"attachments": null
+	}
+}
