@@ -127,6 +127,10 @@ task loadIcd10Ontologies {
   dependsOn loadIcd10CmOntology
 }
 
+task normalizeSnomedCTOntology(type: com.marklogic.gradle.task.ServerEvalTask) {
+  xquery = 'xdmp:invoke("/lib/transformers/addSkosCoreNotationToSnomedOntology.sjs", (), map:entry("database", xdmp:database("' + mlFinalDbName + '")))'
+}
+
 task loadSnomedCTOntology(type: com.marklogic.gradle.task.MlcpTask) {
   doFirst {
     database = mlFinalDbName
@@ -136,6 +140,8 @@ task loadSnomedCTOntology(type: com.marklogic.gradle.task.MlcpTask) {
   command = 'IMPORT'
   args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/SNOMED-CT.ttl", 'snomed-ct-ontology')
 }
+
+loadSnomedCTOntology.finalizedBy normalizeSnomedCTOntology
 
 task loadOntologies {
   dependsOn loadIcd10Ontologies

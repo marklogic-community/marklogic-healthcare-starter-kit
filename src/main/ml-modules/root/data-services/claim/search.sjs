@@ -24,8 +24,8 @@ const broader = false;
 
 const fragmentIdCol = op.fragmentIdCol('fragment');
 
-const claimsByDiagnosis = op.fromView('Claim', 'Reference_Projection_By_Diagnosis', null, fragmentIdCol);
-// const claimsByProcedure = op.fromView('Claim', 'Reference_Projection_By_Procedure', null, fragmentIdCol);
+const claimsByDiagnosis = op.fromView('Claims', 'ByDiagnosis', null, fragmentIdCol);
+// const claimsByProcedure = op.fromView('Claims', 'ByProcedure', null, fragmentIdCol);
 
 const resultParams = {};
 
@@ -36,23 +36,24 @@ const resultParams = {};
  *       heirarchical codes, but has not been tested alongside other optic search parameters
  *
  * @param  {string}  field     The search field name
- * @param  {<type>}  modifier  The search field modifier
+ * @param  {string}  modifier  The search field modifier
  * @param  {<type>}  value     The search field value
- * @param  {<type>}  params    The optic query result parameters
+ * @param  {Object}  params    The optic query result parameters
  *
- * @return {<type>}  The claims by heirarchical codes.
+ * @return {ModifyPlan}
  */
 function getClaimsByHeirarchicalCodes(field, modifier, value, params) {
   const parts = value.split('/');
   const code = parts.pop();
   const system = parts.join('/');
   const systemAlias = systemAliasMap.get(system) || system;
+  const broader = modifier === 'above'; // Other possible value is 'below'
 
   params.baseCode = sem.iri(`${systemMap.get(system) || system}/${code}`);
 
   const fragmentIdCol = op.fragmentIdCol('claim');
 
-  const claims = op.fromView('Claim', `Reference_Projection_By_${field === 'diagnosis' ? 'Diagnosis' : 'Procedure'}`, null, fragmentIdCol);
+  const claims = op.fromView('Claims', `By${field === 'diagnosis' ? 'Diagnosis' : 'Procedure'}`, null, fragmentIdCol);
 
   return op
     .fromSPARQL(`

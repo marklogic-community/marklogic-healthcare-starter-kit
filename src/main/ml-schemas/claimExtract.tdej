@@ -4,8 +4,8 @@
     "collections": ["Claim"],
     "rows": [
       {
-        "schemaName": "Claim",
-        "viewName": "Reference_Projection",
+        "schemaName": "Claims",
+        "viewName": "Projection",
         "viewLayout": "sparse",
         "columns": [
           {
@@ -72,8 +72,8 @@
         "context": "./diagnosis/Diagnosis",
         "rows": [
           {
-            "schemaName": "Claim",
-            "viewName": "Reference_Projection_By_Diagnosis",
+            "schemaName": "Claims",
+            "viewName": "ByDiagnosis",
             "viewLayout": "sparse",
             "columns": [
               {
@@ -105,8 +105,8 @@
         "context": "./procedure/Procedure",
         "rows": [
           {
-            "schemaName": "Claim",
-            "viewName": "Reference_Projection_By_Procedure",
+            "schemaName": "Claims",
+            "viewName": "ByProcedure",
             "viewLayout": "sparse",
             "columns": [
               {
