@@ -121,6 +121,8 @@ task loadMetaDataFinal(type: com.marklogic.gradle.task.MlcpTask) {
 }
 
 mlLoadData.dependsOn loadReferenceDataStaging
+// In order to load additional reference and metadata, augment the existing mlLoadData task to look
+// in these sub-directories and load them appropriately
 mlLoadData.dependsOn loadMetaDataStaging
 mlLoadData.dependsOn loadMetaDataFinal
 
@@ -206,7 +208,6 @@ task ingestSmaller {
   dependsOn ingestOrganizations
   dependsOn ingestPayers
 }
-
 
 task harmonizePatients (type: com.marklogic.gradle.task.RunFlowTask) {
     description = "Harmonize patient data"

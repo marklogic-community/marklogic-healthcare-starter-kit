@@ -29,6 +29,7 @@ traceObject(contentArray);
 traceObject(options);
 
 contentArray.forEach(content => {
+  // If `content.value` is a Document, access the `root` property, otherwise treat `content.value` as a plain JS object
   const value = content.value.root || content.value;
 
   // Patient merge step includes results that are not patients, filter those out before processing permissions

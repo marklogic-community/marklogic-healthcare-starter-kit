@@ -36,6 +36,7 @@ traceObject(contentArray);
 traceObject(options);
 
 contentArray.forEach(content => {
+  // If `content.value` is a Document, access the `root` property, otherwise treat `content.value` as a plain JS object
   const claim = content.value.root || content.value;
   const isPsych = isPsychClaim(claim);
 
