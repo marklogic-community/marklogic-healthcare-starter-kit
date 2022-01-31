@@ -1,5 +1,9 @@
 'use strict';
 
+/** this is a non-persistent test that invokes a mapping step on a sample raw input record, and checks the result in memory.
+    It uses an internal Data hub JavaScript API to apply the mapping step to the raw input.
+ */
+ 
 const flowApi = require("/data-hub/public/flow/flow-api.sjs");
 const test = require("/test/test-helper.xqy");
 

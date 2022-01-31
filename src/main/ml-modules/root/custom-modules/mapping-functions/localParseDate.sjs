@@ -1,6 +1,8 @@
 'use strict';
 
 /**
+* Note: as a JavaScript mapping function, this will incur significant overhead at runtime. XPath/XSLT functions run much faster.
+*
 * This custom mapping function serves as an alternative to the built-in mapping function parseDate, which couldn't directly handle the abbreviated year found in the date format used by this project's sample input data.
 * It uses a prepended "local" on the function name to distinguish it from the parseDate built-in.
 * 
