@@ -460,7 +460,7 @@
           "sortable": false,
           "collation": "http://marklogic.com/collation/codepoint"
         },
-        "code__diagnosisCodeableConcept_SNOMED": {
+        "code__diagnosisCodeableConcept__SNOMED": {
           "datatype": "string",
           "facetable": false,
           "sortable": false,
