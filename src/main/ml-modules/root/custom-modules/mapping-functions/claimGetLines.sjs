@@ -23,7 +23,7 @@ function claimGetLines(claimId) {
         cts.jsonPropertyValueQuery("CLAIMID", claimId),
         cts.collectionQuery("ClaimTransactionIngest")
     ])
-  let search = cts.search(q);
+  );
 
   for (var hit of search) {
     let builder = new NodeBuilder();
