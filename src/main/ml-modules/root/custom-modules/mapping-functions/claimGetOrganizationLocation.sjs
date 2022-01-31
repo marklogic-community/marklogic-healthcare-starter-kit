@@ -1,6 +1,8 @@
 'use strict';
 
 /**
+* Note: as a JavaScript mapping function, this will incur significant overhead at runtime. XPath/XSLT functions run much faster.
+*
 * This custom mapping function is used to determine organization locations involved in a Claim and its associated "claim lines".
 * Important: there is a dependency and assumption that this function is used in conjunction with the provided claimGetLines custom mapping function, which should serve as the "sourcedFrom" sequence of nodes for context.
 * Any given claim line in the sample data references an organization where a service was performed.  That organization will in turn have a location.  
@@ -25,7 +27,7 @@ function claimGetOrganizationLocation(placeOfServiceId) {
   // By using a range index, a single range index structure is memory mapped and available without excessive I/O
   let search = cts.search(
     cts.andQuery([
-        cts.pathRangeQuery("/envelope[headers/sources/name ='OrganizationIngest']/instance/Id", "=", placeOfServiceId), 
+        cts.jsonPropertyValueQuery("Id", placeOfServiceId),
         cts.collectionQuery("OrganizationIngest")
     ])
   );

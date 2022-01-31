@@ -1,6 +1,8 @@
 'use strict';
 
 /**
+* Note: as a JavaScript mapping function, this will incur significant overhead at runtime. XPath/XSLT functions run much faster.
+* 
 * This custom mapping function takes a Claim Id as input, and fetches the claim's associated "claim lines" via cts.search for inclusion in the FHIR Claim entity modeling.  
 * These are also known as claim "items" in FHIR parlance, or claim transactions based on the input sample project data.
 * It then looks in each claim transaction/line item, grabs the AMOUNT cost for that item.  Finally, across all line items, a sum is generated via the built-in fn.sum() function. 
@@ -23,7 +25,7 @@ function claimGetLinesTotalAmount(claimId) {
   let nodes = [];
   let search = cts.search(
     cts.andQuery([
-        cts.jsonPropertyRangeQuery("CLAIMID", "=", claimId), 
+        cts.jsonPropertyValueQuery("CLAIMID", claimId),
         cts.collectionQuery("ClaimTransactionIngest")
     ])
   );
