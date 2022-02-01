@@ -1,0 +1,10 @@
+{
+  "role-name": "mes-reader",
+  "description": "Custom Role for SLED Demo to read low-security documents in the Healthcare Starter Kit, e.g. provider data",
+  "role": [
+  ],
+  "permission": [
+  ],
+  "privilege": [
+  ]
+}
