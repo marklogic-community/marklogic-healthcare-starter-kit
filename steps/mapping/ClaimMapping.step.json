@@ -4,7 +4,7 @@
     "Claim"
   ],
   "additionalCollections": [ ],
-  "permissions": "data-hub-common,read,data-hub-common,update",
+  "permissions": "data-hub-common,read,data-hub-common,update,mes-writer,update",
   "batchSize": 100,
   "validateEntity": "doNotValidate",
   "targetFormat": "JSON",
@@ -17,7 +17,12 @@
   "sourceQuery": "cts.collectionQuery(['ClaimIngest'])",
   "targetDatabase": "data-hub-FINAL",
   "headers": { },
-  "interceptors": [ ],
+  "interceptors": [
+    {
+      "path": "/lib/interceptors/claim-mapping.sjs",
+      "when": "beforeContentPersisted"
+    }
+  ],
   "provenanceGranularityLevel": "off",
   "customHook": { },
   "sourceDatabase": "data-hub-STAGING",

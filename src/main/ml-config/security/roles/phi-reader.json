@@ -1,0 +1,10 @@
+{
+  "role-name": "phi-reader",
+  "description": "Custom Role for SLED Demo to read documents which contain PHI or PII",
+  "role": [
+  ],
+  "permission": [
+  ],
+  "privilege": [
+  ]
+}

@@ -69,9 +69,6 @@ task resetDBs(type: com.marklogic.gradle.task.ServerEvalTask) {
   javascript = 'xdmp.invoke("/envision/system/resetSystem.sjs")'
 }
 
-task ingest {
-
-}
 task loadReferenceDataStaging(type: com.marklogic.gradle.task.MlcpTask) {
   doFirst {
     database = mlStagingDbName
@@ -89,7 +86,45 @@ task loadReferenceDataStaging(type: com.marklogic.gradle.task.MlcpTask) {
   ]
 }
 
+task loadMetaDataStaging(type: com.marklogic.gradle.task.MlcpTask) {
+  doFirst {
+    database = mlStagingDbName
+    port = mlStagingPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = "IMPORT"
+  args = [
+      "-input_file_path", "$project.projectDir/src/main/ml-data/meta",
+      "-output_collections", "metaData",
+      "-output_permissions", "raw-data-reader,read,mes-writer,update",
+      "-document_type", "json",
+      "-output_uri_replace", ".*src/main/ml-data,''",
+      "-modules_root", "/",
+  ]
+}
+
+task loadMetaDataFinal(type: com.marklogic.gradle.task.MlcpTask) {
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = "IMPORT"
+  args = [
+      "-input_file_path", "$project.projectDir/src/main/ml-data/meta",
+      "-output_collections", "metaData",
+      "-output_permissions", "raw-data-reader,read,mes-writer,update",
+      "-document_type", "json",
+      "-output_uri_replace", ".*src/main/ml-data,''",
+      "-modules_root", "/",
+  ]
+}
+
 mlLoadData.dependsOn loadReferenceDataStaging
+// In order to load additional reference and metadata, augment the existing mlLoadData task to look
+// in these sub-directories and load them appropriately
+mlLoadData.dependsOn loadMetaDataStaging
+mlLoadData.dependsOn loadMetaDataFinal
 
 ext.getOntologyLoadArgs = { ttlFile, outputGraph ->
   // Get custom assertion failure messages: https://stackoverflow.com/a/51447369
@@ -169,14 +204,14 @@ task ingestClaimsSmaller (type: com.marklogic.gradle.task.RunFlowTask) {
 
 task ingestClaimLines(type: com.marklogic.gradle.task.RunFlowTask) {
     description = "Ingest claim transactions raw data"
-    flowName = "ClaimTransacton"
+    flowName = "ClaimTransaction"
     steps = ["1"]
     inputFilePath="data/synthea/csv/claims_transactions/"
     inputFileType="csv"
 }
 
 task ingestClaimLinesSmaller(type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest smaller claims raw data"
+    description = "Ingest smaller claim transactions raw data"
     flowName = "ClaimTransaction"
     steps = ["1"]
     inputFilePath="data/synthea/csv/claims_transactions-smaller/"
@@ -215,6 +250,15 @@ task ingestPayers (type: com.marklogic.gradle.task.RunFlowTask) {
     inputFileType="csv"
 }
 
+task ingest {
+  dependsOn ingestClaims
+  dependsOn ingestClaimLines
+  dependsOn ingestPatients
+  dependsOn ingestProviders
+  dependsOn ingestOrganizations
+  dependsOn ingestPayers
+}
+
 task ingestSmaller {
   dependsOn ingestClaimsSmaller
   dependsOn ingestClaimLinesSmaller
@@ -249,6 +293,5 @@ task harmonizeAll {
   dependsOn harmonizePatients
   dependsOn harmonizeOrganizations
   dependsOn harmonizeProviders
-  dependsOn ingestProviders
   dependsOn harmonizeClaims
 }
