@@ -8,24 +8,17 @@ var start;
 var limit;
 
 const systemMap = new Map([
-  ['http://hl7.org/fhir/sid/icd-10-cm', 'http://purl.bioontology.org/ontology/ICD10CM/'],
-  ['http://hl7.org/fhir/sid/icd-10-pcs', 'http://purl.bioontology.org/ontology/ICD10PCS/'],
-  ['http://snomed.info/sct/', 'http://snomed.info/id/']
+  ['http://hl7.org/fhir/sid/icd-10-cm', 'http://purl.bioontology.org/ontology/ICD10CM'],
+  ['http://hl7.org/fhir/sid/icd-10-pcs', 'http://purl.bioontology.org/ontology/ICD10PCS'],
+  ['http://snomed.info/sct', 'http://snomed.info/id']
 ]);
 const systemAliasMap = new Map([
   ['http://hl7.org/fhir/sid/icd-10-cm', 'ICD10'],
   ['http://hl7.org/fhir/sid/icd-10-pcs', 'ICD10'],
-  ['http://snomed.info/sct/', 'SNOMED']
+  ['http://snomed.info/sct', 'SNOMED']
 ]);
 
 const searchList = search ? JSON.parse(search) : [];
-
-const broader = false;
-
-const fragmentIdCol = op.fragmentIdCol('fragment');
-
-const claimsByDiagnosis = op.fromView('Claims', 'ByDiagnosis', null, fragmentIdCol);
-// const claimsByProcedure = op.fromView('Claims', 'ByProcedure', null, fragmentIdCol);
 
 const resultParams = {};
 
@@ -37,8 +30,8 @@ const resultParams = {};
  *
  * @param  {string}  field     The search field name
  * @param  {string}  modifier  The search field modifier
- * @param  {<type>}  value     The search field value
- * @param  {Object}  params    The optic query result parameters
+ * @param  {string}  value     The search field value
+ * @param  {Object}  params    The optic query result parameter object
  *
  * @return {ModifyPlan}
  */
@@ -68,17 +61,15 @@ function getClaimsByHeirarchicalCodes(field, modifier, value, params) {
     .joinDoc(op.col('doc'), fragmentIdCol);
 }
 
-op
-  .fromSPARQL(`
-    select ?code where {
-      ?iri ${broader ? '^' : ''}<http://www.w3.org/2000/01/rdf-schema#subClassOf>* @baseCode ;
-                                <http://www.w3.org/2004/02/skos/core#notation>     ?code
-    }
-  `)
-  .joinInner(claimsByDiagnosis, op.on(op.col('code'), op.col('diagnosis__SNOMED')))
-  .select(fragmentIdCol)
-  .whereDistinct()
+const param = searchList[0]; // TODO: Update when there is more than a single parameter
+
+const searchField = param.field;
+const searchModifier = param.modifier;
+const searchValue = param.value;
+
+// TODO: Update when there is more than a single parameter
+getClaimsByHeirarchicalCodes(searchField, searchModifier, searchValue, resultParams)
   .offset(start)
   .limit(limit)
-  .joinDoc(op.col('doc'), fragmentIdCol)
   .result(null, resultParams)
+  .toArray();

@@ -7,10 +7,11 @@ declareUpdate();
 const { trace, traceObject } = getTraceHelpers('claim-mapping');
 
 const employeesAndRelatives = Array.from(cts.doc('/meta/employeesAndRelatives.json').root.ids).map(id => id.toString());
-const psychDiagnoses = Array.from(cts.doc('/meta/psych-diagnoses.json').root.codes.snomed).map(code => code.toString());
+const snomedPsychDiagnoses = Array.from(cts.doc('/meta/psych-diagnoses.json').root.codes.snomed).map(code => code.toString());
+const icd10cmPsychDiagnoses = Array.from(cts.doc('/meta/psych-diagnoses.json').root.codes.icd10cm).map(code => code.toString());
 
 traceObject(employeesAndRelatives);
-traceObject(psychDiagnoses);
+traceObject(snomedPsychDiagnoses);
 
 const employeePsychReader = xdmp.permission('employee-psych-reader', 'read');
 const employeeReader = xdmp.permission('employee-reader', 'read');
@@ -19,9 +20,14 @@ const phiReader = xdmp.permission('phi-reader', 'read');
 
 /** Check to see if any of the SNOMED diagnosis codes on the claim are psychological in nature */
 function isPsychClaim(claim) {
-  return claim.envelope.instance.Claim.diagnosis.some(
-    diagnosis => psychDiagnoses.includes(diagnosis.Diagnosis.code__procedureCodeableConcept__SNOMED.toString())
-  );
+  return Array.from(claim.envelope.instance.Claim.diagnosis || []).some(diagnosis => {
+    const { code__diagnosisCodeableConcept__SNOMED: snomed, code__diagnosisCodeableConcept__ICD10CM: icd10cm } = diagnosis.Diagnosis;
+
+    return (
+      (snomed && snomedPsychDiagnoses.includes(snomed.toString())) ||
+      (icd10cm && icd10cmPsychDiagnoses.includes(icd10cm.toString()))
+    );
+  });
 }
 
 /** Check to see if the patient referenced by this claim is a current/former HHS employee or a relative thereof */

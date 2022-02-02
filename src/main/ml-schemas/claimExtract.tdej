@@ -86,14 +86,14 @@
               {
                 "name": "diagnosis__SNOMED",
                 "scalarType": "string",
-                "val": "./code__diagnosisCodeableConcept_SNOMED",
+                "val": "./code__diagnosisCodeableConcept__SNOMED",
                 "nullable": true,
                 "invalidValues": "ignore"
               },
               {
                 "name": "diagnosis__ICD10CM",
                 "scalarType": "string",
-                "val": "./code__diagnosisCodeableConcept_ICD10CM",
+                "val": "./code__diagnosisCodeableConcept__ICD10CM",
                 "nullable": true,
                 "invalidValues": "ignore"
               }

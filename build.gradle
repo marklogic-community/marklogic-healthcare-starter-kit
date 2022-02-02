@@ -187,67 +187,67 @@ task loadOntologies {
 }
 
 task ingestClaims (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest claims raw data"
-    flowName = "Claim"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/claims/"
-    inputFileType="csv"
+  description = "Ingest claims raw data"
+  flowName = "Claim"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/claims/"
+  inputFileType="csv"
 }
 
 task ingestClaimsSmaller (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest smaller claims raw data"
-    flowName = "Claim"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/claims-smaller/"
-    inputFileType="csv"
+  description = "Ingest smaller claims raw data"
+  flowName = "Claim"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/claims-smaller/"
+  inputFileType="csv"
 }
 
 task ingestClaimLines(type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest claim transactions raw data"
-    flowName = "ClaimTransaction"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/claims_transactions/"
-    inputFileType="csv"
+  description = "Ingest claim transactions raw data"
+  flowName = "ClaimTransaction"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/claims_transactions/"
+  inputFileType="csv"
 }
 
 task ingestClaimLinesSmaller(type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest smaller claim transactions raw data"
-    flowName = "ClaimTransaction"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/claims_transactions-smaller/"
-    inputFileType="csv"
+  description = "Ingest smaller claim transactions raw data"
+  flowName = "ClaimTransaction"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/claims_transactions-smaller/"
+  inputFileType="csv"
 }
 
 task ingestPatients (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest patient/member raw data"
-    flowName = "Patient"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/patients/"
-    inputFileType="csv"
+  description = "Ingest patient/member raw data"
+  flowName = "Patient"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/patients/"
+  inputFileType="csv"
 }
 
 task ingestProviders (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest provider raw data"
-    flowName = "Provider"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/providers/"
-    inputFileType="csv"
+  description = "Ingest provider raw data"
+  flowName = "Provider"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/providers/"
+  inputFileType="csv"
 }
 
 task ingestOrganizations (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest organization raw data"
-    flowName = "Organization"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/organizations/"
-    inputFileType="csv"
+  description = "Ingest organization raw data"
+  flowName = "Organization"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/organizations/"
+  inputFileType="csv"
 }
 
 task ingestPayers (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest payer raw data"
-    flowName = "Payor"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/payers/"
-    inputFileType="csv"
+  description = "Ingest payer raw data"
+  flowName = "Payor"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/payers/"
+  inputFileType="csv"
 }
 
 task ingest {
