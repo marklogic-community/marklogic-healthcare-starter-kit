@@ -16,6 +16,8 @@ const baseLevelCode = 'http://snomed.info/sct/138875005'; // Base code for all o
 const psychCode = 'http://snomed.info/sct/74732009';
 const majorDepressionCode = 'http://snomed.info/sct/36923009';
 
+// Query for all diagnoses that have a more specific code than the given code (in this case, the top-level SNOMED-CT code)
+// This corresponds to the "below" FHIR search modifier
 const baseLevelNarrowerSearch = runSearch({
   field: 'diagnosis',
   modifier: 'below',
@@ -34,6 +36,8 @@ const majorDepressionNarrowerSearch = runSearch({
   value: majorDepressionCode,
 });
 
+// Query for all diagnoses that have a less specific code than the given code (in this case, the top-level SNOMED-CT code)
+// This corresponds to the "above" FHIR search modifier
 const baseLevelBroaderSearch = runSearch({
   field: 'diagnosis',
   modifier: 'above',
