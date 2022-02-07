@@ -1,0 +1,477 @@
+{
+  "envelope": {
+    "headers": {
+      "sources": [
+        {
+          "name": "ClaimIngest",
+          "file": "data/synthea/csv/claims.csv"
+        },
+        {
+          "datahubSourceType": "Claim",
+          "datahubSourceName": "data/synthea/csv/claims/claims.csv"
+        }
+      ],
+      "createdUsingFile": "C:\\repos\\marklogic-healthcare-starter-kit\\data\\synthea\\csv\\claims\\claims.csv"
+    },
+    "triples": [],
+    "instance": {
+      "Claim": {
+        "provider": {
+          "Reference": {
+            "type": "Practitioner",
+            "reference": "Provider/b67c4a69-29f1-39de-af15-8700224f5ce9"
+          }
+        },
+        "billablePeriod": {
+          "Period": {
+            "start": "1974-02-15T11:44:52Z",
+            "end": "1974-02-15T11:44:52Z"
+          }
+        },
+        "created": "1974-02-15T11:44:52Z",
+        "procedure": [
+          {
+            "Procedure": {
+              "sequence": 1,
+              "code__procedureCodeableConcept__SNOMED": "79094001",
+              "date": "1974-02-15"
+            }
+          },
+          {
+            "Procedure": {
+              "sequence": 2,
+              "code__procedureCodeableConcept__SNOMED": "79094001",
+              "date": "1974-02-15"
+            }
+          },
+          {
+            "Procedure": {
+              "sequence": 3,
+              "code__procedureCodeableConcept__SNOMED": "79094001",
+              "date": "1974-02-15"
+            }
+          },
+          {
+            "Procedure": {
+              "sequence": 4,
+              "code__procedureCodeableConcept__SNOMED": "79094001",
+              "date": "1974-02-15"
+            }
+          },
+          {
+            "Procedure": {
+              "sequence": 5,
+              "code__procedureCodeableConcept__SNOMED": "79094001",
+              "date": "1974-02-15"
+            }
+          }
+        ],
+        "code__priority": "normal",
+        "use": "claim",
+        "code__type": "institutional",
+        "enterer": {
+          "Reference": {
+            "type": "Practitioner",
+            "reference": "Provider/b67c4a69-29f1-39de-af15-8700224f5ce9"
+          }
+        },
+        "item": [
+          {
+            "ClaimItem": {
+              "procedureSequence": [
+                1
+              ],
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/eb0fb9b6-0ac8-3512-b78b-01aebac2f5c3"
+                }
+              },
+              "locationAddress": {
+                "Address": {
+                  "country": "US",
+                  "postalCode": "31603",
+                  "city": "VALDOSTA",
+                  "state": "GA",
+                  "line": [
+                    "2501 NORTH PATTERSON STREET PO BOX 1727"
+                  ],
+                  "type": "both",
+                  "text": "SOUTH GEORGIA MEDICAL CENTER, 2501 NORTH PATTERSON STREET PO BOX 1727, VALDOSTA, GA, 31603",
+                  "use": "work"
+                }
+              },
+              "informationSequence": [
+                1
+              ],
+              "sequence": 1,
+              "servicedDate": "1974-02-15",
+              "servicedPeriod": {
+                "Period": {
+                  "start": "1974-02-15T11:29:52Z",
+                  "end": "1974-02-15T11:44:52Z"
+                }
+              },
+              "unitPrice": {
+                "Money": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "net": {
+                "Money": {
+                  "value": 32.15,
+                  "currency": "USD"
+                }
+              },
+              "diagnosisSequence": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "ClaimItem": {
+              "procedureSequence": [
+                2
+              ],
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/eb0fb9b6-0ac8-3512-b78b-01aebac2f5c3"
+                }
+              },
+              "locationAddress": {
+                "Address": {
+                  "country": "US",
+                  "postalCode": "31603",
+                  "city": "VALDOSTA",
+                  "state": "GA",
+                  "line": [
+                    "2501 NORTH PATTERSON STREET PO BOX 1727"
+                  ],
+                  "type": "both",
+                  "text": "SOUTH GEORGIA MEDICAL CENTER, 2501 NORTH PATTERSON STREET PO BOX 1727, VALDOSTA, GA, 31603",
+                  "use": "work"
+                }
+              },
+              "informationSequence": [
+                1
+              ],
+              "sequence": 2,
+              "servicedDate": "1974-02-15",
+              "servicedPeriod": {
+                "Period": {
+                  "start": "1974-02-15T11:29:52Z",
+                  "end": "1974-02-15T11:44:52Z"
+                }
+              },
+              "unitPrice": {
+                "Money": {
+                  "value": 102.15,
+                  "currency": "USD"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "net": {
+                "Money": {
+                  "value": 102.15,
+                  "currency": "USD"
+                }
+              },
+              "diagnosisSequence": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "ClaimItem": {
+              "procedureSequence": [
+                3
+              ],
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/eb0fb9b6-0ac8-3512-b78b-01aebac2f5c3"
+                }
+              },
+              "locationAddress": {
+                "Address": {
+                  "country": "US",
+                  "postalCode": "31603",
+                  "city": "VALDOSTA",
+                  "state": "GA",
+                  "line": [
+                    "2501 NORTH PATTERSON STREET PO BOX 1727"
+                  ],
+                  "type": "both",
+                  "text": "SOUTH GEORGIA MEDICAL CENTER, 2501 NORTH PATTERSON STREET PO BOX 1727, VALDOSTA, GA, 31603",
+                  "use": "work"
+                }
+              },
+              "informationSequence": [
+                1
+              ],
+              "sequence": 3,
+              "servicedDate": "1974-02-15",
+              "servicedPeriod": {
+                "Period": {
+                  "start": "1974-02-15T11:29:52Z",
+                  "end": "1974-02-15T11:44:52Z"
+                }
+              },
+              "unitPrice": {
+                "Money": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "net": {
+                "Money": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              "diagnosisSequence": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "ClaimItem": {
+              "procedureSequence": [
+                4
+              ],
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/eb0fb9b6-0ac8-3512-b78b-01aebac2f5c3"
+                }
+              },
+              "locationAddress": {
+                "Address": {
+                  "country": "US",
+                  "postalCode": "31603",
+                  "city": "VALDOSTA",
+                  "state": "GA",
+                  "line": [
+                    "2501 NORTH PATTERSON STREET PO BOX 1727"
+                  ],
+                  "type": "both",
+                  "text": "SOUTH GEORGIA MEDICAL CENTER, 2501 NORTH PATTERSON STREET PO BOX 1727, VALDOSTA, GA, 31603",
+                  "use": "work"
+                }
+              },
+              "informationSequence": [
+                1
+              ],
+              "sequence": 4,
+              "servicedDate": "1974-02-15",
+              "servicedPeriod": {
+                "Period": {
+                  "start": "1974-02-15T11:29:52Z",
+                  "end": "1974-02-15T11:44:52Z"
+                }
+              },
+              "unitPrice": {
+                "Money": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "net": {
+                "Money": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              "diagnosisSequence": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "ClaimItem": {
+              "procedureSequence": [
+                5
+              ],
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/eb0fb9b6-0ac8-3512-b78b-01aebac2f5c3"
+                }
+              },
+              "locationAddress": {
+                "Address": {
+                  "country": "US",
+                  "postalCode": "31603",
+                  "city": "VALDOSTA",
+                  "state": "GA",
+                  "line": [
+                    "2501 NORTH PATTERSON STREET PO BOX 1727"
+                  ],
+                  "type": "both",
+                  "text": "SOUTH GEORGIA MEDICAL CENTER, 2501 NORTH PATTERSON STREET PO BOX 1727, VALDOSTA, GA, 31603",
+                  "use": "work"
+                }
+              },
+              "informationSequence": [
+                1
+              ],
+              "sequence": 5,
+              "servicedDate": "1974-02-15",
+              "servicedPeriod": {
+                "Period": {
+                  "start": "1974-02-15T11:29:52Z",
+                  "end": "1974-02-15T11:44:52Z"
+                }
+              },
+              "unitPrice": {
+                "Money": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "net": {
+                "Money": {
+                  "value": 0,
+                  "currency": "USD"
+                }
+              },
+              "diagnosisSequence": [
+                1,
+                2
+              ]
+            }
+          }
+        ],
+        "code__fundsReserve": "none",
+        "diagnosis": [
+          {
+            "Diagnosis": {
+              "sequence": 1,
+              "code__diagnosisCodeableConcept__SNOMED": "36923009"
+            }
+          },
+          {
+            "Diagnosis": {
+              "sequence": 2,
+              "code__diagnosisCodeableConcept__SNOMED": "370143000"
+            }
+          }
+        ],
+        "payee": {
+          "Payee": {
+            "party": {
+              "Reference": {
+                "type": "Practitioner",
+                "reference": "Practitioner/b67c4a69-29f1-39de-af15-8700224f5ce9"
+              }
+            },
+            "code__type": "provider"
+          }
+        },
+        "id": "ea053b0a-b700-33d0-a3fc-342e7a3852a5",
+        "status": "active",
+        "insurance": [
+          {
+            "Insurance": {
+              "identifier__NIIP": "5059a55e-5d6e-34d1-b6cb-d83d16e57bcf",
+              "coverage": {
+                "Reference": {
+                  "type": "Coverage",
+                  "reference": "Coverage/5059a55e-5d6e-34d1-b6cb-d83d16e57bcf"
+                }
+              },
+              "sequence": 1,
+              "focal": true
+            }
+          }
+        ],
+        "total": {
+          "Money": {
+            "value": 134.3,
+            "currency": "USD"
+          }
+        },
+        "careTeam": [
+          {
+            "CareTeamMember": {
+              "provider": {
+                "Reference": {
+                  "type": "Practitioner",
+                  "reference": "Provider/b67c4a69-29f1-39de-af15-8700224f5ce9"
+                }
+              },
+              "sequence": 1,
+              "responsible": true,
+              "code__role": "primary"
+            }
+          }
+        ],
+        "patient": {
+          "Reference": {
+            "type": "Patient",
+            "reference": "Patient/0d72c0f4-1eb2-0a9a-e6be-d01460e992d0"
+          }
+        },
+        "insurer": {
+          "Reference": {
+            "type": "Organization",
+            "reference": "Organization/5059a55e-5d6e-34d1-b6cb-d83d16e57bcf"
+          }
+        },
+        "identifier__FILL": [
+          "ea053b0a-b700-33d0-a3fc-342e7a3852a5"
+        ]
+      },
+      "info": {
+        "baseUri": "http://example.org/",
+        "title": "Claim",
+        "version": "1.0.0"
+      }
+    }
+  }
+}

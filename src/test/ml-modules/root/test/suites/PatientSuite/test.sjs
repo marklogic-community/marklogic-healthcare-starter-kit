@@ -57,57 +57,57 @@ const contentArray = [
       }
     }
   },
-  {
-    uri: '/patients/00000000-0000-0000-0000-000000000000.json',
-    value: {
-      envelope: {
-        headers: {
-          sources: [
-            {
-              name: 'PatientIngest',
-              file: 'data/synthea/csv/patients.csv'
-            },
-            {
-              datahubSourceName: 'data/synthea/csv/patients.csv',
-              datahubSourceType: 'Patient'
-            }
-          ],
-          createdOn: '2021-07-19T04:30:05.209923Z',
-          createdBy: 'credding',
-          createdUsingFile: '/var/folders/bc/4wdhh_js6q3cyrdldlvst8x5dhljp2/T/ingestion-13822876790972002102/patients.csv'
-        },
-        triples: [],
-        instance: {
-          Id: '9b80799a-531a-c571-3b2b-4ee8848414dd',
-          BIRTHDATE: '1955-05-10',
-          DEATHDATE: null,
-          SSN: '111-11-1112',
-          DRIVERS: 'S99935405',
-          PASSPORT: 'X59222750X',
-          PREFIX: 'Mr.',
-          FIRST: 'Homer',
-          LAST: 'Simpson',
-          SUFFIX: '',
-          MAIDEN: '',
-          MARITAL: 'M',
-          RACE: 'white',
-          ETHNICITY: 'nonhispanic',
-          GENDER: 'M',
-          BIRTHPLACE: 'Springfield  Georgia  US',
-          ADDRESS: '456 Line Dr.',
-          CITY: 'Springfield',
-          STATE: 'Georgia',
-          COUNTY: 'Effingham County',
-          ZIP: '31329',
-          LAT: '32.371061',
-          LON: '-81.3101812',
-          HEALTHCARE_EXPENSES: '125.1250000000',
-          HEALTHCARE_COVERAGE: '100.0000000000'
-        },
-        attachments: null
-      }
-    }
-  }
+  // {
+  //   uri: '/patients/00000000-0000-0000-0000-000000000000.json',
+  //   value: {
+  //     envelope: {
+  //       headers: {
+  //         sources: [
+  //           {
+  //             name: 'PatientIngest',
+  //             file: 'data/synthea/csv/patients.csv'
+  //           },
+  //           {
+  //             datahubSourceName: 'data/synthea/csv/patients.csv',
+  //             datahubSourceType: 'Patient'
+  //           }
+  //         ],
+  //         createdOn: '2021-07-19T04:30:05.209923Z',
+  //         createdBy: 'credding',
+  //         createdUsingFile: '/var/folders/bc/4wdhh_js6q3cyrdldlvst8x5dhljp2/T/ingestion-13822876790972002102/patients.csv'
+  //       },
+  //       triples: [],
+  //       instance: {
+  //         Id: '9b80799a-531a-c571-3b2b-4ee8848414dd',
+  //         BIRTHDATE: '1955-05-10',
+  //         DEATHDATE: null,
+  //         SSN: '111-11-1112',
+  //         DRIVERS: 'S99935405',
+  //         PASSPORT: 'X59222750X',
+  //         PREFIX: 'Mr.',
+  //         FIRST: 'Homer',
+  //         LAST: 'Simpson',
+  //         SUFFIX: '',
+  //         MAIDEN: '',
+  //         MARITAL: 'M',
+  //         RACE: 'white',
+  //         ETHNICITY: 'nonhispanic',
+  //         GENDER: 'M',
+  //         BIRTHPLACE: 'Springfield  Georgia  US',
+  //         ADDRESS: '456 Line Dr.',
+  //         CITY: 'Springfield',
+  //         STATE: 'Georgia',
+  //         COUNTY: 'Effingham County',
+  //         ZIP: '31329',
+  //         LAT: '32.371061',
+  //         LON: '-81.3101812',
+  //         HEALTHCARE_EXPENSES: '125.1250000000',
+  //         HEALTHCARE_COVERAGE: '100.0000000000'
+  //       },
+  //       attachments: null
+  //     }
+  //   }
+  // }
 ];
 
 const flowName = "Patient";
@@ -128,7 +128,7 @@ assertions.push(
   test.assertEqual("Kirby", patient.name[0].HumanName.given[0], "Given official name"),
   test.assertEqual("female", patient.gender, "Gender abbreviation should lookup and expand to human readable code value"),
   test.assertEqual("PatientMapping", context.collections[0]),
-  test.assertTrue(context.permissions.some(perm => perm.roleId === xdmp.role('phi-reader') && perm.capability === 'read')),
+  test.assertTrue(context.permissions.some(perm => perm.roleId.toString() === xdmp.role('phi-reader').toString() && perm.capability === 'read')),
 );
 
 assertions

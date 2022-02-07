@@ -9,7 +9,7 @@ const test = require("/test/test-helper.xqy");
 
 let contentArray = [{
 	uri: "/claims/0a8c5c5f-46ff-28b5-3cba-309d1c4637fa.json",
-	value:cts.doc("/claim1.json").toObject(),
+	value: test.getTestFile("/claim1.json"),
 }]
 
 const flowName = "Claim";

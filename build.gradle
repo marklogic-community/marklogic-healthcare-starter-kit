@@ -4,10 +4,10 @@ buildscript {
     maven {url 'http://developer.marklogic.com/maven2/'}
     jcenter()
   }
-  dependencies {
-       classpath "com.marklogic:ml-data-hub:5.5.1"
-       classpath "com.marklogic:marklogic-unit-test-client:1.1.0"
 
+  dependencies {
+    classpath "com.marklogic:ml-data-hub:5.5.1"
+    classpath "com.marklogic:marklogic-unit-test-client:1.1.0"
   }
 }
 
@@ -15,12 +15,12 @@ plugins {
   id 'java'
   id 'eclipse'
   id 'idea'
-  
-    // Gradle Properties plugin
-    id 'net.saliman.properties' version '1.4.6'
 
-    // Data Hub plugin
-    id 'com.marklogic.ml-data-hub' version '5.5.1'
+  // Gradle Properties plugin
+  id 'net.saliman.properties' version '1.4.6'
+
+  // Data Hub plugin
+  id 'com.marklogic.ml-data-hub' version '5.5.1'
 
   //Data services needs these
   id 'com.marklogic.ml-development-tools' version '5.4.0'
@@ -32,7 +32,7 @@ repositories {
   jcenter()
   maven {url 'http://developer.marklogic.com/maven2/'}
   if (project.hasProperty("testing")) {
-      mavenLocal()
+    mavenLocal()
   }
 }
 
@@ -46,23 +46,23 @@ dependencies {
 }
 
 dependencies {
-    // Ensures that the marklogic-unit-test modules are loaded into the modules database when the application is deployed
-    mlBundle "com.marklogic:marklogic-unit-test-modules:1.0.0"
-    
-    testImplementation "com.marklogic:marklogic-data-hub-junit5:5.5.1"
-    
-    // Adds logging support for tests
-    testImplementation "ch.qos.logback:logback-classic:1.2.3"
-    
-    mlcp "com.marklogic:mlcp:10.0.6.2"
-    mlcp files("lib")
+  // Ensures that the marklogic-unit-test modules are loaded into the modules database when the application is deployed
+  mlBundle "com.marklogic:marklogic-unit-test-modules:1.0.0"
 
-    implementation group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-base', version: '5.3.3'
-    implementation group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-structures-r4', version: '5.3.3'
+  testImplementation "com.marklogic:marklogic-data-hub-junit5:5.5.1"
+
+  // Adds logging support for tests
+  testImplementation "ch.qos.logback:logback-classic:1.2.3"
+
+  mlcp "com.marklogic:mlcp:10.0.6.2"
+  mlcp files("lib")
+
+  implementation group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-base', version: '5.3.3'
+  implementation group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-structures-r4', version: '5.3.3'
 }
 
 test {
-    useJUnitPlatform()
+  useJUnitPlatform()
 }
 
 task resetDBs(type: com.marklogic.gradle.task.ServerEvalTask) {
@@ -77,12 +77,12 @@ task loadReferenceDataStaging(type: com.marklogic.gradle.task.MlcpTask) {
   classpath = configurations.mlcp
   command = "IMPORT"
   args = [
-      "-input_file_path", "$project.projectDir/src/main/ml-data/referenceData/ValueSets",
-      "-output_collections", "referenceData",
-      "-output_permissions", "rest-reader,read,rest-writer,update",
-      "-document_type", "json",
-      "-output_uri_replace", ".*src/main/ml-data,''",
-      "-modules_root", "/",
+    "-input_file_path", "$project.projectDir/src/main/ml-data/referenceData/ValueSets",
+    "-output_collections", "referenceData",
+    "-output_permissions", "rest-reader,read,rest-writer,update",
+    "-document_type", "json",
+    "-output_uri_replace", ".*src/main/ml-data,''",
+    "-modules_root", "/",
   ]
 }
 
@@ -126,69 +126,128 @@ mlLoadData.dependsOn loadReferenceDataStaging
 mlLoadData.dependsOn loadMetaDataStaging
 mlLoadData.dependsOn loadMetaDataFinal
 
+ext.getOntologyLoadArgs = { ttlFile, outputGraph ->
+  // Get custom assertion failure messages: https://stackoverflow.com/a/51447369
+  assert 'You must provide a filename to load from.' && !ttlFile.equals('')
+  assert "Invalid file extension for \"$ttlFile\". Expected \".ttl\" extension." && ttlFile.endsWith('.ttl')
+  assert "Unable to find file \"$ttlFile\"" && file(ttlFile).exists()
+  assert 'You must provide a graph name to output into.' && !outputGraph.equals('')
+
+  return [
+    '-input_file_path', ttlFile,
+    '-output_graph', outputGraph,
+    '-input_file_type', 'rdf'
+  ]
+}
+
+task loadIcd10PcsOntology(type: com.marklogic.gradle.task.MlcpTask) {
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = 'IMPORT'
+  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/ICD10PCS.ttl", 'icd-10-pcs-ontology')
+}
+
+task loadIcd10CmOntology(type: com.marklogic.gradle.task.MlcpTask) {
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = 'IMPORT'
+  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/ICD10CM.ttl", 'icd-10-cm-ontology')
+}
+
+task loadIcd10Ontologies {
+  dependsOn loadIcd10PcsOntology
+  dependsOn loadIcd10CmOntology
+}
+
+task normalizeSnomedCTOntology(type: com.marklogic.gradle.task.ServerEvalTask) {
+  xquery = 'xdmp:invoke("/lib/transformers/addSkosCoreNotationToSnomedOntology.sjs", (), map:entry("database", xdmp:database("' + mlFinalDbName + '")))'
+}
+
+task loadSnomedCTOntology(type: com.marklogic.gradle.task.MlcpTask) {
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = 'IMPORT'
+  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/SNOMED-CT.ttl", 'snomed-ct-ontology')
+}
+
+loadSnomedCTOntology.finalizedBy normalizeSnomedCTOntology
+
+task loadOntologies {
+  dependsOn loadIcd10Ontologies
+  dependsOn loadSnomedCTOntology
+}
+
 task ingestClaims (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest claims raw data"
-    flowName = "Claim"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/claims/"
-    inputFileType="csv"
+  description = "Ingest claims raw data"
+  flowName = "Claim"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/claims/"
+  inputFileType="csv"
 }
 
 task ingestClaimsSmaller (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest smaller claims raw data"
-    flowName = "Claim"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/claims-smaller/"
-    inputFileType="csv"
+  description = "Ingest smaller claims raw data"
+  flowName = "Claim"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/claims-smaller/"
+  inputFileType="csv"
 }
 
 task ingestClaimLines(type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest claim transactions raw data"
-    flowName = "ClaimTransaction"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/claims_transactions/"
-    inputFileType="csv"
+  description = "Ingest claim transactions raw data"
+  flowName = "ClaimTransaction"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/claims_transactions/"
+  inputFileType="csv"
 }
 
 task ingestClaimLinesSmaller(type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest smaller claim transactions raw data"
-    flowName = "ClaimTransaction"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/claims_transactions-smaller/"
-    inputFileType="csv"
+  description = "Ingest smaller claim transactions raw data"
+  flowName = "ClaimTransaction"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/claims_transactions-smaller/"
+  inputFileType="csv"
 }
 
 task ingestPatients (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest patient/member raw data"
-    flowName = "Patient"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/patients/"
-    inputFileType="csv"
+  description = "Ingest patient/member raw data"
+  flowName = "Patient"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/patients/"
+  inputFileType="csv"
 }
 
 task ingestProviders (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest provider raw data"
-    flowName = "Provider"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/providers/"
-    inputFileType="csv"
+  description = "Ingest provider raw data"
+  flowName = "Provider"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/providers/"
+  inputFileType="csv"
 }
 
 task ingestOrganizations (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest organization raw data"
-    flowName = "Organization"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/organizations/"
-    inputFileType="csv"
+  description = "Ingest organization raw data"
+  flowName = "Organization"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/organizations/"
+  inputFileType="csv"
 }
 
-
 task ingestPayers (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Ingest payer raw data"
-    flowName = "Payor"
-    steps = ["1"]
-    inputFilePath="data/synthea/csv/payers/"
-    inputFileType="csv"
+  description = "Ingest payer raw data"
+  flowName = "Payor"
+  steps = ["1"]
+  inputFilePath="data/synthea/csv/payers/"
+  inputFileType="csv"
 }
 
 task ingest {

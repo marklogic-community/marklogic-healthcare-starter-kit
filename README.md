@@ -92,10 +92,10 @@ Run the following commands in sequence for ingestion of the provided sample data
 # Claim (76,118 documents)
 ./gradlew hubRunFlow -PentityName=Claim -Psteps="1" -PflowName=Claim -PinputFilePath=data/synthea/csv/claims -PenvironmentName=local
 
-ClaimTransaction (464,726 documents)
+# ClaimTransaction (464,726 documents)
 ./gradlew hubRunFlow -PentityName=ClaimTransaction -Psteps="1" -PflowName=ClaimTransaction -PinputFilePath=data/synthea/csv/claims_transactions -PenvironmentName=local
 
-Payor (10 documents)
+# Payor (10 documents)
 ./gradlew hubRunFlow -PentityName=Payor -Psteps="1" -PflowName=Payor -PinputFilePath=data/synthea/csv/payers -PenvironmentName=local
 ```
 
