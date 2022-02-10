@@ -10,19 +10,26 @@ If you are using SNOMED-CT and would like to use the standardized queries that w
 
 Keep in mind that if you use a different data model you will need to tweak your code to work with it.
 
-## Adding Interoperablitiy
-
+## Connecting to a compliant FHIR server for healthcare interoperability
+The CMS Interoperability and Patient Access final rule requires that patient data be exposed as FHIR for Medicaid and other payers. FHIR is also a standard, widely-understood format, so FHIR-compliant APIs are useful.
 ### FHIR Mapping Project
 
-To see how to connect a HAPI FHIR server to a MarkLogic database, chack out the [MarkLogic FHIR Mapper](https://github.com/marklogic-community/marklogic-FHIR-mapper) project.
+To see how we connect a HAPI FHIR server to a generic MarkLogic database, check out the [MarkLogic FHIR Mapper](https://github.com/marklogic-community/marklogic-FHIR-mapper) project. The FHIR Mapping project includes HAPI IResourceProvider implementations and query logic that will be useful to integrate HAPI to this project as well. 
 
-### Improvements Using FHIR Like Storage Model
+The FHIR Mapping project is different in that it uses data services which invoke a DHF mapping step to convert a storage model into FHIR in memory. The step mapping is used because the persistent model is no similar to FHIR and a full mapping is required. Here, we simplify, and avoid writing an full mapping from persistent to FHIR by leveraging the similarity of our storage model to FHIR. 
 
-In the FHIR mapper project, we used a DHF mapping step to convert a storage model into FHIR as part of the Data Service that responds to requests from the HAPI server. While that could work for this project as well, we can avoid many of these steps since our storage model is very close to FHIR already.
+While the .sjs data service implementations in the FHIR Mapping project will not work here, the Java integration code and data service .api specifications will work as-is, if a new search and transform data service (search.sjs module) is written for this projet. The intent is to use the generic FHIR transform described below in a new data service. If the data service needs additional query parameters or logic, that can then be added.
+### Adding FHIR data services to this project
 
-Many of the differences between our storage model and FHIR are flattened code fields that don't contain the full FHIR definition of a CodableConcept and flattened identifiers that don't contain the full FHIR definition of an Identifier. To convert these from a list of codes or identifiers, a library has been created at ```src\main\ml-modules\root\lib\fhirTransforms\templateTransform.sjs``` which takes a replacement template and a document to apply that template to. This method will allow the configuration to focus on models that need to be changed and replaced, rather than including 1:1 mappings of everything that does not change. Using this type of transform would replace the call to ```egress.transformMultiple()``` used in the data services which is used to call the mapping step on egress.
+This project's persistent data model (the Entity Services model) is a simplified version of FHIR, with extensions. These simplifications are regular, meaning that one can derive FHIR easily from the data model using mechanical transforms. These mechanical transforms use information encoded in field names, along with some FHIR mapping metadata to drive the transform. A library is included at ```src\main\ml-modules\root\lib\fhirTransforms\templateTransform.sjs``` that performs the transform from persistent models to FHIR.
 
-The ```templateTransform``` has a couple of utilities built into it for easily converting string fields in the storage model into standard FHIR formats. For example, to convert a string code into a CodeableConcept, you can use the utility template like this:
+The main difference between our storage model and FHI is that our persistent model "flattens" CodableConcept fields and Identifier fields, replacing them with simpler structures. This reduces the nesting level and complexity of our data models, simplifies and speeds queries, and avoids confusion about how to persist records by fixing one "system" and storing all values in the same system. The library noted above uses a FHIR rewriting template to specify how a document is converted to FHIR. The template specifies the fully-specified, nested CodableConcept and Identifier structures that replace the flattened, simplified fields in our persistent model. These templates are configuration records that specify only the flattened fields that need to be changed and replaced, and allow us to avoid larger mappings of the entire record. In this way, we have a configuration-driven process to map persistent data to FHIR, which effectively reverses the mechanical "flattening" that was done to FHIR to yeild our persistence-optimized model.
+
+### Steps for FHIR integration
+
+To build a data service that will work with the Java calling code in the FHIR Mapping project, use a similar data service to those such as ```data-services\patient\search.sjs``` but instead of calling  ```egress.transformMultiple()``` (which invokes a data hub step to transform a persistent record), call ```templateTransofrm()``` in the library above. 
+
+The ```templateTransform.sjs``` file also has utility functions for easily converting string fields in the storage model into standard FHIR formats. For example, to convert a flattened string code into a CodeableConcept, you can use the utility template like this:
 
 ```json
 {
@@ -37,6 +44,8 @@ The ```templateTransform``` has a couple of utilities built into it for easily c
 ```
 
 This will replace the ```code__type``` field in the claim.payee object with a CodeableConcept named ```type``` with a coding value of the value in ```code__type```, a system of ```http://hl7.org/fhir/ValueSet/payeetype```, and will lookup the display value from the lookup file in ```src\main\ml-data\referenceData\ValueSets\payeetype.json```.
+
+Note that we are assuming tha all data is stored in one CodableConcept.system. This makes the persistent value uniform and queryable. Because of this fundamental difference between flexible message formats and unofirm persistent formats, we are able to almost always flatten a CodabelConcept into an underscore__delimited field without the complexity and nesting of a CodableConcept, and similarly flatten many Identifiers.
 
 ### Subsumation searches and FHIR
 
