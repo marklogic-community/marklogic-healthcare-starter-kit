@@ -1,0 +1,14 @@
+{
+	"$note": "Omitted via collections.properties",
+	"rule": {
+		"description": "Given Name(s)",
+		"path": "//HumanName/given",
+		"method": {
+			"function": "redactDictionaryDeterministic",
+			"module": "/lib/redaction/redactionFunctions.sjs"
+		},
+		"options": {
+			"dictionary": "/redaction/dictionaries/firstNames.json"
+		}
+	}
+}

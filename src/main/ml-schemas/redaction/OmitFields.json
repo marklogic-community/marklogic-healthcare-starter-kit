@@ -1,0 +1,9 @@
+{
+	"rule": {
+		"description": "Omit fields entirely from output",
+		"path": "//(deceasedBoolean)",
+		"method": {
+			"function": "conceal"
+		}
+	}
+}

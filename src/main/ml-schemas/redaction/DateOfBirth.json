@@ -1,0 +1,13 @@
+{
+	"rule": {
+		"description": "Date of Birth",
+		"path": "//birthDate",
+		"method": {
+			"function": "redactDate",
+			"module": "/lib/redaction/redactionFunctions.sjs"
+		},
+		"options": {
+			"years": 3
+		}
+	}
+}
