@@ -94,13 +94,13 @@ task loadMetaDataStaging(type: com.marklogic.gradle.task.MlcpTask) {
   classpath = configurations.mlcp
   command = "IMPORT"
   args = [
-      "-input_file_path", "$project.projectDir/src/main/ml-data/meta",
-      "-output_collections", "metaData",
-      "-output_permissions", "raw-data-reader,read,mes-writer,update",
-      "-document_type", "json",
-      "-output_uri_replace", ".*src/main/ml-data,''",
-      "-modules_root", "/",
-  ]
+    "-input_file_path", "$project.projectDir/src/main/ml-data/meta",
+    "-output_collections", "metaData",
+    "-output_permissions", "raw-data-reader,read,mes-writer,update",
+    "-document_type", "json",
+    "-output_uri_replace", ".*src/main/ml-data,''",
+    "-modules_root", "/",
+]
 }
 
 task loadMetaDataFinal(type: com.marklogic.gradle.task.MlcpTask) {
@@ -111,12 +111,12 @@ task loadMetaDataFinal(type: com.marklogic.gradle.task.MlcpTask) {
   classpath = configurations.mlcp
   command = "IMPORT"
   args = [
-      "-input_file_path", "$project.projectDir/src/main/ml-data/meta",
-      "-output_collections", "metaData",
-      "-output_permissions", "raw-data-reader,read,mes-writer,update",
-      "-document_type", "json",
-      "-output_uri_replace", ".*src/main/ml-data,''",
-      "-modules_root", "/",
+    "-input_file_path", "$project.projectDir/src/main/ml-data/meta",
+    "-output_collections", "metaData",
+    "-output_permissions", "raw-data-reader,read,mes-writer,update",
+    "-document_type", "json",
+    "-output_uri_replace", ".*src/main/ml-data,''",
+    "-modules_root", "/",
   ]
 }
 
@@ -269,24 +269,24 @@ task ingestSmaller {
 }
 
 task harmonizePatients (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Harmonize patient data"
-    flowName = "Patient"
-    steps = ["2","3","4","5"]
+  description = "Harmonize patient data"
+  flowName = "Patient"
+  steps = ["2","3","4","5"]
 }
 task harmonizeOrganizations (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Harmonize organization data"
-    flowName = "Organization"
-    steps = ["2","3"]
+  description = "Harmonize organization data"
+  flowName = "Organization"
+  steps = ["2","3"]
 }
 task harmonizeProviders (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Harmonize provider data"
-    flowName = "Provider"
-    steps = ["2","3","4"]
+  description = "Harmonize provider data"
+  flowName = "Provider"
+  steps = ["2","3","4"]
 }
 task harmonizeClaims (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Harmonize claim data"
-    flowName = "Claim"
-    steps = ["2"]
+  description = "Harmonize claim data"
+  flowName = "Claim"
+  steps = ["2"]
 }
 
 task harmonizeAll {
@@ -294,4 +294,41 @@ task harmonizeAll {
   dependsOn harmonizeOrganizations
   dependsOn harmonizeProviders
   dependsOn harmonizeClaims
+}
+
+ext.getRedactedExportArgs = { directoryFilter, redactions, outputPath ->
+  assert 'Output directory must not be empty' && !outputPath.equals('')
+
+  return [
+    '-mode', 'local',
+    '-output_file_path', outputPath, // Provided via gradle.properties or gradle-local.properties
+    '-directory_filter', directoryFilter,
+    '-redaction', redactions,
+    '-max_split_size', '17500'
+  ]
+}
+
+task exportRedactedPatients (type: com.marklogic.gradle.task.MlcpTask) {
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = 'EXPORT'
+  args = getRedactedExportArgs('/patient/', 'member-redaction', patientExportOutputDir)
+}
+
+task exportRedactedClaims (type: com.marklogic.gradle.task.MlcpTask) {
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = 'EXPORT'
+  args = getRedactedExportArgs('/claim/', 'claim-redaction', claimExportOutputDir)
+}
+
+task exportRedactedData {
+  dependsOn exportRedactedPatients
+  dependsOn exportRedactedClaims
 }
