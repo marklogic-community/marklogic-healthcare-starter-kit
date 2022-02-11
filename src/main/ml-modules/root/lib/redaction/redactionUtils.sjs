@@ -17,6 +17,47 @@ function fromEntries(entries) {
 	return res;
 }
 
+class CipherCharset extends String {
+	static get(chars) {
+		if (!this.cache.has(chars)) {
+			this.cache.set(chars, new CipherCharset(LOCK, chars));
+		}
+
+		return this.cache.get(chars);
+	}
+
+	constructor(lock, chars) {
+		if (lock !== LOCK) {
+			throw new Error('Please use CipherCharset.get(chars) instead');
+		}
+
+		super([...new Set([...chars])].join(''));
+
+		this.offsets = this.generateOffsets();
+	}
+
+	charAt(idx) {
+		return super.charAt(idx % this.length);
+	}
+
+	offsetAt(idx) {
+		return this.offsets[idx % this.length];
+	}
+
+	generateOffsets() {
+		const l = this.length;
+
+		const res = Array(l);
+
+		for (let i = 0; i < l; i++) {
+			res[i] = xdmp.hash32(this.charAt(i)) % l;
+		}
+
+		return res;
+	}
+}
+CipherCharset.cache = new Map();
+
 /**
  * Generic string cipher. Takes a character set containing all characters that will be enciphered/deciphered by this class
  *
@@ -27,11 +68,7 @@ class StringCipher {
 	 * @param  {string?}  [charset='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|']
 	 */
 	constructor(charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|') {
-		this.charset = [...new Set([...charset])].join('');
-		this.amounts = this.generateCipherOffsets();
-
-		this.cl = this.charset.length;
-		this.al = this.amounts.length;
+		this.charset = CipherCharset.get(charset);
 
 		this.decipherCharacters = this.decipherCharacters.bind(this);
     this.encipherCharacters = this.encipherCharacters.bind(this);
@@ -112,7 +149,7 @@ class StringCipher {
 	 * @return {string}
 	 */
 	getOriginalCharacter(cIdx, idx) {
-		return this.charset.charAt((this.cl + cIdx - this.amounts[idx % this.al]) % this.cl);
+		return this.charset.charAt(this.charset.length + cIdx - this.charset.offsetAt(idx));
 	}
 
 	/**
@@ -124,24 +161,7 @@ class StringCipher {
 	 * @return {string}
 	 */
 	getResultingCharacter(cIdx, idx) {
-		return this.charset.charAt((cIdx + this.amounts[idx % this.al]) % this.cl);
-	}
-
-	/**
-	 * Generate offsets for the character set this cipher uses
-	 *
-	 * @return {number[]}
-	 */
-	generateCipherOffsets() {
-		const cl = this.charset.length;
-
-		const res = Array(cl);
-
-		for (let i = 0; i < cl; i++) {
-			res[i] = xdmp.hash32(this.charset.charAt(i)) % 10;
-		}
-
-		return res;
+		return this.charset.charAt(cIdx + this.charset.offsetAt(idx));
 	}
 }
 
