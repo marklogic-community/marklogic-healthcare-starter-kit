@@ -5,6 +5,7 @@ const {
 	UsesRootNode,
 	UsesStringValue,
 
+	StringCipher,
 	NumberCipher,
 	CaseInsensitiveStringCipher,
 
@@ -229,6 +230,18 @@ function redactStreetAddress(address, options) {
 }
 
 /**
+ * Redact a given text value
+ *
+ * @param  {string}  text      The text
+ * @param  {Object}  _options  The options
+ *
+ * @return {string}
+ */
+function redactText(text, options) {
+	return new (options.caseInsensitive ? CaseInsensitiveStringCipher : StringCipher)(options.charset).encipher(text);
+}
+
+/**
  * Redact a UUID
  *
  * @param  {string}  uuid      The uuid
@@ -263,6 +276,7 @@ module.exports = /*Object.*/fromEntries(
 		redactNumeric: UsesStringValue(redactNumeric),
 		redactReference: UsesStringValue(redactReference),
 		redactStreetAddress: UsesStringValue(redactStreetAddress),
+		redactText: UsesStringValue(redactText),
 		redactTime: UsesStringValue(redactTime),
 		redactUuid: UsesStringValue(redactUuid),
 		redactZipCode: UsesStringValue(redactZipCode),
