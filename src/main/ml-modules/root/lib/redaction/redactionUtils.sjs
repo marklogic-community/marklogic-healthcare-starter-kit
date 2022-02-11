@@ -18,32 +18,63 @@ function fromEntries(entries) {
 }
 
 class CipherCharset extends String {
+  /**
+   * Get a cached cipher charset. Creates a new instance if there is no cached value.
+   *
+   * @type   {CipherCharset}
+   */
   static get(chars) {
-    if (!this.cache.has(chars)) {
-      this.cache.set(chars, new CipherCharset(LOCK, chars));
+    // Remove duplicate characters from the provided character set
+    const charset = [...new Set([...chars])].join('');
+
+    if (!this.cache.has(charset)) {
+      this.cache.set(charset, new CipherCharset(LOCK, charset));
     }
 
-    return this.cache.get(chars);
+    return this.cache.get(charset);
   }
 
+  /**
+   * @param  {unique symbol} lock  Prevent use of `new CipherCharset(...)` and enforce use of `CipherCharset.get(chars)`
+   * @param  {string}        chars The characters to use in this CipherCharset
+   */
   constructor(lock, chars) {
     if (lock !== LOCK) {
       throw new Error('Please use CipherCharset.get(chars) instead');
     }
 
-    super([...new Set([...chars])].join(''));
+    super(chars);
 
     this.offsets = this.generateOffsets();
   }
 
+  /**
+   * Get the character at the given index, wrapping where necessary
+   *
+   * @param  {number}  idx  The index
+   *
+   * @return {string}
+   */
   charAt(idx) {
     return super.charAt(idx % this.length);
   }
 
+  /**
+   * Get the offset at the given index, wrapping where necessary
+   *
+   * @param  {number}  idx  The index
+   *
+   * @return {number}
+   */
   offsetAt(idx) {
     return this.offsets[idx % this.length];
   }
 
+  /**
+   * Generate offsets for each character in the character set
+   *
+   * @return {number[]}
+   */
   generateOffsets() {
     const l = this.length;
 
@@ -56,6 +87,7 @@ class CipherCharset extends String {
     return res;
   }
 }
+/** Cache of previously created CipherCharsets by the characters in the charset */
 CipherCharset.cache = new Map();
 
 /**
