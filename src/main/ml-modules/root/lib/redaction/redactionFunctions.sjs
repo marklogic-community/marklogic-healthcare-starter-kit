@@ -1,21 +1,21 @@
 'use strict';
 
 const {
-	CreatesNode,
-	UsesRootNode,
-	UsesStringValue,
+  CreatesNode,
+  UsesRootNode,
+  UsesStringValue,
 
-	StringCipher,
-	NumberCipher,
-	CaseInsensitiveStringCipher,
+  StringCipher,
+  NumberCipher,
+  CaseInsensitiveStringCipher,
 
-	redactDateWithinRange,
-	redactTimeWithinRange,
+  redactDateWithinRange,
+  redactTimeWithinRange,
 
-	getDateString,
-	getTimeString,
+  getDateString,
+  getTimeString,
 
-	fromEntries,
+  fromEntries,
 } = require('/lib/redaction/redactionUtils.sjs');
 
 const genericNumberCipher = new NumberCipher();
@@ -31,19 +31,19 @@ const uuidCipher = new CaseInsensitiveStringCipher('0123456789ABCDEF');
  * @return {string}
  */
 function fetchRedactionMapValue(mapCollection, sourceValue) {
-	return fn.head(
-		xdmp.invokeFunction(
-			() => fn.head(
-				cts.valueMatch(
-					cts.jsonPropertyReference('redactMapEntries'),
-					`${sourceValue}:*`,
-					null,
-					cts.collectionQuery(mapCollection),
-				),
-			),
-			{ database: xdmp.database('%%mlContentDatabaseName%%'), update: 'false' },
-		),
-	);
+  return fn.head(
+    xdmp.invokeFunction(
+      () => fn.head(
+        cts.valueMatch(
+          cts.jsonPropertyReference('redactMapEntries'),
+          `${sourceValue}:*`,
+          null,
+          cts.collectionQuery(mapCollection),
+        ),
+      ),
+      { database: xdmp.database('%%mlContentDatabaseName%%'), update: 'false' },
+    ),
+  );
 }
 
 /**
@@ -55,16 +55,16 @@ function fetchRedactionMapValue(mapCollection, sourceValue) {
  * @return {unknown}
  */
 function getCachedValue(name, getDefault) {
-	let cached = xdmp.getServerField(name, null);
+  let cached = xdmp.getServerField(name, null);
 
-	if (cached) {
-		return fn.head(cached);
-	}
+  if (cached) {
+    return fn.head(cached);
+  }
 
-	cached = getDefault();
-	xdmp.setServerField(name, cached);
+  cached = getDefault();
+  xdmp.setServerField(name, cached);
 
-	return cached;
+  return cached;
 }
 
 /**
@@ -75,12 +75,12 @@ function getCachedValue(name, getDefault) {
  * @return {unknown[]}
  */
 function getCachedDictionary(dictionary) {
-	return getCachedValue(
-		dictionary,
-		() => fn
-			.head(xdmp.invokeFunction(() => cts.doc(dictionary), { database: xdmp.schemaDatabase() }))
-			.toObject().dictionary.entry,
-	);
+  return getCachedValue(
+    dictionary,
+    () => fn
+      .head(xdmp.invokeFunction(() => cts.doc(dictionary), { database: xdmp.schemaDatabase() }))
+      .toObject().dictionary.entry,
+  );
 }
 
 /**
@@ -92,7 +92,7 @@ function getCachedDictionary(dictionary) {
  * @return {string}
  */
 function redactDate(date, options) {
-	return getDateString(redactDateWithinRange(date, { years: 3, ...options }));
+  return getDateString(redactDateWithinRange(date, { years: 3, ...options }));
 }
 
 /**
@@ -104,7 +104,7 @@ function redactDate(date, options) {
  * @return {string}
  */
 function redactTime(time, options) {
-	return getTimeString(redactTimeWithinRange(time, { hours: 3, ...options }));
+  return getTimeString(redactTimeWithinRange(time, { hours: 3, ...options }));
 }
 
 /**
@@ -116,7 +116,7 @@ function redactTime(time, options) {
  * @return {string}
  */
 function redactDateTime(datetime, options) {
-	return [redactDate(datetime, options), redactTime(datetime, options)].join('T');
+  return [redactDate(datetime, options), redactTime(datetime, options)].join('T');
 }
 
 /**
@@ -128,14 +128,14 @@ function redactDateTime(datetime, options) {
  * @return {string}
  */
 function redactDictionaryDeterministic(value, options) {
-	const entries = getCachedDictionary(options.dictionary);
+  const entries = getCachedDictionary(options.dictionary);
 
-	let redacted = '';
-	do {
-		redacted = entries[xdmp.hash64(xdmp.sha256(redacted + value)) % entries.length];
-	} while (redacted === value);
+  let redacted = '';
+  do {
+    redacted = entries[xdmp.hash64(xdmp.sha256(redacted + value)) % entries.length];
+  } while (redacted === value);
 
-	return redacted;
+  return redacted;
 }
 
 /**
@@ -147,14 +147,14 @@ function redactDictionaryDeterministic(value, options) {
  * @return {string}
  */
 function redactDictionaryRandom(value, options) {
-	const entries = getCachedDictionary(options.dictionary);
+  const entries = getCachedDictionary(options.dictionary);
 
-	let redacted;
-	do {
-		redacted = entries[Math.floor(Math.random() * entries.length)];
-	} while (redacted === value);
+  let redacted;
+  do {
+    redacted = entries[Math.floor(Math.random() * entries.length)];
+  } while (redacted === value);
 
-	return redacted;
+  return redacted;
 }
 
 /**
@@ -166,21 +166,21 @@ function redactDictionaryRandom(value, options) {
  * @return {string}
  */
 function redactMappedValue(value, options) {
-	const mapCollection = `${options.name}RandomMap`;
+  const mapCollection = `${options.name}RandomMap`;
 
-	// Not sure if this is actually necessary, it's duplicating logic found in `fetchRedactionMapValue`
-	/*return fn.head(
-		xdmp.invokeFunction(
-			() => {*/
-				const result = fetchRedactionMapValue(mapCollection, value);
+  // Not sure if this is actually necessary, it's duplicating logic found in `fetchRedactionMapValue`
+  /*return fn.head(
+    xdmp.invokeFunction(
+      () => {*/
+        const result = fetchRedactionMapValue(mapCollection, value);
 
-				return result
-					? result.toString().split(':')[1]
-					: '';
-			/*},
-			{ database: xdmp.database('%%mlContentDatabaseName%%'), update: 'false' },
-		),
-	);*/
+        return result
+          ? result.toString().split(':')[1]
+          : '';
+      /*},
+      { database: xdmp.database('%%mlContentDatabaseName%%'), update: 'false' },
+    ),
+  );*/
 }
 
 /**
@@ -192,9 +192,9 @@ function redactMappedValue(value, options) {
  * @return {string}
  */
 function redactNumeric(original, options) {
-	const { prefix, length } = { prefix: '', length: 0, ...options };
+  const { prefix, length } = { prefix: '', length: 0, ...options };
 
-	return prefix + new NumberCipher(length - prefix.length).encipher(original);
+  return prefix + new NumberCipher(length - prefix.length).encipher(original);
 }
 
 /**
@@ -206,9 +206,9 @@ function redactNumeric(original, options) {
  * @return {string}
  */
 function redactReference(reference, _options) {
-	const [prefix, ref] = reference.split('/');
+  const [prefix, ref] = reference.split('/');
 
-	return [prefix, uuidCipher.encipher(ref)].join('/');
+  return [prefix, uuidCipher.encipher(ref)].join('/');
 }
 
 /**
@@ -221,12 +221,12 @@ function redactReference(reference, _options) {
  * @return {string}
  */
 function redactStreetAddress(address, options) {
-	const [number, street] = address.split(/(?<=^\d+) /);
-	const streetNames = getCachedDictionary(options.dictionary);
-	const newNumber = genericNumberCipher.encipher(number);
-	const newStreet = streetNames[xdmp.hash32(street) % streetNames.length];
+  const [number, street] = address.split(/(?<=^\d+) /);
+  const streetNames = getCachedDictionary(options.dictionary);
+  const newNumber = genericNumberCipher.encipher(number);
+  const newStreet = streetNames[xdmp.hash32(street) % streetNames.length];
 
-	return `${newNumber} ${newStreet}`;
+  return `${newNumber} ${newStreet}`;
 }
 
 /**
@@ -238,7 +238,7 @@ function redactStreetAddress(address, options) {
  * @return {string}
  */
 function redactText(text, options) {
-	return new (options.caseInsensitive ? CaseInsensitiveStringCipher : StringCipher)(options.charset).encipher(text);
+  return new (options.caseInsensitive ? CaseInsensitiveStringCipher : StringCipher)(options.charset).encipher(text);
 }
 
 /**
@@ -250,7 +250,7 @@ function redactText(text, options) {
  * @return {string}
  */
 function redactUuid(uuid, _options) {
-	return uuidCipher.encipher(uuid);
+  return uuidCipher.encipher(uuid);
 }
 
 /**
@@ -263,23 +263,23 @@ function redactUuid(uuid, _options) {
  * @return {string}  { description_of_the_return_value }
  */
 function redactZipCode(zip, _options) {
-	return genericNumberCipher.encipher(zip);
+  return genericNumberCipher.encipher(zip);
 }
 
 module.exports = /*Object.*/fromEntries(
-	Object.entries({
-		redactDate: UsesStringValue(redactDate),
-		redactDateTime: UsesStringValue(redactDateTime),
-		redactDictionaryDeterministic: UsesStringValue(redactDictionaryDeterministic),
-		redactDictionaryRandom: UsesStringValue(redactDictionaryRandom),
-		redactMappedValue: UsesStringValue(redactMappedValue),
-		redactNumeric: UsesStringValue(redactNumeric),
-		redactReference: UsesStringValue(redactReference),
-		redactStreetAddress: UsesStringValue(redactStreetAddress),
-		redactText: UsesStringValue(redactText),
-		redactTime: UsesStringValue(redactTime),
-		redactUuid: UsesStringValue(redactUuid),
-		redactZipCode: UsesStringValue(redactZipCode),
-	})
-		.map(([key, value]) => [key, CreatesNode(value)])
+  Object.entries({
+    redactDate: UsesStringValue(redactDate),
+    redactDateTime: UsesStringValue(redactDateTime),
+    redactDictionaryDeterministic: UsesStringValue(redactDictionaryDeterministic),
+    redactDictionaryRandom: UsesStringValue(redactDictionaryRandom),
+    redactMappedValue: UsesStringValue(redactMappedValue),
+    redactNumeric: UsesStringValue(redactNumeric),
+    redactReference: UsesStringValue(redactReference),
+    redactStreetAddress: UsesStringValue(redactStreetAddress),
+    redactText: UsesStringValue(redactText),
+    redactTime: UsesStringValue(redactTime),
+    redactUuid: UsesStringValue(redactUuid),
+    redactZipCode: UsesStringValue(redactZipCode),
+  })
+    .map(([key, value]) => [key, CreatesNode(value)])
 );

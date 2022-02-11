@@ -8,53 +8,53 @@ const LOCK = Symbol('lock');
  * @return {Object}
  */
 function fromEntries(entries) {
-	const res = {};
+  const res = {};
 
-	for (const [key, value] of entries) {
-		res[key] = value;
-	}
+  for (const [key, value] of entries) {
+    res[key] = value;
+  }
 
-	return res;
+  return res;
 }
 
 class CipherCharset extends String {
-	static get(chars) {
-		if (!this.cache.has(chars)) {
-			this.cache.set(chars, new CipherCharset(LOCK, chars));
-		}
+  static get(chars) {
+    if (!this.cache.has(chars)) {
+      this.cache.set(chars, new CipherCharset(LOCK, chars));
+    }
 
-		return this.cache.get(chars);
-	}
+    return this.cache.get(chars);
+  }
 
-	constructor(lock, chars) {
-		if (lock !== LOCK) {
-			throw new Error('Please use CipherCharset.get(chars) instead');
-		}
+  constructor(lock, chars) {
+    if (lock !== LOCK) {
+      throw new Error('Please use CipherCharset.get(chars) instead');
+    }
 
-		super([...new Set([...chars])].join(''));
+    super([...new Set([...chars])].join(''));
 
-		this.offsets = this.generateOffsets();
-	}
+    this.offsets = this.generateOffsets();
+  }
 
-	charAt(idx) {
-		return super.charAt(idx % this.length);
-	}
+  charAt(idx) {
+    return super.charAt(idx % this.length);
+  }
 
-	offsetAt(idx) {
-		return this.offsets[idx % this.length];
-	}
+  offsetAt(idx) {
+    return this.offsets[idx % this.length];
+  }
 
-	generateOffsets() {
-		const l = this.length;
+  generateOffsets() {
+    const l = this.length;
 
-		const res = Array(l);
+    const res = Array(l);
 
-		for (let i = 0; i < l; i++) {
-			res[i] = xdmp.hash32(this.charAt(i)) % l;
-		}
+    for (let i = 0; i < l; i++) {
+      res[i] = xdmp.hash32(this.charAt(i)) % l;
+    }
 
-		return res;
-	}
+    return res;
+  }
 }
 CipherCharset.cache = new Map();
 
@@ -64,105 +64,105 @@ CipherCharset.cache = new Map();
  * @class  StringCipher
  */
 class StringCipher {
-	/**
-	 * @param  {string?}  [charset='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|']
-	 */
-	constructor(charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|') {
-		this.charset = CipherCharset.get(charset);
+  /**
+   * @param  {string?}  [charset='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|']
+   */
+  constructor(charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|') {
+    this.charset = CipherCharset.get(charset);
 
-		this.decipherCharacters = this.decipherCharacters.bind(this);
+    this.decipherCharacters = this.decipherCharacters.bind(this);
     this.encipherCharacters = this.encipherCharacters.bind(this);
-	}
+  }
 
-	/**
-	 * Decipher the given string
-	 *
-	 * @param  {string}  input  The string to decipher
-	 *
-	 * @return {string}
-	 */
-	decipher(input) {
-		return [...this.normalizeInput(input)].map(this.decipherCharacters).join('');
-	}
+  /**
+   * Decipher the given string
+   *
+   * @param  {string}  input  The string to decipher
+   *
+   * @return {string}
+   */
+  decipher(input) {
+    return [...this.normalizeInput(input)].map(this.decipherCharacters).join('');
+  }
 
-	/**
-	 * Encipher the given string
-	 *
-	 * @param  {string}  input  The string to decipher
-	 *
-	 * @return {string}
-	 */
-	encipher(input) {
-		return [...this.normalizeInput(input)].map(this.encipherCharacters).join('');
-	}
+  /**
+   * Encipher the given string
+   *
+   * @param  {string}  input  The string to decipher
+   *
+   * @return {string}
+   */
+  encipher(input) {
+    return [...this.normalizeInput(input)].map(this.encipherCharacters).join('');
+  }
 
-	/**
-	 * Normalize the input into a form that will be usable by the decipher/encipher methods
-	 *
-	 * @param  {string}  input  The input
-	 *
-	 * @return {string}
-	 */
-	normalizeInput(input) {
-		return input.toString();
-	}
+  /**
+   * Normalize the input into a form that will be usable by the decipher/encipher methods
+   *
+   * @param  {string}  input  The input
+   *
+   * @return {string}
+   */
+  normalizeInput(input) {
+    return input.toString();
+  }
 
-	/**
-	 * Called iteratively for each character of the input string to determine the original character for that index.
-	 * Ignores characters in the input string which do not exist in the charset for this cipher.
-	 *
-	 * @param  {string}   c    The character at the current index
-	 * @param  {number}   idx  The current index
-	 *
-	 * @return {string}
-	 */
-	decipherCharacters(c, idx) {
-		const cIdx = this.charset.indexOf(c);
+  /**
+   * Called iteratively for each character of the input string to determine the original character for that index.
+   * Ignores characters in the input string which do not exist in the charset for this cipher.
+   *
+   * @param  {string}   c    The character at the current index
+   * @param  {number}   idx  The current index
+   *
+   * @return {string}
+   */
+  decipherCharacters(c, idx) {
+    const cIdx = this.charset.indexOf(c);
 
-		return cIdx === -1
-			? c
-			: this.getOriginalCharacter(cIdx, idx);
-	}
+    return cIdx === -1
+      ? c
+      : this.getOriginalCharacter(cIdx, idx);
+  }
 
-	/**
-	 * Called iteratively for each character of the input string to determine the resulting character for that index.Ignores characters in the input string which do not exist in the charset for this cipher.
-	 *
-	 * @param  {string}   c    The character at the current index
-	 * @param  {number}   idx  The current index
-	 *
-	 * @return {string}
-	 */
-	encipherCharacters(c, idx) {
-		const cIdx = this.charset.indexOf(c);
+  /**
+   * Called iteratively for each character of the input string to determine the resulting character for that index.Ignores characters in the input string which do not exist in the charset for this cipher.
+   *
+   * @param  {string}   c    The character at the current index
+   * @param  {number}   idx  The current index
+   *
+   * @return {string}
+   */
+  encipherCharacters(c, idx) {
+    const cIdx = this.charset.indexOf(c);
 
-		return cIdx === -1
-			? c
-			: this.getResultingCharacter(cIdx, idx);
-	}
+    return cIdx === -1
+      ? c
+      : this.getResultingCharacter(cIdx, idx);
+  }
 
-	/**
-	 * Gets the original character for a decipher operation.
-	 *
-	 * @param  {number}  cIdx  The character index in the charset
-	 * @param  {number}  idx   The character index in the input string
-	 *
-	 * @return {string}
-	 */
-	getOriginalCharacter(cIdx, idx) {
-		return this.charset.charAt(this.charset.length + cIdx - this.charset.offsetAt(idx));
-	}
+  /**
+   * Gets the original character for a decipher operation.
+   *
+   * @param  {number}  cIdx  The character index in the charset
+   * @param  {number}  idx   The character index in the input string
+   *
+   * @return {string}
+   */
+  getOriginalCharacter(cIdx, idx) {
+    return this.charset.charAt(this.charset.length + cIdx - this.charset.offsetAt(idx));
+  }
 
-	/**
-	 * Gets the resulting character for a decipher operation.
-	 *
-	 * @param  {number}  cIdx  The character index in the charset
-	 * @param  {number}  idx   The character index in the input string
-	 *
-	 * @return {string}
-	 */
-	getResultingCharacter(cIdx, idx) {
-		return this.charset.charAt(cIdx + this.charset.offsetAt(idx));
-	}
+  /**
+   * Gets the resulting character for a decipher operation.
+   *
+   * @param  {number}  cIdx  The character index in the charset
+   * @param  {number}  idx   The character index in the input string
+   *
+   * @return {string}
+   */
+  getResultingCharacter(cIdx, idx) {
+    return this.charset.charAt(cIdx + this.charset.offsetAt(idx));
+  }
 }
 
 /**
@@ -171,46 +171,46 @@ class StringCipher {
  * @class  NumberCipher
  */
 class NumberCipher extends StringCipher {
-	/**
-	 * @param  {number}  [size=0]  The minimum character length of the output. If the input is too short, it will be left-padded with 0's
-	 */
-	constructor(size = 0) {
-		super('0123456789');
+  /**
+   * @param  {number}  [size=0]  The minimum character length of the output. If the input is too short, it will be left-padded with 0's
+   */
+  constructor(size = 0) {
+    super('0123456789');
 
-		this.padding = '0'.repeat(size);
-		this.size = size;
-	}
+    this.padding = '0'.repeat(size);
+    this.size = size;
+  }
 
-	/**
-	 * Force the input to be stringified and left-padded with 0s up to the minimum output size (if any)
-	 *
-	 * @param  {string}  input  The input
-	 *
-	 * @return {string}
-	 */
-	normalizeInput(input) {
-		return (this.padding + input.toString(10)).slice(-this.size);
-	}
+  /**
+   * Force the input to be stringified and left-padded with 0s up to the minimum output size (if any)
+   *
+   * @param  {string}  input  The input
+   *
+   * @return {string}
+   */
+  normalizeInput(input) {
+    return (this.padding + input.toString(10)).slice(-this.size);
+  }
 }
 
 class CaseInsensitiveStringCipher extends StringCipher {
-	/**
-	 * @param  {string}  [charset='abcdefghijklmnopqrstuvwxyz0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|']  The charset
-	 */
-	constructor(charset = 'abcdefghijklmnopqrstuvwxyz0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|') {
-		super(charset.toLowerCase());
-	}
+  /**
+   * @param  {string}  [charset='abcdefghijklmnopqrstuvwxyz0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|']  The charset
+   */
+  constructor(charset = 'abcdefghijklmnopqrstuvwxyz0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|') {
+    super(charset.toLowerCase());
+  }
 
-	/**
-	 * Force the input to be all lower case in order to match the character set for this cipher
-	 *
-	 * @param  {string}  input  The input
-	 *
-	 * @return {string}
-	 */
-	normalizeInput(input) {
-		return super.normalizeInput(input).toLowerCase();
-	}
+  /**
+   * Force the input to be all lower case in order to match the character set for this cipher
+   *
+   * @param  {string}  input  The input
+   *
+   * @return {string}
+   */
+  normalizeInput(input) {
+    return super.normalizeInput(input).toLowerCase();
+  }
 }
 
 /**
@@ -223,9 +223,9 @@ class CaseInsensitiveStringCipher extends StringCipher {
  * @throws If the value is not of the correct type
  */
 function checkType(varname, value, type) {
-	if (typeof value !== type) {
-		throw new TypeError(`Parameter "${varname}" must be a ${type}`);
-	}
+  if (typeof value !== type) {
+    throw new TypeError(`Parameter "${varname}" must be a ${type}`);
+  }
 }
 
 /**
@@ -236,11 +236,11 @@ function checkType(varname, value, type) {
  * @return {Function}
  */
 function UsesStringValue(cb) {
-	checkType('cb', cb, 'function');
+  checkType('cb', cb, 'function');
 
-	return function(node, ...a) {
-		return cb(fn.string(node), ...a);
-	}
+  return function(node, ...a) {
+    return cb(fn.string(node), ...a);
+  }
 }
 
 /**
@@ -251,11 +251,11 @@ function UsesStringValue(cb) {
  * @return {Function}
  */
 function UsesRootNode(cb) {
-	checkType('cb', cb, 'function');
+  checkType('cb', cb, 'function');
 
-	return function(node, ...a) {
-		return cb(fn.root(node).root, ...a);
-	}
+  return function(node, ...a) {
+    return cb(fn.root(node).root, ...a);
+  }
 }
 
 /**
@@ -266,13 +266,13 @@ function UsesRootNode(cb) {
  * @return {Function}
  */
 function CreatesNode(cb) {
-	checkType('cb', cb, 'function');
+  checkType('cb', cb, 'function');
 
-	return function(...a) {
-		const builder = new NodeBuilder();
-		builder.addText(cb(...a));
-		return builder.toNode();
-	};
+  return function(...a) {
+    const builder = new NodeBuilder();
+    builder.addText(cb(...a));
+    return builder.toNode();
+  };
 }
 
 /**
@@ -284,28 +284,28 @@ function CreatesNode(cb) {
  * @return {Date}
  */
 function dateTimeAdd(date, options) {
-	const res = new Date(date);
+  const res = new Date(date);
 
-	if (options.years) {
-		res.setUTCFullYear(res.getUTCFullYear() + options.years);
-	}
-	if (options.months) {
-		res.setUTCMonth(res.getUTCMonth() + options.months);
-	}
-	if (options.days) {
-		res.setUTCDate(res.getUTCDate() + options.days);
-	}
-	if (options.hours) {
-		res.setUTCHours(res.getUTCHours() + options.hours);
-	}
-	if (options.minutes) {
-		res.setUTCMinutes(res.getUTCMinutes() + options.minutes);
-	}
-	if (options.seconds) {
-		res.setUTCSeconds(res.getUTCSeconds() + options.seconds);
-	}
+  if (options.years) {
+    res.setUTCFullYear(res.getUTCFullYear() + options.years);
+  }
+  if (options.months) {
+    res.setUTCMonth(res.getUTCMonth() + options.months);
+  }
+  if (options.days) {
+    res.setUTCDate(res.getUTCDate() + options.days);
+  }
+  if (options.hours) {
+    res.setUTCHours(res.getUTCHours() + options.hours);
+  }
+  if (options.minutes) {
+    res.setUTCMinutes(res.getUTCMinutes() + options.minutes);
+  }
+  if (options.seconds) {
+    res.setUTCSeconds(res.getUTCSeconds() + options.seconds);
+  }
 
-	return res;
+  return res;
 }
 
 /**
@@ -316,7 +316,7 @@ function dateTimeAdd(date, options) {
  * @return {string}
  */
 function getDateString(date) {
-	return date.toISOString().split('T').shift();
+  return date.toISOString().split('T').shift();
 }
 
 /**
@@ -327,9 +327,9 @@ function getDateString(date) {
  * @return {string}
  */
 function getTimeString(date) {
-	date.setUTCMilliseconds(0);
+  date.setUTCMilliseconds(0);
 
-	return date.toISOString().split('T').pop();
+  return date.toISOString().split('T').pop();
 }
 
 /**
@@ -342,9 +342,9 @@ function getTimeString(date) {
  * @return {Date}
  */
 function deterministicDate(min, max, actual) {
-	const diff = max.getTime() - min.getTime();
+  const diff = max.getTime() - min.getTime();
 
-	return new Date(min.getTime() + ((Number(xdmp.hash64(getDateString(actual))) % Number.MAX_SAFE_INTEGER) % diff));
+  return new Date(min.getTime() + ((Number(xdmp.hash64(getDateString(actual))) % Number.MAX_SAFE_INTEGER) % diff));
 }
 
 /**
@@ -356,11 +356,11 @@ function deterministicDate(min, max, actual) {
  * @return {Date}
  */
 function redactDateWithinRange(value, options) {
-	const date = new Date(value);
-	const min = dateTimeAdd(date, /*Object.*/fromEntries(Object.entries(options).map(([key, value]) => [key, -value])));
-	const max = dateTimeAdd(date, options);
+  const date = new Date(value);
+  const min = dateTimeAdd(date, /*Object.*/fromEntries(Object.entries(options).map(([key, value]) => [key, -value])));
+  const max = dateTimeAdd(date, options);
 
-	return deterministicDate(min, max, date);
+  return deterministicDate(min, max, date);
 }
 
 /**
@@ -373,9 +373,9 @@ function redactDateWithinRange(value, options) {
  * @return {Date}
  */
 function deterministicTime(min, max, actual) {
-	const diff = max.getTime() - min.getTime();
+  const diff = max.getTime() - min.getTime();
 
-	return new Date(min.getTime() + (xdmp.hash32(getTimeString(actual)) % diff));
+  return new Date(min.getTime() + (xdmp.hash32(getTimeString(actual)) % diff));
 }
 
 /**
@@ -387,11 +387,11 @@ function deterministicTime(min, max, actual) {
  * @return {Date}
  */
 function redactTimeWithinRange(value, options) {
-	const time = new Date(value);
-	const min = dateTimeAdd(time, /*Object.*/fromEntries(Object.entries(options).map(([key, value]) => [key, -value])));
-	const max = dateTimeAdd(time, options);
+  const time = new Date(value);
+  const min = dateTimeAdd(time, /*Object.*/fromEntries(Object.entries(options).map(([key, value]) => [key, -value])));
+  const max = dateTimeAdd(time, options);
 
-	return deterministicTime(min, max, time);
+  return deterministicTime(min, max, time);
 }
 
 /**
@@ -404,52 +404,52 @@ function redactTimeWithinRange(value, options) {
  * @return {Array}
  */
 function verifyRedaction(source, target, paths) {
-	const tests = [];
+  const tests = [];
 
-	for (const path of paths) {
-		const sNodes = source.xpath(path).toArray();
-		const tNodes = target.xpath(path).toArray();
+  for (const path of paths) {
+    const sNodes = source.xpath(path).toArray();
+    const tNodes = target.xpath(path).toArray();
 
-		if (sNodes.length) {
-			sNodes.forEach((sNode, idx) => {
-				const sData = fn.string(sNode);
-				const tData = fn.string(tNodes[idx]);
+    if (sNodes.length) {
+      sNodes.forEach((sNode, idx) => {
+        const sData = fn.string(sNode);
+        const tData = fn.string(tNodes[idx]);
 
-				const success = sData && sData !== tData;
+        const success = sData && sData !== tData;
 
-				tests.push({
-					document: source.baseURI,
-					path: xdmp.path(sNode),
-					result: `"${sData}" -> "${tData}"`,
-					success,
-				});
-			});
-		} else {
-			tests.push({
-				document: source.baseURI,
-				path,
-				result: 'No data in source to redact',
-				success: true,
-			});
-		}
-	}
+        tests.push({
+          document: source.baseURI,
+          path: xdmp.path(sNode),
+          result: `"${sData}" -> "${tData}"`,
+          success,
+        });
+      });
+    } else {
+      tests.push({
+        document: source.baseURI,
+        path,
+        result: 'No data in source to redact',
+        success: true,
+      });
+    }
+  }
 
-	return tests;
+  return tests;
 }
 
 module.exports = {
-	UsesStringValue,
-	UsesRootNode,
-	CreatesNode,
-	NumberCipher,
-	StringCipher,
-	CaseInsensitiveStringCipher,
+  UsesStringValue,
+  UsesRootNode,
+  CreatesNode,
+  NumberCipher,
+  StringCipher,
+  CaseInsensitiveStringCipher,
 
-	getDateString,
-	getTimeString,
-	redactDateWithinRange,
-	redactTimeWithinRange,
+  getDateString,
+  getTimeString,
+  redactDateWithinRange,
+  redactTimeWithinRange,
 
-	fromEntries,
-	verifyRedaction,
+  fromEntries,
+  verifyRedaction,
 };
