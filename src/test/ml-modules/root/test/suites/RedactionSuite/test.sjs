@@ -85,7 +85,6 @@ const assertions = [
   testRedactionFunction(redactionFunctions.redactDate, '2021-03-05T13:15:23Z', { years: 3 }, '2022-05-17'),
   testRedactionFunction(redactionFunctions.redactTime, '2021-03-05T13:15:23Z', { hours: 3 }, '13:33:00.000Z'),
   testRedactionFunction(redactionFunctions.redactDateTime, '2021-03-05T13:15:23Z', { years: 3, hours: 3 }, '2023-05-30T01:33:00.000Z'),
-  testRedactionFunction(redactionFunctions.redactDictionaryDeterministic, 'test', { dictionary: '/redaction/dictionaries/firstNames.json' }, 'Anthony'),
   testRedactionFunction(redactionFunctions.redactNumeric, '56723', { prefix: 'K', length: 10 }, 'K581426082'),
   testRedactionFunction(redactionFunctions.redactReference, 'Patient/12345678-1234-1234-1234-123456789ABC', {}, 'Patient/2a2a2a2a-1a2a-5d4c-7f7f-a2b3b3b3a2a2'),
   testRedactionFunction(redactionFunctions.redactStreetAddress, '4257 N 10th St', { dictionary: '/redaction/dictionaries/streetNames.json' }, '9061 Main St'),

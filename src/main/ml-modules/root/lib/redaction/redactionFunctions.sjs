@@ -26,17 +26,17 @@ const uuidCipher = new CaseInsensitiveStringCipher('0123456789ABCDEF');
  * Fetch a redacted value from a given redaction map
  *
  * @param  {string}  mapCollection  The map collection
- * @param  {string}  sourceValue    The source value
+ * @param  {string}  key            The source value key
  *
  * @return {string}
  */
-function fetchRedactionMapValue(mapCollection, sourceValue) {
+function fetchRedactionMapValue(mapCollection, key) {
   return fn.head(
     xdmp.invokeFunction(
       () => fn.head(
         cts.valueMatch(
           cts.jsonPropertyReference('redactMapEntries'),
-          `${sourceValue}:*`,
+          `${key}:*`,
           null,
           cts.collectionQuery(mapCollection),
         ),
@@ -49,20 +49,20 @@ function fetchRedactionMapValue(mapCollection, sourceValue) {
 /**
  * Retrieve a cached value
  *
- * @param  {string}    name        The name of the cached value to retrieve
- * @param  {Function}  getDefault  A function to provide a default value if there is not a cached value already
+ * @param  {string}    key       The key of the cached value to retrieve
+ * @param  {Function}  getValue  A function to provide a value to cache if there is not a cached value already
  *
  * @return {unknown}
  */
-function getCachedValue(name, getDefault) {
-  let cached = xdmp.getServerField(name, null);
+function getCachedValue(key, getValue) {
+  let cached = xdmp.getServerField(key, null);
 
   if (cached) {
     return fn.head(cached);
   }
 
-  cached = getDefault();
-  xdmp.setServerField(name, cached);
+  cached = getValue();
+  xdmp.setServerField(key, cached);
 
   return cached;
 }
@@ -74,7 +74,7 @@ function getCachedValue(name, getDefault) {
  *
  * @return {unknown[]}
  */
-function getCachedDictionary(dictionary) {
+function getCachedRedactionDictionary(dictionary) {
   return getCachedValue(
     dictionary,
     () => fn
@@ -87,7 +87,7 @@ function getCachedDictionary(dictionary) {
  * Redact a date within the given amount, returning an ISO-8601 date string
  *
  * @param  {string}  date     The date
- * @param  {Object}  options  The options
+ * @param  {Object}  options  The options as defined in the redaction rule definition
  *
  * @return {string}
  */
@@ -99,7 +99,7 @@ function redactDate(date, options) {
  * Redact a time within the given amount, returning an ISO-8601 time string
  *
  * @param  {string}  time     The time
- * @param  {Object}  options  The options
+ * @param  {Object}  options  The options as defined in the redaction rule definition
  *
  * @return {string}
  */
@@ -111,7 +111,7 @@ function redactTime(time, options) {
  * Redact a date-time within the given amount, returning an ISO-8601 date-time string
  *
  * @param  {string}  datetime The date-time
- * @param  {Object}  options  The options
+ * @param  {Object}  options  The options as defined in the redaction rule definition
  *
  * @return {string}
  */
@@ -120,48 +120,10 @@ function redactDateTime(datetime, options) {
 }
 
 /**
- * Redact the given value using a specific Redaction Dictionary deterministically
- *
- * @param  {string}  value    The value
- * @param  {Object}  options  The options
- *
- * @return {string}
- */
-function redactDictionaryDeterministic(value, options) {
-  const entries = getCachedDictionary(options.dictionary);
-
-  let redacted = '';
-  do {
-    redacted = entries[xdmp.hash64(xdmp.sha256(redacted + value)) % entries.length];
-  } while (redacted === value);
-
-  return redacted;
-}
-
-/**
- * Redact the given value using a specific Redaction Dictionary randomly
- *
- * @param  {string}  value    The value
- * @param  {Object}  options  The options
- *
- * @return {string}
- */
-function redactDictionaryRandom(value, options) {
-  const entries = getCachedDictionary(options.dictionary);
-
-  let redacted;
-  do {
-    redacted = entries[Math.floor(Math.random() * entries.length)];
-  } while (redacted === value);
-
-  return redacted;
-}
-
-/**
  * Redact the given value using a given precomputed redaction map
  *
  * @param  {string}  value    The value
- * @param  {Object}  options  The options
+ * @param  {Object}  options  The options as defined in the redaction rule definition
  *
  * @return {string}
  */
@@ -187,7 +149,7 @@ function redactMappedValue(value, options) {
  * Redact a given numeric value, with optional prefix and minimum result length
  *
  * @param  {string}        original  The original
- * @param  {Object}        options   The options
+ * @param  {Object}        options   The options as defined in the redaction rule definition
  *
  * @return {string}
  */
@@ -200,8 +162,8 @@ function redactNumeric(original, options) {
 /**
  * Redact the UUID portion of a reference ID
  *
- * @param  {string}  reference  The reference
- * @param  {Object}  _options   The options
+ * @param  {string}  reference  The reference (e.g.: Patient/00000000-0000-0000-0000-000000000000)
+ * @param  {Object}  _options   The options as defined in the redaction rule definition
  *
  * @return {string}
  */
@@ -216,13 +178,13 @@ function redactReference(reference, _options) {
  * picking a street name from the given Redaction Dictionary
  *
  * @param  {string}  address  The address
- * @param  {Object}  options  The options
+ * @param  {Object}  options  The options as defined in the redaction rule definition
  *
  * @return {string}
  */
 function redactStreetAddress(address, options) {
   const [number, street] = address.split(/(?<=^\d+) /);
-  const streetNames = getCachedDictionary(options.dictionary);
+  const streetNames = getCachedRedactionDictionary(options.dictionary);
   const newNumber = genericNumberCipher.encipher(number);
   const newStreet = streetNames[xdmp.hash32(street) % streetNames.length];
 
@@ -233,19 +195,24 @@ function redactStreetAddress(address, options) {
  * Redact a given text value
  *
  * @param  {string}  text      The text
- * @param  {Object}  _options  The options
+ * @param  {Object}  _options  The options as defined in the redaction rule definition
  *
  * @return {string}
  */
 function redactText(text, options) {
-  return new (options.caseInsensitive ? CaseInsensitiveStringCipher : StringCipher)(options.charset).encipher(text);
+  const Cipher = options.caseInsensitive
+    ? CaseInsensitiveStringCipher
+    : StringCipher;
+
+  return new Cipher(options.charset).encipher(text);
 }
 
 /**
  * Redact a UUID
+ * NOTE: Synonymous with `redactText` using { charset: '0123456789abcdef', caseInsensitive: true }
  *
  * @param  {string}  uuid      The uuid
- * @param  {Object}  _options  The options
+ * @param  {Object}  _options  The options as defined in the redaction rule definition
  *
  * @return {string}
  */
@@ -258,9 +225,9 @@ function redactUuid(uuid, _options) {
  * NOTE: Synonymous with `redactNumeric` using no additional options
  *
  * @param  {string}  zip       The zip
- * @param  {Object}  _options  The options
+ * @param  {Object}  _options  The options as defined in the redaction rule definition
  *
- * @return {string}  { description_of_the_return_value }
+ * @return {string}
  */
 function redactZipCode(zip, _options) {
   return genericNumberCipher.encipher(zip);
@@ -270,8 +237,6 @@ module.exports = /*Object.*/fromEntries(
   Object.entries({
     redactDate: UsesStringValue(redactDate),
     redactDateTime: UsesStringValue(redactDateTime),
-    redactDictionaryDeterministic: UsesStringValue(redactDictionaryDeterministic),
-    redactDictionaryRandom: UsesStringValue(redactDictionaryRandom),
     redactMappedValue: UsesStringValue(redactMappedValue),
     redactNumeric: UsesStringValue(redactNumeric),
     redactReference: UsesStringValue(redactReference),

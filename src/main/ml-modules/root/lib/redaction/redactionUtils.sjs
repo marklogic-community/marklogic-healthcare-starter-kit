@@ -17,6 +17,12 @@ function fromEntries(entries) {
   return res;
 }
 
+/**
+ * A CipherCharset combines the possible characters to be enciphered/deciphered with an array of offsets to use for each
+ * character in the character set
+ *
+ * @class  CipherCharset
+ */
 class CipherCharset extends String {
   /**
    * Get a cached cipher charset. Creates a new instance if there is no cached value.
@@ -102,8 +108,8 @@ class StringCipher {
   constructor(charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789~`_!@#$%^&*()[]{}+-\'"\\/.,;:|') {
     this.charset = CipherCharset.get(charset);
 
-    this.decipherCharacters = this.decipherCharacters.bind(this);
-    this.encipherCharacters = this.encipherCharacters.bind(this);
+    this.decipherCharacter = this.decipherCharacter.bind(this);
+    this.encipherCharacter = this.encipherCharacter.bind(this);
   }
 
   /**
@@ -114,7 +120,7 @@ class StringCipher {
    * @return {string}
    */
   decipher(input) {
-    return [...this.normalizeInput(input)].map(this.decipherCharacters).join('');
+    return [...this.normalizeInput(input)].map(this.decipherCharacter).join('');
   }
 
   /**
@@ -125,7 +131,7 @@ class StringCipher {
    * @return {string}
    */
   encipher(input) {
-    return [...this.normalizeInput(input)].map(this.encipherCharacters).join('');
+    return [...this.normalizeInput(input)].map(this.encipherCharacter).join('');
   }
 
   /**
@@ -143,57 +149,34 @@ class StringCipher {
    * Called iteratively for each character of the input string to determine the original character for that index.
    * Ignores characters in the input string which do not exist in the charset for this cipher.
    *
-   * @param  {string}   c    The character at the current index
-   * @param  {number}   idx  The current index
+   * @param  {string}   c              The character at the current index
+   * @param  {number}   inputPosition  The current index
    *
    * @return {string}
    */
-  decipherCharacters(c, idx) {
-    const cIdx = this.charset.indexOf(c);
+  decipherCharacter(c, inputPosition) {
+    const charsetPosition = this.charset.indexOf(c);
 
-    return cIdx === -1
+    return charsetPosition === -1
       ? c
-      : this.getOriginalCharacter(cIdx, idx);
+      : this.charset.charAt(this.charset.length + charsetPosition - this.charset.offsetAt(inputPosition));
   }
 
   /**
-   * Called iteratively for each character of the input string to determine the resulting character for that index.Ignores characters in the input string which do not exist in the charset for this cipher.
+   * Called iteratively for each character of the input string to determine the resulting character for that index.
+   * Ignores characters in the input string which do not exist in the charset for this cipher.
    *
-   * @param  {string}   c    The character at the current index
-   * @param  {number}   idx  The current index
+   * @param  {string}   c              The character at the current index
+   * @param  {number}   inputPosition  The current index
    *
    * @return {string}
    */
-  encipherCharacters(c, idx) {
-    const cIdx = this.charset.indexOf(c);
+  encipherCharacter(c, inputPosition) {
+    const charsetPosition = this.charset.indexOf(c);
 
-    return cIdx === -1
+    return charsetPosition === -1
       ? c
-      : this.getResultingCharacter(cIdx, idx);
-  }
-
-  /**
-   * Gets the original character for a decipher operation.
-   *
-   * @param  {number}  cIdx  The character index in the charset
-   * @param  {number}  idx   The character index in the input string
-   *
-   * @return {string}
-   */
-  getOriginalCharacter(cIdx, idx) {
-    return this.charset.charAt(this.charset.length + cIdx - this.charset.offsetAt(idx));
-  }
-
-  /**
-   * Gets the resulting character for a decipher operation.
-   *
-   * @param  {number}  cIdx  The character index in the charset
-   * @param  {number}  idx   The character index in the input string
-   *
-   * @return {string}
-   */
-  getResultingCharacter(cIdx, idx) {
-    return this.charset.charAt(cIdx + this.charset.offsetAt(idx));
+      : this.charset.charAt(charsetPosition + this.charset.offsetAt(inputPosition));
   }
 }
 

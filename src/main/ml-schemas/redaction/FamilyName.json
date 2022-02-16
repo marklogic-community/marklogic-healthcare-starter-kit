@@ -4,8 +4,7 @@
 		"description": "Last Name",
 		"path": "//HumanName/family",
 		"method": {
-			"function": "redactDictionaryDeterministic",
-			"module": "/lib/redaction/redactionFunctions.sjs"
+			"function": "mask-deterministic"
 		},
 		"options": {
 			"dictionary": "/redaction/dictionaries/lastNames.json"
