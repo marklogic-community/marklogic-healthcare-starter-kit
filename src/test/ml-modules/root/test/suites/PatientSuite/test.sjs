@@ -112,23 +112,41 @@ const contentArray = [
 
 const flowName = "Patient";
 const runtimeOptions = {};
-const result = flowApi.runFlowStepOnContent(flowName, "2", contentArray, runtimeOptions);
+const cleanResult = flowApi.runFlowStepOnContent(flowName, "2", contentArray, runtimeOptions);
 
 const assertions = [
-  test.assertEqual("completed step 2", result.stepResponse.status),
-  test.assertEqual(contentArray.length, result.contentArray.length)
+  test.assertEqual("completed step 2", cleanResult.stepResponse.status),
+  test.assertEqual(contentArray.length, cleanResult.contentArray.length),
 ];
 
-const content = result.contentArray[0];
-const context = content.context;
-const patient = content.value.toObject().envelope.instance.Patient;
+const cleanedContent = cleanResult.contentArray[0];
+const cleanedValues = cleanedContent.value.toObject().envelope.instance.cleaned;
 
 assertions.push(
-  test.assertEqual("47f8cf97-1142-2982-b523-7c5abef1b020", patient.id),
-  test.assertEqual("Kirby", patient.name[0].HumanName.given[0], "Given official name"),
-  test.assertEqual("female", patient.gender, "Gender abbreviation should lookup and expand to human readable code value"),
-  test.assertEqual("PatientMapping", context.collections[0]),
-  test.assertTrue(context.permissions.some(perm => perm.roleId.toString() === xdmp.role('phi-reader').toString() && perm.capability === 'read')),
+  test.assertEqual('496 Bayer Port', cleanedValues.address),
+  test.assertEqual('female', cleanedValues.gender),
+  test.assertEqual('2018-01-11T00:00:00Z', cleanedValues.deceasedDateTime),
+  test.assertEqual(true, cleanedValues.deceasedBoolean),
+  test.assertEqual(false, cleanedValues.active),
+);
+
+const mapResult = flowApi.runFlowStepOnContent(flowName, "3", cleanResult.contentArray, runtimeOptions);
+
+assertions.push(
+  test.assertEqual('completed step 3', mapResult.stepResponse.status),
+  test.assertEqual(contentArray.length, mapResult.contentArray.length),
+);
+
+const mappedContent = mapResult.contentArray[0];
+const mappedContext = mappedContent.context;
+const mappedPatient = mappedContent.value.toObject().envelope.instance.Patient;
+
+assertions.push(
+  test.assertEqual("47f8cf97-1142-2982-b523-7c5abef1b020", mappedPatient.id),
+  test.assertEqual("Kirby", mappedPatient.name[0].HumanName.given[0], "Given official name"),
+  test.assertEqual("female", mappedPatient.gender, "Gender abbreviation should lookup and expand to human readable code value"),
+  test.assertEqual("PatientMapping", mappedContext.collections[0]),
+  test.assertTrue(mappedContext.permissions.some(perm => perm.roleId.toString() === xdmp.role('phi-reader').toString() && perm.capability === 'read')),
 );
 
 assertions
