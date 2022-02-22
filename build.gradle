@@ -271,7 +271,7 @@ task ingestSmaller {
 task harmonizePatients (type: com.marklogic.gradle.task.RunFlowTask) {
   description = "Harmonize patient data"
   flowName = "Patient"
-  steps = ["2","3","4","5"]
+  steps = ["2","3","4","5","6"]
 }
 task harmonizeOrganizations (type: com.marklogic.gradle.task.RunFlowTask) {
   description = "Harmonize organization data"
