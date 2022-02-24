@@ -309,6 +309,12 @@ ext.getRedactedExportArgs = { directoryFilter, redactions, outputPath ->
 }
 
 task exportRedactedPatients (type: com.marklogic.gradle.task.MlcpTask) {
+  if (!patientExportOutputDir.equals('')) {
+    println "WARNING: No `patientExportOutputDir` configured in gradle properties. Task `exportRedactedPatients` will be a no-op."
+  }
+  onlyIf {
+    !patientExportOutputDir.equals('')
+  }
   doFirst {
     database = mlFinalDbName
     port = mlFinalPort.toInteger()
@@ -319,6 +325,12 @@ task exportRedactedPatients (type: com.marklogic.gradle.task.MlcpTask) {
 }
 
 task exportRedactedClaims (type: com.marklogic.gradle.task.MlcpTask) {
+  if (!claimExportOutputDir.equals('')) {
+    println "WARNING: No `claimExportOutputDir` configured in gradle properties. Task `exportRedactedClaims` will be a no-op."
+  }
+  onlyIf {
+    !claimExportOutputDir.equals('')
+  }
   doFirst {
     database = mlFinalDbName
     port = mlFinalPort.toInteger()
