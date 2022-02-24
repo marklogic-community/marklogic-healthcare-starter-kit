@@ -39,7 +39,7 @@ The HSK was built and tested with the following prerequisites:
   - `./gradlew mlLoadData`
     - Loads reference data input to user-defined steps and functions included with this project
   - `./gradlew loadOntologies`
-    - Loads ontologies for ICD10CM & ICD10PCS, and SNOMED-CT [if it exists](#user-content-loading-snomed-ct-ontology).
+    - Loads ontologies for ICD10CM & ICD10PCS, and SNOMED-CT [if it exists](#user-content-loading-the-snomed-ct-ontology).
 
 ## Using the HSK
 
@@ -124,7 +124,7 @@ If you happen to clear or delete all of your user data from the staging database
 
 This will restore the reference document contents found in the `referenceData/` directory into the collection required to run user-defined steps included with the project.
 
-### Loading SNOMED-CT Ontology
+### Loading the SNOMED-CT Ontology
 
 If you want to load a SNOMED-CT Ontology into your HSK instance, you will need to download the ontology yourself as it requires a license for use and distribution.
 
