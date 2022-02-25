@@ -101,7 +101,7 @@
       "targetEntityType": "#/definitions/ContactPoint"
     },
     "code__type": {
-      "sourcedFrom": "valueSetLookup(\"prov\", \"organization-type\")/code"
+      "sourcedFrom": "valueSetLookup(\"prov\", \"organization-type\", '')/code"
     }
   }
 }

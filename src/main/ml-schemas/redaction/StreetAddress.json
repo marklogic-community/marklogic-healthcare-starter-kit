@@ -1,0 +1,13 @@
+{
+	"rule": {
+		"description": "Street Address Line 1",
+		"path": "//Address/(line|text)",
+		"method": {
+			"function": "redactStreetAddress",
+			"module": "/lib/redaction/redactionFunctions.sjs"
+		},
+		"options": {
+			"dictionary": "/redaction/dictionaries/streetNames.json"
+		}
+	}
+}
