@@ -130,7 +130,6 @@ ext.getOntologyLoadArgs = { ttlFile, outputGraph ->
   // Get custom assertion failure messages: https://stackoverflow.com/a/51447369
   assert 'You must provide a filename to load from.' && !ttlFile.equals('')
   assert "Invalid file extension for \"$ttlFile\". Expected \".ttl\" extension." && ttlFile.endsWith('.ttl')
-  assert "Unable to find file \"$ttlFile\"" && file(ttlFile).exists()
   assert 'You must provide a graph name to output into.' && !outputGraph.equals('')
 
   return [
@@ -141,28 +140,43 @@ ext.getOntologyLoadArgs = { ttlFile, outputGraph ->
 }
 
 task loadIcd10PcsOntology(type: com.marklogic.gradle.task.MlcpTask) {
-  doFirst {
-    database = mlFinalDbName
-    port = mlFinalPort.toInteger()
+  def ttlFile = "$project.projectDir/src/main/ml-data/ontologies/ICD10PCS.ttl"
+  def ttlFileExists = file(ttlFile).exists()
+
+  if (!ttlFileExists) {
+    println "WARNING: Unable to find file \"$ttlFile\". Task `loadIcd10PcsOntology` will be a no-op."
   }
+
+  onlyIf {
+    ttlFileExists
+  }
+
+  database = mlFinalDbName
+  port = mlFinalPort.toInteger()
+
   classpath = configurations.mlcp
   command = 'IMPORT'
-  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/ICD10PCS.ttl", 'icd-10-pcs-ontology')
+  args = getOntologyLoadArgs(ttlFile, 'icd-10-pcs-ontology')
 }
 
 task loadIcd10CmOntology(type: com.marklogic.gradle.task.MlcpTask) {
-  doFirst {
-    database = mlFinalDbName
-    port = mlFinalPort.toInteger()
+  def ttlFile = "$project.projectDir/src/main/ml-data/ontologies/ICD10CM.ttl"
+  def ttlFileExists = file(ttlFile).exists()
+
+  if (!ttlFileExists) {
+    println "WARNING: Unable to find file \"$ttlFile\". Task `loadIcd10CmOntology` will be a no-op."
   }
+
+  onlyIf {
+    ttlFileExists
+  }
+
+  database = mlFinalDbName
+  port = mlFinalPort.toInteger()
+
   classpath = configurations.mlcp
   command = 'IMPORT'
-  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/ICD10CM.ttl", 'icd-10-cm-ontology')
-}
-
-task loadIcd10Ontologies {
-  dependsOn loadIcd10PcsOntology
-  dependsOn loadIcd10CmOntology
+  args = getOntologyLoadArgs(ttlFile, 'icd-10-cm-ontology')
 }
 
 task normalizeSnomedCTOntology(type: com.marklogic.gradle.task.ServerEvalTask) {
@@ -170,19 +184,32 @@ task normalizeSnomedCTOntology(type: com.marklogic.gradle.task.ServerEvalTask) {
 }
 
 task loadSnomedCTOntology(type: com.marklogic.gradle.task.MlcpTask) {
-  doFirst {
-    database = mlFinalDbName
-    port = mlFinalPort.toInteger()
+  def ttlFile = "$project.projectDir/src/main/ml-data/ontologies/SNOMED-CT.ttl"
+  def ttlFileExists = file(ttlFile).exists()
+
+  if (!ttlFileExists) {
+    println "WARNING: Unable to find file \"$ttlFile\". Task `loadSnomedCTOntology` will be a no-op."
   }
+
+  onlyIf {
+    ttlFileExists
+  }
+
+  database = mlFinalDbName
+  port = mlFinalPort.toInteger()
+
   classpath = configurations.mlcp
   command = 'IMPORT'
-  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/SNOMED-CT.ttl", 'snomed-ct-ontology')
+  args = getOntologyLoadArgs(ttlFile, 'snomed-ct-ontology')
+
+  finalizedBy {
+    normalizeSnomedCTOntology
+  }
 }
 
-loadSnomedCTOntology.finalizedBy normalizeSnomedCTOntology
-
 task loadOntologies {
-  dependsOn loadIcd10Ontologies
+  dependsOn loadIcd10PcsOntology
+  dependsOn loadIcd10CmOntology
   dependsOn loadSnomedCTOntology
 }
 
@@ -271,7 +298,7 @@ task ingestSmaller {
 task harmonizePatients (type: com.marklogic.gradle.task.RunFlowTask) {
   description = "Harmonize patient data"
   flowName = "Patient"
-  steps = ["2","3","4","5"]
+  steps = ["2","3","4","5","6"]
 }
 task harmonizeOrganizations (type: com.marklogic.gradle.task.RunFlowTask) {
   description = "Harmonize organization data"
@@ -297,8 +324,6 @@ task harmonizeAll {
 }
 
 ext.getRedactedExportArgs = { directoryFilter, redactions, outputPath ->
-  assert 'Output directory must not be empty' && !outputPath.equals('')
-
   return [
     '-mode', 'local',
     '-output_file_path', outputPath, // Provided via gradle.properties or gradle-local.properties
@@ -309,6 +334,12 @@ ext.getRedactedExportArgs = { directoryFilter, redactions, outputPath ->
 }
 
 task exportRedactedPatients (type: com.marklogic.gradle.task.MlcpTask) {
+  if (patientExportOutputDir.equals('')) {
+    println "WARNING: No `patientExportOutputDir` configured in gradle properties. Task `exportRedactedPatients` will be a no-op."
+  }
+  onlyIf {
+    !patientExportOutputDir.equals('')
+  }
   doFirst {
     database = mlFinalDbName
     port = mlFinalPort.toInteger()
@@ -319,6 +350,12 @@ task exportRedactedPatients (type: com.marklogic.gradle.task.MlcpTask) {
 }
 
 task exportRedactedClaims (type: com.marklogic.gradle.task.MlcpTask) {
+  if (claimExportOutputDir.equals('')) {
+    println "WARNING: No `claimExportOutputDir` configured in gradle properties. Task `exportRedactedClaims` will be a no-op."
+  }
+  onlyIf {
+    !claimExportOutputDir.equals('')
+  }
   doFirst {
     database = mlFinalDbName
     port = mlFinalPort.toInteger()

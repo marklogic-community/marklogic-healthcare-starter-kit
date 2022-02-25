@@ -37,7 +37,7 @@
       "sourcedFrom": "Id/normalize-space()"
     },
     "use": {
-      "sourcedFrom": "valueSetLookup(\"claim\", \"claim-use\")/code"
+      "sourcedFrom": "valueSetLookup(\"claim\", \"claim-use\", '')/code"
     },
     "patient": {
       "sourcedFrom": ".",
@@ -52,7 +52,7 @@
       "targetEntityType": "#/definitions/Reference"
     },
     "status": {
-      "sourcedFrom": "valueSetLookup(\"active\", \"fm-status\")/code"
+      "sourcedFrom": "valueSetLookup(\"active\", \"fm-status\", '')/code"
     },
     "code__type": {
       "sourcedFrom": "\"institutional\""
@@ -229,7 +229,7 @@
           "sourcedFrom": "./claimAmountTotal/data()"
         },
         "currency": {
-          "sourcedFrom": "valueSetLookup(\"USD\", \"currencies\")/code"
+          "sourcedFrom": "valueSetLookup(\"USD\", \"currencies\", '')/code"
         }
       },
       "targetEntityType": "#/definitions/Money"
@@ -295,10 +295,10 @@
               "sourcedFrom": "string-join((./organization/NAME/normalize-space(), ./organization/ADDRESS/normalize-space(), ./organization/CITY/normalize-space(), ./organization/STATE/normalize-space(), ./organization/ZIP/normalize-space()), \", \")"
             },
             "use": {
-              "sourcedFrom": "valueSetLookup(\"work\", \"address-use\")/code"
+              "sourcedFrom": "valueSetLookup(\"work\", \"address-use\", '')/code"
             },
             "type": {
-              "sourcedFrom": "valueSetLookup(\"both\", \"address-type\")/code"
+              "sourcedFrom": "valueSetLookup(\"both\", \"address-type\", '')/code"
             }
           },
           "targetEntityType": "#/definitions/Address"
@@ -331,7 +331,7 @@
           "sourcedFrom": ".",
           "properties": {
             "currency": {
-              "sourcedFrom": "valueSetLookup(\"USD\", \"currencies\")/code"
+              "sourcedFrom": "valueSetLookup(\"USD\", \"currencies\", '')/code"
             },
             "value": {
               "sourcedFrom": "if (./claimLine/UNITAMOUNT[./normalize-space() ne \"\"]) then ./claimLine/UNITAMOUNT/normalize-space() else 0"
@@ -346,7 +346,7 @@
               "sourcedFrom": "if (./claimLine/AMOUNT[./normalize-space() ne \"\"]) then ./claimLine/AMOUNT/normalize-space() else 0"
             },
             "currency": {
-              "sourcedFrom": "valueSetLookup(\"USD\", \"currencies\")/code"
+              "sourcedFrom": "valueSetLookup(\"USD\", \"currencies\", '')/code"
             }
           },
           "targetEntityType": "#/definitions/Money"

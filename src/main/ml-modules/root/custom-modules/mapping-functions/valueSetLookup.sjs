@@ -16,15 +16,17 @@
 * Throws: HSK-VALUESET-MISSING if no match occurred.
 */
 
-function valueSetLookup(value, valueSet) {
-    let nodes = [];
-    let vsUriPath = "/referenceData/ValueSets/" + valueSet + ".json";
-    let vsDoc = (fn.docAvailable(vsUriPath)) ? cts.doc(vsUriPath) : fn.error("HSK-VALUESET-MISSING", "The specified value set document " + valueSet + " was not found");
-    let vsCode = vsDoc.root.toObject().valueSet.valueSetConcepts[value];
-    let builder = new NodeBuilder();
-    builder.addNode(vsCode);
-    nodes.push(builder.toNode());
-    return Sequence.from(nodes);
+function valueSetLookup(value, valueSet, ifValueIsEmpty) {
+  const vsDoc = cts.doc(`/referenceData/ValueSets/${valueSet}.json`);
+
+  if (!vsDoc) {
+    fn.error('HSK-VALUESET-MISSING', `The specified value set document ${valueSet} was not found`);
+  }
+
+  const vsConcepts = vsDoc.root.valueSet.valueSetConcepts;
+  const vsCode = value ? vsConcepts[value] : vsConcepts[ifValueIsEmpty || 'UNKNOWN'];
+
+  return Sequence.from([new NodeBuilder().addNode(vsCode).toNode()]);
 }
 
 module.exports = {
