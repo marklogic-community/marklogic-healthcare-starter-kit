@@ -1,0 +1,10 @@
+{
+	"rule": {
+		"description": "Redact Patient Reference",
+		"path": "//patient/Reference/reference",
+		"method": {
+			"function": "redactReference",
+			"module": "/lib/redaction/redactionFunctions.sjs"
+		}
+	}
+}

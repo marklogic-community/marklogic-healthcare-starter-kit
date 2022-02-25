@@ -1,0 +1,12 @@
+{
+	"rule": {
+		"description": "Partially Mask SSN",
+		"path": "//identifier__ssn",
+		"method": {
+			"function": "redact-us-ssn"
+		},
+		"options": {
+			"level": "partial"
+		}
+	}
+}

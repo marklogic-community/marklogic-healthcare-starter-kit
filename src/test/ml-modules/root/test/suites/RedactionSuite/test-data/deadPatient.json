@@ -1,0 +1,106 @@
+{
+  "envelope": {
+    "headers": {
+      "sources": [
+        {
+          "name": "PatientIngest",
+          "file": "data/synthea/csv/patients.csv"
+        },
+        {
+          "datahubSourceName": "data/synthea/csv/patients/patients.csv",
+          "datahubSourceType": "Patient"
+        }
+      ],
+      "createdOn": "2022-02-02T19:44:54.5094Z",
+      "createdUsingFile": "C:\\repos\\marklogic-healthcare-starter-kit\\data\\synthea\\csv\\patients\\patients.csv",
+      "createdBy": "admin"
+    },
+    "triples": [],
+    "instance": {
+      "info": {
+        "baseUri": "http://example.org/",
+        "version": "1.0.0",
+        "title": "Patient"
+      },
+      "Patient": {
+        "active": false,
+        "communication": [
+          {
+            "Communication": {
+              "code__language": "en-US"
+            }
+          }
+        ],
+        "id": "5a9d98df-4309-437e-c91f-6d45126e6101",
+        "birthDate": "1961-02-28",
+        "deceasedBoolean": true,
+        "code__maritalStatus": "UNK",
+        "language": "en-US",
+        "name": [
+          {
+            "HumanName": {
+              "use": "official",
+              "given": [
+                "Lucrecia"
+              ],
+              "prefix": [
+                ""
+              ],
+              "family": "Beatty",
+              "suffix": [
+                ""
+              ]
+            }
+          }
+        ],
+        "identifier__ssn": "999-54-5413",
+        "gender": "female",
+        "ex__ethnicity": {
+          "USCoreEthnicityExtension": {
+            "ombCategory": "urn:oid:2.16.840.1.113883.6.238",
+            "text": "nonhispanic"
+          }
+        },
+        "ex__race": {
+          "USCoreRaceExtension": {
+            "ombCategory": [
+              "urn:oid:2.16.840.1.113883.6.238"
+            ],
+            "text": "black"
+          }
+        },
+        "contact": [
+          {
+            "Contact": {
+              "address": {
+                "Address": {
+                  "postalCode": "30319",
+                  "city": "Brookhaven",
+                  "state": "Georgia",
+                  "district": "DeKalb County",
+                  "country": "US"
+                }
+              }
+            }
+          }
+        ],
+        "deceasedDateTime": "1961-06-27T00:00:00Z",
+        "address": [
+          {
+            "Address": {
+              "postalCode": "30319",
+              "country": "US",
+              "line": [
+                "836 Senger Forge Unit 82"
+              ],
+              "text": "836 Senger Forge Unit 82",
+              "city": "Brookhaven",
+              "state": "Georgia",
+              "district": "DeKalb County"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

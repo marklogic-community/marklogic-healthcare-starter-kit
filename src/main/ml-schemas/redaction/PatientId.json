@@ -1,0 +1,10 @@
+{
+	"rule": {
+		"description": "Redact Patient UUID",
+		"path": "//id",
+		"method": {
+			"function": "redactUuid",
+			"module": "/lib/redaction/redactionFunctions.sjs"
+		}
+	}
+}

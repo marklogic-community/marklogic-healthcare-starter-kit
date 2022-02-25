@@ -1,0 +1,13 @@
+{
+	"$note": "Omitted via collections.properties",
+	"rule": {
+		"description": "Last Name",
+		"path": "//HumanName/family",
+		"method": {
+			"function": "mask-deterministic"
+		},
+		"options": {
+			"dictionary": "/redaction/dictionaries/lastNames.json"
+		}
+	}
+}
