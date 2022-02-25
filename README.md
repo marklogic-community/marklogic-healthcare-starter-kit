@@ -1,5 +1,26 @@
 ﻿# MarkLogic Healthcare Starter Kit
 
+- [MarkLogic Healthcare Starter Kit](#user-content-marklogic-healthcare-starter-kit)
+  - [Description & Purpose](#user-content-description--purpose)
+  - [Get the Healthcare Starter Kit (HSK)](#user-content-get-the-healthcare-starter-kit-hsk)
+  - [Deploy the HSK](#user-content-deploy-the-hsk)
+    - [Installation Steps:](#user-content-installation-steps)
+  - [Using the HSK](#user-content-using-the-hsk)
+    - [Using Data Hub Central](#user-content-using-data-hub-central)
+    - [Using Gradle](#user-content-using-gradle)
+      - [Ingesting the Data](#user-content-ingesting-the-data)
+      - [Curating the Data](#user-content-curating-the-data)
+    - [Running Unit and Integration Tests](#user-content-running-unit-and-integration-tests)
+  - [Maintaining and Modifying the HSK](#user-content-maintaining-and-modifying-the-hsk)
+    - [Extending the HSK](#user-content-extending-the-hsk)
+    - [About the sample source data](#user-content-about-the-sample-source-data)
+    - [ml-gradle](#user-content-ml-gradle)
+    - [Data Hub Central and ml-gradle](#user-content-data-hub-central-and-ml-gradle)
+    - [Deployment best practices and caveats:](#user-content-deployment-best-practices-and-caveats)
+    - [Loading the SNOMED-CT Ontology](#user-content-loading-the-snomed-ct-ontology)
+
+## Description & Purpose
+
 The MarkLogic Healthcare Starter Kit (HSK) is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an Operational Data Store (ODS), the HSK supports a mandate by the U.S. Centers for Medicare and Medicaid Services (CMMS) to comply with the Fast Healthcare Interoperability Resources (FHIR) specification for the electronic exchange of healthcare information.
 
 MarkLogic HSK is a tailored instance of a MarkLogic Data Hub, powered by MarkLogic Server.
@@ -102,6 +123,10 @@ The test suites can be found in the following project directories:
 
 ## Maintaining and Modifying the HSK
 
+### Extending the HSK
+
+See the COOKBOOK for more information on how to extend the HSK
+
 ### About the sample source data
 
 The sample health population data provided in this project was generated using the [Synthea synthetic health records project](https://github.com/synthetichealth/synthea)
@@ -118,7 +143,7 @@ Data Hub Central (DHC) can be used to modify entities, run ingest and curation s
 
 > `./gradlew hubPullChanges` will overwrite any local changes you have made that were not pushed to the database using `./gradlew hubDeployUserArtifacts`
 
-### Deployment best practices and caveats:
+### Deployment best practices and caveats
 
 If you happen to clear or delete all of your user data from the staging database, `data-hub-STAGING`, you will need to re-ingest the reference data by running `./gradlew mlLoadData`
 
