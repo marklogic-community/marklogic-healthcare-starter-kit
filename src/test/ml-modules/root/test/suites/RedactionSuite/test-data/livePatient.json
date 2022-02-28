@@ -1,0 +1,105 @@
+{
+  "envelope": {
+    "headers": {
+      "sources": [
+        {
+          "name": "PatientIngest",
+          "file": "data/synthea/csv/patients.csv"
+        },
+        {
+          "datahubSourceName": "data/synthea/csv/patients/patients.csv",
+          "datahubSourceType": "Patient"
+        }
+      ],
+      "createdOn": "2022-02-02T19:44:54.510804Z",
+      "createdUsingFile": "C:\\repos\\marklogic-healthcare-starter-kit\\data\\synthea\\csv\\patients\\patients.csv",
+      "createdBy": "admin"
+    },
+    "triples": [],
+    "instance": {
+      "info": {
+        "baseUri": "http://example.org/",
+        "version": "1.0.0",
+        "title": "Patient"
+      },
+      "Patient": {
+        "active": true,
+        "communication": [
+          {
+            "Communication": {
+              "code__language": "en-US"
+            }
+          }
+        ],
+        "id": "0005a479-d128-178d-4aac-fefe1b0cc77e",
+        "birthDate": "2011-11-06",
+        "deceasedBoolean": false,
+        "code__maritalStatus": "UNK",
+        "language": "en-US",
+        "identifier__ssn": "999-84-2763",
+        "gender": "female",
+        "ex__ethnicity": {
+          "USCoreEthnicityExtension": {
+            "ombCategory": "urn:oid:2.16.840.1.113883.6.238",
+            "text": "nonhispanic"
+          }
+        },
+        "ex__race": {
+          "USCoreRaceExtension": {
+            "ombCategory": [
+              "urn:oid:2.16.840.1.113883.6.238"
+            ],
+            "text": "white"
+          }
+        },
+        "contact": [
+          {
+            "Contact": {
+              "address": {
+                "Address": {
+                  "postalCode": "30180",
+                  "city": "Villa Rica",
+                  "state": "Georgia",
+                  "district": "Douglas County",
+                  "country": "US"
+                }
+              }
+            }
+          }
+        ],
+        "name": [
+          {
+            "HumanName": {
+              "use": "official",
+              "given": [
+                "Elene"
+              ],
+              "prefix": [
+                ""
+              ],
+              "family": "Casper",
+              "suffix": [
+                ""
+              ]
+            }
+          }
+        ],
+        "address": [
+          {
+            "Address": {
+              "postalCode": "30180",
+              "country": "US",
+              "line": [
+                "646 Runolfsson Rest Suite 6"
+              ],
+              "text": "646 Runolfsson Rest Suite 6",
+              "city": "Villa Rica",
+              "state": "Georgia",
+              "district": "Douglas County"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"rule": {
+		"description": "ZIP Code",
+		"path": "//postalCode",
+		"method": {
+			"function": "redactZipCode",
+			"module": "/lib/redaction/redactionFunctions.sjs"
+		}
+	}
+}

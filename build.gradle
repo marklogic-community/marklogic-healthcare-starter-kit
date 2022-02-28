@@ -94,13 +94,13 @@ task loadMetaDataStaging(type: com.marklogic.gradle.task.MlcpTask) {
   classpath = configurations.mlcp
   command = "IMPORT"
   args = [
-      "-input_file_path", "$project.projectDir/src/main/ml-data/meta",
-      "-output_collections", "metaData",
-      "-output_permissions", "raw-data-reader,read,mes-writer,update",
-      "-document_type", "json",
-      "-output_uri_replace", ".*src/main/ml-data,''",
-      "-modules_root", "/",
-  ]
+    "-input_file_path", "$project.projectDir/src/main/ml-data/meta",
+    "-output_collections", "metaData",
+    "-output_permissions", "raw-data-reader,read,mes-writer,update",
+    "-document_type", "json",
+    "-output_uri_replace", ".*src/main/ml-data,''",
+    "-modules_root", "/",
+]
 }
 
 task loadMetaDataFinal(type: com.marklogic.gradle.task.MlcpTask) {
@@ -111,12 +111,12 @@ task loadMetaDataFinal(type: com.marklogic.gradle.task.MlcpTask) {
   classpath = configurations.mlcp
   command = "IMPORT"
   args = [
-      "-input_file_path", "$project.projectDir/src/main/ml-data/meta",
-      "-output_collections", "metaData",
-      "-output_permissions", "raw-data-reader,read,mes-writer,update",
-      "-document_type", "json",
-      "-output_uri_replace", ".*src/main/ml-data,''",
-      "-modules_root", "/",
+    "-input_file_path", "$project.projectDir/src/main/ml-data/meta",
+    "-output_collections", "metaData",
+    "-output_permissions", "raw-data-reader,read,mes-writer,update",
+    "-document_type", "json",
+    "-output_uri_replace", ".*src/main/ml-data,''",
+    "-modules_root", "/",
   ]
 }
 
@@ -130,7 +130,6 @@ ext.getOntologyLoadArgs = { ttlFile, outputGraph ->
   // Get custom assertion failure messages: https://stackoverflow.com/a/51447369
   assert 'You must provide a filename to load from.' && !ttlFile.equals('')
   assert "Invalid file extension for \"$ttlFile\". Expected \".ttl\" extension." && ttlFile.endsWith('.ttl')
-  assert "Unable to find file \"$ttlFile\"" && file(ttlFile).exists()
   assert 'You must provide a graph name to output into.' && !outputGraph.equals('')
 
   return [
@@ -141,28 +140,43 @@ ext.getOntologyLoadArgs = { ttlFile, outputGraph ->
 }
 
 task loadIcd10PcsOntology(type: com.marklogic.gradle.task.MlcpTask) {
-  doFirst {
-    database = mlFinalDbName
-    port = mlFinalPort.toInteger()
+  def ttlFile = "$project.projectDir/src/main/ml-data/ontologies/ICD10PCS.ttl"
+  def ttlFileExists = file(ttlFile).exists()
+
+  if (!ttlFileExists) {
+    println "WARNING: Unable to find file \"$ttlFile\". Task `loadIcd10PcsOntology` will be a no-op."
   }
+
+  onlyIf {
+    ttlFileExists
+  }
+
+  database = mlFinalDbName
+  port = mlFinalPort.toInteger()
+
   classpath = configurations.mlcp
   command = 'IMPORT'
-  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/ICD10PCS.ttl", 'icd-10-pcs-ontology')
+  args = getOntologyLoadArgs(ttlFile, 'icd-10-pcs-ontology')
 }
 
 task loadIcd10CmOntology(type: com.marklogic.gradle.task.MlcpTask) {
-  doFirst {
-    database = mlFinalDbName
-    port = mlFinalPort.toInteger()
+  def ttlFile = "$project.projectDir/src/main/ml-data/ontologies/ICD10CM.ttl"
+  def ttlFileExists = file(ttlFile).exists()
+
+  if (!ttlFileExists) {
+    println "WARNING: Unable to find file \"$ttlFile\". Task `loadIcd10CmOntology` will be a no-op."
   }
+
+  onlyIf {
+    ttlFileExists
+  }
+
+  database = mlFinalDbName
+  port = mlFinalPort.toInteger()
+
   classpath = configurations.mlcp
   command = 'IMPORT'
-  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/ICD10CM.ttl", 'icd-10-cm-ontology')
-}
-
-task loadIcd10Ontologies {
-  dependsOn loadIcd10PcsOntology
-  dependsOn loadIcd10CmOntology
+  args = getOntologyLoadArgs(ttlFile, 'icd-10-cm-ontology')
 }
 
 task normalizeSnomedCTOntology(type: com.marklogic.gradle.task.ServerEvalTask) {
@@ -170,19 +184,32 @@ task normalizeSnomedCTOntology(type: com.marklogic.gradle.task.ServerEvalTask) {
 }
 
 task loadSnomedCTOntology(type: com.marklogic.gradle.task.MlcpTask) {
-  doFirst {
-    database = mlFinalDbName
-    port = mlFinalPort.toInteger()
+  def ttlFile = "$project.projectDir/src/main/ml-data/ontologies/SNOMED-CT.ttl"
+  def ttlFileExists = file(ttlFile).exists()
+
+  if (!ttlFileExists) {
+    println "WARNING: Unable to find file \"$ttlFile\". Task `loadSnomedCTOntology` will be a no-op."
   }
+
+  onlyIf {
+    ttlFileExists
+  }
+
+  database = mlFinalDbName
+  port = mlFinalPort.toInteger()
+
   classpath = configurations.mlcp
   command = 'IMPORT'
-  args = getOntologyLoadArgs("$project.projectDir/src/main/ml-data/ontologies/SNOMED-CT.ttl", 'snomed-ct-ontology')
+  args = getOntologyLoadArgs(ttlFile, 'snomed-ct-ontology')
+
+  finalizedBy {
+    normalizeSnomedCTOntology
+  }
 }
 
-loadSnomedCTOntology.finalizedBy normalizeSnomedCTOntology
-
 task loadOntologies {
-  dependsOn loadIcd10Ontologies
+  dependsOn loadIcd10PcsOntology
+  dependsOn loadIcd10CmOntology
   dependsOn loadSnomedCTOntology
 }
 
@@ -269,24 +296,24 @@ task ingestSmaller {
 }
 
 task harmonizePatients (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Harmonize patient data"
-    flowName = "Patient"
-    steps = ["2","3","4","5"]
+  description = "Harmonize patient data"
+  flowName = "Patient"
+  steps = ["2","3","4","5","6"]
 }
 task harmonizeOrganizations (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Harmonize organization data"
-    flowName = "Organization"
-    steps = ["2","3"]
+  description = "Harmonize organization data"
+  flowName = "Organization"
+  steps = ["2","3"]
 }
 task harmonizeProviders (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Harmonize provider data"
-    flowName = "Provider"
-    steps = ["2","3","4"]
+  description = "Harmonize provider data"
+  flowName = "Provider"
+  steps = ["2","3","4"]
 }
 task harmonizeClaims (type: com.marklogic.gradle.task.RunFlowTask) {
-    description = "Harmonize claim data"
-    flowName = "Claim"
-    steps = ["2"]
+  description = "Harmonize claim data"
+  flowName = "Claim"
+  steps = ["2"]
 }
 
 task harmonizeAll {
@@ -294,4 +321,51 @@ task harmonizeAll {
   dependsOn harmonizeOrganizations
   dependsOn harmonizeProviders
   dependsOn harmonizeClaims
+}
+
+ext.getRedactedExportArgs = { directoryFilter, redactions, outputPath ->
+  return [
+    '-mode', 'local',
+    '-output_file_path', outputPath, // Provided via gradle.properties or gradle-local.properties
+    '-directory_filter', directoryFilter,
+    '-redaction', redactions,
+    '-max_split_size', '17500'
+  ]
+}
+
+task exportRedactedPatients (type: com.marklogic.gradle.task.MlcpTask) {
+  if (patientExportOutputDir.equals('')) {
+    println "WARNING: No `patientExportOutputDir` configured in gradle properties. Task `exportRedactedPatients` will be a no-op."
+  }
+  onlyIf {
+    !patientExportOutputDir.equals('')
+  }
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = 'EXPORT'
+  args = getRedactedExportArgs('/patient/', 'member-redaction', patientExportOutputDir)
+}
+
+task exportRedactedClaims (type: com.marklogic.gradle.task.MlcpTask) {
+  if (claimExportOutputDir.equals('')) {
+    println "WARNING: No `claimExportOutputDir` configured in gradle properties. Task `exportRedactedClaims` will be a no-op."
+  }
+  onlyIf {
+    !claimExportOutputDir.equals('')
+  }
+  doFirst {
+    database = mlFinalDbName
+    port = mlFinalPort.toInteger()
+  }
+  classpath = configurations.mlcp
+  command = 'EXPORT'
+  args = getRedactedExportArgs('/claim/', 'claim-redaction', claimExportOutputDir)
+}
+
+task exportRedactedData {
+  dependsOn exportRedactedPatients
+  dependsOn exportRedactedClaims
 }

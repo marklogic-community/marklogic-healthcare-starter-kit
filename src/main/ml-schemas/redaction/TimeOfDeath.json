@@ -1,0 +1,14 @@
+{
+	"rule": {
+		"description": "Date of Birth",
+		"path": "//deceasedDateTime",
+		"method": {
+			"function": "redactDateTime",
+			"module": "/lib/redaction/redactionFunctions.sjs"
+		},
+		"options": {
+			"years": 3,
+			"hours": 12
+		}
+	}
+}

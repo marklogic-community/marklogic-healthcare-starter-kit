@@ -1,0 +1,670 @@
+{
+  "envelope": {
+    "headers": {
+      "sources": [
+        {
+          "name": "ClaimIngest",
+          "file": "data/synthea/csv/claims.csv"
+        },
+        {
+          "datahubSourceName": "data/synthea/csv/claims/claims.csv",
+          "datahubSourceType": "Claim"
+        }
+      ],
+      "createdUsingFile": "C:\\repos\\marklogic-healthcare-starter-kit\\data\\synthea\\csv\\claims\\claims.csv"
+    },
+    "triples": [],
+    "instance": {
+      "info": {
+        "baseUri": "http://example.org/",
+        "version": "1.0.0",
+        "title": "Claim"
+      },
+      "Claim": {
+        "billablePeriod": {
+          "Period": {
+            "start": "2020-08-19T23:14:09Z",
+            "end": "2020-08-19T23:14:09Z"
+          }
+        },
+        "code__fundsReserve": "none",
+        "enterer": {
+          "Reference": {
+            "type": "Practitioner",
+            "reference": "Provider/2b1d80a4-6e5b-36fe-8a00-fca4f950641a"
+          }
+        },
+        "insurance": [
+          {
+            "Insurance": {
+              "sequence": 1,
+              "focal": true,
+              "coverage": {
+                "Reference": {
+                  "type": "Coverage",
+                  "reference": "Coverage/047f6ec3-6215-35eb-9608-f9dda363a44c"
+                }
+              },
+              "identifier__NIIP": "047f6ec3-6215-35eb-9608-f9dda363a44c"
+            }
+          }
+        ],
+        "procedure": [
+          {
+            "Procedure": {
+              "date": "2020-08-19",
+              "code__procedureCodeableConcept__SNOMED": "410620009",
+              "sequence": 1
+            }
+          },
+          {
+            "Procedure": {
+              "date": "2020-08-19",
+              "code__procedureCodeableConcept__SNOMED": "410620009",
+              "sequence": 2
+            }
+          },
+          {
+            "Procedure": {
+              "date": "1970-01-01",
+              "code__procedureCodeableConcept__SNOMED": "140",
+              "sequence": 3
+            }
+          },
+          {
+            "Procedure": {
+              "date": "1970-01-01",
+              "code__procedureCodeableConcept__SNOMED": "140",
+              "sequence": 4
+            }
+          },
+          {
+            "Procedure": {
+              "date": "2020-08-19",
+              "code__procedureCodeableConcept__SNOMED": "410620009",
+              "sequence": 5
+            }
+          },
+          {
+            "Procedure": {
+              "date": "1970-01-01",
+              "code__procedureCodeableConcept__SNOMED": "140",
+              "sequence": 6
+            }
+          },
+          {
+            "Procedure": {
+              "date": "1970-01-01",
+              "code__procedureCodeableConcept__SNOMED": "140",
+              "sequence": 7
+            }
+          },
+          {
+            "Procedure": {
+              "date": "2020-08-19",
+              "code__procedureCodeableConcept__SNOMED": "410620009",
+              "sequence": 8
+            }
+          }
+        ],
+        "patient": {
+          "Reference": {
+            "type": "Patient",
+            "reference": "Patient/b82f9d04-14b4-943b-b40c-c635da1e3c9b"
+          }
+        },
+        "item": [
+          {
+            "ClaimItem": {
+              "locationAddress": {
+                "Address": {
+                  "postalCode": "31328-2619",
+                  "country": "US",
+                  "line": [
+                    "PO BOX"
+                  ],
+                  "type": "both",
+                  "text": "CALIFORNIA MANAGED IMAGING MEDICAL GROUP INC, PO BOX, TYBEE ISLAND, GA, 31328-2619",
+                  "city": "TYBEE ISLAND",
+                  "state": "GA",
+                  "use": "work"
+                }
+              },
+              "procedureSequence": [
+                1
+              ],
+              "unitPrice": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 0
+                }
+              },
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/69811b30-78d7-3a2b-a8b6-72b2833cd4ca"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "diagnosisSequence": [
+                1
+              ],
+              "servicedPeriod": {
+                "Period": {
+                  "start": "2020-08-19T22:59:09Z",
+                  "end": "2020-08-19T23:14:09Z"
+                }
+              },
+              "servicedDate": "2020-08-19",
+              "informationSequence": [
+                1
+              ],
+              "net": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 102.15
+                }
+              },
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "sequence": 1
+            }
+          },
+          {
+            "ClaimItem": {
+              "locationAddress": {
+                "Address": {
+                  "postalCode": "31328-2619",
+                  "country": "US",
+                  "line": [
+                    "PO BOX"
+                  ],
+                  "type": "both",
+                  "text": "CALIFORNIA MANAGED IMAGING MEDICAL GROUP INC, PO BOX, TYBEE ISLAND, GA, 31328-2619",
+                  "city": "TYBEE ISLAND",
+                  "state": "GA",
+                  "use": "work"
+                }
+              },
+              "procedureSequence": [
+                2
+              ],
+              "unitPrice": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 0
+                }
+              },
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/69811b30-78d7-3a2b-a8b6-72b2833cd4ca"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "diagnosisSequence": [
+                1
+              ],
+              "servicedPeriod": {
+                "Period": {
+                  "start": "2020-08-19T22:59:09Z",
+                  "end": "2020-08-19T23:14:09Z"
+                }
+              },
+              "servicedDate": "2020-08-19",
+              "informationSequence": [
+                1
+              ],
+              "net": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 0
+                }
+              },
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "sequence": 2
+            }
+          },
+          {
+            "ClaimItem": {
+              "locationAddress": {
+                "Address": {
+                  "postalCode": "31328-2619",
+                  "country": "US",
+                  "line": [
+                    "PO BOX"
+                  ],
+                  "type": "both",
+                  "text": "CALIFORNIA MANAGED IMAGING MEDICAL GROUP INC, PO BOX, TYBEE ISLAND, GA, 31328-2619",
+                  "city": "TYBEE ISLAND",
+                  "state": "GA",
+                  "use": "work"
+                }
+              },
+              "procedureSequence": [
+                3
+              ],
+              "unitPrice": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 111.13
+                }
+              },
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/69811b30-78d7-3a2b-a8b6-72b2833cd4ca"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "diagnosisSequence": [
+                1
+              ],
+              "servicedPeriod": {
+                "Period": {
+                  "start": "2020-08-19T22:59:09Z",
+                  "end": "1970-01-01T00:00:00Z"
+                }
+              },
+              "servicedDate": "1970-01-01",
+              "informationSequence": [
+                1
+              ],
+              "net": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 111.13
+                }
+              },
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "sequence": 3
+            }
+          },
+          {
+            "ClaimItem": {
+              "locationAddress": {
+                "Address": {
+                  "postalCode": "31328-2619",
+                  "country": "US",
+                  "line": [
+                    "PO BOX"
+                  ],
+                  "type": "both",
+                  "text": "CALIFORNIA MANAGED IMAGING MEDICAL GROUP INC, PO BOX, TYBEE ISLAND, GA, 31328-2619",
+                  "city": "TYBEE ISLAND",
+                  "state": "GA",
+                  "use": "work"
+                }
+              },
+              "procedureSequence": [
+                4
+              ],
+              "unitPrice": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 0
+                }
+              },
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/69811b30-78d7-3a2b-a8b6-72b2833cd4ca"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "diagnosisSequence": [
+                1
+              ],
+              "servicedPeriod": {
+                "Period": {
+                  "start": "2020-08-19T22:59:09Z",
+                  "end": "1970-01-01T00:00:00Z"
+                }
+              },
+              "servicedDate": "1970-01-01",
+              "informationSequence": [
+                1
+              ],
+              "net": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 0
+                }
+              },
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "sequence": 4
+            }
+          },
+          {
+            "ClaimItem": {
+              "locationAddress": {
+                "Address": {
+                  "postalCode": "31328-2619",
+                  "country": "US",
+                  "line": [
+                    "PO BOX"
+                  ],
+                  "type": "both",
+                  "text": "CALIFORNIA MANAGED IMAGING MEDICAL GROUP INC, PO BOX, TYBEE ISLAND, GA, 31328-2619",
+                  "city": "TYBEE ISLAND",
+                  "state": "GA",
+                  "use": "work"
+                }
+              },
+              "procedureSequence": [
+                5
+              ],
+              "unitPrice": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 0
+                }
+              },
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/69811b30-78d7-3a2b-a8b6-72b2833cd4ca"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "diagnosisSequence": [
+                1
+              ],
+              "servicedPeriod": {
+                "Period": {
+                  "start": "2020-08-19T22:59:09Z",
+                  "end": "2020-08-19T23:14:09Z"
+                }
+              },
+              "servicedDate": "2020-08-19",
+              "informationSequence": [
+                1
+              ],
+              "net": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 0
+                }
+              },
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "sequence": 5
+            }
+          },
+          {
+            "ClaimItem": {
+              "locationAddress": {
+                "Address": {
+                  "postalCode": "31328-2619",
+                  "country": "US",
+                  "line": [
+                    "PO BOX"
+                  ],
+                  "type": "both",
+                  "text": "CALIFORNIA MANAGED IMAGING MEDICAL GROUP INC, PO BOX, TYBEE ISLAND, GA, 31328-2619",
+                  "city": "TYBEE ISLAND",
+                  "state": "GA",
+                  "use": "work"
+                }
+              },
+              "procedureSequence": [
+                6
+              ],
+              "unitPrice": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 0
+                }
+              },
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/69811b30-78d7-3a2b-a8b6-72b2833cd4ca"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "diagnosisSequence": [
+                1
+              ],
+              "servicedPeriod": {
+                "Period": {
+                  "start": "2020-08-19T22:59:09Z",
+                  "end": "1970-01-01T00:00:00Z"
+                }
+              },
+              "servicedDate": "1970-01-01",
+              "informationSequence": [
+                1
+              ],
+              "net": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 111.13
+                }
+              },
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "sequence": 6
+            }
+          },
+          {
+            "ClaimItem": {
+              "locationAddress": {
+                "Address": {
+                  "postalCode": "31328-2619",
+                  "country": "US",
+                  "line": [
+                    "PO BOX"
+                  ],
+                  "type": "both",
+                  "text": "CALIFORNIA MANAGED IMAGING MEDICAL GROUP INC, PO BOX, TYBEE ISLAND, GA, 31328-2619",
+                  "city": "TYBEE ISLAND",
+                  "state": "GA",
+                  "use": "work"
+                }
+              },
+              "procedureSequence": [
+                7
+              ],
+              "unitPrice": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 0
+                }
+              },
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/69811b30-78d7-3a2b-a8b6-72b2833cd4ca"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "diagnosisSequence": [
+                1
+              ],
+              "servicedPeriod": {
+                "Period": {
+                  "start": "2020-08-19T22:59:09Z",
+                  "end": "1970-01-01T00:00:00Z"
+                }
+              },
+              "servicedDate": "1970-01-01",
+              "informationSequence": [
+                1
+              ],
+              "net": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 0
+                }
+              },
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "sequence": 7
+            }
+          },
+          {
+            "ClaimItem": {
+              "locationAddress": {
+                "Address": {
+                  "postalCode": "31328-2619",
+                  "country": "US",
+                  "line": [
+                    "PO BOX"
+                  ],
+                  "type": "both",
+                  "text": "CALIFORNIA MANAGED IMAGING MEDICAL GROUP INC, PO BOX, TYBEE ISLAND, GA, 31328-2619",
+                  "city": "TYBEE ISLAND",
+                  "state": "GA",
+                  "use": "work"
+                }
+              },
+              "procedureSequence": [
+                8
+              ],
+              "unitPrice": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 102.15
+                }
+              },
+              "locationReference": {
+                "Reference": {
+                  "type": "Location",
+                  "reference": "Location/69811b30-78d7-3a2b-a8b6-72b2833cd4ca"
+                }
+              },
+              "careTeamSequence": [
+                1
+              ],
+              "diagnosisSequence": [
+                1
+              ],
+              "servicedPeriod": {
+                "Period": {
+                  "start": "2020-08-19T22:59:09Z",
+                  "end": "2020-08-19T23:14:09Z"
+                }
+              },
+              "servicedDate": "2020-08-19",
+              "informationSequence": [
+                1
+              ],
+              "net": {
+                "Money": {
+                  "currency": "USD",
+                  "value": 102.15
+                }
+              },
+              "quantity": {
+                "SimpleQuantity": {
+                  "value": 1
+                }
+              },
+              "sequence": 8
+            }
+          }
+        ],
+        "use": "claim",
+        "code__type": "institutional",
+        "identifier__FILL": [
+          "07357f84-deae-417b-904f-e0573f0236d7"
+        ],
+        "diagnosis": [
+          {
+            "Diagnosis": {
+              "code__diagnosisCodeableConcept__SNOMED": "410620009",
+              "sequence": 1
+            }
+          }
+        ],
+        "created": "2020-08-19T23:14:09Z",
+        "careTeam": [
+          {
+            "CareTeamMember": {
+              "responsible": true,
+              "provider": {
+                "Reference": {
+                  "type": "Practitioner",
+                  "reference": "Provider/2b1d80a4-6e5b-36fe-8a00-fca4f950641a"
+                }
+              },
+              "sequence": 1,
+              "code__role": "primary"
+            }
+          }
+        ],
+        "provider": {
+          "Reference": {
+            "type": "Practitioner",
+            "reference": "Provider/2b1d80a4-6e5b-36fe-8a00-fca4f950641a"
+          }
+        },
+        "total": {
+          "Money": {
+            "currency": "USD",
+            "value": 426.56
+          }
+        },
+        "payee": {
+          "Payee": {
+            "party": {
+              "Reference": {
+                "type": "Practitioner",
+                "reference": "Practitioner/2b1d80a4-6e5b-36fe-8a00-fca4f950641a"
+              }
+            },
+            "code__type": "provider"
+          }
+        },
+        "status": "active",
+        "code__priority": "normal",
+        "insurer": {
+          "Reference": {
+            "type": "Organization",
+            "reference": "Organization/047f6ec3-6215-35eb-9608-f9dda363a44c"
+          }
+        },
+        "id": "07357f84-deae-417b-904f-e0573f0236d7"
+      }
+    }
+  }
+}
