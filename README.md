@@ -21,9 +21,11 @@
 
 ## Description & Purpose
 
+> This README is intended as a short description of the project and instructions for getting set up and running. For more information on the project as a whole please refer to the [Cookbook](./documentation/Healthcare+Starter+Kit+Cookbook.docx)
+
 The MarkLogic Healthcare Starter Kit (HSK) is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an Operational Data Store (ODS), the HSK supports a mandate by the U.S. Centers for Medicare and Medicaid Services (CMMS) to comply with the Fast Healthcare Interoperability Resources (FHIR) specification for the electronic exchange of healthcare information.
 
-MarkLogic HSK is a tailored instance of a MarkLogic Data Hub, powered by MarkLogic Server.
+MarkLogic HSK is intended as a starting point for a healthcare data hub with working code, as well as sample data and configurations. It is also a good foundation for implementing FHIR-compliant data services when used in combination with the [Marklogic FHIR Mapper](https://github.com/marklogic-community/marklogic-FHIR-mapper).
 
 Users can upload raw, heterogeneous health records and use the harmonization features inherited by the HSK from the MarkLogic Data Hub to canonicalize and master their data. MarkLogic’s powerful default indexing and other Data Hub features make it easy to explore data and models to gain additional insight for future development and operations.
 
@@ -51,10 +53,9 @@ The HSK was built and tested with the following prerequisites:
 
 - Download MarkLogic Data Hub Central using the link above
 - Unzip the tagged release or clone the source into a directory of your choosing.
-- At the top level of your project directory, change the `mlUsername` and `mlPassword` properties in `gradle-local.properties`, based on the MarkLogic user you intend to use.
+- At the top level of your project directory, change the `mlUsername` and `mlPassword` properties in `gradle-local.properties` to set your default user's username and password, based on the MarkLogic user you intend to use (admin, DrSmith, etc.).
   - The project includes several sample demo users, such as `DrSmith` (password `demo`), who is capable of running all operations.
 - Deploy Healtcare Starter Kit data hub:
-  - `./gradlew hubInit`
   - `./gradlew mlDeploy`
     - See [Maintaining and Modifying the HSK](#user-content-maintaining-and-modifying-the-hsk) below.
   - `./gradlew mlLoadData`
@@ -120,16 +121,19 @@ The test suites can be found in the following project directories:
 
 - JUnit integration: `src/test/java/com/marklogic/hsk`
 - MarkLogic unit tests: `src/test/ml-modules/root/test/suites`
+  - The ClaimSuite is an example of a fully self-contained, independent test suite that can be run just after setup is done, without needing to load data. The other unit test suites are not necessarily configured to run independently of data load.
 
 ## Maintaining and Modifying the HSK
 
 ### Extending the HSK
 
-See the COOKBOOK for more information on how to extend the HSK
+See the [Cookbook](./documentation/Healthcare+Starter+Kit+Cookbook.docx) for more information on how to extend the HSK.
+
+As mentioned previously, this project is intended as a starting point for a healthcare data hub and provides many reusable functions & code modules. While most of the code is reusable, the sample data and ingestion/mapping steps will have to be replaced to work with your own data.
 
 ### About the sample source data
 
-The sample health population data provided in this project was generated using the [Synthea synthetic health records project](https://github.com/synthetichealth/synthea)
+The sample health population data provided in this project was generated using the [Synthea synthetic health records project](https://github.com/synthetichealth/synthea). It is included for illustration purposes only and should be replaced with your raw data files.
 
 The HSK project provides sample records for 755 patients and associated healthcare providers, organizations, claims, claims transactions, and payors.
 
@@ -141,7 +145,7 @@ The [Marklogic Gradle plugin](https://github.com/marklogic-community/ml-gradle) 
 
 Data Hub Central (DHC) can be used to modify entities, run ingest and curation steps, explore content, and monitor jobs. Please note that when making changes using DHC, they are not propagated to the local project directory. You can run `./gradlew hubPullChanges` to download the changes made in DHC and write them to your local project directory.
 
-> `./gradlew hubPullChanges` will overwrite any local changes you have made that were not pushed to the database using `./gradlew hubDeployUserArtifacts`
+> `./gradlew hubPullChanges` will overwrite any local changes you have made to Data Hub artifacts that were not pushed to the database using `./gradlew hubDeployUserArtifacts`. Code modules and configuration will not be overwritten.
 
 ### Deployment best practices and caveats
 
@@ -151,7 +155,9 @@ This will restore the reference document contents found in the `referenceData/` 
 
 ### Loading the SNOMED-CT Ontology
 
-If you want to load a SNOMED-CT Ontology into your HSK instance, you will need to download the ontology yourself as it requires a license for use and distribution.
+> If your data does not use SNOMED-CT codes this section can be skipped
+
+If you need to load a SNOMED-CT Ontology into your HSK instance, you will need to download the ontology yourself as it requires a license for use and distribution.
 
 Once downloaded you will need to run the ZIP file through the [`snomed-owl-toolkit`](https://github.com/IHTSDO/snomed-owl-toolkit) and then run the resulting `ontology-<time-run>.owl` through [ROBOT](http://robot.obolibrary.org/) in order to transform the data into a format that will be understood by [MLCP](https://github.com/marklogic/marklogic-contentpump) for ingestion. Once transformed place the ingestable file at `./src/main/ml-data/ontologies/SNOMED-CT.ttl` and you will be able to run `./gradlew loadSnomedCTOntology` (or if you want to use all 3 ontologies you can run `./gradlew loadOntologies`).
 
