@@ -1,0 +1,16 @@
+{
+    "envelope": {
+        "headers": {},
+        "triples": [],
+        "instance": {
+            "Sanction": {
+                "Id": "56a9e504-996b-11ec-b909-0242ac120002",
+                "NPI": "1348628138",
+                "Reason": "Malpractice",
+                "SanctionDate": "2021-10-04",
+                "ReinstatementDate": "2022-04-04"
+            }
+        },
+        "attachments": null
+    }
+}

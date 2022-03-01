@@ -1,0 +1,34 @@
+{
+    "envelope": {
+        "headers": {
+            "sources": [
+                {
+                    "name": "ProviderIngest",
+                    "file": "data/synthea/csv/providers.csv"
+                },
+                {
+                    "datahubSourceName": "data/synthea/csv/providers/providers.csv",
+                    "datahubSourceType": "Provider"
+                }
+            ],
+            "createdUsingFile": "C:\\Users\\bgriffin\\AppData\\Local\\Temp\\ingestion-9241211347421266768\\providers.csv"
+        },
+        "triples": [],
+        "instance": {
+            "Id": "5af22464-c0ff-33f1-b065-2b5ee9e845b7",
+            "ORGANIZATION": "7c5c874e-adb5-3e10-b4a2-59e3e0f609fd",
+            "NAME": "Esperanza King",
+            "GENDER": "F",
+            "SPECIALITY": "GENERAL PRACTICE",
+            "ADDRESS": "528 PANTHER DRIVE",
+            "CITY": "JEFFERSON",
+            "STATE": "GA",
+            "ZIP": "30549",
+            "LAT": "34.1080369",
+            "LON": "-83.5967566",
+            "UTILIZATION": "6",
+            "NPI": "1348628138"
+        },
+        "attachments": null
+    }
+}
