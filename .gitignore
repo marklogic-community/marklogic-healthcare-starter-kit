@@ -12,3 +12,4 @@ build/
 src/main/ml-data/ontologies/SNOMED-CT.ttl
 *.hprof
 .DS_Store
+~*
