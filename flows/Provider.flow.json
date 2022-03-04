@@ -5,15 +5,18 @@
       "stepId": "ProviderIngest-ingestion"
     },
     "2": {
-      "stepId": "PractitionerMapping-mapping"
+      "stepId": "SanctionIngest-ingestion"
     },
     "3": {
-      "stepId": "PractitionerRoleMapping-mapping"
+      "stepId": "PractitionerMapping-mapping"
     },
     "4": {
+      "stepId": "PractitionerRoleMapping-mapping"
+    },
+    "5": {
       "stepId": "ProviderLocation-mapping"
     }
   },
   "description": "Provider Flow",
-  "lastUpdated": "2021-08-02T10:28:19.414499-04:00"
+  "lastUpdated": "2022-03-01T13:50:18.6591033-07:00"
 }

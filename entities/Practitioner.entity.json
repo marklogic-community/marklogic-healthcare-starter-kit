@@ -101,12 +101,12 @@
             "collation": "http://marklogic.com/collation/codepoint"
           }
         },
-        "custom__sanctionMatch": {
+        "custom__sanction": {
           "datatype": "array",
           "facetable": false,
           "sortable": false,
           "items": {
-            "$ref": "#/definitions/SanctionMatch"
+            "$ref": "#/definitions/Sanction"
           }
         }
       }
@@ -466,18 +466,6 @@
           "sortable": false,
           "collation": "http://marklogic.com/collation/codepoint"
         },
-        "name": {
-          "$ref": "#/definitions/HumanName"
-        },
-        "address": {
-          "$ref": "#/definitions/Address"
-        },
-        "birthDate": {
-          "datatype": "date",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
         "type": {
           "datatype": "string",
           "facetable": false,
@@ -495,21 +483,6 @@
           "facetable": false,
           "sortable": false,
           "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "program": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "deathDate": {
-          "datatype": "date",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "tracking": {
-          "$ref": "#/definitions/RecordTracking"
         }
       }
     },

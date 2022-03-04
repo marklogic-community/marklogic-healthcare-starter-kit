@@ -277,6 +277,14 @@ task ingestPayers (type: com.marklogic.gradle.task.RunFlowTask) {
   inputFileType="csv"
 }
 
+task ingestSanctions (type: com.marklogic.gradle.task.RunFlowTask) {
+  description = "Ingest practitioner sanctions"
+  flowName = "Provider"
+  steps = ["2"]
+  inputFilePath="data/sanctions/"
+  inputFileType="xml"
+}
+
 task ingest {
   dependsOn ingestClaims
   dependsOn ingestClaimLines
@@ -284,6 +292,7 @@ task ingest {
   dependsOn ingestProviders
   dependsOn ingestOrganizations
   dependsOn ingestPayers
+  dependsOn ingestSanctions
 }
 
 task ingestSmaller {
@@ -293,6 +302,7 @@ task ingestSmaller {
   dependsOn ingestProviders
   dependsOn ingestOrganizations
   dependsOn ingestPayers
+  dependsOn ingestSanctions
 }
 
 task harmonizePatients (type: com.marklogic.gradle.task.RunFlowTask) {
@@ -308,7 +318,7 @@ task harmonizeOrganizations (type: com.marklogic.gradle.task.RunFlowTask) {
 task harmonizeProviders (type: com.marklogic.gradle.task.RunFlowTask) {
   description = "Harmonize provider data"
   flowName = "Provider"
-  steps = ["2","3","4"]
+  steps = ["3","4","5"]
 }
 task harmonizeClaims (type: com.marklogic.gradle.task.RunFlowTask) {
   description = "Harmonize claim data"

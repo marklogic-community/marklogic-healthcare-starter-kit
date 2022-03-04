@@ -48,6 +48,12 @@ function traversePath(parent, current, path, pathindex, config, doc) {
 function applyTemplateConfig(parent, current, config, doc) {
     xdmp.log("Applying config")
     xdmp.log("current = " + JSON.stringify(current))
+
+    if (config.remove === true) {
+        delete parent[config.field]
+        return;
+    }
+
     if (!(config.field in parent) && config.isArray === true) {
         parent[config.field] = []
     }
@@ -100,22 +106,35 @@ function applyTemplate(tempate, node, doc, firstLayer = true) {
 
 
 function transform(config, doc) {
-    var templatesToApply = [];
+    var templatesToApply = []
+
+    //convert remove configs to templates
+    if ('remove' in config) {
+        for (var removePath of config.remove) {
+            var newConfig = th.buildRemoveConfig(removePath)
+
+            templatesToApply.push(newConfig)
+        }
+    }
 
     //convert codable concept configs to templates
-    for (var codeableConceptConfig of config.codableConcept) {
-        var template = th.buildCodableConceptTemplate(codeableConceptConfig.system, codeableConceptConfig.lookupValueSet)
-        var newConfig = th.buildTemplateConfig(codeableConceptConfig, template)
+    if ('codableConcept' in config) {
+        for (var codeableConceptConfig of config.codableConcept) {
+            var template = th.buildCodableConceptTemplate(codeableConceptConfig.system, codeableConceptConfig.lookupValueSet)
+            var newConfig = th.buildTemplateConfig(codeableConceptConfig, template)
 
-        templatesToApply.push(newConfig)
+            templatesToApply.push(newConfig)
+        }
     }
 
     //convert identifier configs to templates
-    for (var identifierConfig of config.identifier) {
-        var template = th.buildIdentifierTemplate(identifierConfig.use, identifierConfig.system)
-        var newConfig = th.buildTemplateConfig(identifierConfig, template)
-        newConfig.isArray = true
-        templatesToApply.push(newConfig)
+    if ('codableConcept' in config) {
+        for (var identifierConfig of config.identifier) {
+            var template = th.buildIdentifierTemplate(identifierConfig.use, identifierConfig.system)
+            var newConfig = th.buildTemplateConfig(identifierConfig, template)
+            newConfig.isArray = true
+            templatesToApply.push(newConfig)
+        }
     }
 
     if ("root" in doc)

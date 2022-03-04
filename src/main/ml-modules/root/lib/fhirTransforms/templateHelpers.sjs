@@ -69,8 +69,20 @@ function buildTemplateConfig(oldConfig, newTemplate) {
     return newConfig;
 }
 
+function buildRemoveConfig(path) {
+    var pathSplit = path.split(".")
+    var newConfig = {
+        path: path,
+        pathSplit: pathSplit,
+        remove: true
+    }
+
+    return newConfig;
+}
+
 module.exports = {
     buildIdentifierTemplate,
     buildCodableConceptTemplate,
-    buildTemplateConfig
+    buildTemplateConfig,
+    buildRemoveConfig
 }

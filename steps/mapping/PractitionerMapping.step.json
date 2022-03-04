@@ -25,7 +25,7 @@
   "stepDefinitionType": "mapping",
   "stepId": "PractitionerMapping-mapping",
   "acceptsBatch": true,
-  "lastUpdated": "2021-07-22T11:11:29.567455-04:00",
+  "lastUpdated": "2022-03-01T13:50:19.5174831-07:00",
   "uriExpression": "concat(\"/provider/practitioner/\", Id, \".json\")",
   "properties": {
     "id": {
@@ -81,7 +81,24 @@
     },
     "active": {
       "sourcedFrom": "true()"
+    },
+    "custom__sanction": {
+      "sourcedFrom": "practitionerGetSanctions(NPI)/Sanction",
+      "properties": {
+        "type": {
+          "sourcedFrom": "Reason"
+        },
+        "id": {
+          "sourcedFrom": "Id"
+        },
+        "sanctionDate": {
+          "sourcedFrom": "SanctionDate"
+        },
+        "reinstatementDate": {
+          "sourcedFrom": "ReinstatementDate"
+        }
+      },
+      "targetEntityType": "#/definitions/Sanction"
     }
   }
-  
 }

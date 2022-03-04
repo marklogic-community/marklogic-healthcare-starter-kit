@@ -1,0 +1,24 @@
+{
+  "headers": { },
+  "collections": [
+    "SanctionIngest"
+  ],
+  "permissions": "data-hub-common,read,data-hub-common,update",
+  "batchSize": 100,
+  "name": "SanctionIngest",
+  "description": "",
+  "sourceFormat": "xml",
+  "targetFormat": "JSON",
+  "sourceName": "",
+  "sourceType": "",
+  "outputURIPrefix": "",
+  "additionalCollections": [ ],
+  "targetDatabase": "data-hub-STAGING",
+  "interceptors": [ ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "stepDefinitionName": "default-ingestion",
+  "stepDefinitionType": "ingestion",
+  "stepId": "SanctionIngest-ingestion",
+  "lastUpdated": "2022-03-01T07:22:49.4526311-07:00"
+}
