@@ -1,0 +1,10 @@
+{
+  "role-name": "psych-reader",
+  "description": "Custom Role for SLED Demo to read documents which contain information about psychological diagnoses",
+  "role": [
+  ],
+  "permission": [
+  ],
+  "privilege": [
+  ]
+}

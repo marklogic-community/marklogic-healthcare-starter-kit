@@ -1,0 +1,15 @@
+{
+	"$note": "May be additional identifiers which need to be redacted, our data only has identifier__ssn, identifier__passport, and identifier__dl",
+	"rule": {
+		"description": "Redact non-SSN Patient Identifiers",
+		"path": "//(identifier__passport|identifier__dl)",
+		"method": {
+			"function": "redactText",
+			"module": "/lib/redaction/redactionFunctions.sjs"
+		},
+		"options": {
+			"charset": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",
+			"caseInsensitive": true
+		}
+	}
+}

@@ -55,12 +55,6 @@
     },
     "Meta": {
       "properties": {
-        "id": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
         "versionId": {
           "datatype": "string",
           "facetable": false,
@@ -87,32 +81,11 @@
             "datatype": "anyURI",
             "collation": "http://marklogic.com/collation/codepoint"
           }
-        },
-        "security": {
-          "datatype": "array",
-          "facetable": false,
-          "sortable": false,
-          "items": {
-            "$ref": "#/definitions/Coding"
-          }
-        },
-        "tag": {
-          "datatype": "array",
-          "facetable": false,
-          "sortable": false,
-          "items": {
-            "$ref": "#/definitions/Coding"
-          }
         }
       }
     },
     "Reference": {
       "properties": {
-        "id": {
-          "datatype": "string",
-          "relatedEntityType": "http://example.org/Practitioner-1.0.0/Practitioner",
-          "joinPropertyName": "id"
-        },
         "reference": {
           "datatype": "string",
           "facetable": false,
@@ -125,123 +98,16 @@
           "sortable": false,
           "collation": "http://marklogic.com/collation/codepoint"
         },
-        "identifier": {
-          "$ref": "#/definitions/Identifier"
-        },
         "display": {
           "datatype": "string",
           "facetable": false,
           "sortable": false,
           "collation": "http://marklogic.com/collation/codepoint"
-        }
-      }
-    },
-    "CodeableConcept": {
-      "properties": {
-        "id": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "coding": {
-          "datatype": "array",
-          "facetable": false,
-          "sortable": false,
-          "items": {
-            "$ref": "#/definitions/Coding"
-          }
-        },
-        "text": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        }
-      }
-    },
-    "Coding": {
-      "properties": {
-        "id": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "system": {
-          "datatype": "anyURI",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "version": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "code": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "display": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "userSelected": {
-          "datatype": "boolean",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        }
-      }
-    },
-    "Identifier": {
-      "properties": {
-        "id": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "use": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "type": {
-          "$ref": "#/definitions/CodeableConcept"
-        },
-        "system": {
-          "datatype": "anyURI",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "value": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
-        "period": {
-          "$ref": "#/definitions/Period"
         }
       }
     },
     "Period": {
       "properties": {
-        "id": {
-          "datatype": "string",
-          "facetable": false,
-          "sortable": false,
-          "collation": "http://marklogic.com/collation/codepoint"
-        },
         "start": {
           "datatype": "string",
           "facetable": false,

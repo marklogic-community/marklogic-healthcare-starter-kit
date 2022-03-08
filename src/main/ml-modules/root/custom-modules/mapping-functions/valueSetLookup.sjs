@@ -1,6 +1,8 @@
 'use strict';
 
 /**
+* Note: as a JavaScript mapping function, this will incur significant overhead at runtime. XPath/XSLT functions run much faster. 
+* 
 * This custom mapping function allows for looking up values and mapping them to FHIR ValueSet codes, display labels, and definitions.
 * It leverages the FHIR ValueSet definition documents found in src/main/ml-data/referenceData/ValueSets/ which are derived directly from the FHIR specification.
 * 
@@ -14,15 +16,17 @@
 * Throws: HSK-VALUESET-MISSING if no match occurred.
 */
 
-function valueSetLookup(value, valueSet) {
-    let nodes = [];
-    let vsUriPath = "/referenceData/ValueSets/" + valueSet + ".json";
-    let vsDoc = (fn.docAvailable(vsUriPath)) ? cts.doc(vsUriPath) : fn.error("HSK-VALUESET-MISSING", "The specified value set document " + valueSet + " was not found");
-    let vsCode = vsDoc.root.toObject().valueSet.valueSetConcepts[value];
-    let builder = new NodeBuilder();
-    builder.addNode(vsCode);
-    nodes.push(builder.toNode());
-    return Sequence.from(nodes);
+function valueSetLookup(value, valueSet, ifValueIsEmpty) {
+  const vsDoc = cts.doc(`/referenceData/ValueSets/${valueSet}.json`);
+
+  if (!vsDoc) {
+    fn.error('HSK-VALUESET-MISSING', `The specified value set document ${valueSet} was not found`);
+  }
+
+  const vsConcepts = vsDoc.root.valueSet.valueSetConcepts;
+  const vsCode = value ? vsConcepts[value] : vsConcepts[ifValueIsEmpty || 'UNKNOWN'];
+
+  return Sequence.from([new NodeBuilder().addNode(vsCode).toNode()]);
 }
 
 module.exports = {

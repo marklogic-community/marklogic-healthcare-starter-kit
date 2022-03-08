@@ -1,0 +1,10 @@
+{
+  "role-name": "employee-reader",
+  "description": "Custom Role for SLED Demo to read documents which contain patient information for current and former HHS employees and their relatives",
+  "role": [
+  ],
+  "permission": [
+  ],
+  "privilege": [
+  ]
+}

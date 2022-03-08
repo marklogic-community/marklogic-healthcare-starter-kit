@@ -1,0 +1,20 @@
+{
+  "info": {
+    "title": "Sanction",
+    "version": "1.0.0",
+    "baseUri": "http://example.org/"
+  },
+  "definitions": {
+    "Sanction": {
+      "properties": {
+        "id": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        }
+      },
+      "primaryKey": "id"
+    }
+  }
+}

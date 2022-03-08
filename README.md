@@ -1,159 +1,176 @@
-﻿MarkLogic Healthcare Starter Kit
-==============================
+﻿# MarkLogic Healthcare Starter Kit
 
-*****
-The **MarkLogic Healthcare Starter Kit (HSK)** is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an **_operational data store (ODS)_**, the **HSK** supports a mandate by the **U.S. Centers for Medicare and Medicaid Services (CMS)** to comply with the **FHIR (Fast Healthcare Interoperability Resources)** specifications for the electronic exchange of healthcare information.
+- [MarkLogic Healthcare Starter Kit](#user-content-marklogic-healthcare-starter-kit)
+  - [Description & Purpose](#user-content-description--purpose)
+  - [Get the Healthcare Starter Kit (HSK)](#user-content-get-the-healthcare-starter-kit-hsk)
+  - [Deploy the HSK](#user-content-deploy-the-hsk)
+    - [Installation Steps:](#user-content-installation-steps)
+  - [Using the HSK](#user-content-using-the-hsk)
+    - [Using Data Hub Central](#user-content-using-data-hub-central)
+    - [Using Gradle](#user-content-using-gradle)
+      - [Ingesting the Data](#user-content-ingesting-the-data)
+      - [Curating the Data](#user-content-curating-the-data)
+    - [Running Unit and Integration Tests](#user-content-running-unit-and-integration-tests)
+  - [Maintaining and Modifying the HSK](#user-content-maintaining-and-modifying-the-hsk)
+    - [Extending the HSK](#user-content-extending-the-hsk)
+    - [About the sample source data](#user-content-about-the-sample-source-data)
+    - [ml-gradle](#user-content-ml-gradle)
+    - [Data Hub Central and ml-gradle](#user-content-data-hub-central-and-ml-gradle)
+    - [Deployment best practices and caveats:](#user-content-deployment-best-practices-and-caveats)
+    - [Loading the SNOMED-CT Ontology](#user-content-loading-the-snomed-ct-ontology)
 
-MarkLogic HSK is a tailored instance of a **MarkLogic Data Hub**, powered by **MarkLogic Server**.
+## Description & Purpose
 
-Users can upload raw, heterogeneous health records and use the harmonization features inherited by the **HSK** from the **MarkLogic Data Hub** to canolicalize and master their data. MarkLogic’s powerful default indexing and other Hub features make it easy to explore data and models to gain additional insight for future development and operations.
+> This README is intended as a short description of the project and instructions for getting set up and running. For more information on the project as a whole please refer to the [Cookbook](./documentation/Healthcare%20Starter%20Kit%20Cookbook.docx)
 
-More information about **MarkLogic Data Hub**, **MarkLogic Server** and the **FHIR** specifications can be found here:
+The MarkLogic Healthcare Starter Kit (HSK) is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an Operational Data Store (ODS), the HSK supports a mandate by the U.S. Centers for Medicare and Medicaid Services (CMMS) to comply with the Fast Healthcare Interoperability Resources (FHIR) specification for the electronic exchange of healthcare information.
 
-[MarkLogic Data Hub Documentation](https://docs.marklogic.com/datahub/5.5/index.html)
+MarkLogic HSK is intended as a starting point for a healthcare data hub with working code, as well as sample data and configurations. It is also a good foundation for implementing FHIR-compliant data services when used in combination with the [Marklogic FHIR Mapper](https://github.com/marklogic-community/marklogic-FHIR-mapper).
 
-[MarkLogic Server Documentation](https://docs.marklogic.com/10.0)
+Users can upload raw, heterogeneous health records and use the harmonization features inherited by the HSK from the MarkLogic Data Hub to canonicalize and master their data. MarkLogic’s powerful default indexing and other Data Hub features make it easy to explore data and models to gain additional insight for future development and operations.
 
-[Everything About HL7/FHIR](https://www.hl7.org/fhir/index.html)
+Documentation for external projects, tools, and specifications referenced by this README are available as follows:
 
+- [MarkLogic Data Hub](https://docs.marklogic.com/datahub/5.5/index.html)
+- [MarkLogic Server](https://docs.marklogic.com/10.0)
+- [HL7/FHIR](https://www.hl7.org/fhir/index.html)
 
-## Get the Healthcare Starter Kit
+## Get the Healthcare Starter Kit (HSK)
 
-Clone the source or download the tagged release zip file from the MarkLogic Community GitHub repository:
+Clone the source or download a tagged release zip file from the [MarkLogic HSK](https://github.com/marklogic-community/marklogic-healthcare-starter-kit) repository.
 
-[MarkLogic Health Care Starter Kit](https://github.com/marklogic-community/marklogic-healthcare-starter-kit).
+## Deploy the HSK
 
-## Deploy the Healthcare Starter Kit
-
-This version (0.9.0) of the HSK project was built and tested with the following prerequisites:
+The HSK was built and tested with the following prerequisites:
 
 - Java 8 or 11
-- Gradle >= v6.4
-  - Note: we recommend running all commands with the built-in the Gradle wrapper function, `./gradlew`, which requires no installation.
-- MarkLogic Data Hub v5.5.1
+- [MarkLogic Data Hub Central v5.5.1](http://developer.marklogic.com/download/binaries/dhf/marklogic-data-hub-central-5.5.1.war)
 - MarkLogic Server >= v10.0-7
 
 ### Installation Steps:
 
-- [Download MarkLogic Data Hub Central v.5.5.1 web application archive (.war) file](http://developer.marklogic.com/download/binaries/dhf/marklogic-data-hub-central-5.5.1.war)
+> Note: Installation steps assume a MarkLogic Server user/role with sufficient privileges is specified. Refer to the MarkLogic Data Hub documentation if needed.
+
+- Download MarkLogic Data Hub Central using the link above
 - Unzip the tagged release or clone the source into a directory of your choosing.
-- At the top level of the `healthcare-starter-kit` directory, edit the `mlUsername` and `mlPassword` properties within the `gradle-local.properties` file, based on the MarkLogic user you intend to use. 
-  - Note: This assumes a MarkLogic Server user/role with sufficient privileges; please refer to MarkLogic Data Hub documentation if needed.
-  - The project includes several sample demo users, such as `DrSmith` (password `"demo"` sans quotes), who is capable of running all operations.
+- At the top level of your project directory, change the `mlUsername` and `mlPassword` properties in `gradle-local.properties` to set your default user's username and password, based on the MarkLogic user you intend to use (admin, DrSmith, etc.).
+  - The project includes several sample demo users, such as `DrSmith` (password `demo`), who is capable of running all operations.
 - Deploy Healtcare Starter Kit data hub:
-  - `./gradlew hubInit`
   - `./gradlew mlDeploy`
-    -   Reference the "Notes On Maintaining and Modifying the Healthcare Starter Kit", below.
+    - See [Maintaining and Modifying the HSK](#user-content-maintaining-and-modifying-the-hsk) below.
   - `./gradlew mlLoadData`
-    -  Loads reference data input to user-defined steps and functions included with this project
+    - Loads reference data input to user-defined steps and functions included with this project
+  - `./gradlew loadOntologies`
+    - Loads ontologies for ICD10CM & ICD10PCS, and SNOMED-CT [if it exists](#user-content-loading-the-snomed-ct-ontology).
 
-## Use the Healthcare Starter Kit (HSK)
+## Using the HSK
 
-There are two primary ways to access and use the deployed Healthcare Starter Kit. 
+There are two primary ways to access and use the deployed HSK.
 
-1. For GUI access, use **MarkLogic Data Hub Central**. 
-1. For command line access, use **gradle.**
+1. For GUI access, use MarkLogic Data Hub Central.
+1. For command line access, use gradle.
 
-Both means can be used together as determined by your development requirements. However, see "Notes On Maintaining and Modifying the Healthcare Starter Kit" below.
+A mix of these methods can be used as needed by your development requirements. See [Maintaining and Modifying the HSK](#user-content-maintaining-and-modifying-the-hsk) below for more information.
 
 ### Using Data Hub Central
 
-In the top level directory, run the following command: `java -jar marklogic-data-hub-central-5.5.1.war`
+In the top level of your project directory, run `java -jar marklogic-data-hub-central-5.5.1.war`
 
-At this point, you can use the features of Data Hub Central to run the processing flows to ingest, curate, and explore the sample data and models provided.
+At this point, you can use Data Hub Central to run the processing flows to ingest, curate, and explore the sample data and models provided.
 
-Detailed DHC documentation is found here: 
+### Using Gradle
 
-[Data Hub Central -- Access and Features](https://developer.marklogic.com/learn/data-hub-central/#access-data-hub-central)
+If you prefer using the CLI to run and test flows, you can use the premade tasks we have provided to ingest & harmonize data instead via the provided `gradlew` utility.
 
+#### Ingesting the Data
 
-### Using Gradle 
+To ingest all data you can run `./gradlew ingest`, or to ingest a smaller set of claims (for faster setup) you can run `./gradlew ingestSmaller`.
 
-*Note: we recommend using the `./gradlew` wrapper command for all operations*
+If you would like to load sets of data individually you can run the tasks that the above depend on instead:
 
-The **gradlew** command line tool accesses the MarkLogic Gradle plugin, **ml-gradle**,  which provides functions for development and command and control of the **MarkLogic Server** and **Data Hub**. A [full list of ml-gradle functions is provided here](https://github.com/marklogic-community/ml-gradle/wiki/Task-reference).
-
-To ingest and curate (harmonize) the sample data provided, run the following commands at the top level of the ../healthcare-starter-kit directory into which you deployed the project artifacts:
-
-#### Ingest the Data
-
-Run the following commands in sequence for ingestion of the provided sample data.
- 
-```
-# Patient (755 documents)
-./gradlew hubRunFlow -PentityName=Patient -Psteps="1" -PflowName=Patient -PinputFilePath=data/synthea/csv/patients -PenvironmentName=local
-
-# Provider (790 documents)
-./gradlew hubRunFlow -PentityName=Provider -Psteps="1" -PflowName=Provider -PinputFilePath=data/synthea/csv/providers -PenvironmentName=local
-
-# Organization (790 documents)
-./gradlew hubRunFlow -PentityName=Organization -Psteps="1" -PflowName=Organization -PinputFilePath=data/synthea/csv/organizations -PenvironmentName=local
-
-# Claim (76,118 documents)
-./gradlew hubRunFlow -PentityName=Claim -Psteps="1" -PflowName=Claim -PinputFilePath=data/synthea/csv/claims -PenvironmentName=local
-
-ClaimTransaction (464,726 documents)
-./gradlew hubRunFlow -PentityName=ClaimTransaction -Psteps="1" -PflowName=ClaimTransaction -PinputFilePath=data/synthea/csv/claims_transactions -PenvironmentName=local
-
-Payor (10 documents)
-./gradlew hubRunFlow -PentityName=Payor -Psteps="1" -PflowName=Payor -PinputFilePath=data/synthea/csv/payers -PenvironmentName=local
+```sh
+./gradlew ingestClaimLines # or ingestClaimLinesSmaller
+./gradlew ingestClaims # or ingestClaimsSmaller
+./gradlew ingestOrganizations
+./gradlew ingestPatients
+./gradlew ingestPayers
+./gradlew ingestProviders
 ```
 
-#### Curate the Data
+#### Curating the Data
 
-Run the following commands in sequence for curation (mapping, custom, matching, and merging steps) of the provided sample data.
+To curate all previously ingested data you can run `./gradlew harmonizeAll`.
 
-```
-# Patient
-./gradlew hubRunFlow -PentityName=Patient -Psteps="2,3,4,5" -PflowName=Patient -PenvironmentName=local
+If you would like to curate sets of data individually you can run the tasks that the above depends on instead:
 
-# Organization
-./gradlew hubRunFlow -PentityName=Organization -Psteps="2,3" -PflowName=Organization -PenvironmentName=local
-
-# Provider
-./gradlew hubRunFlow -PentityName=Provider -Psteps="2,3,4" -PflowName=Provider -PenvironmentName=local
-
-# Claim
-./gradlew hubRunFlow -PentityName=Claim -Psteps="2" -PflowName=Claim -PenvironmentName=local
+```sh
+./gradlew harmonizeClaims
+./gradlew harmonizeOrganizations
+./gradlew harmonizePatients
+./gradlew harmonizeProviders
 ```
 
 ### Running Unit and Integration Tests
 
 To verify the deployment, two test suites are provided.
 
-- To run JUnit integration test of the complete flow from ingest to curation, use `./gradlew test -PenvironmentName=local`
-- To run MarkLogic Unit Tests (developed in server-side Javascript), use `./gradlew mlUnitTest -PenvironmentName=local`
+- To run JUnit integration test of the complete flow from ingest to curation, use `./gradlew test`
+- To run MarkLogic Unit Tests (developed in server-side Javascript), use `./gradlew mlUnitTest`
 
-The test suites are found in project directories, here:
+The test suites can be found in the following project directories:
 
 - JUnit integration: `src/test/java/com/marklogic/hsk`
 - MarkLogic unit tests: `src/test/ml-modules/root/test/suites`
+  - The ClaimSuite is an example of a fully self-contained, independent test suite that can be run just after setup is done, without needing to load data. The other unit test suites are not necessarily configured to run independently of data load.
 
+## Maintaining and Modifying the HSK
 
-## Notes on Maintaining and Modifying the Healthcare Starter Kit (HSK)
+### Extending the HSK
+
+See the [Cookbook](./documentation/Healthcare%20Starter%20Kit%20Cookbook.docx) for more information on how to extend the HSK.
+
+As mentioned previously, this project is intended as a starting point for a healthcare data hub and provides many reusable functions & code modules. While most of the code is reusable, the sample data and ingestion/mapping steps will have to be replaced to work with your own data.
 
 ### About the sample source data
 
-The sample health population data provided in this project was generated using the Synthea synthetic health records project found here: [https://github.com/synthetichealth/synthea](https://github.com/synthetichealth/synthea)
+The sample health population data provided in this project was generated using the [Synthea synthetic health records project](https://github.com/synthetichealth/synthea). It is included for illustration purposes only and should be replaced with your raw data files.
 
 The HSK project provides sample records for 755 patients and associated healthcare providers, organizations, claims, claims transactions, and payors.
 
-### ml-gradle project
+### ml-gradle
 
-The Marklogic Gradle plugin project is found here: [MarkLogic Gradle Plugin](https://github.com/marklogic-community/ml-gradle). This project provides the commands needed to deploy, maintain, test and modify the HSK project. Full documentation is found here: [MarkLogic Gradle Plugin Wiki](https://github.com/marklogic-community/ml-gradle/wiki)
-
+The [Marklogic Gradle plugin](https://github.com/marklogic-community/ml-gradle) (ml-gradle) provides the commands needed to deploy, maintain, test and modify the HSK. Full documentation can be found on the [ml-gradle Wiki](https://github.com/marklogic-community/ml-gradle/wiki)
 
 ### Data Hub Central and ml-gradle
 
- **Data Hub Central** can be used to modify entities, run ingest and curation steps, explore content, and monitor jobs. Please note that using Data Hub Central, any changes are not propagated immediately to the local file directory that stores the artifacts for the base HSK project. You can use features of DHC to download them to your project directory, or this ml-gradle command: 
- - `./gradlew mlWatch -i -PenvironmentName=local`.  
+Data Hub Central (DHC) can be used to modify entities, run ingest and curation steps, explore content, and monitor jobs. Please note that when making changes using DHC, they are not propagated to the local project directory. You can run `./gradlew hubPullChanges` to download the changes made in DHC and write them to your local project directory.
 
-This command will run in the background and automatically upload changes you make to artifacts in the project directory -- see ml-gradle documentation for details: [Watching for Module Changes](https://github.com/marklogic-community/ml-gradle/wiki/Watching-for-module-changes)
+> `./gradlew hubPullChanges` will overwrite any local changes you have made to Data Hub artifacts that were not pushed to the database using `./gradlew hubDeployUserArtifacts`. Code modules and configuration will not be overwritten.
 
-### Deployment best practices and caveats:
+### Deployment best practices and caveats
 
-If you happen to clear or delete all of your user data from the staging database, `data-hub-STAGING`, you will need to re-ingest the reference data via this command: 
+If you happen to clear or delete all of your user data from the staging database, `data-hub-STAGING`, you will need to re-ingest the reference data by running `./gradlew mlLoadData`
 
-- `./gradlew mlLoadData`
+This will restore the reference document contents found in the `referenceData/` directory into the collection required to run user-defined steps included with the project.
 
-This will restore the refrerence document contents found in the `referenceData/` directory into the collection required to run user-defined steps included with the project.
+### Loading the SNOMED-CT Ontology
+
+> If your data does not use SNOMED-CT codes this section can be skipped
+
+If you need to load a SNOMED-CT Ontology into your HSK instance, you will need to download the ontology yourself as it requires a license for use and distribution.
+
+Once downloaded you will need to run the ZIP file through the [`snomed-owl-toolkit`](https://github.com/IHTSDO/snomed-owl-toolkit) and then run the resulting `ontology-<time-run>.owl` through [ROBOT](http://robot.obolibrary.org/) in order to transform the data into a format that will be understood by [MLCP](https://github.com/marklogic/marklogic-contentpump) for ingestion. Once transformed place the ingestable file at `./src/main/ml-data/ontologies/SNOMED-CT.ttl` and you will be able to run `./gradlew loadSnomedCTOntology` (or if you want to use all 3 ontologies you can run `./gradlew loadOntologies`).
+
+```sh
+# Example commands for transforming SNOMED-CT ontology into an ingestable format
+# from the downloaded ZIP file, as run from the project directory
+#
+# Convert the RF2 files contained in the ZIP file to Functional OWL syntax.
+# Example output filename: ~/downloads/ontology-2022-01-19_11-05-40.owl
+java -jar -xms4g snomed-owl-toolkit-3.0.3-executable.jar \
+     -rf2-to-owl ~/downloads/SnomedCT_PRODUCTION.zip
+# Convert from Functional OWL to TTL
+java -jar robot.jar convert \
+     --input ~/downloads/ontology-2022-01-19_11-05-40.owl \
+     --output ./src/main/ml-data/ontologies/SNOMED-CT.ttl
+```

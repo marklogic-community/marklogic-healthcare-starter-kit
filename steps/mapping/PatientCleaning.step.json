@@ -1,0 +1,73 @@
+{
+  "collections": [
+    "PatientCleaning",
+    "Patient"
+  ],
+  "additionalCollections": [
+    "Patient"
+  ],
+  "permissions": "data-hub-common,read,data-hub-common,update,mes-writer,update",
+  "batchSize": 100,
+  "validateEntity": "doNotValidate",
+  "targetFormat": "JSON",
+  "attachSourceDocument": false,
+  "name": "PatientCleaning",
+  "targetEntityType": "http://example.org/cleaned-1.0.0/cleaned",
+  "description": "Patient Cleaning",
+  "collection": "PatientIngest",
+  "selectedSource": "collection",
+  "sourceQuery": "cts.collectionQuery(['PatientIngest'])",
+  "targetDatabase": "data-hub-FINAL",
+  "headers": { },
+  "interceptors": [
+    {
+      "path": "/lib/interceptors/pre-clean-interceptor.sjs",
+      "when": "beforeMain",
+      "vars": {
+        "dataType": "Patient"
+      }
+    },
+    {
+      "path": "/lib/interceptors/post-clean-interceptor.sjs",
+      "when": "beforeContentPersisted",
+      "vars": {
+        "dataType": "Patient"
+      }
+    }
+  ],
+  "provenanceGranularityLevel": "off",
+  "customHook": { },
+  "sourceDatabase": "data-hub-STAGING",
+  "stepDefinitionName": "entity-services-mapping",
+  "stepDefinitionType": "mapping",
+  "stepId": "PatientCleaning-cleaning",
+  "acceptsBatch": true,
+  "lastUpdated": "2021-08-05T08:49:43.2357858-06:00",
+  "uriExpression": "$URI",
+  "properties": {
+    "address": {
+      "sourcedFrom": "addressLinesCombined(ADDRESS/normalize-space(), '', 'en-US')"
+    },
+    "birthDate": {
+      "sourcedFrom": "localParseDate(BIRTHDATE/normalize-space())"
+    },
+    "gender": {
+      "sourcedFrom": "valueSetLookup(GENDER/normalize-space(), 'administrative-gender', 'U')/code"
+    },
+    "deceasedBoolean": {
+      "sourcedFrom": "DEATHDATE/normalize-space() ne ''"
+    },
+    "deceasedDateTime": {
+      "sourcedFrom": "localParseDateTime(DEATHDATE/normalize-space())"
+    },
+    "active": {
+      "sourcedFrom": "DEATHDATE/normalize-space() eq ''"
+    },
+    "identifier__ssn": {
+      "sourcedFrom": "localParseSSN(SSN/normalize-space())"
+    },
+    "code__maritalStatus": {
+      "sourcedFrom": "valueSetLookup(MARITAL/normalize-space(), 'marital-status', 'UNK')/code"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "envelope": {
+    "headers": {
+      "sources": [
+        {
+          "name": "PatientIngest",
+          "file": "data/synthea/csv/patients.csv"
+        },
+        {
+          "datahubSourceName": "data/synthea/csv/patients/patients.csv",
+          "datahubSourceType": "Patient"
+        }
+      ],
+      "createdOn": "2022-02-02T19:44:54.510804Z",
+      "createdUsingFile": "C:\\repos\\marklogic-healthcare-starter-kit\\data\\synthea\\csv\\patients\\patients.csv",
+      "createdBy": "admin"
+    },
+    "triples": [],
+    "instance": {
+      "info": {
+        "baseUri": "http://example.org/",
+        "version": "1.0.0",
+        "title": "Patient"
+      },
+      "Patient": {
+        "active": true,
+        "communication": [
+          {
+            "Communication": {
+              "code__language": "en-US"
+            }
+          }
+        ],
+        "id": "00cbb03e-9551-3437-fd0d-8a98d4fb87c4",
+        "birthDate": "1988-05-30",
+        "deceasedBoolean": false,
+        "code__maritalStatus": "M",
+        "language": "en-US",
+        "identifier__ssn": "999-17-9121",
+        "gender": "female",
+        "identifier__dl": "S99956175",
+        "identifier__passport": "X37889068X",
+        "ex__ethnicity": {
+          "USCoreEthnicityExtension": {
+            "ombCategory": "urn:oid:2.16.840.1.113883.6.238",
+            "text": "nonhispanic"
+          }
+        },
+        "ex__race": {
+          "USCoreRaceExtension": {
+            "ombCategory": [
+              "urn:oid:2.16.840.1.113883.6.238"
+            ],
+            "text": "black"
+          }
+        },
+        "contact": [
+          {
+            "Contact": {
+              "address": {
+                "Address": {
+                  "postalCode": "30082",
+                  "city": "Smyrna",
+                  "state": "Georgia",
+                  "district": "Cobb County",
+                  "country": "US"
+                }
+              }
+            }
+          }
+        ],
+        "name": [
+          {
+            "HumanName": {
+              "use": "official",
+              "given": [
+                "Yvone"
+              ],
+              "prefix": [
+                "Mrs."
+              ],
+              "family": "McCullough",
+              "suffix": [
+                "PhD"
+              ]
+            }
+          },
+          {
+            "HumanName": {
+              "use": "maiden",
+              "given": [
+                "Yvone"
+              ],
+              "prefix": [
+                "Mrs."
+              ],
+              "family": "Waters",
+              "suffix": [
+                "PhD"
+              ]
+            }
+          }
+        ],
+        "address": [
+          {
+            "Address": {
+              "postalCode": "30082",
+              "country": "US",
+              "line": [
+                "273 Lubowitz Byway"
+              ],
+              "text": "273 Lubowitz Byway",
+              "city": "Smyrna",
+              "state": "Georgia",
+              "district": "Cobb County"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

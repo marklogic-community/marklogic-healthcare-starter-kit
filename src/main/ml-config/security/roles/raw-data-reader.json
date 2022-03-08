@@ -1,0 +1,10 @@
+{
+  "role-name": "raw-data-reader",
+  "description": "Custom Role for SLED Demo to read documents in STAGING",
+  "role": [
+  ],
+  "permission": [
+  ],
+  "privilege": [
+  ]
+}

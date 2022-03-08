@@ -11,15 +11,18 @@
       "stepId": "PatientIngest-ingestion"
     },
     "2": {
-      "stepId": "PatientMapping-mapping"
+      "stepId": "PatientCleaning-cleaning"
     },
     "3": {
-      "stepId": "GeneratePatientDictionaries-custom"
+      "stepId": "PatientMapping-mapping"
     },
     "4": {
-      "stepId": "MatchPatient-matching"
+      "stepId": "GeneratePatientDictionaries-custom"
     },
     "5": {
+      "stepId": "MatchPatient-matching"
+    },
+    "6": {
       "stepId": "MergePatient-merging"
     }
   },

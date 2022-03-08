@@ -1,5 +1,7 @@
 'use strict';
 
+/** non-persistent test. See ClaimSuite/test.sjs for details **/
+
 const flowApi = require("/data-hub/public/flow/flow-api.sjs");
 const test = require("/test/test-helper.xqy");
 

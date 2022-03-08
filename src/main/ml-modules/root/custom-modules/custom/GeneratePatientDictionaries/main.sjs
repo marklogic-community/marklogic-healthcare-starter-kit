@@ -2,9 +2,11 @@ const flowApi = require('/data-hub/public/flow/flow-api.sjs');
 const spell = require("/MarkLogic/spell");
 
 /**
- * Performs the processing for the step.
+ * A custom step implementation.
  *
- * In this case, we are not processing individual records, we are using the step to prepare for mastering using double metaphone matching rules.
+ * In this case, we are not processing individual records, we are using the step to create two name dictionaries: one of all
+ * given names in the raw data, and one of all family names.
+ * Mstering uses these dictionaries for double metaphone matching rules.
  *
  * @param content either a single content object, or an array of content objects
  * @param options an object consisting of combined options from the runtime options, the step configuration, the flow options,

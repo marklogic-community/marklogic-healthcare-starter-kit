@@ -6,7 +6,7 @@
   "additionalCollections": [
     "Patient"
   ],
-  "permissions": "data-hub-common,read,data-hub-common,update",
+  "permissions": "data-hub-common,read,data-hub-common,update,mes-writer,update",
   "batchSize": 100,
   "validateEntity": "doNotValidate",
   "targetFormat": "JSON",
@@ -14,15 +14,20 @@
   "name": "PatientMapping",
   "targetEntityType": "http://example.org/Patient-1.0.0/Patient",
   "description": "Patient Mapping",
-  "collection": "PatientIngest",
+  "collection": "PatientCleaning",
   "selectedSource": "collection",
-  "sourceQuery": "cts.collectionQuery(['PatientIngest'])",
+  "sourceQuery": "cts.collectionQuery(['PatientCleaning'])",
   "targetDatabase": "data-hub-FINAL",
   "headers": { },
-  "interceptors": [ ],
+  "interceptors": [
+    {
+      "path": "/lib/interceptors/patient-mapping.sjs",
+      "when": "beforeContentPersisted"
+    }
+  ],
   "provenanceGranularityLevel": "off",
   "customHook": { },
-  "sourceDatabase": "data-hub-STAGING",
+  "sourceDatabase": "data-hub-FINAL",
   "stepDefinitionName": "entity-services-mapping",
   "stepDefinitionType": "mapping",
   "stepId": "PatientMapping-mapping",
@@ -31,10 +36,10 @@
   "uriExpression": "$URI",
   "properties": {
     "name": {
-      "sourcedFrom": "flatToMultipleEntries(/,'{\"breakout\": [{\"type\": \"last\", \"xpath\": \"./LAST[string-length(normalize-space(.)) gt 0]\"}, {\"type\": \"maiden\", \"xpath\": \"./MAIDEN[string-length(normalize-space(.)) gt 0]\"}]}')",
+      "sourcedFrom": "flatToMultipleEntries(/,'{\"breakout\": [{\"type\": \"official\", \"xpath\": \"./LAST[string-length(normalize-space(.)) gt 0]\"}, {\"type\": \"maiden\", \"xpath\": \"./MAIDEN[string-length(normalize-space(.)) gt 0]\"}]}')",
       "properties": {
         "family": {
-          "sourcedFrom": "if(type eq 'maiden') then source/normalize-space()  else source/normalize-space() "
+          "sourcedFrom": "source/normalize-space()"
         },
         "given": {
           "sourcedFrom": "//FIRST/normalize-space()"
@@ -46,7 +51,7 @@
           "sourcedFrom": "//PREFIX/normalize-space()"
         },
         "use": {
-          "sourcedFrom": "if(type eq 'maiden') then \"maiden\" else \"official\""
+          "sourcedFrom": "type/normalize-space()"
         }
       },
       "targetEntityType": "#/definitions/HumanName"
@@ -64,16 +69,16 @@
       "sourcedFrom": "Id/normalize-space()"
     },
     "birthDate": {
-      "sourcedFrom": "localParseDate(BIRTHDATE/normalize-space())"
+      "sourcedFrom": "cleaned/birthDate"
     },
     "gender": {
-      "sourcedFrom": "valueSetLookup(GENDER/normalize-space(), 'administrative-gender')/code"
+      "sourcedFrom": "cleaned/gender"
     },
     "deceasedBoolean": {
-      "sourcedFrom": "string-length(DEATHDATE/normalize-space()) > 0"
+      "sourcedFrom": "cleaned/deceasedBoolean"
     },
     "deceasedDateTime": {
-      "sourcedFrom": "localParseDateTime(DEATHDATE/normalize-space())"
+      "sourcedFrom": "cleaned/deceasedDateTime"
     },
     "address": {
       "sourcedFrom": "/",
@@ -91,13 +96,13 @@
           "sourcedFrom": "ZIP/normalize-space()"
         },
         "line": {
-          "sourcedFrom": "ADDRESS/normalize-space()"
+          "sourcedFrom": "cleaned/address"
         },
         "district": {
           "sourcedFrom": "COUNTY/normalize-space()"
         },
         "text": {
-          "sourcedFrom": "ADDRESS/normalize-space()"
+          "sourcedFrom": "cleaned/address"
         }
       },
       "targetEntityType": "#/definitions/Address"
@@ -156,29 +161,8 @@
     "communication": {
       "sourcedFrom": "/",
       "properties": {
-        "language": {
-          "sourcedFrom": "/",
-          "properties": {
-            "coding": {
-              "sourcedFrom": "/",
-              "properties": {
-                "system": {
-                  "sourcedFrom": "\"urn:ietf:bcp:47\""
-                },
-                "code": {
-                  "sourcedFrom": "\"en-US\""
-                },
-                "display": {
-                  "sourcedFrom": "\"English\""
-                }
-              },
-              "targetEntityType": "#/definitions/Coding"
-            },
-            "text": {
-              "sourcedFrom": "\"English\""
-            }
-          },
-          "targetEntityType": "#/definitions/CodeableConcept"
+        "code__language": {
+          "sourcedFrom": "\"en-US\""
         }
       },
       "targetEntityType": "#/definitions/Communication"
@@ -187,10 +171,10 @@
       "sourcedFrom": "\"en-US\""
     },
     "active": {
-      "sourcedFrom": "if (string-length(DEATHDATE/normalize-space()) > 0) then false() else true()"
+      "sourcedFrom": "cleaned/active"
     },
     "identifier__ssn": {
-      "sourcedFrom": "localParseSSN(SSN/normalize-space()) "
+      "sourcedFrom": "cleaned/identifier__ssn"
     },
     "identifier__dl": {
       "sourcedFrom": "DRIVERS/normalize-space()"
@@ -199,7 +183,7 @@
       "sourcedFrom": "PASSPORT/normalize-space()"
     },
     "code__maritalStatus": {
-      "sourcedFrom": "if(string-length(MARITAL/normalize-space()) > 0) then valueSetLookup(MARITAL/normalize-space(), 'marital-status')/code else valueSetLookup('UNK', 'marital-status')/code"
+      "sourcedFrom": "cleaned/code__maritalStatus"
     }
   }
 }

@@ -4,7 +4,7 @@
     "Organization"
   ],
   "additionalCollections": [ ],
-  "permissions": "data-hub-common,read,data-hub-common,update",
+  "permissions": "data-hub-common,read,data-hub-common,update,mes-reader,read,mes-writer,update",
   "batchSize": 100,
   "validateEntity": "doNotValidate",
   "targetFormat": "JSON",
@@ -101,7 +101,7 @@
       "targetEntityType": "#/definitions/ContactPoint"
     },
     "code__type": {
-      "sourcedFrom": "valueSetLookup(\"prov\", \"organization-type\")/code"
+      "sourcedFrom": "valueSetLookup(\"prov\", \"organization-type\", '')/code"
     }
   }
 }

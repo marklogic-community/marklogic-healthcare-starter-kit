@@ -4,8 +4,11 @@ declareUpdate();
 var contentArray;
 var options;
 
-xdmp.log(xdmp.quote(contentArray), "debug");
-xdmp.log(xdmp.quote(options), "debug");
+const traceflag = "claim-tx-ingest"
+if (xdmp.traceEnabled(traceflag)) {
+    xdmp.trace(traceflag, "ingesting content: " + xdmp.quote(contentArray))
+    xdmp.trace(traceflag, "ingest options: " + xdmp.quote(options))
+}
 
 contentArray.forEach(content => {
     const lineId = content.value.envelope.instance.ID;
