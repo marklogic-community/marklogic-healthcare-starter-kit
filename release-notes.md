@@ -1,87 +1,71 @@
-﻿MarkLogic HealthCare Starter Kit Release Notes
-==============================
+﻿# MarkLogic HealthCare Starter Kit Release Notes
 
-*August 2021*
+*March 2022*
 
-The **MarkLogic Healthcare Starter Kit (HSK)** is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an **_operational data store (ODS)_**, the **HSK** supports a mandate by the **U.S. Centers for Medicare and Medicaid Services (CMS)** to comply with the **FHIR (Fast Healthcare Interoperability Resources)** specifications for the electronic exchange of healthcare information.
+The MarkLogic Healthcare Starter Kit (HSK) is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an Operational Data Store (ODS), the HSK supports a mandate by the U.S. Centers for Medicare and Medicaid Services (CMMS) to comply with the Fast Healthcare Interoperability Resources (FHIR) specification for the electronic exchange of healthcare information.
 
-MarkLogic HSK is a tailored instance of a **MarkLogic Data Hub**, powered by **MarkLogic Server**.
+MarkLogic HSK is intended as a starting point for a healthcare data hub with working code, as well as sample data and configurations. It is also a good foundation for implementing FHIR-compliant data services when used in combination with the [Marklogic FHIR Mapper](https://github.com/marklogic-community/marklogic-FHIR-mapper).
 
-Users can upload raw, heterogeneous health records and use the harmonization features inherited by the **HSK** from the **MarkLogic Data Hub** to canolicalize and master their data. MarkLogic’s powerful default indexing and other Hub features make it easy to explore data and models to gain additional insight for future development and operations.
+Users can upload raw, heterogeneous health records and use the harmonization features inherited by the HSK from the MarkLogic Data Hub to canonicalize and master their data. MarkLogic’s powerful default indexing and other Data Hub features make it easy to explore data and models to gain additional insight for future development and operations.
 
 ---
-## Version 0.9.0 - 2021-08-10
+## Version 1.0.0 - 2022-03-08
 
-### Version 0.9.0 - Compatibility
+### Version 1.0.0 - Compatibility
 
 This project supports these software versions:
 
-<table>
-  <tr>
-   <td><strong>Software</strong></td>
-   <td><strong>Version</strong></td>
-  </tr>
-  <tr>
-   <td>Java JDK</td>
-   <td>1.8 or 11</td>
-  </tr>
-  <tr>
-   <td>Gradle</td>
-   <td>6.4 or higher</td>
-  </tr>
-  <tr>
-   <td>MarkLogic Data Hub</td>
-   <td>5.5.1</td>
-  </tr>
-  <tr>
-   <td>MarkLogic Server</td>
-   <td>10.0-7 or higher</td>
-  </tr>
-</table>
+| Software           | Version   |
+|--------------------|-----------|
+| Java JDK           | 1.8 or 11 |
+| Gradle             | 6.4+      |
+| MarkLogic Data Hub | 5.5.1+    |
+| MarkLogic Server   | 10.0-7+   |
 
-### Version 0.9.0 - Features
-
-This is the initial release of the Healthcare Starter Kit, so, everything’s new!
+### Version 1.0.0 - Features
 
 Features a pre-configured deployment of MarkLogic Data Hub explicitly configured to provide an operational model to support FHIR specifications for health information exchange.
 
-### Version 0.9.0 - Required Libraries
+### Version 1.0.0 - Required Libraries
 
-* MarkLogic Data Hub v5.5.1
-* MarkLogic Unit Test - client v1.1.0
-* MarkLogic Development tools - v5.4.0 (gradle plugin)
-* MarkLogic Data Movement tools - v10.0.6.2
+* MarkLogic Data Hub v5.5.1+
+* MarkLogic Unit Test - client v1.1.0+
+* MarkLogic Development tools - v5.4.0+ (gradle plugin)
+* MarkLogic Data Movement tools - v10.0.6.2+
 
-### Version 0.9.0 - Improvements
+### Version 1.0.0 - Improvements
 
-* None, other than…​"This is the initial release of the Healthcare Starter Kit, so, everything’s new!"
+* Adds a cookbook which describes how to extend and modify this project to suit individual needs
+* Simplifies and flattens storage model from pure FHIR
+* Adds transforms from storage model to pure FHIR
+* Adds a separate cleaning step for patient data mapping (example/springboard for other separate cleaning steps)
+* Adds ontology-based (broader/narrower) claim query by diagnosis/procedure code
+* Adds example security roles and applies them to documents
+* Adds data export redaction rules, utilities
 
+### Version 1.0.0 - Bugs Fixed
 
-### Version 0.9.0 - Bugs Fixed
+* None - concentrated on adding features for 1.0.0 release
 
-* None, other than…​"This is the initial release of the Healthcare Starter Kit, so, everything’s new!"
-
-
-### Version 0.9.0 - Tickets
+### Version 1.0.0 - Tickets
 
 #### Tasks
- * [HSK-75] - Resolve conflicting URIs in Final
- * [HSK-77] - Update the names of storage entities
- * [HSK-80] - Remove id fields from sub structures that don't need them
- * [HSK-81] - Remove meta field from models
- * [HSK-82] - Flatten all identifiers
 
-#### Sub-tasks
- * [HSK-65] - Map provider and organization data to PersistenceUSCoreLocation entity
- * [HSK-72] - Create Initial Document Artifacts: README.md, release-notes.md and Wiki Cookbook outline
-
-#### Epics
- * [HSK-68] - Quality v1
+* [HSK-80] - Remove id fields from sub structures that don't need them
 
 #### Stories
- * [HSK-38] - Map incoming Provider data to Practitioner + Organization
- * [HSK-45] - README and Cookbooks
- * [HSK-50] - Push starter kit code to github, approve as FOSS
- * [HSK-70] - Release management v1
- * [HSK-83] - Remove some codes
- * [HSK-85] - Stress test, review, be sure nothing blows up
+
+* [HSK-36] - Build a transform from ES-FHIR to true-FHIR (unflatten)
+* [HSK-42] - Add a data cleansing step
+* [HSK-51] - ontology-based query
+* [HSK-95] - Flatten codable concepts, identifers, and other nested data in some data domain
+* [HSK-96] - Build FHIR queries to test data model approach
+* [HSK-97] - Update cookbook to describe how to integrate to a FHIR server
+* [HSK-98] - Find security policies to drive requirements
+* [HSK-99] - Implement security policy
+* [HSK-105] - Redaction rules
+* [HSK-106] - Export of redacted data
+* [HSK-108] - Update Readme
+* [HSK-109] - Update cookbook
+* [HSK-110] - Cut a release on Github
+* [HSK-111] - Map non-FHIR related Sanctions into a nonFHIR structured property
