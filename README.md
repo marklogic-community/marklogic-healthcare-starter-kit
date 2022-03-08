@@ -21,7 +21,7 @@
 
 ## Description & Purpose
 
-> This README is intended as a short description of the project and instructions for getting set up and running. For more information on the project as a whole please refer to the [Cookbook](./documentation/Healthcare+Starter+Kit+Cookbook.docx)
+> This README is intended as a short description of the project and instructions for getting set up and running. For more information on the project as a whole please refer to the [Cookbook](./documentation/Healthcare%20Starter%20Kit%20Cookbook.docx)
 
 The MarkLogic Healthcare Starter Kit (HSK) is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an Operational Data Store (ODS), the HSK supports a mandate by the U.S. Centers for Medicare and Medicaid Services (CMMS) to comply with the Fast Healthcare Interoperability Resources (FHIR) specification for the electronic exchange of healthcare information.
 
@@ -127,7 +127,7 @@ The test suites can be found in the following project directories:
 
 ### Extending the HSK
 
-See the [Cookbook](./documentation/Healthcare+Starter+Kit+Cookbook.docx) for more information on how to extend the HSK.
+See the [Cookbook](./documentation/Healthcare%20Starter%20Kit%20Cookbook.docx) for more information on how to extend the HSK.
 
 As mentioned previously, this project is intended as a starting point for a healthcare data hub and provides many reusable functions & code modules. While most of the code is reusable, the sample data and ingestion/mapping steps will have to be replaced to work with your own data.
 
