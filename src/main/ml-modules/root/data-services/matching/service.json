@@ -1,0 +1,6 @@
+{
+   "endpointDirectory" : "/data-services/matching/",
+   "$javaClass"        : "com.marklogic.hsk.matching.AdhocMatchingService",
+   "desc"              : "Performs adhoc matching based on the parameters passed against the mastered data existing the the database",
+   "comment"           : ""
+}
