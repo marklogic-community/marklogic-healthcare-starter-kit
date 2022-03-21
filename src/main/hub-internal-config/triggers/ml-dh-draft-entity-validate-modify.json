@@ -1,13 +1,13 @@
 {
-  "name": "ml-dh-entity-validate-create",
-  "description": "MarkLogic Data Hub entity model creation validation pre-commit trigger",
+  "name": "ml-dh-draft-entity-validate-modify",
+  "description": "MarkLogic Data Hub draft entity model update validation pre-commit trigger",
   "event": {
     "data-event": {
       "collection-scope": {
-        "uri": "http://marklogic.com/entity-services/models"
+        "uri": "http://marklogic.com/entity-services/models/draft"
       },
       "document-content": {
-        "update-kind": "create"
+        "update-kind": "modify"
       },
       "when": "pre-commit"
     }
@@ -17,7 +17,7 @@
   "module-root": "/",
   "enabled": true,
   "recursive": true,
-  "task-priority": "higher",
+  "task-priority": "normal",
   "permission": [
     {
       "role-name": "%%mlFlowDeveloperRole%%",
