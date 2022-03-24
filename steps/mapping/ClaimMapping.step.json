@@ -23,7 +23,7 @@
       "when": "beforeMain",
       "vars": {
         "claimIdPath": "Id/normalize-space()",
-        "placeOfServiceIdPath": "claimLine/PLACEOFSERVICE/normalize-space()",
+        "placeOfServiceIdPath": "PLACEOFSERVICE/normalize-space()",
         "linesDestination": "claimLines",
         "linesTotalAmountDestination": "claimLinesTotalAmount"
       }
