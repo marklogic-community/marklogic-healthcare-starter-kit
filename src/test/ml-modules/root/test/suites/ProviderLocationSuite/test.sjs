@@ -45,10 +45,10 @@ const contentArray = [{
 
 const flowName = "Provider";
 const runtimeOptions = {};
-const result = flowApi.runFlowStepOnContent(flowName, "4", contentArray, runtimeOptions);
+const result = flowApi.runFlowStepOnContent(flowName, "5", contentArray, runtimeOptions);
 
 const assertions = [
-  test.assertEqual("completed step 4", result.stepResponse.status),
+  test.assertEqual("completed step 5", result.stepResponse.status),
   test.assertEqual(1, result.contentArray.length)
 ];
 
