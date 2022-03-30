@@ -61,8 +61,8 @@ function claimGetLines(claimId) {
 }
 
 /**
- * Since a mapping step discards all data not explicitly mapped we need to restore the original
- * document instance into the result, overwriting with mapped values as necessary
+ * Performs all mapping for claim lines, claim line total amount, and claim line location for a given claim and inserts
+ * it into the instance provided to the mapping step
  */
 contentArray.forEach(content => {
   const doc = content.value;
