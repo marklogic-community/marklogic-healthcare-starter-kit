@@ -28,14 +28,15 @@
         "entries": [
           {
             "dest": "names",
+            "sourcedFrom": ".",
             "breakouts": [
               {
                 "type": "official",
-                "xpath": "./LAST[string-length(normalize-space(.)) gt 0]"
+                "xpath": "LAST[string-length(normalize-space(.)) gt 0]"
               },
               {
                 "type": "maiden",
-                "xpath": "./MAIDEN[string-length(normalize-space(.)) gt 0]"
+                "xpath": "MAIDEN[string-length(normalize-space(.)) gt 0]"
               }
             ]
           }

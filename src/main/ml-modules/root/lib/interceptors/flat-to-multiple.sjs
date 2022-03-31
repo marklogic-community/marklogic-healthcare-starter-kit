@@ -13,8 +13,17 @@ traceObject(contentArray);
 traceObject(options);
 traceObject(entries);
 
-function flatToMultipleEntries(node, breakouts) {
-	return breakouts.reduce((acc, breakout) => acc.concat(node.xpath(breakout.xpath).toArray().map(source => ({ type: breakout.type, source }))), []);
+// Add default values to variables
+entireRecord = entireRecord || false;
+
+function flatToMultipleEntries(nodes, breakouts) {
+	return nodes.reduce(
+    (nodesAcc, node) => nodesAcc.concat(breakouts.reduce(
+      (acc, breakout) => acc.concat(node.xpath(breakout.xpath).toArray().map(source => ({ type: breakout.type, source }))),
+      [],
+    )),
+    [],
+  );
 }
 
 /**
@@ -26,11 +35,11 @@ contentArray.forEach(content => {
   const envelope = (doc.root || doc.toObject()).envelope;
   const instance = envelope.instance;
 
-  const record = entireRecord ? doc : doc.xpath('envelope/instance').toArray()[0];
+  const record = entireRecord ? doc : fn.head(doc.xpath('envelope/instance'));
   const results = {};
 
-  for (const { dest, breakouts } of entries) {
-  	results[dest] = flatToMultipleEntries(record, breakouts);
+  for (const { dest, sourcedFrom, breakouts } of entries) {
+  	results[dest] = flatToMultipleEntries(sourcedFrom ? record.xpath(sourcedFrom).toArray() : [record], breakouts);
   }
 
   const newInstance = {

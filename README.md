@@ -47,7 +47,7 @@ The HSK was built and tested with the following prerequisites:
 - [MarkLogic Data Hub Central v5.5.1](http://developer.marklogic.com/download/binaries/dhf/marklogic-data-hub-central-5.5.1.war)
 - MarkLogic Server >= v10.0-7
 
-### Installation Steps:
+### Installation Steps
 
 > Note: Installation steps assume a MarkLogic Server user/role with sufficient privileges is specified. Refer to the MarkLogic Data Hub documentation if needed.
 
