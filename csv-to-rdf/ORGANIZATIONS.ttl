@@ -1,0 +1,118 @@
+
+<http://test.domain/ORGANIZATIONS> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "029397b4-f8a1-456d-b277-d2d46ad8af1c";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/ORGANIZATIONS_en> .
+
+<http://test.domain/ORGANIZATIONS/ORGANIZATIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS"@en .
+
+<http://test.domain/ORGANIZATIONS/Id> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> true;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d48d886c-3421-4206-8b80-4002ba577686";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/Id/Id_en> .
+
+<http://test.domain/ORGANIZATIONS/Id/Id_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "Id"@en .
+
+<http://test.domain/ORGANIZATIONS/NAME> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "4d2650cc-fe0f-4430-825e-80ce7e40c7ab";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/NAME/NAME_en> .
+
+<http://test.domain/ORGANIZATIONS/NAME/NAME_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "NAME"@en .
+
+<http://test.domain/ORGANIZATIONS/ADDRESS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "44071854-9cd8-45eb-9abd-51573d11ac39";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/ADDRESS/ADDRESS_en> .
+
+<http://test.domain/ORGANIZATIONS/ADDRESS/ADDRESS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ADDRESS"@en .
+
+<http://test.domain/ORGANIZATIONS/CITY> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ec494368-687d-48f3-9a48-a8a656fc40c6";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/CITY/CITY_en> .
+
+<http://test.domain/ORGANIZATIONS/CITY/CITY_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CITY"@en .
+
+<http://test.domain/ORGANIZATIONS/STATE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "75fac720-8e2e-483a-a449-557ff26cd811";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/STATE/STATE_en> .
+
+<http://test.domain/ORGANIZATIONS/STATE/STATE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "STATE"@en .
+
+<http://test.domain/ORGANIZATIONS/ZIP> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "aea11665-1f58-4e45-8c97-cc3cb9e5373a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/ZIP/ZIP_en> .
+
+<http://test.domain/ORGANIZATIONS/ZIP/ZIP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ZIP"@en .
+
+<http://test.domain/ORGANIZATIONS/LAT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "4b353369-f22a-44e3-88a9-2dbd8b3553c0";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/LAT/LAT_en> .
+
+<http://test.domain/ORGANIZATIONS/LAT/LAT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "LAT"@en .
+
+<http://test.domain/ORGANIZATIONS/LON> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "5a348a7f-c416-414a-9154-e92c8941ae13";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/LON/LON_en> .
+
+<http://test.domain/ORGANIZATIONS/LON/LON_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "LON"@en .
+
+<http://test.domain/ORGANIZATIONS/PHONE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "2c1cd4a9-e635-4a7f-8b12-374c759c1e0d";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/PHONE/PHONE_en> .
+
+<http://test.domain/ORGANIZATIONS/PHONE/PHONE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PHONE"@en .
+
+<http://test.domain/ORGANIZATIONS/REVENUE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9ed9af8b-3610-44ca-a0c0-8e3b02e47446";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/REVENUE/REVENUE_en> .
+
+<http://test.domain/ORGANIZATIONS/REVENUE/REVENUE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "REVENUE"@en .
+
+<http://test.domain/ORGANIZATIONS/UTILIZATION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ORGANIZATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7b1c03a9-1351-452c-bbdc-86d517c11984";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ORGANIZATIONS/UTILIZATION/UTILIZATION_en> .
+
+<http://test.domain/ORGANIZATIONS/UTILIZATION/UTILIZATION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "UTILIZATION"@en .

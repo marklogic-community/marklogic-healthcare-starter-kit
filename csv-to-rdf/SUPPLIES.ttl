@@ -1,0 +1,68 @@
+
+<http://test.domain/SUPPLIES> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "629cfe16-88fd-4c93-8a2c-1661e2cd13c3";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/SUPPLIES/SUPPLIES_en> .
+
+<http://test.domain/SUPPLIES/SUPPLIES_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "SUPPLIES"@en .
+
+<http://test.domain/SUPPLIES/DATE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/SUPPLIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "1830873b-5309-4021-93f6-d9482efacdf4";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/SUPPLIES/DATE/DATE_en> .
+
+<http://test.domain/SUPPLIES/DATE/DATE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DATE"@en .
+
+<http://test.domain/SUPPLIES/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/SUPPLIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "01f82888-56fc-4577-8b97-8323489cd4c5";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/SUPPLIES/PATIENT/PATIENT_en> .
+
+<http://test.domain/SUPPLIES/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT"@en .
+
+<http://test.domain/SUPPLIES/ENCOUNTER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/SUPPLIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "3c8085d1-a7cb-4c87-be4f-b643d8bcf864";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/SUPPLIES/ENCOUNTER/ENCOUNTER_en> .
+
+<http://test.domain/SUPPLIES/ENCOUNTER/ENCOUNTER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTER"@en .
+
+<http://test.domain/SUPPLIES/CODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/SUPPLIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "889a473e-2314-4927-9a55-5904140d7b0c";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/SUPPLIES/CODE/CODE_en> .
+
+<http://test.domain/SUPPLIES/CODE/CODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CODE"@en .
+
+<http://test.domain/SUPPLIES/DESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/SUPPLIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e7107024-c3e5-4e64-81b5-063bba0f8be5";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/SUPPLIES/DESCRIPTION/DESCRIPTION_en> .
+
+<http://test.domain/SUPPLIES/DESCRIPTION/DESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION"@en .
+
+<http://test.domain/SUPPLIES/QUANTITY> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/SUPPLIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "caa1896e-ecab-4585-b3a9-5d1014e4fefd";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/SUPPLIES/QUANTITY/QUANTITY_en> .
+
+<http://test.domain/SUPPLIES/QUANTITY/QUANTITY_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "QUANTITY"@en .

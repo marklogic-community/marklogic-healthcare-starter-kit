@@ -1,0 +1,158 @@
+
+<http://test.domain/ALLERGIES> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d7d32f86-88fa-421b-a119-3b04d6cb5141";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/ALLERGIES_en> .
+
+<http://test.domain/ALLERGIES/ALLERGIES_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ALLERGIES"@en .
+
+<http://test.domain/ALLERGIES/START> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f0b3fbff-d19c-477e-ae92-0cfe4b8f318a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/START/START_en> .
+
+<http://test.domain/ALLERGIES/START/START_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "START"@en .
+
+<http://test.domain/ALLERGIES/STOP> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "bc7e3c34-7f96-4d16-9d93-747f3e75bdfe";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/STOP/STOP_en> .
+
+<http://test.domain/ALLERGIES/STOP/STOP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "STOP"@en .
+
+<http://test.domain/ALLERGIES/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "64a69139-2732-4827-aedf-624d35ba1df6";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/PATIENT/PATIENT_en> .
+
+<http://test.domain/ALLERGIES/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT"@en .
+
+<http://test.domain/ALLERGIES/ENCOUNTER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9c11afa6-8d4c-4b47-950b-a2dff68d2840";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/ENCOUNTER/ENCOUNTER_en> .
+
+<http://test.domain/ALLERGIES/ENCOUNTER/ENCOUNTER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTER"@en .
+
+<http://test.domain/ALLERGIES/CODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "51e9a1ee-caff-41e9-96c5-f04154959b79";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/CODE/CODE_en> .
+
+<http://test.domain/ALLERGIES/CODE/CODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CODE"@en .
+
+<http://test.domain/ALLERGIES/SYSTEM> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7287b3f1-4ada-497a-ae79-6e3de7372586";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/SYSTEM/SYSTEM_en> .
+
+<http://test.domain/ALLERGIES/SYSTEM/SYSTEM_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "SYSTEM"@en .
+
+<http://test.domain/ALLERGIES/DESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "957a339c-56b3-40aa-8c5c-3f33ea6c6dbb";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/DESCRIPTION/DESCRIPTION_en> .
+
+<http://test.domain/ALLERGIES/DESCRIPTION/DESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION"@en .
+
+<http://test.domain/ALLERGIES/TYPE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d2b304b5-3aa5-497f-83d6-2928119e2b89";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/TYPE/TYPE_en> .
+
+<http://test.domain/ALLERGIES/TYPE/TYPE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "TYPE"@en .
+
+<http://test.domain/ALLERGIES/CATEGORY> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "1ffe129e-160c-4633-8ada-1dd6787cd43a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/CATEGORY/CATEGORY_en> .
+
+<http://test.domain/ALLERGIES/CATEGORY/CATEGORY_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CATEGORY"@en .
+
+<http://test.domain/ALLERGIES/REACTION1> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a16b8516-462d-492e-9b65-9076e4dca15d";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/REACTION1/REACTION1_en> .
+
+<http://test.domain/ALLERGIES/REACTION1/REACTION1_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "REACTION1"@en .
+
+<http://test.domain/ALLERGIES/DESCRIPTION1> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b4fa7ded-1e52-4bd7-8583-9726bdf2bc3f";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/DESCRIPTION1/DESCRIPTION1_en> .
+
+<http://test.domain/ALLERGIES/DESCRIPTION1/DESCRIPTION1_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION1"@en .
+
+<http://test.domain/ALLERGIES/SEVERITY1> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a9dc0cfd-d68e-4604-9a6a-813dfb1e3967";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/SEVERITY1/SEVERITY1_en> .
+
+<http://test.domain/ALLERGIES/SEVERITY1/SEVERITY1_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "SEVERITY1"@en .
+
+<http://test.domain/ALLERGIES/REACTION2> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "be80c7ca-3643-4f8c-b922-02991699618d";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/REACTION2/REACTION2_en> .
+
+<http://test.domain/ALLERGIES/REACTION2/REACTION2_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "REACTION2"@en .
+
+<http://test.domain/ALLERGIES/DESCRIPTION2> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "67a80c72-3d0d-425f-ba63-1ede6246dbd6";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/DESCRIPTION2/DESCRIPTION2_en> .
+
+<http://test.domain/ALLERGIES/DESCRIPTION2/DESCRIPTION2_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION2"@en .
+
+<http://test.domain/ALLERGIES/SEVERITY2> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ALLERGIES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "67f7f6b2-46ca-4a9c-a1de-e8f79794eb4c";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ALLERGIES/SEVERITY2/SEVERITY2_en> .
+
+<http://test.domain/ALLERGIES/SEVERITY2/SEVERITY2_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "SEVERITY2"@en .

@@ -1,0 +1,138 @@
+
+<http://test.domain/PROVIDERS> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "53d1865f-68a2-48b5-b268-ed7286f1788f";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/PROVIDERS_en> .
+
+<http://test.domain/PROVIDERS/PROVIDERS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PROVIDERS"@en .
+
+<http://test.domain/PROVIDERS/Id> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> true;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8763bfd6-2928-490c-a40e-8b7abede7222";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/Id/Id_en> .
+
+<http://test.domain/PROVIDERS/Id/Id_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "Id"@en .
+
+<http://test.domain/PROVIDERS/ORGANIZATION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "1b391561-e52e-4436-b9cd-ea20d75ca748";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/ORGANIZATION/ORGANIZATION_en> .
+
+<http://test.domain/PROVIDERS/ORGANIZATION/ORGANIZATION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATION"@en .
+
+<http://test.domain/PROVIDERS/NAME> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f6cbfde8-0a25-4f54-a179-d7287d8b8956";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/NAME/NAME_en> .
+
+<http://test.domain/PROVIDERS/NAME/NAME_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "NAME"@en .
+
+<http://test.domain/PROVIDERS/GENDER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "de44caac-6038-4161-a234-eb43bdd565e8";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/GENDER/GENDER_en> .
+
+<http://test.domain/PROVIDERS/GENDER/GENDER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "GENDER"@en .
+
+<http://test.domain/PROVIDERS/SPECIALITY> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "70055fc6-9cfc-4ea7-98af-4d1394fd2abd";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/SPECIALITY/SPECIALITY_en> .
+
+<http://test.domain/PROVIDERS/SPECIALITY/SPECIALITY_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "SPECIALITY"@en .
+
+<http://test.domain/PROVIDERS/ADDRESS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b278f53a-df80-4c9c-aa59-dc68d68215c4";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/ADDRESS/ADDRESS_en> .
+
+<http://test.domain/PROVIDERS/ADDRESS/ADDRESS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ADDRESS"@en .
+
+<http://test.domain/PROVIDERS/CITY> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "61997134-0b3b-4ac3-aab6-86c0fc459820";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/CITY/CITY_en> .
+
+<http://test.domain/PROVIDERS/CITY/CITY_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CITY"@en .
+
+<http://test.domain/PROVIDERS/STATE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "dc18c8b0-2b3c-43f2-a275-6bfa47981262";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/STATE/STATE_en> .
+
+<http://test.domain/PROVIDERS/STATE/STATE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "STATE"@en .
+
+<http://test.domain/PROVIDERS/ZIP> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7631f43f-b3e4-4e12-ab8b-f68713692c8a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/ZIP/ZIP_en> .
+
+<http://test.domain/PROVIDERS/ZIP/ZIP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ZIP"@en .
+
+<http://test.domain/PROVIDERS/LAT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "963e69aa-e8ea-443f-aaa3-3e36f8dc6dd3";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/LAT/LAT_en> .
+
+<http://test.domain/PROVIDERS/LAT/LAT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "LAT"@en .
+
+<http://test.domain/PROVIDERS/LON> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "02a082b4-55eb-470c-ad39-4f9c12d2b5b6";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/LON/LON_en> .
+
+<http://test.domain/PROVIDERS/LON/LON_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "LON"@en .
+
+<http://test.domain/PROVIDERS/UTILIZATION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8e36b3ba-98d1-4e6a-b1c1-25250238aae4";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/UTILIZATION/UTILIZATION_en> .
+
+<http://test.domain/PROVIDERS/UTILIZATION/UTILIZATION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "UTILIZATION"@en .
+
+<http://test.domain/PROVIDERS/NPI> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PROVIDERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a835ce51-813b-4fb4-897d-16d38566d137";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PROVIDERS/NPI/NPI_en> .
+
+<http://test.domain/PROVIDERS/NPI/NPI_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "NPI"@en .

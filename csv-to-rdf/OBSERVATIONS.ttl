@@ -1,0 +1,98 @@
+
+<http://test.domain/OBSERVATIONS> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d6307108-08bd-4e8b-bc83-ab320d3ef999";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/OBSERVATIONS/OBSERVATIONS_en> .
+
+<http://test.domain/OBSERVATIONS/OBSERVATIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "OBSERVATIONS"@en .
+
+<http://test.domain/OBSERVATIONS/DATE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/OBSERVATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "1ac18517-2ab7-42c3-aa8b-8dd7b67b10cf";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/OBSERVATIONS/DATE/DATE_en> .
+
+<http://test.domain/OBSERVATIONS/DATE/DATE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DATE"@en .
+
+<http://test.domain/OBSERVATIONS/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/OBSERVATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "12047885-3930-442c-85f4-4a4fad20d4c0";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/OBSERVATIONS/PATIENT/PATIENT_en> .
+
+<http://test.domain/OBSERVATIONS/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT"@en .
+
+<http://test.domain/OBSERVATIONS/ENCOUNTER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/OBSERVATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8df9ce50-8015-419d-b946-89080b2db8ea";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/OBSERVATIONS/ENCOUNTER/ENCOUNTER_en> .
+
+<http://test.domain/OBSERVATIONS/ENCOUNTER/ENCOUNTER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTER"@en .
+
+<http://test.domain/OBSERVATIONS/CATEGORY> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/OBSERVATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a6f528ed-85c5-4372-ab47-8b9ededf194c";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/OBSERVATIONS/CATEGORY/CATEGORY_en> .
+
+<http://test.domain/OBSERVATIONS/CATEGORY/CATEGORY_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CATEGORY"@en .
+
+<http://test.domain/OBSERVATIONS/CODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/OBSERVATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b19ec2a8-f92d-41d8-aa3c-f74a2ff580eb";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/OBSERVATIONS/CODE/CODE_en> .
+
+<http://test.domain/OBSERVATIONS/CODE/CODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CODE"@en .
+
+<http://test.domain/OBSERVATIONS/DESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/OBSERVATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "af8d92a2-48cc-406b-87c7-d4dfbc4d5ec0";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/OBSERVATIONS/DESCRIPTION/DESCRIPTION_en> .
+
+<http://test.domain/OBSERVATIONS/DESCRIPTION/DESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION"@en .
+
+<http://test.domain/OBSERVATIONS/VALUE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/OBSERVATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ef364e1a-2fa0-4956-9ce9-76f4f65961e0";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/OBSERVATIONS/VALUE/VALUE_en> .
+
+<http://test.domain/OBSERVATIONS/VALUE/VALUE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "VALUE"@en .
+
+<http://test.domain/OBSERVATIONS/UNITS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/OBSERVATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ea425477-3185-4cd8-9259-4a12b50e5afe";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/OBSERVATIONS/UNITS/UNITS_en> .
+
+<http://test.domain/OBSERVATIONS/UNITS/UNITS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "UNITS"@en .
+
+<http://test.domain/OBSERVATIONS/TYPE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/OBSERVATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "184ac372-3bb5-4280-bcbf-a3fe7fdf42de";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/OBSERVATIONS/TYPE/TYPE_en> .
+
+<http://test.domain/OBSERVATIONS/TYPE/TYPE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "TYPE"@en .

@@ -1,0 +1,158 @@
+
+<http://test.domain/ENCOUNTERS> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0fc290ac-ad50-4186-9e23-15f572327fd5";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/ENCOUNTERS_en> .
+
+<http://test.domain/ENCOUNTERS/ENCOUNTERS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS"@en .
+
+<http://test.domain/ENCOUNTERS/Id> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> true;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "46aa0eeb-3c8a-4a8f-a36b-62fba9cd7bca";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/Id/Id_en> .
+
+<http://test.domain/ENCOUNTERS/Id/Id_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "Id"@en .
+
+<http://test.domain/ENCOUNTERS/START> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "67b9101a-740c-4aa5-9c68-5c590b8d8741";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/START/START_en> .
+
+<http://test.domain/ENCOUNTERS/START/START_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "START"@en .
+
+<http://test.domain/ENCOUNTERS/STOP> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e30fcbea-bfdc-4ade-aec2-94fb0927680f";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/STOP/STOP_en> .
+
+<http://test.domain/ENCOUNTERS/STOP/STOP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "STOP"@en .
+
+<http://test.domain/ENCOUNTERS/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "43befeba-52d6-4c22-8149-b2e5ff8f3996";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/PATIENT/PATIENT_en> .
+
+<http://test.domain/ENCOUNTERS/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT"@en .
+
+<http://test.domain/ENCOUNTERS/ORGANIZATION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "4e16e655-aaa9-47b3-8154-0bab421d7bdf";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/ORGANIZATION/ORGANIZATION_en> .
+
+<http://test.domain/ENCOUNTERS/ORGANIZATION/ORGANIZATION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATION"@en .
+
+<http://test.domain/ENCOUNTERS/PROVIDER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f0ad7885-c678-41c5-8ac0-f95619e9003e";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/PROVIDER/PROVIDER_en> .
+
+<http://test.domain/ENCOUNTERS/PROVIDER/PROVIDER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PROVIDER"@en .
+
+<http://test.domain/ENCOUNTERS/PAYER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d6eb6541-0e7c-4a1c-9f5d-bd3f90fbe74a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/PAYER/PAYER_en> .
+
+<http://test.domain/ENCOUNTERS/PAYER/PAYER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PAYER"@en .
+
+<http://test.domain/ENCOUNTERS/ENCOUNTERCLASS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "75eec262-e62f-4f11-a17c-d61899ed3f44";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/ENCOUNTERCLASS/ENCOUNTERCLASS_en> .
+
+<http://test.domain/ENCOUNTERS/ENCOUNTERCLASS/ENCOUNTERCLASS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERCLASS"@en .
+
+<http://test.domain/ENCOUNTERS/CODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b456cef5-1692-40b7-b3c5-3abc5a6db774";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/CODE/CODE_en> .
+
+<http://test.domain/ENCOUNTERS/CODE/CODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CODE"@en .
+
+<http://test.domain/ENCOUNTERS/DESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e3537ec7-0d0e-4dfe-a2e4-ff18ad124d71";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/DESCRIPTION/DESCRIPTION_en> .
+
+<http://test.domain/ENCOUNTERS/DESCRIPTION/DESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION"@en .
+
+<http://test.domain/ENCOUNTERS/BASE_ENCOUNTER_COST> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "066227df-24fd-427b-8267-a3d1d43b7c1f";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/BASE_ENCOUNTER_COST/BASE_ENCOUNTER_COST_en> .
+
+<http://test.domain/ENCOUNTERS/BASE_ENCOUNTER_COST/BASE_ENCOUNTER_COST_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "BASE_ENCOUNTER_COST"@en .
+
+<http://test.domain/ENCOUNTERS/TOTAL_CLAIM_COST> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d4125f58-62d6-475d-9c97-5de48698800b";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/TOTAL_CLAIM_COST/TOTAL_CLAIM_COST_en> .
+
+<http://test.domain/ENCOUNTERS/TOTAL_CLAIM_COST/TOTAL_CLAIM_COST_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "TOTAL_CLAIM_COST"@en .
+
+<http://test.domain/ENCOUNTERS/PAYER_COVERAGE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "222c6199-77a5-495c-a673-aec54ae4004f";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/PAYER_COVERAGE/PAYER_COVERAGE_en> .
+
+<http://test.domain/ENCOUNTERS/PAYER_COVERAGE/PAYER_COVERAGE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PAYER_COVERAGE"@en .
+
+<http://test.domain/ENCOUNTERS/REASONCODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "fea9d15c-2ad7-4064-af34-2f9edf4a6c62";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/REASONCODE/REASONCODE_en> .
+
+<http://test.domain/ENCOUNTERS/REASONCODE/REASONCODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "REASONCODE"@en .
+
+<http://test.domain/ENCOUNTERS/REASONDESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "726c09c6-79c2-44fb-8291-28842acaed03";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/ENCOUNTERS/REASONDESCRIPTION/REASONDESCRIPTION_en> .
+
+<http://test.domain/ENCOUNTERS/REASONDESCRIPTION/REASONDESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "REASONDESCRIPTION"@en .

@@ -1,0 +1,138 @@
+
+<http://test.domain/MEDICATIONS> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "69b96b02-ad5c-482e-979e-ad4f659e89ee";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/MEDICATIONS_en> .
+
+<http://test.domain/MEDICATIONS/MEDICATIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "MEDICATIONS"@en .
+
+<http://test.domain/MEDICATIONS/START> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0947cf1d-edfc-4548-b9dd-f6620c0c75e2";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/START/START_en> .
+
+<http://test.domain/MEDICATIONS/START/START_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "START"@en .
+
+<http://test.domain/MEDICATIONS/STOP> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "332ceada-d4b2-421b-8df1-199a823e48e2";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/STOP/STOP_en> .
+
+<http://test.domain/MEDICATIONS/STOP/STOP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "STOP"@en .
+
+<http://test.domain/MEDICATIONS/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "3f09ea2c-4812-4a96-a963-f04d51c97250";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/PATIENT/PATIENT_en> .
+
+<http://test.domain/MEDICATIONS/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT"@en .
+
+<http://test.domain/MEDICATIONS/PAYER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "07868a94-4ef9-432c-be2d-a8f6828f5609";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/PAYER/PAYER_en> .
+
+<http://test.domain/MEDICATIONS/PAYER/PAYER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PAYER"@en .
+
+<http://test.domain/MEDICATIONS/ENCOUNTER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0073e946-639c-49dc-9c80-6352ea402445";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/ENCOUNTER/ENCOUNTER_en> .
+
+<http://test.domain/MEDICATIONS/ENCOUNTER/ENCOUNTER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTER"@en .
+
+<http://test.domain/MEDICATIONS/CODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "04991382-dfe3-4442-8ec7-8d187050f9b6";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/CODE/CODE_en> .
+
+<http://test.domain/MEDICATIONS/CODE/CODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CODE"@en .
+
+<http://test.domain/MEDICATIONS/DESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d345eed5-59cb-4d62-b7f1-0766f2ae9bf6";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/DESCRIPTION/DESCRIPTION_en> .
+
+<http://test.domain/MEDICATIONS/DESCRIPTION/DESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION"@en .
+
+<http://test.domain/MEDICATIONS/BASE_COST> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "17850f3a-5fa0-4a33-ac7d-4bbf0704d794";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/BASE_COST/BASE_COST_en> .
+
+<http://test.domain/MEDICATIONS/BASE_COST/BASE_COST_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "BASE_COST"@en .
+
+<http://test.domain/MEDICATIONS/PAYER_COVERAGE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8f74c8b1-59d2-4791-99ac-7d727a476a3e";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/PAYER_COVERAGE/PAYER_COVERAGE_en> .
+
+<http://test.domain/MEDICATIONS/PAYER_COVERAGE/PAYER_COVERAGE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PAYER_COVERAGE"@en .
+
+<http://test.domain/MEDICATIONS/DISPENSES> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "913f696e-b7af-4341-a9f3-3e71a87be759";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/DISPENSES/DISPENSES_en> .
+
+<http://test.domain/MEDICATIONS/DISPENSES/DISPENSES_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DISPENSES"@en .
+
+<http://test.domain/MEDICATIONS/TOTALCOST> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e29c76a7-b5d6-49d1-8f9c-bfbc828412a3";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/TOTALCOST/TOTALCOST_en> .
+
+<http://test.domain/MEDICATIONS/TOTALCOST/TOTALCOST_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "TOTALCOST"@en .
+
+<http://test.domain/MEDICATIONS/REASONCODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d6c3d549-d5d3-4a04-b35d-a6968b342553";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/REASONCODE/REASONCODE_en> .
+
+<http://test.domain/MEDICATIONS/REASONCODE/REASONCODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "REASONCODE"@en .
+
+<http://test.domain/MEDICATIONS/REASONDESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/MEDICATIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "31648cff-1774-4d51-82f2-6574bd58f896";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/MEDICATIONS/REASONDESCRIPTION/REASONDESCRIPTION_en> .
+
+<http://test.domain/MEDICATIONS/REASONDESCRIPTION/REASONDESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "REASONDESCRIPTION"@en .

@@ -59,6 +59,12 @@ dependencies {
 
   implementation group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-base', version: '5.3.3'
   implementation group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-structures-r4', version: '5.3.3'
+
+  // Dependencies for CSV-to-TTL converter
+  implementation group: 'org.apache.commons', name: 'commons-csv', version: '1.9.0'
+  implementation group: 'org.eclipse.rdf4j', name: 'rdf4j', version: '3.7.6'
+  implementation group: 'org.eclipse.rdf4j', name: 'rdf4j-storage', version: '3.7.6'
+  implementation group: 'net.sourceforge.argparse4j', name: 'argparse4j', version: '0.9.0'
 }
 
 test {
@@ -67,6 +73,13 @@ test {
 
 task resetDBs(type: com.marklogic.gradle.task.ServerEvalTask) {
   javascript = 'xdmp.invoke("/envision/system/resetSystem.sjs")'
+}
+
+task convertCsvToTtl(type: JavaExec) {
+  group = "Execution"
+  description = "Convert CSV files to TTL concepts for ingestion to SmartLogic"
+  classpath = sourceSets.main.runtimeClasspath
+  main = "com.marklogic.hsk.CSVToTTLConverter"
 }
 
 task loadReferenceDataStaging(type: com.marklogic.gradle.task.MlcpTask) {

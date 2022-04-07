@@ -1,0 +1,88 @@
+
+<http://test.domain/PAYER_TRANSITIONS> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c25a5113-407d-4b31-a215-02f7700e146e";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYER_TRANSITIONS/PAYER_TRANSITIONS_en> .
+
+<http://test.domain/PAYER_TRANSITIONS/PAYER_TRANSITIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PAYER_TRANSITIONS"@en .
+
+<http://test.domain/PAYER_TRANSITIONS/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYER_TRANSITIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9477a04d-de74-4154-9b32-a28b71ed433b";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYER_TRANSITIONS/PATIENT/PATIENT_en> .
+
+<http://test.domain/PAYER_TRANSITIONS/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT"@en .
+
+<http://test.domain/PAYER_TRANSITIONS/MEMBERID> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYER_TRANSITIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "abcade1c-8934-4e6c-9cf9-d65b9b612cd9";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYER_TRANSITIONS/MEMBERID/MEMBERID_en> .
+
+<http://test.domain/PAYER_TRANSITIONS/MEMBERID/MEMBERID_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "MEMBERID"@en .
+
+<http://test.domain/PAYER_TRANSITIONS/START_YEAR> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYER_TRANSITIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c9d4befd-00e3-4432-bdac-f3cba388d227";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYER_TRANSITIONS/START_YEAR/START_YEAR_en> .
+
+<http://test.domain/PAYER_TRANSITIONS/START_YEAR/START_YEAR_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "START_YEAR"@en .
+
+<http://test.domain/PAYER_TRANSITIONS/END_YEAR> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYER_TRANSITIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b19d1fb5-d75d-4e8e-a855-f153bc4fdc8b";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYER_TRANSITIONS/END_YEAR/END_YEAR_en> .
+
+<http://test.domain/PAYER_TRANSITIONS/END_YEAR/END_YEAR_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "END_YEAR"@en .
+
+<http://test.domain/PAYER_TRANSITIONS/PAYER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYER_TRANSITIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a5540dca-ff46-4e88-8956-8535f1e172f9";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYER_TRANSITIONS/PAYER/PAYER_en> .
+
+<http://test.domain/PAYER_TRANSITIONS/PAYER/PAYER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PAYER"@en .
+
+<http://test.domain/PAYER_TRANSITIONS/SECONDARY_PAYER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYER_TRANSITIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "37278590-0bcd-4f04-848d-14d667e60a72";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYER_TRANSITIONS/SECONDARY_PAYER/SECONDARY_PAYER_en> .
+
+<http://test.domain/PAYER_TRANSITIONS/SECONDARY_PAYER/SECONDARY_PAYER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "SECONDARY_PAYER"@en .
+
+<http://test.domain/PAYER_TRANSITIONS/OWNERSHIP> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYER_TRANSITIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e8207776-aa81-4d81-97af-08917ee2dc4c";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYER_TRANSITIONS/OWNERSHIP/OWNERSHIP_en> .
+
+<http://test.domain/PAYER_TRANSITIONS/OWNERSHIP/OWNERSHIP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "OWNERSHIP"@en .
+
+<http://test.domain/PAYER_TRANSITIONS/OWNERNAME> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYER_TRANSITIONS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7775c376-1d71-4e0e-8e3e-fee6a239ce2e";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYER_TRANSITIONS/OWNERNAME/OWNERNAME_en> .
+
+<http://test.domain/PAYER_TRANSITIONS/OWNERNAME/OWNERNAME_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "OWNERNAME"@en .

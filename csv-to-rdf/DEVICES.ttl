@@ -1,0 +1,78 @@
+
+<http://test.domain/DEVICES> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0c13391b-c2d5-4c75-8479-4575155db64f";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/DEVICES/DEVICES_en> .
+
+<http://test.domain/DEVICES/DEVICES_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DEVICES"@en .
+
+<http://test.domain/DEVICES/START> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/DEVICES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "fa9b4df8-ea1d-4cf9-8281-2ddf78b640cb";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/DEVICES/START/START_en> .
+
+<http://test.domain/DEVICES/START/START_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "START"@en .
+
+<http://test.domain/DEVICES/STOP> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/DEVICES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "fff0ff99-c9b2-439c-9046-c2b5602f82a2";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/DEVICES/STOP/STOP_en> .
+
+<http://test.domain/DEVICES/STOP/STOP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "STOP"@en .
+
+<http://test.domain/DEVICES/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/DEVICES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "744b8ae9-c061-43fa-a98f-2074a018483e";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/DEVICES/PATIENT/PATIENT_en> .
+
+<http://test.domain/DEVICES/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT"@en .
+
+<http://test.domain/DEVICES/ENCOUNTER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/DEVICES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "2b7a9b21-d65c-4bfc-8b4b-ff68100bee3f";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/DEVICES/ENCOUNTER/ENCOUNTER_en> .
+
+<http://test.domain/DEVICES/ENCOUNTER/ENCOUNTER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTER"@en .
+
+<http://test.domain/DEVICES/CODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/DEVICES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "1d6f73c7-ec1e-442c-9292-e4d832259568";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/DEVICES/CODE/CODE_en> .
+
+<http://test.domain/DEVICES/CODE/CODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CODE"@en .
+
+<http://test.domain/DEVICES/DESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/DEVICES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b33add01-1fa4-43a5-96a6-3f82845b6d36";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/DEVICES/DESCRIPTION/DESCRIPTION_en> .
+
+<http://test.domain/DEVICES/DESCRIPTION/DESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION"@en .
+
+<http://test.domain/DEVICES/UDI> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/DEVICES>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "818fc611-ddd2-4a4b-99ad-b8d039bf8a1d";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/DEVICES/UDI/UDI_en> .
+
+<http://test.domain/DEVICES/UDI/UDI_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "UDI"@en .
