@@ -99,10 +99,11 @@ public class CSVToTTLConverter {
    * @throws IOException  Failed to read/write a file
    */
   public void convertCSVToTTL() throws IOException {
-    List<File> csvFiles = this.findAllCSVFilesAlongPath(this.args.getString("path"));
+    String path = this.args.getString("path");
+    List<File> csvFiles = this.findAllCSVFilesAlongPath(path);
 
     if (csvFiles.size() == 0) {
-      throw new RuntimeException("No CSV files found in directory");
+      throw new RuntimeException("No CSV files found along path " + path);
     }
 
     HashSet<String> visitedTypes = new HashSet<String>();
@@ -233,7 +234,6 @@ public class CSVToTTLConverter {
     // Add all the namespaces we're using in our TTL files
     // Our namespace
       .setNamespace("hsk", this.args.getString("prefix"))
-      // .setNamespace("hsk", "http://hsk.marklogic.com/csv#")
     // Default namespaces used in SmartLogic
       .setNamespace("facts", "http://www.smartlogic.com/2018/01/semaphore-fact-extraction#")
       .setNamespace(FN.NS)
