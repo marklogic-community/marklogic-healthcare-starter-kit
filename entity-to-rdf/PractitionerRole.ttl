@@ -1,0 +1,186 @@
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e747a843-bf8d-4dad-8c70-3855cc1959af";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/PractitionerRole_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/PractitionerRole_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PractitionerRole"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/id> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole>;
+  <http://vocabulary.marklogic.com/SDC#isKey> true;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e90181d1-81d6-48e4-92a7-19f8fbf2898b";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/id/id_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/id/id_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "id"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/active> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "862835d5-3011-4f58-a070-793b03a07a86";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/active/active_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/active/active_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "active"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner> a <http://vocabulary.marklogic.com/SDC#Field>,
+    <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "49504841-6749-4923-b829-20c9dcb49196";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/practitioner_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/practitioner_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "practitioner"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/reference> a
+    <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "76dfa25c-4fb5-4d07-b62c-e789ff834071";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/reference/reference_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/reference/reference_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "reference"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/type> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "cc1532fc-ed28-4725-9852-dbb312a4c8e0";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/type/type_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/type/type_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "type"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/display> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "6f8f5094-3a83-4ac9-ab6c-9025ec36f437";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/display/display_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/practitioner/display/display_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "display"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/organization> a <http://vocabulary.marklogic.com/SDC#Field>,
+    <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "578b8ac1-4125-4fdf-84b2-981c7eed2b4d";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/organization/organization_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/organization/organization_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "organization"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/organization/reference> a
+    <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole/organization>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7e296aaf-adc6-479a-b417-b967517eb4eb";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/organization/reference/reference_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/organization/reference/reference_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "reference"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/organization/type> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole/organization>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "bd2598b9-d471-4d76-bd81-6d63c2080bf4";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/organization/type/type_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/organization/type/type_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "type"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/organization/display> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole/organization>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "738b43e7-cd3a-42bd-bc45-a7d83376c9a8";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/organization/display/display_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/organization/display/display_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "display"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/location> a <http://vocabulary.marklogic.com/SDC#Field>,
+    <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> true;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f73e629f-df6c-47dc-af9b-9e9ee08837d7";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/location/location_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/location/location_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "location"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/location/reference> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole/location>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d4d756ed-f989-49d6-8f2d-2a648e4bf69c";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/location/reference/reference_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/location/reference/reference_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "reference"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/location/type> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole/location>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "053d651f-b995-4d63-bd0f-adb5fbdf5eb1";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/location/type/type_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/location/type/type_en> a
+    <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "type"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/location/display> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole/location>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "72e28755-4754-49c5-81b2-8c419a8cd0d8";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/location/display/display_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/location/display/display_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "display"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/code__code> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> true;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "2419f5c9-01c9-4dd9-8d99-e652999acd05";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/code__code/code__code_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/code__code/code__code_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "code__code"@en .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/code__specialty> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#PractitionerRole>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> true;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c0218fb4-9618-4410-af70-248ba015f71d";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#PractitionerRole/code__specialty/code__specialty_en> .
+
+<http://hsk.marklogic.com/entity-import#PractitionerRole/code__specialty/code__specialty_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "code__specialty"@en .
