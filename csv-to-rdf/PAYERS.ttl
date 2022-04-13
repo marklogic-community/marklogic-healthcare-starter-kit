@@ -1,218 +1,229 @@
 
-<http://test.domain/PAYERS> a <http://vocabulary.marklogic.com/SDC#Structure>;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8ff19b9f-149f-47b7-81ac-1bb4b3a9a3cf";
+<http://hsk.marklogic.com/csv-import#PAYERS> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "596d17e6-8911-43ee-b191-9010766a4399";
   <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/PAYERS_en> .
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/PAYERS_en> .
 
-<http://test.domain/PAYERS/PAYERS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/PAYERS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "PAYERS"@en .
 
-<http://test.domain/PAYERS/Id> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/Id> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> true;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "430b8b8f-6062-4a57-9159-41a16b193e4b";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/Id/Id_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "2a4714ff-3a0f-4168-bee4-5b7c6e27954b";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/Id/Id_en> .
 
-<http://test.domain/PAYERS/Id/Id_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/Id/Id_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "Id"@en .
 
-<http://test.domain/PAYERS/NAME> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/NAME> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7fe8724f-1381-4e4d-a049-ddf4a489dd97";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/NAME/NAME_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0edfed0c-8a3f-4136-8e41-0144a69dd625";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/NAME/NAME_en> .
 
-<http://test.domain/PAYERS/NAME/NAME_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/NAME/NAME_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "NAME"@en .
 
-<http://test.domain/PAYERS/ADDRESS> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/ADDRESS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "fd5729ee-b42d-4212-ae54-dac8076abef4";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/ADDRESS/ADDRESS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f92475e9-27a1-42f4-adaf-0d7502474409";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/ADDRESS/ADDRESS_en> .
 
-<http://test.domain/PAYERS/ADDRESS/ADDRESS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/ADDRESS/ADDRESS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "ADDRESS"@en .
 
-<http://test.domain/PAYERS/CITY> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/CITY> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c8ea291d-4e9d-4841-bf4a-5bbbb27b92fa";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/CITY/CITY_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "32907655-aa71-471a-aa37-25fff404b1e5";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/CITY/CITY_en> .
 
-<http://test.domain/PAYERS/CITY/CITY_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/CITY/CITY_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "CITY"@en .
 
-<http://test.domain/PAYERS/STATE_HEADQUARTERED> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/STATE_HEADQUARTERED> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "007c1ff0-601e-484c-a3d9-8de90761f66e";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/STATE_HEADQUARTERED/STATE_HEADQUARTERED_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "cfa17f5a-8a9d-476d-8417-79df26daefda";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/STATE_HEADQUARTERED/STATE_HEADQUARTERED_en> .
 
-<http://test.domain/PAYERS/STATE_HEADQUARTERED/STATE_HEADQUARTERED_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/STATE_HEADQUARTERED/STATE_HEADQUARTERED_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "STATE_HEADQUARTERED"@en .
 
-<http://test.domain/PAYERS/ZIP> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/ZIP> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8824f0e4-0289-404c-b960-a512a780def7";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/ZIP/ZIP_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "240e3afc-448b-486a-a917-cb64685480d5";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/ZIP/ZIP_en> .
 
-<http://test.domain/PAYERS/ZIP/ZIP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/ZIP/ZIP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "ZIP"@en .
 
-<http://test.domain/PAYERS/PHONE> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/PHONE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b5a13404-f34c-41d3-a735-573e86b583b3";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/PHONE/PHONE_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "713b2fe2-82bd-47dc-8357-4074fba63593";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/PHONE/PHONE_en> .
 
-<http://test.domain/PAYERS/PHONE/PHONE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/PHONE/PHONE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "PHONE"@en .
 
-<http://test.domain/PAYERS/AMOUNT_COVERED> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/AMOUNT_COVERED> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "2539d559-6110-4439-b420-60d50ab18f5e";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/AMOUNT_COVERED/AMOUNT_COVERED_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "267a87bc-3fff-466b-a9a4-7ec4a8953f63";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/AMOUNT_COVERED/AMOUNT_COVERED_en> .
 
-<http://test.domain/PAYERS/AMOUNT_COVERED/AMOUNT_COVERED_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/AMOUNT_COVERED/AMOUNT_COVERED_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "AMOUNT_COVERED"@en .
 
-<http://test.domain/PAYERS/AMOUNT_UNCOVERED> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/AMOUNT_UNCOVERED> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e9df5a33-f0b8-4d2a-8f53-1720477fc06e";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/AMOUNT_UNCOVERED/AMOUNT_UNCOVERED_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f5681852-7aac-466d-bae2-b035112fac48";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/AMOUNT_UNCOVERED/AMOUNT_UNCOVERED_en> .
 
-<http://test.domain/PAYERS/AMOUNT_UNCOVERED/AMOUNT_UNCOVERED_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/AMOUNT_UNCOVERED/AMOUNT_UNCOVERED_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "AMOUNT_UNCOVERED"@en .
 
-<http://test.domain/PAYERS/REVENUE> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/REVENUE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "cd832be3-0fc5-4578-a50a-7e5ca5278fb5";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/REVENUE/REVENUE_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "bb9f0310-e434-4c87-8230-f756a6611f96";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/REVENUE/REVENUE_en> .
 
-<http://test.domain/PAYERS/REVENUE/REVENUE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/REVENUE/REVENUE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "REVENUE"@en .
 
-<http://test.domain/PAYERS/COVERED_ENCOUNTERS> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/COVERED_ENCOUNTERS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "06ac2191-9f15-44c3-8839-3ed55db39618";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/COVERED_ENCOUNTERS/COVERED_ENCOUNTERS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ecdcdb07-62ac-4dac-b145-1fc105f6eaab";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_ENCOUNTERS/COVERED_ENCOUNTERS_en> .
 
-<http://test.domain/PAYERS/COVERED_ENCOUNTERS/COVERED_ENCOUNTERS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/COVERED_ENCOUNTERS/COVERED_ENCOUNTERS_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "COVERED_ENCOUNTERS"@en .
 
-<http://test.domain/PAYERS/UNCOVERED_ENCOUNTERS> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_ENCOUNTERS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d1a3d268-f539-4d73-9e16-648c904d235e";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/UNCOVERED_ENCOUNTERS/UNCOVERED_ENCOUNTERS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0935f5ad-9a06-4cf4-aff7-df7889e50ee5";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_ENCOUNTERS/UNCOVERED_ENCOUNTERS_en> .
 
-<http://test.domain/PAYERS/UNCOVERED_ENCOUNTERS/UNCOVERED_ENCOUNTERS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_ENCOUNTERS/UNCOVERED_ENCOUNTERS_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "UNCOVERED_ENCOUNTERS"@en .
 
-<http://test.domain/PAYERS/COVERED_MEDICATIONS> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/COVERED_MEDICATIONS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "327c1fce-5d83-470d-aac8-384d2b7992bd";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/COVERED_MEDICATIONS/COVERED_MEDICATIONS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "11cc862f-94e8-4fb0-92f5-792b9b29050c";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_MEDICATIONS/COVERED_MEDICATIONS_en> .
 
-<http://test.domain/PAYERS/COVERED_MEDICATIONS/COVERED_MEDICATIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/COVERED_MEDICATIONS/COVERED_MEDICATIONS_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "COVERED_MEDICATIONS"@en .
 
-<http://test.domain/PAYERS/UNCOVERED_MEDICATIONS> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_MEDICATIONS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8ae40e34-ccad-460f-91aa-b35d30d04346";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/UNCOVERED_MEDICATIONS/UNCOVERED_MEDICATIONS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9e6aed17-797a-42ec-bc08-4bb818ff8e02";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_MEDICATIONS/UNCOVERED_MEDICATIONS_en> .
 
-<http://test.domain/PAYERS/UNCOVERED_MEDICATIONS/UNCOVERED_MEDICATIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_MEDICATIONS/UNCOVERED_MEDICATIONS_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "UNCOVERED_MEDICATIONS"@en .
 
-<http://test.domain/PAYERS/COVERED_PROCEDURES> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/COVERED_PROCEDURES> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e1f1bae5-fbbb-4c16-837d-ebe6c22b68e2";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/COVERED_PROCEDURES/COVERED_PROCEDURES_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c502a5af-1670-44b5-a47d-cc6eb514f22a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_PROCEDURES/COVERED_PROCEDURES_en> .
 
-<http://test.domain/PAYERS/COVERED_PROCEDURES/COVERED_PROCEDURES_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/COVERED_PROCEDURES/COVERED_PROCEDURES_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "COVERED_PROCEDURES"@en .
 
-<http://test.domain/PAYERS/UNCOVERED_PROCEDURES> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_PROCEDURES> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b716bea4-3f50-4c75-a9a4-ed64ae34874e";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/UNCOVERED_PROCEDURES/UNCOVERED_PROCEDURES_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "74e4be1b-2118-46a6-9a31-d162ce3e535a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_PROCEDURES/UNCOVERED_PROCEDURES_en> .
 
-<http://test.domain/PAYERS/UNCOVERED_PROCEDURES/UNCOVERED_PROCEDURES_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_PROCEDURES/UNCOVERED_PROCEDURES_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "UNCOVERED_PROCEDURES"@en .
 
-<http://test.domain/PAYERS/COVERED_IMMUNIZATIONS> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/COVERED_IMMUNIZATIONS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "40595951-19b2-43fc-a24c-592c7c8044ee";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/COVERED_IMMUNIZATIONS/COVERED_IMMUNIZATIONS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "dd1900f3-0485-4994-bdd2-c0004fc28ab4";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_IMMUNIZATIONS/COVERED_IMMUNIZATIONS_en> .
 
-<http://test.domain/PAYERS/COVERED_IMMUNIZATIONS/COVERED_IMMUNIZATIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/COVERED_IMMUNIZATIONS/COVERED_IMMUNIZATIONS_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "COVERED_IMMUNIZATIONS"@en .
 
-<http://test.domain/PAYERS/UNCOVERED_IMMUNIZATIONS> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_IMMUNIZATIONS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9ad4ac29-13e6-4554-972f-67e5bea68dfb";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/UNCOVERED_IMMUNIZATIONS/UNCOVERED_IMMUNIZATIONS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "3f1ae02b-02b7-4071-b020-3e20b8232f53";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_IMMUNIZATIONS/UNCOVERED_IMMUNIZATIONS_en> .
 
-<http://test.domain/PAYERS/UNCOVERED_IMMUNIZATIONS/UNCOVERED_IMMUNIZATIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_IMMUNIZATIONS/UNCOVERED_IMMUNIZATIONS_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "UNCOVERED_IMMUNIZATIONS"@en .
 
-<http://test.domain/PAYERS/UNIQUE_CUSTOMERS> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/UNIQUE_CUSTOMERS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "966c1ec2-d63e-445b-9987-7f03c8dd6bae";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/UNIQUE_CUSTOMERS/UNIQUE_CUSTOMERS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "25f5326f-0034-4349-beb7-a85fffc374a4";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNIQUE_CUSTOMERS/UNIQUE_CUSTOMERS_en> .
 
-<http://test.domain/PAYERS/UNIQUE_CUSTOMERS/UNIQUE_CUSTOMERS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/UNIQUE_CUSTOMERS/UNIQUE_CUSTOMERS_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "UNIQUE_CUSTOMERS"@en .
 
-<http://test.domain/PAYERS/QOLS_AVG> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/QOLS_AVG> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7b78af9c-8d1e-42e1-ad70-bd02741581f0";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/QOLS_AVG/QOLS_AVG_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d29a5fc1-1d22-446b-98b4-87fa66f501b2";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/QOLS_AVG/QOLS_AVG_en> .
 
-<http://test.domain/PAYERS/QOLS_AVG/QOLS_AVG_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/QOLS_AVG/QOLS_AVG_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "QOLS_AVG"@en .
 
-<http://test.domain/PAYERS/MEMBER_MONTHS> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/PAYERS>;
+<http://hsk.marklogic.com/csv-import#PAYERS/MEMBER_MONTHS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7913174c-89ee-4938-8257-c0ca9071173d";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/PAYERS/MEMBER_MONTHS/MEMBER_MONTHS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "876a3646-5957-4a68-a5d6-55745da781e1";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/MEMBER_MONTHS/MEMBER_MONTHS_en> .
 
-<http://test.domain/PAYERS/MEMBER_MONTHS/MEMBER_MONTHS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#PAYERS/MEMBER_MONTHS/MEMBER_MONTHS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "MEMBER_MONTHS"@en .

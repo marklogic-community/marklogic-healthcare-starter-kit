@@ -1,98 +1,99 @@
 
-<http://test.domain/CAREPLANS> a <http://vocabulary.marklogic.com/SDC#Structure>;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9b876942-05fe-4cf6-ba9f-59e68ec3610e";
+<http://hsk.marklogic.com/csv-import#CAREPLANS> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9641d5ca-5133-4300-b427-259ed8e8eee5";
   <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/CAREPLANS/CAREPLANS_en> .
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CAREPLANS/CAREPLANS_en> .
 
-<http://test.domain/CAREPLANS/CAREPLANS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/CAREPLANS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "CAREPLANS"@en .
 
-<http://test.domain/CAREPLANS/Id> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/CAREPLANS>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/Id> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CAREPLANS>;
   <http://vocabulary.marklogic.com/SDC#isKey> true;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "726beae9-8ae7-405c-9d94-06a775f132d7";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/CAREPLANS/Id/Id_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ebd57168-d3da-41b2-926c-45e59f4cd68a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CAREPLANS/Id/Id_en> .
 
-<http://test.domain/CAREPLANS/Id/Id_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/Id/Id_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "Id"@en .
 
-<http://test.domain/CAREPLANS/START> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/CAREPLANS>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/START> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CAREPLANS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "19e94ad3-c8e0-4354-9d0a-4b5d24a25149";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/CAREPLANS/START/START_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "5941c443-1903-49f2-b7ce-625051db7b4a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CAREPLANS/START/START_en> .
 
-<http://test.domain/CAREPLANS/START/START_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/START/START_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "START"@en .
 
-<http://test.domain/CAREPLANS/STOP> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/CAREPLANS>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/STOP> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CAREPLANS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a148159e-a16a-41a5-a844-032bf1d8f75f";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/CAREPLANS/STOP/STOP_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "6c663712-d22f-44e6-8272-4f57700daf08";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CAREPLANS/STOP/STOP_en> .
 
-<http://test.domain/CAREPLANS/STOP/STOP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/STOP/STOP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "STOP"@en .
 
-<http://test.domain/CAREPLANS/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/CAREPLANS>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CAREPLANS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "908b31f7-7d18-4ae4-995e-bd01e822d2c1";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/CAREPLANS/PATIENT/PATIENT_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a17d9aa7-5d09-4e35-934a-3d60f805f47b";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CAREPLANS/PATIENT/PATIENT_en> .
 
-<http://test.domain/CAREPLANS/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT"@en .
 
-<http://test.domain/CAREPLANS/ENCOUNTER> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/CAREPLANS>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/ENCOUNTER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CAREPLANS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "3a5702f8-1c9f-4205-aebc-196c09b9efdb";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/CAREPLANS/ENCOUNTER/ENCOUNTER_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "1a141870-01e1-4f8f-9433-f452e1ecbb46";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CAREPLANS/ENCOUNTER/ENCOUNTER_en> .
 
-<http://test.domain/CAREPLANS/ENCOUNTER/ENCOUNTER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/ENCOUNTER/ENCOUNTER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTER"@en .
 
-<http://test.domain/CAREPLANS/CODE> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/CAREPLANS>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/CODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CAREPLANS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ae966dc6-baa1-4fcf-9918-fa64576f8160";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/CAREPLANS/CODE/CODE_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "32ce6d57-f67c-44e9-9d60-9f1efc25618c";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CAREPLANS/CODE/CODE_en> .
 
-<http://test.domain/CAREPLANS/CODE/CODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/CODE/CODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "CODE"@en .
 
-<http://test.domain/CAREPLANS/DESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/CAREPLANS>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/DESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CAREPLANS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "534601e9-93ef-47bd-b6c2-9174120c7eee";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/CAREPLANS/DESCRIPTION/DESCRIPTION_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a65e43de-ce34-4219-9d8f-7a0269ede3d9";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CAREPLANS/DESCRIPTION/DESCRIPTION_en> .
 
-<http://test.domain/CAREPLANS/DESCRIPTION/DESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/DESCRIPTION/DESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION"@en .
 
-<http://test.domain/CAREPLANS/REASONCODE> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/CAREPLANS>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/REASONCODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CAREPLANS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "24d9bc02-ff6b-4a51-839a-72fa55ba4c48";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/CAREPLANS/REASONCODE/REASONCODE_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "954c5850-906c-4ab9-93ea-45e33deade09";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CAREPLANS/REASONCODE/REASONCODE_en> .
 
-<http://test.domain/CAREPLANS/REASONCODE/REASONCODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/REASONCODE/REASONCODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "REASONCODE"@en .
 
-<http://test.domain/CAREPLANS/REASONDESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
-  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://test.domain/CAREPLANS>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/REASONDESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CAREPLANS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "53eef6c0-f199-4c8c-9484-327be35e5fe1";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://test.domain/CAREPLANS/REASONDESCRIPTION/REASONDESCRIPTION_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "6787218c-e2eb-4476-a704-ea3808858ed1";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CAREPLANS/REASONDESCRIPTION/REASONDESCRIPTION_en> .
 
-<http://test.domain/CAREPLANS/REASONDESCRIPTION/REASONDESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
+<http://hsk.marklogic.com/csv-import#CAREPLANS/REASONDESCRIPTION/REASONDESCRIPTION_en>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "REASONDESCRIPTION"@en .
