@@ -279,7 +279,7 @@ public class CSVToTTLConverter {
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Structure")
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
-      .add(subject, "skos:broader", "sdc:CSVRawinputs")
+      .add(subject, "skos:broader", "sdc:csvFile")
       .add(subject, "skosxl:prefLabel", labelSubject)
       ;
 
