@@ -1,7 +1,7 @@
 
 <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS> a <http://vocabulary.marklogic.com/SDC#Structure>;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "45a53e9a-038f-4b09-8046-9e3a79bc514f";
-  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b6465d3e-c749-4547-b9c8-f69f536de1e4";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#csvFile>;
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/PAYER_TRANSITIONS_en> .
 
 <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/PAYER_TRANSITIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -11,7 +11,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "47b48844-96b7-4e1f-a581-c6967231c58e";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "afa01b89-ef46-4f8b-9039-677820376538";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/PATIENT/PATIENT_en> .
 
 <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -21,7 +21,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b2a18f0c-19cc-45f8-a0f3-eab4ceb9deef";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ff8f4d20-4426-44da-8281-db9b926c39ce";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/MEMBERID/MEMBERID_en> .
 
 <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/MEMBERID/MEMBERID_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -31,7 +31,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "eb846e61-b41c-4a00-9a9b-eacbe9198b9f";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "43f1b325-ecf9-487e-a47f-f65a112954b6";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/START_YEAR/START_YEAR_en> .
 
 <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/START_YEAR/START_YEAR_en> a
@@ -42,7 +42,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "88491590-7948-479b-8e93-219544fbc0ef";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "86de07be-7995-40b2-a331-f250b583e3b1";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/END_YEAR/END_YEAR_en> .
 
 <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/END_YEAR/END_YEAR_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -52,7 +52,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "3d4a3722-422d-433f-8010-06dfea07c98c";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e6cae5c4-2076-4543-91cd-791a6d1b8685";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/PAYER/PAYER_en> .
 
 <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/PAYER/PAYER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -62,7 +62,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "4c821aec-1278-4f78-83ad-bf8bc12b5bb4";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "fb8fbed6-045e-4776-aac4-c60241c9c2b4";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/SECONDARY_PAYER/SECONDARY_PAYER_en> .
 
 <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/SECONDARY_PAYER/SECONDARY_PAYER_en>
@@ -73,7 +73,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "3da9e60c-6ae7-46aa-8a16-673990471de6";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8edaf7ca-d983-4473-bedb-5f51965be9bc";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/OWNERSHIP/OWNERSHIP_en> .
 
 <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/OWNERSHIP/OWNERSHIP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -83,7 +83,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8953224a-2a76-493d-9875-770c4660478c";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "5eb86c23-394b-486e-a6ba-ae8fb9e59e27";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/OWNERNAME/OWNERNAME_en> .
 
 <http://hsk.marklogic.com/csv-import#PAYER_TRANSITIONS/OWNERNAME/OWNERNAME_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
