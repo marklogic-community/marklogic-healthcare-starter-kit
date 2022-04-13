@@ -1,7 +1,7 @@
 
 <http://hsk.marklogic.com/entity-import#cleaned> a <http://vocabulary.marklogic.com/SDC#Structure>;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "656acd73-fed9-46fc-a39a-7d34f7951849";
-  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "59ee61fe-89e8-4c83-8b5f-29050ec8e3c1";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#MLEntity>;
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#cleaned/cleaned_en> .
 
 <http://hsk.marklogic.com/entity-import#cleaned/cleaned_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -11,7 +11,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#cleaned>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7373eef1-8662-42cd-ae1a-a7ac81414f9b";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b320be11-589b-42b9-a58e-b41efce16e46";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#cleaned/active/active_en> .
 
 <http://hsk.marklogic.com/entity-import#cleaned/active/active_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -21,7 +21,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#cleaned>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "07912e45-9ead-4b2a-8dbb-0539a1191eab";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "701cd0d5-7e29-4813-b2bc-f7b77a671afd";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#cleaned/address/address_en> .
 
 <http://hsk.marklogic.com/entity-import#cleaned/address/address_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -31,7 +31,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#cleaned>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "3b2bf870-53cb-4126-a3fb-eb586d260113";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0a482633-0dac-488a-a32f-78f50a72dcf8";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#cleaned/birthDate/birthDate_en> .
 
 <http://hsk.marklogic.com/entity-import#cleaned/birthDate/birthDate_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -41,7 +41,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#cleaned>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "48008291-1d24-441c-89b5-f651f796e8b1";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "41693d55-a849-4209-afcd-c7193d2c4d2b";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#cleaned/code__maritalStatus/code__maritalStatus_en> .
 
 <http://hsk.marklogic.com/entity-import#cleaned/code__maritalStatus/code__maritalStatus_en>
@@ -52,7 +52,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#cleaned>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ae439a7f-4584-492f-8546-78311c3c33f9";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8fc932a0-186e-4ed5-944e-8b21dcc149c8";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#cleaned/deceasedBoolean/deceasedBoolean_en> .
 
 <http://hsk.marklogic.com/entity-import#cleaned/deceasedBoolean/deceasedBoolean_en>
@@ -63,7 +63,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#cleaned>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f4734963-bed4-45e3-a52a-00185447ee73";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0632342f-2766-44b9-bad3-8c38041f7fa3";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#cleaned/deceasedDateTime/deceasedDateTime_en> .
 
 <http://hsk.marklogic.com/entity-import#cleaned/deceasedDateTime/deceasedDateTime_en>
@@ -74,7 +74,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#cleaned>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "5319bf19-440f-4701-ae9b-2f70f0758e33";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "18c52f1c-3734-41b4-a415-6ebddf49954e";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#cleaned/gender/gender_en> .
 
 <http://hsk.marklogic.com/entity-import#cleaned/gender/gender_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -84,7 +84,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#cleaned>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "02d7a4eb-509e-4307-9459-cf0905ef4705";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "805a0764-3dad-44f2-b0b6-9c797db974eb";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#cleaned/identifier__ssn/identifier__ssn_en> .
 
 <http://hsk.marklogic.com/entity-import#cleaned/identifier__ssn/identifier__ssn_en>

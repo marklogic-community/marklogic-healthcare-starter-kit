@@ -270,7 +270,7 @@ public class EntityToTTLConverter {
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Structure")
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
-      .add(subject, "skos:broader", "sdc:CSVRawinputs")
+      .add(subject, "skos:broader", "sdc:MLEntity")
       .add(subject, "skosxl:prefLabel", labelSubject)
       ;
 
@@ -298,8 +298,6 @@ public class EntityToTTLConverter {
   private void addConceptField(ModelBuilder mb, String baseSubject, String fieldName, JsonNode fieldValue, JsonNode definitions) {
     String subject = baseSubject + "/" + fieldName;
     String labelSubject = subject + "/" + fieldName + "_en";
-
-    System.out.println(subject);
 
     boolean isArray = fieldValue.has("datatype") && "array".equals(fieldValue.get("datatype").asText());
     String refType = isArray

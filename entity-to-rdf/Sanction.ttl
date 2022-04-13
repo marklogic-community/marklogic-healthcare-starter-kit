@@ -1,7 +1,7 @@
 
 <http://hsk.marklogic.com/entity-import#Sanction> a <http://vocabulary.marklogic.com/SDC#Structure>;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ea3798c7-ee07-48c6-a5c1-2a273e22c23a";
-  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "4be18608-f411-4653-b595-a3c5645f0ff2";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#MLEntity>;
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#Sanction/Sanction_en> .
 
 <http://hsk.marklogic.com/entity-import#Sanction/Sanction_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -11,7 +11,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#Sanction>;
   <http://vocabulary.marklogic.com/SDC#isKey> true;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f831ef36-8a6a-4585-9c7a-c9d9b259c24f";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a80765b2-05c4-49b3-a7ab-27f0c7a52c9a";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#Sanction/id/id_en> .
 
 <http://hsk.marklogic.com/entity-import#Sanction/id/id_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
