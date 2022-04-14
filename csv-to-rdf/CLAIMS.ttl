@@ -1,6 +1,6 @@
 
 <http://hsk.marklogic.com/csv-import#CLAIMS> a <http://vocabulary.marklogic.com/SDC#Structure>;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "2ebd82dd-0f7e-4447-9203-bc7400b4e33c";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "113f8d56-8e53-4e4e-9570-919b8263f0ce";
   <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#csvFile>;
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/CLAIMS_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/csvFile.CLAIMS_l-n> .
@@ -15,9 +15,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> true;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b3613208-dd74-4db5-91b0-8491ebdbc59c";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "aa5cf4f1-827c-49da-843c-fc3dfdf6e7c5";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/Id/Id_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/Id/CLAIMS.Id_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/Id/CLAIMS.Id_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/Id/csvFile.CLAIMS.Id_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/Id/Id_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "Id" .
@@ -32,9 +33,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "378f0bd0-eaf7-4026-9732-04b4a40b6c92";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "fb1e4706-3306-4737-aeee-959aa7d90c3f";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PATIENTID/PATIENTID_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PATIENTID/CLAIMS.PATIENTID_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PATIENTID/CLAIMS.PATIENTID_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/PATIENTID/csvFile.CLAIMS.PATIENTID_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/PATIENTID/PATIENTID_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENTID" .
@@ -50,9 +52,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a9db037c-2d67-400a-b57d-fffeb44f3274";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a662ade0-8234-4b87-a94d-e8f593ec397a";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PROVIDERID/PROVIDERID_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PROVIDERID/CLAIMS.PROVIDERID_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PROVIDERID/CLAIMS.PROVIDERID_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/PROVIDERID/csvFile.CLAIMS.PROVIDERID_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/PROVIDERID/PROVIDERID_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "PROVIDERID" .
@@ -68,9 +71,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "39c2853e-8cc0-45b2-9dfe-7d241587091a";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "316a99f7-a85d-41f1-814a-076cf2494022";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PRIMARYPATIENTINSURANCEID/PRIMARYPATIENTINSURANCEID_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PRIMARYPATIENTINSURANCEID/CLAIMS.PRIMARYPATIENTINSURANCEID_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PRIMARYPATIENTINSURANCEID/CLAIMS.PRIMARYPATIENTINSURANCEID_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/PRIMARYPATIENTINSURANCEID/csvFile.CLAIMS.PRIMARYPATIENTINSURANCEID_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/PRIMARYPATIENTINSURANCEID/PRIMARYPATIENTINSURANCEID_l-n>
   a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -88,9 +92,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c87c5ed3-7ea4-447b-b529-39e33b644ceb";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "a85e9f9f-8af5-4efe-be81-4b039fa788c7";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/SECONDARYPATIENTINSURANCEID/SECONDARYPATIENTINSURANCEID_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/SECONDARYPATIENTINSURANCEID/CLAIMS.SECONDARYPATIENTINSURANCEID_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/SECONDARYPATIENTINSURANCEID/CLAIMS.SECONDARYPATIENTINSURANCEID_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/SECONDARYPATIENTINSURANCEID/csvFile.CLAIMS.SECONDARYPATIENTINSURANCEID_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/SECONDARYPATIENTINSURANCEID/SECONDARYPATIENTINSURANCEID_l-n>
   a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -108,9 +113,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "6f2f781f-2ac7-47d7-a276-c3425ef5ef72";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "81c69b11-3ff7-474f-8cc7-62f397df3a04";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DEPARTMENTID/DEPARTMENTID_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DEPARTMENTID/CLAIMS.DEPARTMENTID_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DEPARTMENTID/CLAIMS.DEPARTMENTID_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/DEPARTMENTID/csvFile.CLAIMS.DEPARTMENTID_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/DEPARTMENTID/DEPARTMENTID_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "DEPARTMENTID" .
@@ -127,9 +133,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "241f7fdd-4b6d-4a87-8b99-bab3ec814bd9";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "965534e8-2b7a-4c93-80d7-e7e908f7afe1";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PATIENTDEPARTMENTID/PATIENTDEPARTMENTID_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PATIENTDEPARTMENTID/CLAIMS.PATIENTDEPARTMENTID_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/PATIENTDEPARTMENTID/CLAIMS.PATIENTDEPARTMENTID_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/PATIENTDEPARTMENTID/csvFile.CLAIMS.PATIENTDEPARTMENTID_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/PATIENTDEPARTMENTID/PATIENTDEPARTMENTID_l-n>
   a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -147,9 +154,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "857236ae-0425-4717-92ac-9af255d9a299";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "85105ffd-6389-493d-8928-564859f2bb83";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS1/DIAGNOSIS1_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS1/CLAIMS.DIAGNOSIS1_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS1/CLAIMS.DIAGNOSIS1_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS1/csvFile.CLAIMS.DIAGNOSIS1_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS1/DIAGNOSIS1_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "DIAGNOSIS1" .
@@ -165,9 +173,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "18f61935-9075-4723-9753-4304bc9ff790";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "2289d284-9fc6-4f6d-9bbb-6779245767b6";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS2/DIAGNOSIS2_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS2/CLAIMS.DIAGNOSIS2_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS2/CLAIMS.DIAGNOSIS2_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS2/csvFile.CLAIMS.DIAGNOSIS2_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS2/DIAGNOSIS2_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "DIAGNOSIS2" .
@@ -183,9 +192,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "24bcf0af-de3d-4828-b828-0bd36c9e8169";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "befb9c8c-3ba5-4beb-a70b-6a04efc70fd5";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS3/DIAGNOSIS3_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS3/CLAIMS.DIAGNOSIS3_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS3/CLAIMS.DIAGNOSIS3_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS3/csvFile.CLAIMS.DIAGNOSIS3_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS3/DIAGNOSIS3_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "DIAGNOSIS3" .
@@ -201,9 +211,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f9c69412-cb29-4415-9938-c662c411aedb";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8924eadd-55d9-4a94-b766-686246b459fd";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS4/DIAGNOSIS4_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS4/CLAIMS.DIAGNOSIS4_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS4/CLAIMS.DIAGNOSIS4_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS4/csvFile.CLAIMS.DIAGNOSIS4_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS4/DIAGNOSIS4_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "DIAGNOSIS4" .
@@ -219,9 +230,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "67ce2aef-c09e-43fc-aa27-247ce682857d";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "cd9c1119-15b5-46d5-9a05-72185874d2fa";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS5/DIAGNOSIS5_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS5/CLAIMS.DIAGNOSIS5_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS5/CLAIMS.DIAGNOSIS5_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS5/csvFile.CLAIMS.DIAGNOSIS5_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS5/DIAGNOSIS5_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "DIAGNOSIS5" .
@@ -237,9 +249,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0c2e342b-d712-4645-9f4f-72f21865e18a";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "5b13be03-1352-443a-a081-1feee29a6843";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS6/DIAGNOSIS6_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS6/CLAIMS.DIAGNOSIS6_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS6/CLAIMS.DIAGNOSIS6_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS6/csvFile.CLAIMS.DIAGNOSIS6_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS6/DIAGNOSIS6_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "DIAGNOSIS6" .
@@ -255,9 +268,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9f5ffbbe-fe14-4554-8fe7-5e6ed833d7e0";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d2f07874-5877-423f-b40e-c72edae06860";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS7/DIAGNOSIS7_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS7/CLAIMS.DIAGNOSIS7_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS7/CLAIMS.DIAGNOSIS7_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS7/csvFile.CLAIMS.DIAGNOSIS7_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS7/DIAGNOSIS7_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "DIAGNOSIS7" .
@@ -273,9 +287,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "93d99a57-22b0-4718-97c2-13531c7be5ee";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7897c4b7-1e0d-41bb-92ec-ab49da5ebc25";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS8/DIAGNOSIS8_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS8/CLAIMS.DIAGNOSIS8_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS8/CLAIMS.DIAGNOSIS8_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS8/csvFile.CLAIMS.DIAGNOSIS8_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/DIAGNOSIS8/DIAGNOSIS8_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "DIAGNOSIS8" .
@@ -291,9 +306,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "90ae2783-f67f-467a-bf22-42f7e74c8ed7";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "74853f0e-e0d8-46a4-bf82-6075738e7a58";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/REFERRINGPROVIDERID/REFERRINGPROVIDERID_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/REFERRINGPROVIDERID/CLAIMS.REFERRINGPROVIDERID_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/REFERRINGPROVIDERID/CLAIMS.REFERRINGPROVIDERID_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/REFERRINGPROVIDERID/csvFile.CLAIMS.REFERRINGPROVIDERID_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/REFERRINGPROVIDERID/REFERRINGPROVIDERID_l-n>
   a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -311,9 +327,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b89c4c1a-140b-4ba7-b3cd-f1761f0d645a";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "4f2d3166-69f8-4190-bf6b-c6e10873ad3e";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/APPOINTMENTID/APPOINTMENTID_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/APPOINTMENTID/CLAIMS.APPOINTMENTID_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/APPOINTMENTID/CLAIMS.APPOINTMENTID_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/APPOINTMENTID/csvFile.CLAIMS.APPOINTMENTID_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/APPOINTMENTID/APPOINTMENTID_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "APPOINTMENTID" .
@@ -330,9 +347,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "6c91584a-517b-477e-bf30-391952d5a640";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "bcdd62d3-bd39-4e1f-b76c-2b8d8f52dbeb";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/CURRENTILLNESSDATE/CURRENTILLNESSDATE_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/CURRENTILLNESSDATE/CLAIMS.CURRENTILLNESSDATE_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/CURRENTILLNESSDATE/CLAIMS.CURRENTILLNESSDATE_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/CURRENTILLNESSDATE/csvFile.CLAIMS.CURRENTILLNESSDATE_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/CURRENTILLNESSDATE/CURRENTILLNESSDATE_l-n>
   a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -350,9 +368,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "df1bd661-9799-4f57-948f-aaad0b829526";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0d7d81cb-8244-4166-b324-bb382248792d";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/SERVICEDATE/SERVICEDATE_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/SERVICEDATE/CLAIMS.SERVICEDATE_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/SERVICEDATE/CLAIMS.SERVICEDATE_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/SERVICEDATE/csvFile.CLAIMS.SERVICEDATE_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/SERVICEDATE/SERVICEDATE_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "SERVICEDATE" .
@@ -369,9 +388,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "bc476701-83df-47ee-b3dc-889282032645";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "69557f3c-6a06-4cfc-baf9-41bccd3a7012";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/SUPERVISINGPROVIDERID/SUPERVISINGPROVIDERID_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/SUPERVISINGPROVIDERID/CLAIMS.SUPERVISINGPROVIDERID_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/SUPERVISINGPROVIDERID/CLAIMS.SUPERVISINGPROVIDERID_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/SUPERVISINGPROVIDERID/csvFile.CLAIMS.SUPERVISINGPROVIDERID_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/SUPERVISINGPROVIDERID/SUPERVISINGPROVIDERID_l-n>
   a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -389,9 +409,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "cc64a614-3ded-44b6-bd32-0cb8960818df";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "093224a0-b5f8-4d68-9f63-bcede3cc93aa";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/STATUS1/STATUS1_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/STATUS1/CLAIMS.STATUS1_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/STATUS1/CLAIMS.STATUS1_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/STATUS1/csvFile.CLAIMS.STATUS1_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/STATUS1/STATUS1_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "STATUS1" .
@@ -407,9 +428,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f13ecf09-9080-42bb-a10f-3c58f43d0432";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "71b2bde5-0729-435c-9013-701e45a617e3";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/STATUS2/STATUS2_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/STATUS2/CLAIMS.STATUS2_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/STATUS2/CLAIMS.STATUS2_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/STATUS2/csvFile.CLAIMS.STATUS2_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/STATUS2/STATUS2_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "STATUS2" .
@@ -425,9 +447,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "2f3684ba-b547-4ce3-bdb0-ca5502c9ad43";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "5a400e4a-31d9-45bd-9586-21484b73a231";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/STATUSP/STATUSP_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/STATUSP/CLAIMS.STATUSP_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/STATUSP/CLAIMS.STATUSP_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/STATUSP/csvFile.CLAIMS.STATUSP_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/STATUSP/STATUSP_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "STATUSP" .
@@ -443,9 +466,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "fb75b86e-53e4-416b-b665-3deeed2f2037";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c74796b4-2c32-41b7-af2b-35149636a595";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDING1/OUTSTANDING1_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDING1/CLAIMS.OUTSTANDING1_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDING1/CLAIMS.OUTSTANDING1_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDING1/csvFile.CLAIMS.OUTSTANDING1_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDING1/OUTSTANDING1_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "OUTSTANDING1" .
@@ -462,9 +486,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "07e02107-81ae-430b-b7b0-6f936971a522";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "51712966-34ac-41f2-a5c3-a808dbff6eed";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDING2/OUTSTANDING2_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDING2/CLAIMS.OUTSTANDING2_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDING2/CLAIMS.OUTSTANDING2_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDING2/csvFile.CLAIMS.OUTSTANDING2_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDING2/OUTSTANDING2_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "OUTSTANDING2" .
@@ -481,9 +506,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9907bdcc-0e8a-4958-903e-415a2fbb0e8c";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8a46e79b-e42b-4345-82d2-daf28eacbc7a";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDINGP/OUTSTANDINGP_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDINGP/CLAIMS.OUTSTANDINGP_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDINGP/CLAIMS.OUTSTANDINGP_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDINGP/csvFile.CLAIMS.OUTSTANDINGP_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/OUTSTANDINGP/OUTSTANDINGP_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "OUTSTANDINGP" .
@@ -500,9 +526,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "052d8a52-3839-48b4-9b15-125ea42f8c8d";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b1132cf4-0cba-4fab-ac58-ca772ca8a37d";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATE1/LASTBILLEDDATE1_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATE1/CLAIMS.LASTBILLEDDATE1_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATE1/CLAIMS.LASTBILLEDDATE1_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATE1/csvFile.CLAIMS.LASTBILLEDDATE1_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATE1/LASTBILLEDDATE1_l-n> a
     <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -520,9 +547,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ae694b76-d7f9-4bcf-ad98-7d8017f471b1";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "65ed21ae-cce4-4c5c-b813-c7b49bfbcbd6";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATE2/LASTBILLEDDATE2_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATE2/CLAIMS.LASTBILLEDDATE2_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATE2/CLAIMS.LASTBILLEDDATE2_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATE2/csvFile.CLAIMS.LASTBILLEDDATE2_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATE2/LASTBILLEDDATE2_l-n> a
     <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -540,9 +568,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "5fc55218-8d9e-43d7-9a73-578e732f6a5d";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "37f0276d-5dd2-46d2-9447-3a469dd6e9b7";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATEP/LASTBILLEDDATEP_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATEP/CLAIMS.LASTBILLEDDATEP_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATEP/CLAIMS.LASTBILLEDDATEP_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATEP/csvFile.CLAIMS.LASTBILLEDDATEP_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/LASTBILLEDDATEP/LASTBILLEDDATEP_l-n> a
     <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -560,9 +589,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "33cbc6e4-cfd8-4ce3-9e9b-2f9068862d40";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e6ce724e-1b94-4348-a666-edc61d07597a";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/HEALTHCARECLAIMTYPEID1/HEALTHCARECLAIMTYPEID1_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/HEALTHCARECLAIMTYPEID1/CLAIMS.HEALTHCARECLAIMTYPEID1_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/HEALTHCARECLAIMTYPEID1/CLAIMS.HEALTHCARECLAIMTYPEID1_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/HEALTHCARECLAIMTYPEID1/csvFile.CLAIMS.HEALTHCARECLAIMTYPEID1_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/HEALTHCARECLAIMTYPEID1/HEALTHCARECLAIMTYPEID1_l-n>
   a <http://www.w3.org/2008/05/skos-xl#Label>;
@@ -580,9 +610,10 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#CLAIMS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e27bc62e-a1a0-42b4-a4ab-da2f68c93a4b";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "00359972-2f9a-4d02-a7bf-a65c8229899e";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/HEALTHCARECLAIMTYPEID2/HEALTHCARECLAIMTYPEID2_l-n>;
-  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/HEALTHCARECLAIMTYPEID2/CLAIMS.HEALTHCARECLAIMTYPEID2_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#CLAIMS/HEALTHCARECLAIMTYPEID2/CLAIMS.HEALTHCARECLAIMTYPEID2_l-n>,
+    <http://hsk.marklogic.com/csv-import#CLAIMS/HEALTHCARECLAIMTYPEID2/csvFile.CLAIMS.HEALTHCARECLAIMTYPEID2_l-n> .
 
 <http://hsk.marklogic.com/csv-import#CLAIMS/HEALTHCARECLAIMTYPEID2/HEALTHCARECLAIMTYPEID2_l-n>
   a <http://www.w3.org/2008/05/skos-xl#Label>;

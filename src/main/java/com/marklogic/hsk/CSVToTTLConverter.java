@@ -318,6 +318,7 @@ public class CSVToTTLConverter {
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
       .add(subject, "skosxl:prefLabel", labelSubject)
       .add(subject, "skosxl:altLabel", altLabelSubject)
+      .add(subject, "skosxl:altLabel", fullAltLabelSubject)
       ;
 
     mb.defaultGraph()
