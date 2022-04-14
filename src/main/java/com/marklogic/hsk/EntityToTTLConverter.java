@@ -265,24 +265,31 @@ public class EntityToTTLConverter {
    */
   private void addConceptStructure(ModelBuilder mb, String typeName, Iterator<Map.Entry<String, JsonNode>> fieldIterator, JsonNode definitions) {
     String subject = "hsk:" + typeName;
-    String labelSubject = subject + "/" + typeName + "_en";
+    String labelSubject = subject + "/" + typeName + "_l-n";
+    String altLabelSubject = subject + "/" + "MLEntity." + typeName + "_l-n";
 
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Structure")
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
       .add(subject, "skos:broader", "sdc:MLEntity")
       .add(subject, "skosxl:prefLabel", labelSubject)
+      .add(subject, "skosxl:altLabel", altLabelSubject)
       ;
 
     mb.defaultGraph()
       .add(labelSubject, "rdf:type", "skosxl:Label")
-      .add(labelSubject, "skosxl:literalForm", literal(typeName, "en"))
+      .add(labelSubject, "skosxl:literalForm", literal(typeName))
+      ;
+
+    mb.defaultGraph()
+      .add(altLabelSubject, "rdf:type", "skosxl:Label")
+      .add(altLabelSubject, "skosxl:literalForm", literal("MLEntity." + typeName))
       ;
 
     while (fieldIterator.hasNext()) {
       Map.Entry<String, JsonNode> fieldEntry = fieldIterator.next();
 
-      this.addConceptField(mb, subject, fieldEntry.getKey(), fieldEntry.getValue(), definitions);
+      this.addConceptField(mb, subject, typeName, fieldEntry.getKey(), fieldEntry.getValue(), definitions);
     }
   }
 
@@ -295,9 +302,12 @@ public class EntityToTTLConverter {
    * @param  fieldValue  The JSON Object representing this field in the entity file
    * @param  definitions The base object from the entity containing all definitions (used to get and expand references)
    */
-  private void addConceptField(ModelBuilder mb, String baseSubject, String fieldName, JsonNode fieldValue, JsonNode definitions) {
+  private void addConceptField(ModelBuilder mb, String baseSubject, String baseLabelPath, String fieldName, JsonNode fieldValue, JsonNode definitions) {
     String subject = baseSubject + "/" + fieldName;
-    String labelSubject = subject + "/" + fieldName + "_en";
+    String labelSubject = subject + "/" + fieldName + "_l-n";
+    String labelPath = baseLabelPath + "." + fieldName;
+    String altLabelSubject = subject + "/" + labelPath + "_l-n";
+    String fullAltLabelSubject = subject + "/MLEntity." + labelPath + "_l-n";
 
     boolean isArray = fieldValue.has("datatype") && "array".equals(fieldValue.get("datatype").asText());
     String refType = isArray
@@ -316,11 +326,23 @@ public class EntityToTTLConverter {
       .add(subject, "sdc:isList", isArray)
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
       .add(subject, "skosxl:prefLabel", labelSubject)
+      .add(subject, "skosxl:altLabel", altLabelSubject)
+      .add(subject, "skosxl:altLabel", fullAltLabelSubject)
       ;
 
     mb.defaultGraph()
       .add(labelSubject, "rdf:type", "skosxl:Label")
-      .add(labelSubject, "skosxl:literalForm", literal(fieldName, "en"))
+      .add(labelSubject, "skosxl:literalForm", literal(fieldName))
+      ;
+
+    mb.defaultGraph()
+      .add(altLabelSubject, "rdf:type", "skosxl:Label")
+      .add(altLabelSubject, "skosxl:literalForm", literal(labelPath))
+      ;
+
+    mb.defaultGraph()
+      .add(fullAltLabelSubject, "rdf:type", "skosxl:Label")
+      .add(fullAltLabelSubject, "skosxl:literalForm", literal("MLEntity." + labelPath))
       ;
 
     if (refType != null) {
@@ -332,7 +354,7 @@ public class EntityToTTLConverter {
       while (iterator.hasNext()) {
         Map.Entry<String, JsonNode> entry = iterator.next();
 
-        this.addConceptField(mb, subject, entry.getKey(), entry.getValue(), definitions);
+        this.addConceptField(mb, subject, labelPath, entry.getKey(), entry.getValue(), definitions);
       }
     }
   }
