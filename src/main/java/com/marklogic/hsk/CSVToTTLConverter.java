@@ -275,17 +275,24 @@ public class CSVToTTLConverter {
   private void addConceptStructure(ModelBuilder mb, String typeName) {
     String subject = "hsk:" + typeName;
     String labelSubject = subject + "/" + typeName + "_l-n";
+    String altLabelSubject = subject + "/csvFile." + typeName + "_l-n";
 
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Structure")
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
       .add(subject, "skos:broader", "sdc:csvFile")
       .add(subject, "skosxl:prefLabel", labelSubject)
+      .add(subject, "skosxl:altLabel", altLabelSubject)
       ;
 
     mb.defaultGraph()
       .add(labelSubject, "rdf:type", "skosxl:Label")
       .add(labelSubject, "skosxl:literalForm", literal(typeName))
+      ;
+
+    mb.defaultGraph()
+      .add(altLabelSubject, "rdf:type", "skosxl:Label")
+      .add(altLabelSubject, "skosxl:literalForm", literal("csvFile." + typeName))
       ;
   }
 

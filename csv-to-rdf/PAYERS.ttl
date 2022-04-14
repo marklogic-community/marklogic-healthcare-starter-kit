@@ -1,17 +1,21 @@
 
 <http://hsk.marklogic.com/csv-import#PAYERS> a <http://vocabulary.marklogic.com/SDC#Structure>;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "23e3da07-e09a-4ece-86ed-a7a34a42e4b8";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0489d4f2-49e7-4b33-b2f7-ce963f8cc3f6";
   <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#csvFile>;
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/PAYERS_l-n> .
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/PAYERS_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/csvFile.PAYERS_l-n> .
 
 <http://hsk.marklogic.com/csv-import#PAYERS/PAYERS_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
   <http://www.w3.org/2008/05/skos-xl#literalForm> "PAYERS" .
+
+<http://hsk.marklogic.com/csv-import#PAYERS/csvFile.PAYERS_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.PAYERS" .
 
 <http://hsk.marklogic.com/csv-import#PAYERS/Id> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> true;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0ef35741-124d-4dd5-aad0-8f9864b7c634";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f078433a-d9f1-4257-aedb-a1fbe5fc154c";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/Id/Id_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/Id/PAYERS.Id_l-n> .
 
@@ -28,7 +32,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "37c13437-aa5b-4408-9b97-118840046b10";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "169164e4-e46f-4cf0-a821-0c2ff232a06f";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/NAME/NAME_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/NAME/PAYERS.NAME_l-n> .
 
@@ -45,7 +49,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "05fe20d2-c07a-478a-b3ec-0669c2bbce9e";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "6c602ff4-1ce0-436c-b119-810bf0d161b9";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/ADDRESS/ADDRESS_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/ADDRESS/PAYERS.ADDRESS_l-n> .
 
@@ -63,7 +67,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d7fbacba-0bfd-4f14-902a-92a427a82eb4";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "cc330ded-4296-47f3-ae42-5916955843c4";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/CITY/CITY_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/CITY/PAYERS.CITY_l-n> .
 
@@ -80,7 +84,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "77479dff-872f-4757-addc-64a0a63a94e8";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "212355a7-db91-4403-99f1-13423aaaf455";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/STATE_HEADQUARTERED/STATE_HEADQUARTERED_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/STATE_HEADQUARTERED/PAYERS.STATE_HEADQUARTERED_l-n> .
 
@@ -100,7 +104,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d3d798e7-e186-49ab-b30b-effb6d855eb1";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "67a941a0-b8be-4386-9280-260bbac2602d";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/ZIP/ZIP_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/ZIP/PAYERS.ZIP_l-n> .
 
@@ -117,7 +121,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "89f58700-fddc-4920-9f7b-8de5471cdfd0";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "884deb5a-58b9-4295-9626-52eb39071e7f";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/PHONE/PHONE_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/PHONE/PAYERS.PHONE_l-n> .
 
@@ -134,7 +138,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "6d075c85-9475-4bd7-b9b4-ffb49b53bcc2";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c9b4c47b-5760-48de-b10f-51b963e37448";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/AMOUNT_COVERED/AMOUNT_COVERED_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/AMOUNT_COVERED/PAYERS.AMOUNT_COVERED_l-n> .
 
@@ -153,7 +157,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "94642740-d2a6-423e-9e98-83f94f207e83";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "faf539a6-f0a0-4a79-b71e-9c3224578ebb";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/AMOUNT_UNCOVERED/AMOUNT_UNCOVERED_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/AMOUNT_UNCOVERED/PAYERS.AMOUNT_UNCOVERED_l-n> .
 
@@ -173,7 +177,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "4cadfb60-d097-4927-8e5a-4c10700c6be4";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "983d3c37-d111-4982-8366-5350239bec50";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/REVENUE/REVENUE_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/REVENUE/PAYERS.REVENUE_l-n> .
 
@@ -191,7 +195,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "8089b7ff-7d82-4a65-870b-8ba2546175ed";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9a1c240e-1da0-4a35-af9e-c3a6d825ffa0";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_ENCOUNTERS/COVERED_ENCOUNTERS_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_ENCOUNTERS/PAYERS.COVERED_ENCOUNTERS_l-n> .
 
@@ -211,7 +215,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "652a2387-2888-429d-843c-9a66941bbb55";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "053e4b5f-43bd-4065-ae62-ce5524545252";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_ENCOUNTERS/UNCOVERED_ENCOUNTERS_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_ENCOUNTERS/PAYERS.UNCOVERED_ENCOUNTERS_l-n> .
 
@@ -231,7 +235,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "acfc104b-c7de-4454-b53b-d6179b88fd8b";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "02ceaaf2-f0d7-44c5-ae86-3a489d5fdf77";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_MEDICATIONS/COVERED_MEDICATIONS_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_MEDICATIONS/PAYERS.COVERED_MEDICATIONS_l-n> .
 
@@ -251,7 +255,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c6c05e14-7ce4-437b-a55a-b0b2eb9f1c75";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c6c93447-4573-429d-b5c0-d9e6ab3204fd";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_MEDICATIONS/UNCOVERED_MEDICATIONS_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_MEDICATIONS/PAYERS.UNCOVERED_MEDICATIONS_l-n> .
 
@@ -271,7 +275,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0daa9ee0-9b4d-477f-ba36-eb8d5bd85152";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "5f16e086-f923-4ef8-a7f8-8e3356869d71";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_PROCEDURES/COVERED_PROCEDURES_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_PROCEDURES/PAYERS.COVERED_PROCEDURES_l-n> .
 
@@ -291,7 +295,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "274f1b2e-0f0b-4970-9fba-d7f7f622e65e";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0e0e2574-e0d5-46af-93af-d2a5108bec81";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_PROCEDURES/UNCOVERED_PROCEDURES_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_PROCEDURES/PAYERS.UNCOVERED_PROCEDURES_l-n> .
 
@@ -311,7 +315,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b866493d-c416-4357-95e7-2848f04e8cc6";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "1aa1c2e1-603c-4516-97b8-ed81a7f6e981";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_IMMUNIZATIONS/COVERED_IMMUNIZATIONS_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/COVERED_IMMUNIZATIONS/PAYERS.COVERED_IMMUNIZATIONS_l-n> .
 
@@ -331,7 +335,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "67af1fb1-50a8-4184-a502-9bcbf972722d";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9052d82b-08ae-426f-bc28-8fcca4716dec";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_IMMUNIZATIONS/UNCOVERED_IMMUNIZATIONS_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNCOVERED_IMMUNIZATIONS/PAYERS.UNCOVERED_IMMUNIZATIONS_l-n> .
 
@@ -351,7 +355,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "4ee2a863-1554-4bd1-b31b-d812774d375e";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "3c1b3a54-d274-4f70-b534-48bc2ee590fe";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNIQUE_CUSTOMERS/UNIQUE_CUSTOMERS_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/UNIQUE_CUSTOMERS/PAYERS.UNIQUE_CUSTOMERS_l-n> .
 
@@ -371,7 +375,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "225dd858-ab0f-4ed7-87fe-04eed0f3aaa0";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "cfb5e999-ede5-4958-a765-2079aa58706d";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/QOLS_AVG/QOLS_AVG_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/QOLS_AVG/PAYERS.QOLS_AVG_l-n> .
 
@@ -389,7 +393,7 @@
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#PAYERS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "797caa74-dda1-4b72-bc72-34bb4dc2ce17";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "17bd1e81-6caa-44cf-be15-54c94d80d477";
   <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#PAYERS/MEMBER_MONTHS/MEMBER_MONTHS_l-n>;
   <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#PAYERS/MEMBER_MONTHS/PAYERS.MEMBER_MONTHS_l-n> .
 
