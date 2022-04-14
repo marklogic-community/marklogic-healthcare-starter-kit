@@ -1,118 +1,214 @@
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS> a <http://vocabulary.marklogic.com/SDC#Structure>;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "dc9997bf-66c8-488c-83e1-9fc39c8064e9";
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "01c37574-9dc6-4c2b-8ccd-bed3c95968a8";
   <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#csvFile>;
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ORGANIZATIONS_en> .
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ORGANIZATIONS_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ORGANIZATIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ORGANIZATIONS_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/Id> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> true;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c96fe84d-cc88-41a6-8753-f291e919b334";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/Id/Id_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e93aba7b-b8a1-4d94-9326-ba4dea323900";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/Id/Id_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/Id/ORGANIZATIONS.Id_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/Id/Id_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "Id"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/Id/Id_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "Id" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/Id/ORGANIZATIONS.Id_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.Id" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/Id/csvFile.ORGANIZATIONS.Id_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.Id" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/NAME> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "70f7b09b-897c-4964-a9bc-3ea7ec1f0cd5";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/NAME/NAME_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "5f243762-9049-42a9-83eb-7f1ca0710674";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/NAME/NAME_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/NAME/ORGANIZATIONS.NAME_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/NAME/NAME_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "NAME"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/NAME/NAME_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "NAME" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/NAME/ORGANIZATIONS.NAME_l-n> a
+    <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.NAME" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/NAME/csvFile.ORGANIZATIONS.NAME_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.NAME" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ADDRESS> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f7f6e527-c002-4579-be59-7b9b5b5694d8";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ADDRESS/ADDRESS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b430c5f1-ae42-43c8-9ada-6a014be357c1";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ADDRESS/ADDRESS_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ADDRESS/ORGANIZATIONS.ADDRESS_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ADDRESS/ADDRESS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "ADDRESS"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ADDRESS/ADDRESS_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ADDRESS" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ADDRESS/ORGANIZATIONS.ADDRESS_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.ADDRESS" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ADDRESS/csvFile.ORGANIZATIONS.ADDRESS_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.ADDRESS" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/CITY> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e63f6e96-23e6-40e1-ae29-de4026cdb58d";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/CITY/CITY_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "15cb69ac-7595-4e38-945d-f6526dbb9024";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/CITY/CITY_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/CITY/ORGANIZATIONS.CITY_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/CITY/CITY_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "CITY"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/CITY/CITY_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CITY" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/CITY/ORGANIZATIONS.CITY_l-n> a
+    <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.CITY" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/CITY/csvFile.ORGANIZATIONS.CITY_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.CITY" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/STATE> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b8eaf3a2-fa44-4cbc-aacf-f8315f4e71dc";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/STATE/STATE_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b1c31dc4-c5d0-42c1-964d-ffbedc1fca2f";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/STATE/STATE_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/STATE/ORGANIZATIONS.STATE_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/STATE/STATE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "STATE"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/STATE/STATE_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "STATE" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/STATE/ORGANIZATIONS.STATE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.STATE" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/STATE/csvFile.ORGANIZATIONS.STATE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.STATE" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ZIP> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e07f05e8-ecdb-424e-b121-fe2829e8880b";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ZIP/ZIP_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d53310ca-6f4a-44fa-8f5b-3db1b94ac204";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ZIP/ZIP_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ZIP/ORGANIZATIONS.ZIP_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ZIP/ZIP_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "ZIP"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ZIP/ZIP_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ZIP" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ZIP/ORGANIZATIONS.ZIP_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.ZIP" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/ZIP/csvFile.ORGANIZATIONS.ZIP_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.ZIP" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LAT> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c511b4f8-1588-47c7-8274-d7fb804045c1";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LAT/LAT_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d9219d60-f17f-4902-9fd3-88c5b03f7159";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LAT/LAT_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LAT/ORGANIZATIONS.LAT_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LAT/LAT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "LAT"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LAT/LAT_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "LAT" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LAT/ORGANIZATIONS.LAT_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.LAT" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LAT/csvFile.ORGANIZATIONS.LAT_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.LAT" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LON> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "bfb8700a-9e1c-4324-8651-c80bb432ca2f";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LON/LON_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "62861c0b-c7ef-43cb-887b-b1e0d433504a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LON/LON_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LON/ORGANIZATIONS.LON_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LON/LON_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "LON"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LON/LON_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "LON" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LON/ORGANIZATIONS.LON_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.LON" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/LON/csvFile.ORGANIZATIONS.LON_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.LON" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/PHONE> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "be7c3654-0aeb-47c1-b558-4fce9430da02";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/PHONE/PHONE_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0a054adb-2750-458a-98c9-1d3a4ef896c6";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/PHONE/PHONE_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/PHONE/ORGANIZATIONS.PHONE_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/PHONE/PHONE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "PHONE"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/PHONE/PHONE_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PHONE" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/PHONE/ORGANIZATIONS.PHONE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.PHONE" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/PHONE/csvFile.ORGANIZATIONS.PHONE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.PHONE" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/REVENUE> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f6a40fdf-add9-4dea-95f2-0169c6512961";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/REVENUE/REVENUE_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e83285b0-8efe-4d27-974f-4fb60da1e605";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/REVENUE/REVENUE_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/REVENUE/ORGANIZATIONS.REVENUE_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/REVENUE/REVENUE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "REVENUE"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/REVENUE/REVENUE_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "REVENUE" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/REVENUE/ORGANIZATIONS.REVENUE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.REVENUE" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/REVENUE/csvFile.ORGANIZATIONS.REVENUE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.REVENUE" .
 
 <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/UTILIZATION> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f511403b-7800-4ec0-9f70-bef8895ad0d6";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/UTILIZATION/UTILIZATION_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "138e295c-919d-4cd9-9818-c52a3b403965";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/UTILIZATION/UTILIZATION_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ORGANIZATIONS/UTILIZATION/ORGANIZATIONS.UTILIZATION_l-n> .
 
-<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/UTILIZATION/UTILIZATION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "UTILIZATION"@en .
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/UTILIZATION/UTILIZATION_l-n> a
+    <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "UTILIZATION" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/UTILIZATION/ORGANIZATIONS.UTILIZATION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATIONS.UTILIZATION" .
+
+<http://hsk.marklogic.com/csv-import#ORGANIZATIONS/UTILIZATION/csvFile.ORGANIZATIONS.UTILIZATION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ORGANIZATIONS.UTILIZATION" .
