@@ -116,6 +116,8 @@ To ingest your input data CSV files and create Ontology RDF from them, you can r
 
 - `--path`: A path to a single CSV file or a directory containing multiple CSV files. Directories are scanned recursively. Defaults to `./data/synthea/csv`
 - `--prefix`: A custom prefix to use for IRI data parsed from the CSV file(s) in the output TTL. Defaults to `http://hsk.marklogic.com/csv-import#`
+- `--preferAltLabel`: Prefer the short alternate label (e.g.: `CLAIMS.PATIENTID`) when outputting TTL
+- `--preferFullAltLabel`: Prefer the long alternate label (e.g.: `csvFile.CLAIMS.PATIENTID`) when outputting TTL
 
 #### Ingesting Entity JSON into Ontology RDF
 
@@ -123,6 +125,8 @@ Ingesting Entity JSON is very similar to ingesting CSV files. To ingest your Ent
 
 - `--path`: A path to a single CSV file or a directory containing multiple CSV files. Directories are scanned recursively. Defaults to `./entities`
 - `--prefix`: A custom prefix to use for IRI data parsed from the CSV file(s) in the output TTL. Defaults to `http://hsk.marklogic.com/entity-import#`
+- `--preferAltLabel`: Prefer the short alternate label (e.g.: `Claim.id`) when outputting TTL
+- `--preferFullAltLabel`: Prefer the long alternate label (e.g.: `MLEntity.Claim.id`) when outputting TTL
 
 ### Running Unit and Integration Tests
 

@@ -11,11 +11,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.regex.Pattern;
 
-import net.sourceforge.argparse4j.ArgumentParsers;
-import net.sourceforge.argparse4j.inf.ArgumentParser;
-import net.sourceforge.argparse4j.inf.ArgumentParserException;
-import net.sourceforge.argparse4j.inf.Namespace;
-
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
@@ -34,6 +29,13 @@ import org.eclipse.rdf4j.rio.RDFFormat;
 import org.eclipse.rdf4j.rio.RDFHandlerException;
 import org.eclipse.rdf4j.rio.RDFWriter;
 import org.eclipse.rdf4j.rio.Rio;
+
+import net.sourceforge.argparse4j.ArgumentParsers;
+import net.sourceforge.argparse4j.impl.Arguments;
+import net.sourceforge.argparse4j.inf.ArgumentParser;
+import net.sourceforge.argparse4j.inf.ArgumentParserException;
+import net.sourceforge.argparse4j.inf.MutuallyExclusiveGroup;
+import net.sourceforge.argparse4j.inf.Namespace;
 
 public class CSVToTTLConverter {
   public static void main(String[] argv) throws IOException {
@@ -67,6 +69,22 @@ public class CSVToTTLConverter {
       .addArgument("--prefix")
       .setDefault("http://hsk.marklogic.com/csv-import#")
       .help("Specify a custom prefix for inserted triple subject IRIs")
+      ;
+
+    MutuallyExclusiveGroup group = parser.addMutuallyExclusiveGroup();
+
+    group
+      .addArgument("--preferAltLabel")
+      .setDefault(false)
+      .action(Arguments.storeTrue())
+      .help("Prefer the more verbose alternate label as the primary label when outputting TTL")
+      ;
+
+    group
+      .addArgument("--preferFullAltLabel")
+      .setDefault(false)
+      .action(Arguments.storeTrue())
+      .help("Prefer the full alternate label as the primary label when outputting TTL. Implies --preferAltLabel for subjects without a full alternate label.")
       ;
 
     try {
@@ -277,12 +295,15 @@ public class CSVToTTLConverter {
     String labelSubject = subject + "/" + typeName + "_l-n";
     String altLabelSubject = subject + "/csvFile." + typeName + "_l-n";
 
+    // Perform boolean comparison in case --preferAltLabel isn't found and getBoolean returns null
+    boolean preferAltLabel = this.args.getBoolean("preferAltLabel") == true || this.args.getBoolean("preferFullAltLabel") == true;
+
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Structure")
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
       .add(subject, "skos:broader", "sdc:csvFile")
-      .add(subject, "skosxl:prefLabel", labelSubject)
-      .add(subject, "skosxl:altLabel", altLabelSubject)
+      .add(subject, "skosxl:prefLabel", !preferAltLabel ? labelSubject : altLabelSubject)
+      .add(subject, "skosxl:altLabel", !preferAltLabel ? altLabelSubject : labelSubject)
       ;
 
     mb.defaultGraph()
@@ -310,15 +331,24 @@ public class CSVToTTLConverter {
     String altLabelSubject = subject + "/" + typeName + "." + fieldName + "_l-n";
     String fullAltLabelSubject = subject + "/csvFile." + typeName + "." + fieldName + "_l-n";
 
+    // Perform boolean comparison in case --preferAltLabel isn't found and getBoolean returns null
+    boolean preferAltLabel = this.args.getBoolean("preferAltLabel") == true;
+    boolean preferFullAltLabel = this.args.getBoolean("preferFullAltLabel") == true;
+
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Field")
       .add(subject, "sdc:isFieldIn", structureSubject)
       .add(subject, "sdc:isKey", fieldName.toLowerCase().equals("id"))
       .add(subject, "sdc:isList", false)
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
-      .add(subject, "skosxl:prefLabel", labelSubject)
-      .add(subject, "skosxl:altLabel", altLabelSubject)
-      .add(subject, "skosxl:altLabel", fullAltLabelSubject)
+      .add(subject, "skosxl:prefLabel", preferFullAltLabel
+        ? fullAltLabelSubject
+        : preferAltLabel
+          ? altLabelSubject
+          : labelSubject
+      )
+      .add(subject, "skosxl:altLabel", preferAltLabel ? labelSubject : altLabelSubject)
+      .add(subject, "skosxl:altLabel", preferFullAltLabel ? labelSubject : fullAltLabelSubject)
       ;
 
     mb.defaultGraph()
