@@ -1,0 +1,162 @@
+@prefix semspinadapter: <http://www.smartlogic.com/2019/08/semaphore-spin-adapter#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix semcommands: <http://www.smartlogic.com/2019/04/semaphore-commands#> .
+@prefix semshreports: <http://www.smartlogic.com/2018/10/semaphore-shacl-reports#> .
+@prefix semshfun: <http://www.smartlogic.com/2018/03/semaphore-shacl-functions#> .
+@prefix spif:  <http://spinrdf.org/spif#> .
+@prefix tables: <http://topbraid.org/tables#> .
+@prefix semvar: <http://www.smartlogic.com/2015/10/semaphore-var#> .
+@prefix teamworkrulesx: <http://www.smartlogic.com/2016/05/semaphore-teamworkrulesx#> .
+@prefix ui:    <http://uispin.org/ui#> .
+@prefix semutils: <http://www.smartlogic.com/2015/09/semaphore-utils#> .
+@prefix sysmodel: <urn:x-sys-model:> .
+@prefix evntask: <urn:x-evn-tag:> .
+@prefix semreports: <http://www.smartlogic.com/2017/06/semaphore-reports#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix model: <urn:x-evn-master:> .
+@prefix tag:   <urn:x-tags:> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix sioc:  <http://rdfs.org/sioc/ns#> .
+@prefix systask: <urn:x-sys-task:> .
+@prefix sempubfun: <http://www.smartlogic.com/2019/08/semaphore-publisher-functions#> .
+@prefix specialgraph: <urn:x-special-graph:> .
+@prefix tempgraph: <urn:x-temp-graph:> .
+@prefix recservice: <http://www.smartlogic.com/2021/05/reconciliation-services#> .
+@prefix semui: <http://www.smartlogic.com/2017/12/semaphore-ui#> .
+@prefix list:  <http://jena.hpl.hp.com/ARQ/list#> .
+@prefix semplugin: <http://www.smartlogic.com/2018/06/semaphore-plugins#> .
+@prefix spl:   <http://spinrdf.org/spl#> .
+@prefix semlang: <http://www.smartlogic.com/2015/03/semaphore-languages#> .
+@prefix semordrules: <http://www.smartlogic.com/2018/03/semaphore-ordering-rules#> .
+@prefix task:  <urn:x-ort-tag:> .
+@prefix sempubconf: <http://www.smartlogic.com/2019/04/semaphore-publisher-configuration#> .
+@prefix taxonomies: <http://evn.topbraidlive.org/evnprojects#> .
+@prefix semwidgets: <http://www.smartlogic.com/2016/02/semaphore-widgets#> .
+@prefix meta:  <http://www.smartlogic.com/2014/10/semaphore-meta#> .
+@prefix semgroups: <http://www.smartlogic.com/2018/04/semaphore-groups#> .
+@prefix semfun: <http://www.smartlogic.com/2015/02/semaphore-functions#> .
+@prefix sempub: <http://www.smartlogic.com/2017/06/semaphore-publisher#> .
+@prefix factsExample: <http://www.smartlogic.com/2018/01/semaphore-fact-extraction-example-model#> .
+@prefix sempermissions: <http://www.smartlogic.com/2015/11/semaphore-permissions#> .
+@prefix role:  <urn:x-tb-role:> .
+@prefix semgroupsfun: <http://www.smartlogic.com/2018/04/semaphore-groups-functions#> .
+@prefix sempubpermissions: <http://www.smartlogic.com/2019/03/semaphore-publisher-permissions#> .
+@prefix fn:    <http://www.w3.org/2005/xpath-functions#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix semvirtfun: <http://www.smartlogic.com/2019/01/semaphore-virtualgraph-functions#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sys:   <http://www.smartlogic.com/2014/10/semaphore-sys#> .
+@prefix tchmodel: <urn:x-evn-tch-union:> .
+@prefix smf:   <http://topbraid.org/sparqlmotionfunctions#> .
+@prefix facts: <http://www.smartlogic.com/2018/01/semaphore-fact-extraction#> .
+@prefix example: <http://proto.smartlogic.com/example#> .
+@prefix systaskext: <urn:x-sys-task-with-master:> .
+@prefix semtemplates: <http://www.smartlogic.com/2016/04/semaphore-templates#> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix semmonitoring: <http://www.smartlogic.com/2019/02/semaphore-monitoring#> .
+@prefix arg:   <http://spinrdf.org/arg#> .
+@prefix semspincache: <http://www.smartlogic.com/2018/06/semaphore-spin-cache#> .
+@prefix semord: <http://www.smartlogic.com/2018/03/semaphore-ordering#> .
+@prefix sem:   <http://www.smartlogic.com/2014/08/semaphore-core#> .
+@prefix evnimport: <urn:x-tb:evnimport#> .
+@prefix spinmap: <http://spinrdf.org/spinmap#> .
+@prefix lang:  <http://id.loc.gov/vocabulary/iso639-1/> .
+@prefix sp:    <http://spinrdf.org/sp#> .
+@prefix semspin: <http://www.smartlogic.com/2015/02/semaphore-spin-functions#> .
+@prefix factsEntities: <http://www.smartlogic.com/2018/01/semaphore-fact-extraction-entities#> .
+@prefix semordfun: <http://www.smartlogic.com/2018/03/semaphore-ordering-functions#> .
+@prefix temp:  <urn:x-temp:> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix afn:   <http://jena.apache.org/ARQ/function#> .
+@prefix semupdates: <http://www.smartlogic.com/2019/04/semaphore-updates#> .
+@prefix semlisteners: <http://www.smartlogic.com/2016/10/semaphore-listeners#> .
+@prefix semsys: <http://www.smartlogic.com/2019/09/semaphore-system#> .
+@prefix semvirt: <http://www.smartlogic.com/2019/01/semaphore-virtualgraph#> .
+@prefix semsh: <http://www.smartlogic.com/2019/06/semaphore-shacl#> .
+@prefix teamwork: <http://topbraid.org/teamwork#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix spin:  <http://spinrdf.org/spin#> .
+@prefix semupgrade: <http://www.smartlogic.com/2019/03/semaphore-upgrade#> .
+@prefix sempath: <http://www.smartlogic.com/2016/01/semaphore-path#> .
+@prefix semspinmap: <http://www.smartlogic.com/2016/04/semaphore-spinMap#> .
+@prefix swa:   <http://topbraid.org/swa#> .
+@prefix user:  <urn:x-tb-users:> .
+@prefix semspinx: <http://www.smartlogic.com/2015/11/semaphore-spin#> .
+@prefix semworkspace: <http://www.smartlogic.com/2019/01/semaphore-workspace#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+@prefix semmaprel: <http://www.smartlogic.com/2021/03/semaphore-mapping-relationship#> .
+
+<http://vocabulary.marklogic.com/SDC#Field>
+        a                owl:Class ;
+        rdfs:label       "Field"@en ;
+        rdfs:subClassOf  skos:Concept .
+
+<http://vocabulary.marklogic.com/SDC#Structure>
+        a                owl:Class ;
+        rdfs:label       "Structure"@en ;
+        rdfs:subClassOf  skos:Concept .
+
+<http://vocabulary.marklogic.com/SDC#hasField>
+        a                   owl:ObjectProperty ;
+        rdfs:domain         <http://vocabulary.marklogic.com/SDC#Structure> ;
+        rdfs:label          "hasField"@en ;
+        rdfs:range          <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:subPropertyOf  skos:narrower ;
+        owl:inverseOf       <http://vocabulary.marklogic.com/SDC#isFieldIn> .
+
+
+<http://vocabulary.marklogic.com/SDC#isFieldIn>
+        a                   owl:ObjectProperty ;
+        rdfs:domain         <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:label          "isFieldIn"@en ;
+        rdfs:range          <http://vocabulary.marklogic.com/SDC#Structure> ;
+        rdfs:subPropertyOf  skos:broader ;
+        owl:inverseOf       <http://vocabulary.marklogic.com/SDC#hasField> .
+
+<http://vocabulary.marklogic.com/SDC#foreignKeyReferences>
+        a                   owl:ObjectProperty ;
+        rdfs:domain         <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:label          "foreignKeyReferences"@en ;
+        rdfs:range          <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:subPropertyOf  skos:related ;
+        owl:inverseOf       <http://vocabulary.marklogic.com/SDC#referencedByForeignKey> .
+
+<http://vocabulary.marklogic.com/SDC#referencedByForeignKey>
+        a                   owl:ObjectProperty ;
+        rdfs:domain         <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:label          "referencedByForeignKey"@en ;
+        rdfs:range          <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:subPropertyOf  skos:related ;
+        owl:inverseOf       <http://vocabulary.marklogic.com/SDC#foreignKeyReferences> .
+
+<http://vocabulary.marklogic.com/SDC#dependsOn>
+        a                   owl:ObjectProperty ;
+        rdfs:domain         <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:label          "dependsOn"@en ;
+        rdfs:range          <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:subPropertyOf  skos:related ;
+        owl:inverseOf       <http://vocabulary.marklogic.com/SDC#sourceOf> .
+
+<http://vocabulary.marklogic.com/SDC#sourceOf>
+        a                   owl:ObjectProperty ;
+        rdfs:domain         <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:label          "sourceOf"@en ;
+        rdfs:range          <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:subPropertyOf  skos:related ;
+        owl:inverseOf       <http://vocabulary.marklogic.com/SDC#dependsOn> .
+
+<http://vocabulary.marklogic.com/SDC#isKey>
+        a                 owl:DatatypeProperty ;
+        rdfs:domain       <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:label        "isKey"@en ;
+        rdfs:range        xsd:boolean ;
+        sem:defaultValue  false .
+
+<http://vocabulary.marklogic.com/SDC#isList>
+        a                 owl:DatatypeProperty ;
+        rdfs:domain       <http://vocabulary.marklogic.com/SDC#Field> ;
+        rdfs:label        "isList"@en ;
+        rdfs:range        xsd:boolean ;
+        sem:defaultValue  false .
+
