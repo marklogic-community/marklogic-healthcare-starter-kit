@@ -1,68 +1,133 @@
 
 <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS> a <http://vocabulary.marklogic.com/SDC#Structure>;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ca0a7762-1142-4739-9be6-bf0dea5c82d6";
-  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#CSVRawinputs>;
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/IMMUNIZATIONS_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "67f86a24-13fb-4656-87b4-05bf0034e0d9";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#csvFile>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/IMMUNIZATIONS_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/csvFile.IMMUNIZATIONS_l-n> .
 
-<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/IMMUNIZATIONS_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "IMMUNIZATIONS"@en .
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/IMMUNIZATIONS_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "IMMUNIZATIONS" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/csvFile.IMMUNIZATIONS_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.IMMUNIZATIONS" .
 
 <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DATE> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "d052e961-5fce-463c-bfb8-591b2c64b03f";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DATE/DATE_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9c47c1b4-c2cc-4605-bce4-2b65aa1b11c1";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DATE/DATE_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DATE/IMMUNIZATIONS.DATE_l-n>,
+    <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DATE/csvFile.IMMUNIZATIONS.DATE_l-n> .
 
-<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DATE/DATE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "DATE"@en .
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DATE/DATE_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DATE" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DATE/IMMUNIZATIONS.DATE_l-n> a
+    <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "IMMUNIZATIONS.DATE" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DATE/csvFile.IMMUNIZATIONS.DATE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.IMMUNIZATIONS.DATE" .
 
 <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "1fc714d2-a9ae-4fb2-89a5-732a88c80b66";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/PATIENT/PATIENT_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "b9c24ad2-14ea-4cbc-a849-143e91d1ad9c";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/PATIENT/PATIENT_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/PATIENT/IMMUNIZATIONS.PATIENT_l-n>,
+    <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/PATIENT/csvFile.IMMUNIZATIONS.PATIENT_l-n> .
 
-<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/PATIENT/PATIENT_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT"@en .
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/PATIENT/PATIENT_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/PATIENT/IMMUNIZATIONS.PATIENT_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "IMMUNIZATIONS.PATIENT" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/PATIENT/csvFile.IMMUNIZATIONS.PATIENT_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.IMMUNIZATIONS.PATIENT" .
 
 <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/ENCOUNTER> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f720e066-31c0-41ca-8ecb-d2e4dcda9704";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/ENCOUNTER/ENCOUNTER_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "f5d1ab35-3db1-4e58-b41e-a6e1e997513a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/ENCOUNTER/ENCOUNTER_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/ENCOUNTER/IMMUNIZATIONS.ENCOUNTER_l-n>,
+    <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/ENCOUNTER/csvFile.IMMUNIZATIONS.ENCOUNTER_l-n> .
 
-<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/ENCOUNTER/ENCOUNTER_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTER"@en .
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/ENCOUNTER/ENCOUNTER_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTER" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/ENCOUNTER/IMMUNIZATIONS.ENCOUNTER_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "IMMUNIZATIONS.ENCOUNTER" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/ENCOUNTER/csvFile.IMMUNIZATIONS.ENCOUNTER_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.IMMUNIZATIONS.ENCOUNTER" .
 
 <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/CODE> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "5ab7e786-c187-4f5c-982e-e3263f9e7867";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/CODE/CODE_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ca749474-5ef1-469e-b368-39a83f32ecd5";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/CODE/CODE_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/CODE/IMMUNIZATIONS.CODE_l-n>,
+    <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/CODE/csvFile.IMMUNIZATIONS.CODE_l-n> .
 
-<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/CODE/CODE_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "CODE"@en .
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/CODE/CODE_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CODE" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/CODE/IMMUNIZATIONS.CODE_l-n> a
+    <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "IMMUNIZATIONS.CODE" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/CODE/csvFile.IMMUNIZATIONS.CODE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.IMMUNIZATIONS.CODE" .
 
 <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "aa3316ba-574c-418a-9f38-4fe30bb32aad";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DESCRIPTION/DESCRIPTION_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "e9a01dfb-84e0-45a5-8d44-627723b76835";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DESCRIPTION/DESCRIPTION_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DESCRIPTION/IMMUNIZATIONS.DESCRIPTION_l-n>,
+    <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DESCRIPTION/csvFile.IMMUNIZATIONS.DESCRIPTION_l-n> .
 
-<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DESCRIPTION/DESCRIPTION_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION"@en .
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DESCRIPTION/DESCRIPTION_l-n> a
+    <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DESCRIPTION/IMMUNIZATIONS.DESCRIPTION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "IMMUNIZATIONS.DESCRIPTION" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/DESCRIPTION/csvFile.IMMUNIZATIONS.DESCRIPTION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.IMMUNIZATIONS.DESCRIPTION" .
 
 <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/BASE_COST> a <http://vocabulary.marklogic.com/SDC#Field>;
   <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS>;
   <http://vocabulary.marklogic.com/SDC#isKey> false;
   <http://vocabulary.marklogic.com/SDC#isList> false;
-  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "fac33439-244c-49de-9b8a-f6f9659f2704";
-  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/BASE_COST/BASE_COST_en> .
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "923d9b63-1e2d-4cd6-b5eb-e0aeb1a80886";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/BASE_COST/BASE_COST_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/BASE_COST/IMMUNIZATIONS.BASE_COST_l-n>,
+    <http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/BASE_COST/csvFile.IMMUNIZATIONS.BASE_COST_l-n> .
 
-<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/BASE_COST/BASE_COST_en> a <http://www.w3.org/2008/05/skos-xl#Label>;
-  <http://www.w3.org/2008/05/skos-xl#literalForm> "BASE_COST"@en .
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/BASE_COST/BASE_COST_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "BASE_COST" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/BASE_COST/IMMUNIZATIONS.BASE_COST_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "IMMUNIZATIONS.BASE_COST" .
+
+<http://hsk.marklogic.com/csv-import#IMMUNIZATIONS/BASE_COST/csvFile.IMMUNIZATIONS.BASE_COST_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.IMMUNIZATIONS.BASE_COST" .

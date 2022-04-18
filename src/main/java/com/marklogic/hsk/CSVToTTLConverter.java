@@ -274,18 +274,25 @@ public class CSVToTTLConverter {
    */
   private void addConceptStructure(ModelBuilder mb, String typeName) {
     String subject = "hsk:" + typeName;
-    String labelSubject = subject + "/" + typeName + "_en";
+    String labelSubject = subject + "/" + typeName + "_l-n";
+    String altLabelSubject = subject + "/csvFile." + typeName + "_l-n";
 
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Structure")
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
-      .add(subject, "skos:broader", "sdc:CSVRawinputs")
+      .add(subject, "skos:broader", "sdc:csvFile")
       .add(subject, "skosxl:prefLabel", labelSubject)
+      .add(subject, "skosxl:altLabel", altLabelSubject)
       ;
 
     mb.defaultGraph()
       .add(labelSubject, "rdf:type", "skosxl:Label")
-      .add(labelSubject, "skosxl:literalForm", literal(typeName, "en"))
+      .add(labelSubject, "skosxl:literalForm", literal(typeName))
+      ;
+
+    mb.defaultGraph()
+      .add(altLabelSubject, "rdf:type", "skosxl:Label")
+      .add(altLabelSubject, "skosxl:literalForm", literal("csvFile." + typeName))
       ;
   }
 
@@ -299,7 +306,9 @@ public class CSVToTTLConverter {
   private void addConceptField(ModelBuilder mb, String typeName, String fieldName) {
     String structureSubject = "hsk:" + typeName;
     String subject = structureSubject + "/" + fieldName;
-    String labelSubject = subject + "/" + fieldName + "_en";
+    String labelSubject = subject + "/" + fieldName + "_l-n";
+    String altLabelSubject = subject + "/" + typeName + "." + fieldName + "_l-n";
+    String fullAltLabelSubject = subject + "/csvFile." + typeName + "." + fieldName + "_l-n";
 
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Field")
@@ -308,11 +317,23 @@ public class CSVToTTLConverter {
       .add(subject, "sdc:isList", false)
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
       .add(subject, "skosxl:prefLabel", labelSubject)
+      .add(subject, "skosxl:altLabel", altLabelSubject)
+      .add(subject, "skosxl:altLabel", fullAltLabelSubject)
       ;
 
     mb.defaultGraph()
       .add(labelSubject, "rdf:type", "skosxl:Label")
-      .add(labelSubject, "skosxl:literalForm", literal(fieldName, "en"))
+      .add(labelSubject, "skosxl:literalForm", literal(fieldName))
+      ;
+
+    mb.defaultGraph()
+      .add(altLabelSubject, "rdf:type", "skosxl:Label")
+      .add(altLabelSubject, "skosxl:literalForm", literal(typeName + "." + fieldName))
+      ;
+
+    mb.defaultGraph()
+      .add(fullAltLabelSubject, "rdf:type", "skosxl:Label")
+      .add(fullAltLabelSubject, "skosxl:literalForm", literal("csvFile." + typeName + "." + fieldName))
       ;
   }
 }
