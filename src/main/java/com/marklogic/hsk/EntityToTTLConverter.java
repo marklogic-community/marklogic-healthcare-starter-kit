@@ -5,15 +5,15 @@ import static org.eclipse.rdf4j.model.util.Values.literal;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.List;
-import java.util.regex.Pattern;
+import java.util.Map;
 
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVParser;
-import org.apache.commons.csv.CSVRecord;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 import org.eclipse.rdf4j.model.Model;
 import org.eclipse.rdf4j.model.Statement;
 import org.eclipse.rdf4j.model.util.ModelBuilder;
@@ -37,11 +37,11 @@ import net.sourceforge.argparse4j.inf.ArgumentParserException;
 import net.sourceforge.argparse4j.inf.MutuallyExclusiveGroup;
 import net.sourceforge.argparse4j.inf.Namespace;
 
-public class CSVToTTLConverter {
+public class EntityToTTLConverter {
   public static void main(String[] argv) throws IOException {
-    Namespace ns = CSVToTTLConverter.parseArguments(argv);
+    Namespace ns = EntityToTTLConverter.parseArguments(argv);
 
-    new CSVToTTLConverter(ns).convertCSVToTTL();
+    new EntityToTTLConverter(ns).convertEntityToTTL();
   }
 
   /**
@@ -53,7 +53,8 @@ public class CSVToTTLConverter {
    */
   private static Namespace parseArguments(String[] argv) {
     ArgumentParser parser = ArgumentParsers
-      .newFor("CSVToTTLConverter")
+      .newFor("EntityToTTLConverter")
+      .mustHelpTextIncludeMutualExclusivity(true)
       .build()
       .defaultHelp(true)
       .description("Convert CSV file(s) along given path to TTL files for SmartLogic ingest")
@@ -61,13 +62,13 @@ public class CSVToTTLConverter {
 
     parser
       .addArgument("--path")
-      .setDefault("./data/synthea/csv")
-      .help("Specify the path to scan for CSV files")
+      .setDefault("./entities")
+      .help("Specify the path to scan for Entity JSON files")
       ;
 
     parser
       .addArgument("--prefix")
-      .setDefault("http://hsk.marklogic.com/csv-import#")
+      .setDefault("http://hsk.marklogic.com/entity-import#")
       .help("Specify a custom prefix for inserted triple subject IRIs")
       ;
 
@@ -107,7 +108,7 @@ public class CSVToTTLConverter {
    *
    * @param  args  The Argument Parser Namespace containing arguments given over the command line
    */
-  public CSVToTTLConverter(Namespace args) {
+  public EntityToTTLConverter(Namespace args) {
     this.args = args;
   }
 
@@ -116,17 +117,17 @@ public class CSVToTTLConverter {
    *
    * @throws IOException  Failed to read/write a file
    */
-  public void convertCSVToTTL() throws IOException {
+  public void convertEntityToTTL() throws IOException {
     String path = this.args.getString("path");
-    List<File> csvFiles = this.findAllCSVFilesAlongPath(path);
+    List<File> jsonFiles = this.findAllJsonFilesAlongPath(path);
 
-    if (csvFiles.size() == 0) {
-      throw new RuntimeException("No CSV files found along path " + path);
+    if (jsonFiles.size() == 0) {
+      throw new RuntimeException("No JSON files found along path " + path);
     }
 
     HashSet<String> visitedTypes = new HashSet<String>();
 
-    for (File file : csvFiles) {
+    for (File file : jsonFiles) {
       String fileName = file.getName();
       String typeName = getTypeNameFromFileName(fileName);
 
@@ -137,34 +138,32 @@ public class CSVToTTLConverter {
 
       visitedTypes.add(typeName);
 
-      CSVRecord headers = CSVParser
-        .parse(file, StandardCharsets.UTF_8, CSVFormat.DEFAULT)
-        .iterator()
-        .next();
+      ObjectMapper om = new ObjectMapper();
+      JsonNode entity = om.readTree(file);
 
-      this.createTTLForFile(typeName, headers);
+      this.createTTLForFile(typeName, entity.get("definitions"));
     }
   }
 
   /**
-   * Finds all CSV files along path.
+   * Finds all JSON files along path.
    *
    * @param  path  The path
    *
-   * @return The list of CSV files found
+   * @return The list of JSON files found
    */
-  private List<File> findAllCSVFilesAlongPath(String path) {
-    return this.findAllCSVFilesAlongPath(new File(path));
+  private List<File> findAllJsonFilesAlongPath(String path) {
+    return this.findAllJsonFilesAlongPath(new File(path));
   }
 
   /**
-   * Finds all CSV files along path.
+   * Finds all JSON files along path.
    *
    * @param  dirent  The dirent
    *
-   * @return The list of CSV files found
+   * @return The list of JSON files found
    */
-  private List<File> findAllCSVFilesAlongPath(File dirent) {
+  private List<File> findAllJsonFilesAlongPath(File dirent) {
     List<File> result = new ArrayList<File>();
 
     if (dirent.isFile()) {
@@ -175,8 +174,8 @@ public class CSVToTTLConverter {
       if (entries != null) {
         for (File entry : entries) {
           if (entry.isDirectory()) {
-            result.addAll(this.findAllCSVFilesAlongPath(entry));
-          } else if (entry.getName().endsWith(".csv")) {
+            result.addAll(this.findAllJsonFilesAlongPath(entry));
+          } else if (entry.getName().endsWith(".json")) {
             result.add(entry);
           }
         }
@@ -194,15 +193,9 @@ public class CSVToTTLConverter {
    * @return The type name inferred from the file name.
    */
   private String getTypeNameFromFileName(String fileName) {
-    final Pattern typeNameContainsNumber = Pattern.compile(".*_\\d+$");
-
     String typeName = fileName.substring(0, fileName.indexOf('.'));
 
-    if (typeNameContainsNumber.matcher(typeName).matches()) {
-      typeName = typeName.substring(0, typeName.lastIndexOf('_'));
-    }
-
-    return typeName.toUpperCase();
+    return typeName;
   }
 
   /**
@@ -213,18 +206,15 @@ public class CSVToTTLConverter {
    *
    * @throws IOException  Unable to write output file
    */
-  private void createTTLForFile(String typeName, CSVRecord headers) throws IOException {
+  private void createTTLForFile(String typeName, JsonNode definitions) throws IOException {
     ModelBuilder mb = this.getDefaultModelBuilder();
 
-    this.addConceptStructure(mb, typeName);
-    for (String header : headers) {
-      this.addConceptField(mb, typeName, header);
-    }
+    this.addConceptStructure(mb, typeName, definitions.get(typeName).get("properties").fields(), definitions);
 
     Model m = mb.build();
 
-    new File("./csv-to-rdf").mkdir();
-    File outputFile = new File("./csv-to-rdf/" + typeName + ".ttl");
+    new File("./entity-to-rdf").mkdir();
+    File outputFile = new File("./entity-to-rdf/" + typeName + ".ttl");
     outputFile.createNewFile();
     FileOutputStream out = new FileOutputStream(outputFile, false);
     RDFWriter writer = Rio.createWriter(RDFFormat.TURTLE, out);
@@ -287,13 +277,15 @@ public class CSVToTTLConverter {
   /**
    * Add a conceputal structure to the given Model Builder
    *
-   * @param  mb        The Model Builder
-   * @param  typeName  The type name
+   * @param  mb            The Model Builder
+   * @param  typeName      The type name
+   * @param  fieldIterator The properties of this type
+   * @param  definitions   The base object from the entity containing all definitions (used to get and expand references)
    */
-  private void addConceptStructure(ModelBuilder mb, String typeName) {
+  private void addConceptStructure(ModelBuilder mb, String typeName, Iterator<Map.Entry<String, JsonNode>> fieldIterator, JsonNode definitions) {
     String subject = "hsk:" + typeName;
     String labelSubject = subject + "/" + typeName + "_l-n";
-    String altLabelSubject = subject + "/csvFile." + typeName + "_l-n";
+    String altLabelSubject = subject + "/" + "MLEntity." + typeName + "_l-n";
 
     // Perform boolean comparison in case --preferAltLabel isn't found and getBoolean returns null
     boolean preferAltLabel = this.args.getBoolean("preferAltLabel") == true || this.args.getBoolean("preferFullAltLabel") == true;
@@ -301,7 +293,7 @@ public class CSVToTTLConverter {
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Structure")
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
-      .add(subject, "skos:broader", "sdc:csvFile")
+      .add(subject, "skos:broader", "sdc:MLEntity")
       .add(subject, "skosxl:prefLabel", !preferAltLabel ? labelSubject : altLabelSubject)
       .add(subject, "skosxl:altLabel", !preferAltLabel ? altLabelSubject : labelSubject)
       ;
@@ -313,23 +305,41 @@ public class CSVToTTLConverter {
 
     mb.defaultGraph()
       .add(altLabelSubject, "rdf:type", "skosxl:Label")
-      .add(altLabelSubject, "skosxl:literalForm", literal("csvFile." + typeName))
+      .add(altLabelSubject, "skosxl:literalForm", literal("MLEntity." + typeName))
       ;
+
+    while (fieldIterator.hasNext()) {
+      Map.Entry<String, JsonNode> fieldEntry = fieldIterator.next();
+
+      this.addConceptField(mb, subject, typeName, fieldEntry.getKey(), fieldEntry.getValue(), definitions);
+    }
   }
 
   /**
    * Add a conceptual field to the given Model Builder
    *
-   * @param  mb         The Model Builder
-   * @param  typeName   The type name
-   * @param  fieldName  The field name
+   * @param  mb          The Model Builder
+   * @param  baseSubject The parent subject's name (used for isFieldIn)
+   * @param  fieldName   The field name
+   * @param  fieldValue  The JSON Object representing this field in the entity file
+   * @param  definitions The base object from the entity containing all definitions (used to get and expand references)
    */
-  private void addConceptField(ModelBuilder mb, String typeName, String fieldName) {
-    String structureSubject = "hsk:" + typeName;
-    String subject = structureSubject + "/" + fieldName;
+  private void addConceptField(ModelBuilder mb, String baseSubject, String baseLabelPath, String fieldName, JsonNode fieldValue, JsonNode definitions) {
+    String subject = baseSubject + "/" + fieldName;
     String labelSubject = subject + "/" + fieldName + "_l-n";
-    String altLabelSubject = subject + "/" + typeName + "." + fieldName + "_l-n";
-    String fullAltLabelSubject = subject + "/csvFile." + typeName + "." + fieldName + "_l-n";
+    String labelPath = baseLabelPath + "." + fieldName;
+    String altLabelSubject = subject + "/" + labelPath + "_l-n";
+    String fullAltLabelSubject = subject + "/MLEntity." + labelPath + "_l-n";
+
+    boolean isArray = fieldValue.has("datatype") && "array".equals(fieldValue.get("datatype").asText());
+    String refType = isArray
+      ? fieldValue.get("items").has("$ref")
+        ? fieldValue.get("items").get("$ref").asText()
+        : null
+      : fieldValue.has("$ref")
+        ? fieldValue.get("$ref").asText()
+        : null
+      ;
 
     // Perform boolean comparison in case --preferAltLabel isn't found and getBoolean returns null
     boolean preferAltLabel = this.args.getBoolean("preferAltLabel") == true;
@@ -337,9 +347,9 @@ public class CSVToTTLConverter {
 
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Field")
-      .add(subject, "sdc:isFieldIn", structureSubject)
+      .add(subject, "sdc:isFieldIn", baseSubject)
       .add(subject, "sdc:isKey", fieldName.toLowerCase().equals("id"))
-      .add(subject, "sdc:isList", false)
+      .add(subject, "sdc:isList", isArray)
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
       .add(subject, "skosxl:prefLabel", preferFullAltLabel
         ? fullAltLabelSubject
@@ -358,12 +368,25 @@ public class CSVToTTLConverter {
 
     mb.defaultGraph()
       .add(altLabelSubject, "rdf:type", "skosxl:Label")
-      .add(altLabelSubject, "skosxl:literalForm", literal(typeName + "." + fieldName))
+      .add(altLabelSubject, "skosxl:literalForm", literal(labelPath))
       ;
 
     mb.defaultGraph()
       .add(fullAltLabelSubject, "rdf:type", "skosxl:Label")
-      .add(fullAltLabelSubject, "skosxl:literalForm", literal("csvFile." + typeName + "." + fieldName))
+      .add(fullAltLabelSubject, "skosxl:literalForm", literal("MLEntity." + labelPath))
       ;
+
+    if (refType != null) {
+      mb.defaultGraph().add(subject, "rdf:type", "sdc:Structure");
+
+      String definitionName = refType.substring("#/definitions/".length());
+
+      Iterator<Map.Entry<String, JsonNode>> iterator = definitions.get(definitionName).get("properties").fields();
+      while (iterator.hasNext()) {
+        Map.Entry<String, JsonNode> entry = iterator.next();
+
+        this.addConceptField(mb, subject, labelPath, entry.getKey(), entry.getValue(), definitions);
+      }
+    }
   }
 }
