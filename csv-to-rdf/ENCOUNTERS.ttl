@@ -1,0 +1,311 @@
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0126ad46-de41-467d-8d26-406cf6b0b62e";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#csvFile>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/ENCOUNTERS_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/csvFile.ENCOUNTERS_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/ENCOUNTERS_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/csvFile.ENCOUNTERS_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/Id> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> true;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "2c9d2c28-84d0-4ba8-bd4b-56f19808a346";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/Id/Id_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/Id/ENCOUNTERS.Id_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/Id/csvFile.ENCOUNTERS.Id_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/Id/Id_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "Id" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/Id/ENCOUNTERS.Id_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.Id" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/Id/csvFile.ENCOUNTERS.Id_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.Id" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/START> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "292b3c94-dc8c-48a2-8b06-244bf737d24b";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/START/START_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/START/ENCOUNTERS.START_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/START/csvFile.ENCOUNTERS.START_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/START/START_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "START" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/START/ENCOUNTERS.START_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.START" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/START/csvFile.ENCOUNTERS.START_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.START" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/STOP> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0a0a7e49-474e-42d6-8009-48a18b9fe2f1";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/STOP/STOP_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/STOP/ENCOUNTERS.STOP_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/STOP/csvFile.ENCOUNTERS.STOP_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/STOP/STOP_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "STOP" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/STOP/ENCOUNTERS.STOP_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.STOP" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/STOP/csvFile.ENCOUNTERS.STOP_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.STOP" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PATIENT> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "28d54c77-e197-45b1-8b75-b9cd1e9a422c";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PATIENT/PATIENT_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PATIENT/ENCOUNTERS.PATIENT_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PATIENT/csvFile.ENCOUNTERS.PATIENT_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PATIENT/PATIENT_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PATIENT" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PATIENT/ENCOUNTERS.PATIENT_l-n> a
+    <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.PATIENT" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PATIENT/csvFile.ENCOUNTERS.PATIENT_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.PATIENT" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/ORGANIZATION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "c3230777-679c-47a8-9aaa-442a68f13638";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/ORGANIZATION/ORGANIZATION_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/ORGANIZATION/ENCOUNTERS.ORGANIZATION_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/ORGANIZATION/csvFile.ENCOUNTERS.ORGANIZATION_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/ORGANIZATION/ORGANIZATION_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ORGANIZATION" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/ORGANIZATION/ENCOUNTERS.ORGANIZATION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.ORGANIZATION" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/ORGANIZATION/csvFile.ENCOUNTERS.ORGANIZATION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.ORGANIZATION" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PROVIDER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "9cdb1d0c-0842-42df-98f9-e9dc942b1b3d";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PROVIDER/PROVIDER_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PROVIDER/ENCOUNTERS.PROVIDER_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PROVIDER/csvFile.ENCOUNTERS.PROVIDER_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PROVIDER/PROVIDER_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PROVIDER" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PROVIDER/ENCOUNTERS.PROVIDER_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.PROVIDER" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PROVIDER/csvFile.ENCOUNTERS.PROVIDER_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.PROVIDER" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0ce5ca42-8be5-4b9a-b1d1-ba8b8aee2ad3";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER/PAYER_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER/ENCOUNTERS.PAYER_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER/csvFile.ENCOUNTERS.PAYER_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER/PAYER_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PAYER" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER/ENCOUNTERS.PAYER_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.PAYER" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER/csvFile.ENCOUNTERS.PAYER_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.PAYER" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/ENCOUNTERCLASS> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "acbb7c94-1f45-4bc0-980b-084680c99491";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/ENCOUNTERCLASS/ENCOUNTERCLASS_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/ENCOUNTERCLASS/ENCOUNTERS.ENCOUNTERCLASS_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/ENCOUNTERCLASS/csvFile.ENCOUNTERS.ENCOUNTERCLASS_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/ENCOUNTERCLASS/ENCOUNTERCLASS_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERCLASS" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/ENCOUNTERCLASS/ENCOUNTERS.ENCOUNTERCLASS_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.ENCOUNTERCLASS" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/ENCOUNTERCLASS/csvFile.ENCOUNTERS.ENCOUNTERCLASS_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.ENCOUNTERCLASS" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/CODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "880e089e-55b5-4947-9a05-9b71c1a5c9b2";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/CODE/CODE_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/CODE/ENCOUNTERS.CODE_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/CODE/csvFile.ENCOUNTERS.CODE_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/CODE/CODE_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "CODE" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/CODE/ENCOUNTERS.CODE_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.CODE" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/CODE/csvFile.ENCOUNTERS.CODE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.CODE" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/DESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "63cbb1c0-3d74-492b-8c2d-106da8f37c5d";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/DESCRIPTION/DESCRIPTION_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/DESCRIPTION/ENCOUNTERS.DESCRIPTION_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/DESCRIPTION/csvFile.ENCOUNTERS.DESCRIPTION_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/DESCRIPTION/DESCRIPTION_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "DESCRIPTION" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/DESCRIPTION/ENCOUNTERS.DESCRIPTION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.DESCRIPTION" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/DESCRIPTION/csvFile.ENCOUNTERS.DESCRIPTION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.DESCRIPTION" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/BASE_ENCOUNTER_COST> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "6f0bdf04-b258-4057-b522-b93b5f7ba84a";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/BASE_ENCOUNTER_COST/BASE_ENCOUNTER_COST_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/BASE_ENCOUNTER_COST/ENCOUNTERS.BASE_ENCOUNTER_COST_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/BASE_ENCOUNTER_COST/csvFile.ENCOUNTERS.BASE_ENCOUNTER_COST_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/BASE_ENCOUNTER_COST/BASE_ENCOUNTER_COST_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "BASE_ENCOUNTER_COST" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/BASE_ENCOUNTER_COST/ENCOUNTERS.BASE_ENCOUNTER_COST_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.BASE_ENCOUNTER_COST" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/BASE_ENCOUNTER_COST/csvFile.ENCOUNTERS.BASE_ENCOUNTER_COST_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.BASE_ENCOUNTER_COST" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/TOTAL_CLAIM_COST> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "0452d0dd-0c84-49f4-9959-41a26a00c908";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/TOTAL_CLAIM_COST/TOTAL_CLAIM_COST_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/TOTAL_CLAIM_COST/ENCOUNTERS.TOTAL_CLAIM_COST_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/TOTAL_CLAIM_COST/csvFile.ENCOUNTERS.TOTAL_CLAIM_COST_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/TOTAL_CLAIM_COST/TOTAL_CLAIM_COST_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "TOTAL_CLAIM_COST" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/TOTAL_CLAIM_COST/ENCOUNTERS.TOTAL_CLAIM_COST_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.TOTAL_CLAIM_COST" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/TOTAL_CLAIM_COST/csvFile.ENCOUNTERS.TOTAL_CLAIM_COST_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.TOTAL_CLAIM_COST" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER_COVERAGE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "7e50352b-abab-40c6-a4d1-040f7eb67b1f";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER_COVERAGE/PAYER_COVERAGE_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER_COVERAGE/ENCOUNTERS.PAYER_COVERAGE_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER_COVERAGE/csvFile.ENCOUNTERS.PAYER_COVERAGE_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER_COVERAGE/PAYER_COVERAGE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "PAYER_COVERAGE" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER_COVERAGE/ENCOUNTERS.PAYER_COVERAGE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.PAYER_COVERAGE" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/PAYER_COVERAGE/csvFile.ENCOUNTERS.PAYER_COVERAGE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.PAYER_COVERAGE" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONCODE> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "ffa1f59b-fed1-4612-88d0-5fdc9356f608";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONCODE/REASONCODE_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONCODE/ENCOUNTERS.REASONCODE_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONCODE/csvFile.ENCOUNTERS.REASONCODE_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONCODE/REASONCODE_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "REASONCODE" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONCODE/ENCOUNTERS.REASONCODE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.REASONCODE" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONCODE/csvFile.ENCOUNTERS.REASONCODE_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.REASONCODE" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONDESCRIPTION> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/csv-import#ENCOUNTERS>;
+  <http://vocabulary.marklogic.com/SDC#isKey> false;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "4f3e7127-ea48-469b-888b-c32faac2ac86";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONDESCRIPTION/REASONDESCRIPTION_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONDESCRIPTION/ENCOUNTERS.REASONDESCRIPTION_l-n>,
+    <http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONDESCRIPTION/csvFile.ENCOUNTERS.REASONDESCRIPTION_l-n> .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONDESCRIPTION/REASONDESCRIPTION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "REASONDESCRIPTION" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONDESCRIPTION/ENCOUNTERS.REASONDESCRIPTION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "ENCOUNTERS.REASONDESCRIPTION" .
+
+<http://hsk.marklogic.com/csv-import#ENCOUNTERS/REASONDESCRIPTION/csvFile.ENCOUNTERS.REASONDESCRIPTION_l-n>
+  a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "csvFile.ENCOUNTERS.REASONDESCRIPTION" .

@@ -110,6 +110,13 @@ If you would like to curate sets of data individually you can run the tasks that
 ./gradlew harmonizeProviders
 ```
 
+#### Ingesting CSV file headers into Ontology RDF
+
+To ingest your input data CSV files and create Ontology RDF from them, you can run `./gradlew convertCsvToTtl --args="<arguments>"`. The additional runtime arguments that can be configured are:
+
+  - `--path`: A path to a single CSV file or a directory containing multiple CSV files. Directories are scanned recursively. Defaults to `./data/synthea/csv`
+  - `--prefix`: A custom prefix to use for IRI data parsed from the CSV file(s) in the output TTL. Defaults to `http://hsk.marklogic.com/csv-import#`
+
 ### Running Unit and Integration Tests
 
 To verify the deployment, two test suites are provided.
