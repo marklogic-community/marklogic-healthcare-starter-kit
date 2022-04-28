@@ -1,0 +1,30 @@
+
+<http://hsk.marklogic.com/entity-import#Sanction> a <http://vocabulary.marklogic.com/SDC#Structure>;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "724f4247-1d91-4470-8a77-d073da5ff716";
+  <http://www.w3.org/2004/02/skos/core#broader> <http://vocabulary.marklogic.com/SDC#MLEntity>;
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#Sanction/Sanction_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/entity-import#Sanction/MLEntity.Sanction_l-n> .
+
+<http://hsk.marklogic.com/entity-import#Sanction/Sanction_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "Sanction" .
+
+<http://hsk.marklogic.com/entity-import#Sanction/MLEntity.Sanction_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "MLEntity.Sanction" .
+
+<http://hsk.marklogic.com/entity-import#Sanction/id> a <http://vocabulary.marklogic.com/SDC#Field>;
+  <http://vocabulary.marklogic.com/SDC#isFieldIn> <http://hsk.marklogic.com/entity-import#Sanction>;
+  <http://vocabulary.marklogic.com/SDC#isKey> true;
+  <http://vocabulary.marklogic.com/SDC#isList> false;
+  <http://www.smartlogic.com/2014/08/semaphore-core#guid> "80f63184-a990-4af2-b942-235856df310e";
+  <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://hsk.marklogic.com/entity-import#Sanction/id/id_l-n>;
+  <http://www.w3.org/2008/05/skos-xl#altLabel> <http://hsk.marklogic.com/entity-import#Sanction/id/Sanction.id_l-n>,
+    <http://hsk.marklogic.com/entity-import#Sanction/id/MLEntity.Sanction.id_l-n> .
+
+<http://hsk.marklogic.com/entity-import#Sanction/id/id_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "id" .
+
+<http://hsk.marklogic.com/entity-import#Sanction/id/Sanction.id_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "Sanction.id" .
+
+<http://hsk.marklogic.com/entity-import#Sanction/id/MLEntity.Sanction.id_l-n> a <http://www.w3.org/2008/05/skos-xl#Label>;
+  <http://www.w3.org/2008/05/skos-xl#literalForm> "MLEntity.Sanction.id" .

@@ -1,14 +1,23 @@
 *.numbers
 hub-central.log
 *.log
-.gradle/*
 
 marklogic-data-hub-central-5.5.1.war
-
-bin/
-
-build/
 
 src/main/ml-data/ontologies/SNOMED-CT.ttl
 *.hprof
 .DS_Store
+~*
+
+local-module-timestamps.properties
+
+**/.gradle
+**/.settings
+**/.tmp
+**/bin
+**/build
+
+**/.classpath
+**/.project
+
+*.class

@@ -21,7 +21,7 @@
 
 ## Description & Purpose
 
-> This README is intended as a short description of the project and instructions for getting set up and running. For more information on the project as a whole please refer to the [Cookbook](./documentation/Healthcare+Starter+Kit+Cookbook.docx)
+> This README is intended as a short description of the project and instructions for getting set up and running. For more information on the project as a whole please refer to the [Cookbook](./documentation/Healthcare%20Starter%20Kit%20Cookbook.docx)
 
 The MarkLogic Healthcare Starter Kit (HSK) is a working project for a healthcare payer data hub, particularly geared toward service to Medicaid customers. Also called an Operational Data Store (ODS), the HSK supports a mandate by the U.S. Centers for Medicare and Medicaid Services (CMMS) to comply with the Fast Healthcare Interoperability Resources (FHIR) specification for the electronic exchange of healthcare information.
 
@@ -110,6 +110,24 @@ If you would like to curate sets of data individually you can run the tasks that
 ./gradlew harmonizeProviders
 ```
 
+#### Ingesting CSV file headers into Ontology RDF
+
+To ingest your input data CSV files and create Ontology RDF from them, you can run `./gradlew convertCsvToTtl --args="<arguments>"`. The additional runtime arguments that can be configured are:
+
+- `--path`: A path to a single CSV file or a directory containing multiple CSV files. Directories are scanned recursively. Defaults to `./data/synthea/csv`
+- `--prefix`: A custom prefix to use for IRI data parsed from the CSV file(s) in the output TTL. Defaults to `http://hsk.marklogic.com/csv-import#`
+- `--preferAltLabel`: Prefer the short alternate label (e.g.: `CLAIMS.PATIENTID`) when outputting TTL
+- `--preferFullAltLabel`: Prefer the long alternate label (e.g.: `csvFile.CLAIMS.PATIENTID`) when outputting TTL
+
+#### Ingesting Entity JSON into Ontology RDF
+
+Ingesting Entity JSON is very similar to ingesting CSV files. To ingest your Entity JSON files and create Ontology RDF from them, you can run `./gradlew convertEntityToTtl --args="<arguments>"`. The additional runtime arguments that can be configured are:
+
+- `--path`: A path to a single CSV file or a directory containing multiple CSV files. Directories are scanned recursively. Defaults to `./entities`
+- `--prefix`: A custom prefix to use for IRI data parsed from the CSV file(s) in the output TTL. Defaults to `http://hsk.marklogic.com/entity-import#`
+- `--preferAltLabel`: Prefer the short alternate label (e.g.: `Claim.id`) when outputting TTL
+- `--preferFullAltLabel`: Prefer the long alternate label (e.g.: `MLEntity.Claim.id`) when outputting TTL
+
 ### Running Unit and Integration Tests
 
 To verify the deployment, two test suites are provided.
@@ -127,7 +145,7 @@ The test suites can be found in the following project directories:
 
 ### Extending the HSK
 
-See the [Cookbook](./documentation/Healthcare+Starter+Kit+Cookbook.docx) for more information on how to extend the HSK.
+See the [Cookbook](./documentation/Healthcare%20Starter%20Kit%20Cookbook.docx) for more information on how to extend the HSK.
 
 As mentioned previously, this project is intended as a starting point for a healthcare data hub and provides many reusable functions & code modules. While most of the code is reusable, the sample data and ingestion/mapping steps will have to be replaced to work with your own data.
 
