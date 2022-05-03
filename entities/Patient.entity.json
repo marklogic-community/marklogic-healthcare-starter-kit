@@ -147,6 +147,18 @@
           "facetable": false,
           "sortable": false,
           "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "MasterPersonIndex__HashSSN": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
+        },
+        "MasterPersonIndex__generated": {
+          "datatype": "string",
+          "facetable": false,
+          "sortable": false,
+          "collation": "http://marklogic.com/collation/codepoint"
         }
       }
     },

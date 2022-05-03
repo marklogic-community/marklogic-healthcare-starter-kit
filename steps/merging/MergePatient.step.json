@@ -10,8 +10,37 @@
     "MergePatient"
   ],
   "targetFormat": "JSON",
-  "mergeRules": [ ],
-  "mergeStrategies": [ ],
+  "mergeRules": [
+    {
+      "entityPropertyPath": "MasterPersonIndex__HashSSN",
+      "maxValues": 1,
+      "mergeType": "custom",
+      "mergeModulePath": "/custom-modules/merging/mergeMPIN/mergeMPIN.sjs",
+      "mergeModuleNamespace": "",
+      "mergeModuleFunction": "getOldestSSNHash",
+      "options": {}
+    },
+    {
+      "entityPropertyPath": "MasterPersonIndex__generated",
+      "maxValues": 1,
+      "mergeType": "custom",
+      "mergeModulePath": "/custom-modules/merging/mergeMPIN/mergeMPIN.sjs",
+      "mergeModuleNamespace": "",
+      "mergeModuleFunction": "getOldestMPIN",
+      "options": {}
+    }
+  ],
+  "mergeStrategies": [
+    {
+      "maxSources": "",
+      "maxValues": "1",
+      "strategyName": "oldestCreated",
+      "algorithmRef": "oldestCreatedAlgorithm",
+      "priorityOrder": {
+        "Weight": "-1"
+      }
+    }
+  ],
   "targetCollections": null,
   "name": "MergePatient",
   "description": "",
@@ -32,5 +61,12 @@
   "stepId": "MergePatient-merging",
   "acceptsBatch": false,
   "stepUpdate": false,
-  "lastUpdated": "2021-07-29T12:08:00.0049266-06:00"
+  "lastUpdated": "2021-07-29T12:08:00.0049266-06:00",
+  "algorithms": {
+    "oldestCreatedAlgorithm": {
+      "timestamp": {
+        "path": "/envelope/headers/createdOn"
+      }
+    }
+  }
 }
