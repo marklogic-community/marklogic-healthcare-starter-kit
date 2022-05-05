@@ -75,17 +75,17 @@ public class EntityToTTLConverter {
     MutuallyExclusiveGroup group = parser.addMutuallyExclusiveGroup();
 
     group
-      .addArgument("--preferAltLabel")
+      .addArgument("--preferShortLabel")
       .setDefault(false)
       .action(Arguments.storeTrue())
-      .help("Prefer the more verbose alternate label as the primary label when outputting TTL")
+      .help("Prefer the short label as the primary label when outputting TTL")
       ;
 
     group
-      .addArgument("--preferFullAltLabel")
+      .addArgument("--preferFullLabel")
       .setDefault(false)
       .action(Arguments.storeTrue())
-      .help("Prefer the full alternate label as the primary label when outputting TTL. Implies --preferAltLabel for subjects without a full alternate label.")
+      .help("Prefer the full label as the primary label when outputting TTL")
       ;
 
     try {
@@ -284,28 +284,28 @@ public class EntityToTTLConverter {
    */
   private void addConceptStructure(ModelBuilder mb, String typeName, Iterator<Map.Entry<String, JsonNode>> fieldIterator, JsonNode definitions) {
     String subject = "hsk:" + typeName;
-    String labelSubject = subject + "/" + typeName + "_l-n";
-    String altLabelSubject = subject + "/" + "MLEntity." + typeName + "_l-n";
+    String shortLabelSubject = subject + "/" + typeName + "_l-n";
+    String fullLabelSubject = subject + "/" + "MLEntity." + typeName + "_l-n";
 
-    // Perform boolean comparison in case --preferAltLabel isn't found and getBoolean returns null
-    boolean preferAltLabel = this.args.getBoolean("preferAltLabel") == true || this.args.getBoolean("preferFullAltLabel") == true;
+    // Perform boolean comparison in case --preferShortLabel isn't found and getBoolean returns null
+    boolean preferFullLabel = this.args.getBoolean("preferFullLabel") == true;
 
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Structure")
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
       .add(subject, "skos:broader", "sdc:MLEntity")
-      .add(subject, "skosxl:prefLabel", !preferAltLabel ? labelSubject : altLabelSubject)
-      .add(subject, "skosxl:altLabel", !preferAltLabel ? altLabelSubject : labelSubject)
+      .add(subject, "skosxl:prefLabel", preferFullLabel ? fullLabelSubject : shortLabelSubject)
+      .add(subject, "skosxl:altLabel", preferFullLabel ? shortLabelSubject : fullLabelSubject)
       ;
 
     mb.defaultGraph()
-      .add(labelSubject, "rdf:type", "skosxl:Label")
-      .add(labelSubject, "skosxl:literalForm", literal(typeName))
+      .add(shortLabelSubject, "rdf:type", "skosxl:Label")
+      .add(shortLabelSubject, "skosxl:literalForm", literal(typeName))
       ;
 
     mb.defaultGraph()
-      .add(altLabelSubject, "rdf:type", "skosxl:Label")
-      .add(altLabelSubject, "skosxl:literalForm", literal("MLEntity." + typeName))
+      .add(fullLabelSubject, "rdf:type", "skosxl:Label")
+      .add(fullLabelSubject, "skosxl:literalForm", literal("MLEntity." + typeName))
       ;
 
     while (fieldIterator.hasNext()) {
@@ -326,10 +326,10 @@ public class EntityToTTLConverter {
    */
   private void addConceptField(ModelBuilder mb, String baseSubject, String baseLabelPath, String fieldName, JsonNode fieldValue, JsonNode definitions) {
     String subject = baseSubject + "/" + fieldName;
-    String labelSubject = subject + "/" + fieldName + "_l-n";
+    String shortLabelSubject = subject + "/" + fieldName + "_l-n";
     String labelPath = baseLabelPath + "." + fieldName;
-    String altLabelSubject = subject + "/" + labelPath + "_l-n";
-    String fullAltLabelSubject = subject + "/MLEntity." + labelPath + "_l-n";
+    String labelSubject = subject + "/" + labelPath + "_l-n";
+    String fullLabelSubject = subject + "/MLEntity." + labelPath + "_l-n";
 
     boolean isArray = fieldValue.has("datatype") && "array".equals(fieldValue.get("datatype").asText());
     String refType = isArray
@@ -341,9 +341,9 @@ public class EntityToTTLConverter {
         : null
       ;
 
-    // Perform boolean comparison in case --preferAltLabel isn't found and getBoolean returns null
-    boolean preferAltLabel = this.args.getBoolean("preferAltLabel") == true;
-    boolean preferFullAltLabel = this.args.getBoolean("preferFullAltLabel") == true;
+    // Perform boolean comparison in case --preferShortLabel isn't found and getBoolean returns null
+    boolean preferShortLabel = this.args.getBoolean("preferShortLabel") == true;
+    boolean preferFullLabel = this.args.getBoolean("preferFullLabel") == true;
 
     mb.defaultGraph()
       .add(subject, "rdf:type", "sdc:Field")
@@ -351,29 +351,29 @@ public class EntityToTTLConverter {
       .add(subject, "sdc:isKey", fieldName.toLowerCase().equals("id"))
       .add(subject, "sdc:isList", isArray)
       .add(subject, "sem:guid", java.util.UUID.randomUUID())
-      .add(subject, "skosxl:prefLabel", preferFullAltLabel
-        ? fullAltLabelSubject
-        : preferAltLabel
-          ? altLabelSubject
+      .add(subject, "skosxl:prefLabel", preferFullLabel
+        ? fullLabelSubject
+        : preferShortLabel
+          ? shortLabelSubject
           : labelSubject
       )
-      .add(subject, "skosxl:altLabel", preferAltLabel ? labelSubject : altLabelSubject)
-      .add(subject, "skosxl:altLabel", preferFullAltLabel ? labelSubject : fullAltLabelSubject)
+      .add(subject, "skosxl:altLabel", preferShortLabel ? labelSubject : shortLabelSubject)
+      .add(subject, "skosxl:altLabel", preferFullLabel ? shortLabelSubject : fullLabelSubject)
+      ;
+
+    mb.defaultGraph()
+      .add(shortLabelSubject, "rdf:type", "skosxl:Label")
+      .add(shortLabelSubject, "skosxl:literalForm", literal(fieldName))
       ;
 
     mb.defaultGraph()
       .add(labelSubject, "rdf:type", "skosxl:Label")
-      .add(labelSubject, "skosxl:literalForm", literal(fieldName))
+      .add(labelSubject, "skosxl:literalForm", literal(labelPath))
       ;
 
     mb.defaultGraph()
-      .add(altLabelSubject, "rdf:type", "skosxl:Label")
-      .add(altLabelSubject, "skosxl:literalForm", literal(labelPath))
-      ;
-
-    mb.defaultGraph()
-      .add(fullAltLabelSubject, "rdf:type", "skosxl:Label")
-      .add(fullAltLabelSubject, "skosxl:literalForm", literal("MLEntity." + labelPath))
+      .add(fullLabelSubject, "rdf:type", "skosxl:Label")
+      .add(fullLabelSubject, "skosxl:literalForm", literal("MLEntity." + labelPath))
       ;
 
     if (refType != null) {
