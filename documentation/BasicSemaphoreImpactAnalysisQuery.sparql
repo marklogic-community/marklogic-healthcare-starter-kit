@@ -1,0 +1,44 @@
+################################################################################
+#                                                                              #
+#                               !!!! NOTE !!!!                                 #
+#                                                                              #
+# We currently do not have the HSK configured to run a local instance of       #
+# Semaphore/KMM so this query will return NO RESULTS if run in your MarkLogic  #
+# Database instance!                                                           #
+#                                                                              #
+# If you want to get results you'll need to navigate to the SPARQL Editor in   #
+# KMM and paste it there.                                                      #
+################################################################################
+
+PREFIX skosxl: <http://www.w3.org/2008/05/skos-xl#>
+PREFIX sdc: <http://vocabulary.marklogic.com/SDC#>
+
+SELECT DISTINCT
+  ?affectedStructureLabelValue # Optional, can be removed if you remove the associated lines below
+  ?affectedStructure
+  ?affectedFieldLabelValue     # Optional, can be removed if you remove the associated lines below
+  ?affectedField
+WHERE {
+  ?affectedField             sdc:dependsOn+                  ?changedField ;
+                          skosxl:prefLabel                   ?affectedFieldLabel ;
+                             sdc:isFieldIn+                  ?affectedStructure .
+  # Optional, can be removed if you don't want/need the label for the affected field IRI
+  ?affectedFieldLabel     skosxl:literalForm                 ?affectedFieldLabelValue .
+  ?affectedStructure      skosxl:prefLabel                   ?affectedStructureLabel .
+  # Optional, can be removed if you don't want/need the label for the affected structure IRI
+  ?affectedStructureLabel skosxl:literalForm                 ?affectedStructureLabelValue .
+  # Optional, the next two lines can be safely removed if you're only searching on IRIs
+  ?changedField           skosxl:prefLabel | skosxl:altLabel ?changedLabel .
+  ?changedLabel           skosxl:literalForm                 ?changedLabelValue .
+  # Using a UNION here to demonstrate searching on both IRIs and labels, but this is an edge case and you
+  # are unlikely to need it
+  {
+  	VALUES ?changedLabelValue { "PATIENTS.CITY" "PATIENTS.ADDRESS" } .
+  }
+  UNION
+  {
+    VALUES ?changedField { <http://hsk.marklogic.com/csv-import#PATIENTS/FIRST> } .
+  } .
+  # Optional, can be removed if you want to see all sub-structures along the path to the affected field(s)
+  FILTER NOT EXISTS { ?affectedStructure sdc:isFieldIn ?ignoreme } .
+} LIMIT 50
