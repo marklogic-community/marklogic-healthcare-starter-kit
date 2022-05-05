@@ -47,15 +47,10 @@ function getOldestMasteredDocumentProperties(masterPropertyName, mpinValue, prop
 	return propsWithMpin;
 }
 
-function getOldestSSNHash(MasterPersonIndex__HashSSN, properties, propertySpec) {
-	return getOldestMasteredDocumentProperties('MasterPersonIndex__HashSSN', MasterPersonIndex__HashSSN, properties, propertySpec);
-}
-
-function getOldestMPIN(MasterPersonIndex__generated, properties, propertySpec) {
-	return getOldestMasteredDocumentProperties('MasterPersonIndex__generated', MasterPersonIndex__generated, properties, propertySpec);
+function getOldestMasteredProperty(value, properties, propertySpec) {
+	return getOldestMasteredDocumentProperties(propertySpec.entityPropertyPath, value, properties, propertySpec);
 }
 
 module.exports = {
-	getOldestSSNHash,
-	getOldestMPIN,
+	getOldestMasteredProperty,
 };

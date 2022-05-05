@@ -17,7 +17,7 @@
       "mergeType": "custom",
       "mergeModulePath": "/custom-modules/merging/mergeMPIN/mergeMPIN.sjs",
       "mergeModuleNamespace": "",
-      "mergeModuleFunction": "getOldestSSNHash",
+      "mergeModuleFunction": "getOldestMasteredProperty",
       "options": {}
     },
     {
@@ -26,7 +26,7 @@
       "mergeType": "custom",
       "mergeModulePath": "/custom-modules/merging/mergeMPIN/mergeMPIN.sjs",
       "mergeModuleNamespace": "",
-      "mergeModuleFunction": "getOldestMPIN",
+      "mergeModuleFunction": "getOldestMasteredProperty",
       "options": {}
     }
   ],
