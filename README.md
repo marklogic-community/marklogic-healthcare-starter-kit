@@ -141,6 +141,14 @@ The test suites can be found in the following project directories:
 - MarkLogic unit tests: `src/test/ml-modules/root/test/suites`
   - The ClaimSuite is an example of a fully self-contained, independent test suite that can be run just after setup is done, without needing to load data. The other unit test suites are not necessarily configured to run independently of data load.
 
+### Calling the Ad-Hoc Matching Service
+
+To call the ad-hoc patient matching service from cURL, use the following commands:
+
+```curl --request POST --url http://localhost:8011/data-services/matching/patientMatch.sjs --data ssn=999-18-9966 --digest -u developer:demo``` will give 2 "notify" matches.
+
+```curl --request POST --url http://localhost:8011/data-services/matching/patientMatch.sjs --data ssn=999-18-9966 --data firstName=Breann --data lastName=Ullrich --digest -u developer:demo``` will give 2 "merge" matches.
+
 ## Maintaining and Modifying the HSK
 
 ### Extending the HSK

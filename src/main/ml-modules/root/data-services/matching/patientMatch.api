@@ -1,0 +1,40 @@
+{
+  "functionName": "patientMatch",
+  "params": [
+    {
+      "name": "ssn",
+      "desc": "",
+      "datatype": "string",
+      "nullable": true
+    },
+    {
+      "name": "firstName",
+      "desc": "",
+      "datatype": "string",
+      "nullable": true
+    },
+    {
+      "name": "lastName",
+      "desc": "",
+      "datatype": "string",
+      "nullable": true
+    },
+    {
+      "name": "dob",
+      "desc": "",
+      "datatype": "string",
+      "nullable": true
+    },
+    {
+      "name": "gender",
+      "desc": "",
+      "datatype": "string",
+      "nullable": true
+    }
+  ],
+  "return" : {
+    "datatype" : "jsonDocument",
+    "$javaClass":"com.fasterxml.jackson.databind.JsonNode",
+    "desc" : ""
+  }
+}
