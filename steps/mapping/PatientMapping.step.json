@@ -184,6 +184,12 @@
     },
     "code__maritalStatus": {
       "sourcedFrom": "cleaned/code__maritalStatus"
+    },
+    "MasterPersonIndex__HashSSN": {
+      "sourcedFrom": "xdmp:hash64(cleaned/identifier__ssn)"
+    },
+    "MasterPersonIndex__generated": {
+      "sourcedFrom": "sem:uuid-string()"
     }
   }
 }
