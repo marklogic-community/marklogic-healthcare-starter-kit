@@ -13,10 +13,10 @@ let contentArray = [{
 
 const flowName = "Provider";
 const runtimeOptions = {};
-const result = flowApi.runFlowStepOnContent(flowName, "2", contentArray, runtimeOptions);
+const result = flowApi.runFlowStepOnContent(flowName, "3", contentArray, runtimeOptions);
 
 const assertions = [
-  test.assertEqual("completed step 2", result.stepResponse.status),
+  test.assertEqual("completed step 3", result.stepResponse.status),
   test.assertEqual(1, result.contentArray.length)
 ];
 

@@ -19,6 +19,16 @@
   "headers": { },
   "interceptors": [
     {
+      "path": "/lib/interceptors/insert-claim-lines.sjs",
+      "when": "beforeMain",
+      "vars": {
+        "claimIdPath": "Id/normalize-space()",
+        "placeOfServiceIdPath": "PLACEOFSERVICE/normalize-space()",
+        "linesDestination": "claimLines",
+        "linesTotalAmountDestination": "claimLinesTotalAmount"
+      }
+    },
+    {
       "path": "/lib/interceptors/claim-mapping.sjs",
       "when": "beforeContentPersisted"
     }
@@ -178,7 +188,7 @@
       "targetEntityType": "#/definitions/Diagnosis"
     },
     "procedure": {
-      "sourcedFrom": "claimGetLines(Id/normalize-space())",
+      "sourcedFrom": "claimLines",
       "properties": {
         "sequence": {
           "sourcedFrom": "position()"
@@ -187,10 +197,10 @@
           "sourcedFrom": "\"primary\""
         },
         "date": {
-          "sourcedFrom": "substring-before(./claimLine/TODATE, \"T\")"
+          "sourcedFrom": "substring-before(./TODATE, \"T\")"
         },
         "code__procedureCodeableConcept__SNOMED": {
-          "sourcedFrom": "./claimLine/PROCEDURECODE"
+          "sourcedFrom": "./PROCEDURECODE"
         }
       },
       "targetEntityType": "#/definitions/Procedure"
@@ -223,10 +233,10 @@
       "targetEntityType": "#/definitions/Insurance"
     },
     "total": {
-      "sourcedFrom": "claimGetLinesTotalAmount(Id/normalize-space())",
+      "sourcedFrom": "claimLinesTotalAmount",
       "properties": {
         "value": {
-          "sourcedFrom": "./claimAmountTotal/data()"
+          "sourcedFrom": "./data()"
         },
         "currency": {
           "sourcedFrom": "valueSetLookup(\"USD\", \"currencies\", '')/code"
@@ -235,7 +245,7 @@
       "targetEntityType": "#/definitions/Money"
     },
     "item": {
-      "sourcedFrom": "claimGetLines(Id/normalize-space())",
+      "sourcedFrom": "claimLines",
       "properties": {
         "sequence": {
           "sourcedFrom": "position()"
@@ -247,22 +257,22 @@
           "sourcedFrom": "position()"
         },
         "diagnosisSequence": {
-          "sourcedFrom": "./claimLine/(DIAGNOSISREF1|DIAGNOSISREF2|DIAGNOSISREF3|DIAGNOSISREF4)[string-length(./normalize-space()) > 0]"
+          "sourcedFrom": "./(DIAGNOSISREF1|DIAGNOSISREF2|DIAGNOSISREF3|DIAGNOSISREF4)[string-length(./normalize-space()) > 0]"
         },
         "informationSequence": {
           "sourcedFrom": "1"
         },
         "servicedDate": {
-          "sourcedFrom": "substring-before(./claimLine/TODATE/normalize-space(), \"T\")"
+          "sourcedFrom": "substring-before(./TODATE/normalize-space(), \"T\")"
         },
         "servicedPeriod": {
           "sourcedFrom": ".",
           "properties": {
             "start": {
-              "sourcedFrom": "./claimLine/FROMDATE/normalize-space()"
+              "sourcedFrom": "./FROMDATE/normalize-space()"
             },
             "end": {
-              "sourcedFrom": "./claimLine/TODATE/normalize-space()"
+              "sourcedFrom": "./TODATE/normalize-space()"
             }
           },
           "targetEntityType": "#/definitions/Period"
@@ -274,25 +284,25 @@
           "sourcedFrom": "\"99555\""
         },
         "locationAddress": {
-          "sourcedFrom": "claimGetOrganizationLocation(./claimLine/PLACEOFSERVICE/normalize-space())",
+          "sourcedFrom": "./locations",
           "properties": {
             "city": {
-              "sourcedFrom": "./organization/CITY/normalize-space()"
+              "sourcedFrom": "./CITY/normalize-space()"
             },
             "state": {
-              "sourcedFrom": "./organization/STATE/normalize-space()"
+              "sourcedFrom": "./STATE/normalize-space()"
             },
             "postalCode": {
-              "sourcedFrom": "./organization/ZIP/normalize-space()"
+              "sourcedFrom": "./ZIP/normalize-space()"
             },
             "country": {
               "sourcedFrom": "\"US\""
             },
             "line": {
-              "sourcedFrom": "./organization/ADDRESS/normalize-space()"
+              "sourcedFrom": "./ADDRESS/normalize-space()"
             },
             "text": {
-              "sourcedFrom": "string-join((./organization/NAME/normalize-space(), ./organization/ADDRESS/normalize-space(), ./organization/CITY/normalize-space(), ./organization/STATE/normalize-space(), ./organization/ZIP/normalize-space()), \", \")"
+              "sourcedFrom": "string-join((./NAME/normalize-space(), ./ADDRESS/normalize-space(), ./CITY/normalize-space(), ./STATE/normalize-space(), ./ZIP/normalize-space()), \", \")"
             },
             "use": {
               "sourcedFrom": "valueSetLookup(\"work\", \"address-use\", '')/code"
@@ -307,7 +317,7 @@
           "sourcedFrom": ".",
           "properties": {
             "reference": {
-              "sourcedFrom": "concat(\"Location/\", ./claimLine/PLACEOFSERVICE/normalize-space())"
+              "sourcedFrom": "concat(\"Location/\", ./PLACEOFSERVICE/normalize-space())"
             },
             "type": {
               "sourcedFrom": "\"Location\""
@@ -319,7 +329,7 @@
           "sourcedFrom": ".",
           "properties": {
             "value": {
-              "sourcedFrom": "./claimLine/UNITS[./normalize-space() ne \"\"]"
+              "sourcedFrom": "./UNITS[./normalize-space() ne \"\"]"
             },
             "unit": {
               "sourcedFrom": ""
@@ -334,7 +344,7 @@
               "sourcedFrom": "valueSetLookup(\"USD\", \"currencies\", '')/code"
             },
             "value": {
-              "sourcedFrom": "if (./claimLine/UNITAMOUNT[./normalize-space() ne \"\"]) then ./claimLine/UNITAMOUNT/normalize-space() else 0"
+              "sourcedFrom": "if (./UNITAMOUNT[./normalize-space() ne \"\"]) then ./UNITAMOUNT/normalize-space() else 0"
             }
           },
           "targetEntityType": "#/definitions/Money"
@@ -343,7 +353,7 @@
           "sourcedFrom": ".",
           "properties": {
             "value": {
-              "sourcedFrom": "if (./claimLine/AMOUNT[./normalize-space() ne \"\"]) then ./claimLine/AMOUNT/normalize-space() else 0"
+              "sourcedFrom": "if (./AMOUNT[./normalize-space() ne \"\"]) then ./AMOUNT/normalize-space() else 0"
             },
             "currency": {
               "sourcedFrom": "valueSetLookup(\"USD\", \"currencies\", '')/code"

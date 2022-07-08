@@ -21,6 +21,29 @@
   "headers": { },
   "interceptors": [
     {
+      "path": "/lib/interceptors/flat-to-multiple.sjs",
+      "when": "beforeMain",
+      "vars": {
+        "entireRecord": false,
+        "entries": [
+          {
+            "dest": "names",
+            "sourcedFrom": ".",
+            "breakouts": [
+              {
+                "type": "official",
+                "xpath": "LAST[string-length(normalize-space(.)) gt 0]"
+              },
+              {
+                "type": "maiden",
+                "xpath": "MAIDEN[string-length(normalize-space(.)) gt 0]"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "path": "/lib/interceptors/patient-mapping.sjs",
       "when": "beforeContentPersisted"
     }
@@ -36,19 +59,19 @@
   "uriExpression": "$URI",
   "properties": {
     "name": {
-      "sourcedFrom": "flatToMultipleEntries(/,'{\"breakout\": [{\"type\": \"official\", \"xpath\": \"./LAST[string-length(normalize-space(.)) gt 0]\"}, {\"type\": \"maiden\", \"xpath\": \"./MAIDEN[string-length(normalize-space(.)) gt 0]\"}]}')",
+      "sourcedFrom": "names",
       "properties": {
         "family": {
           "sourcedFrom": "source/normalize-space()"
         },
         "given": {
-          "sourcedFrom": "//FIRST/normalize-space()"
+          "sourcedFrom": "/FIRST/normalize-space()"
         },
         "suffix": {
-          "sourcedFrom": "//SUFFIX/normalize-space()"
+          "sourcedFrom": "/SUFFIX/normalize-space()"
         },
         "prefix": {
-          "sourcedFrom": "//PREFIX/normalize-space()"
+          "sourcedFrom": "/PREFIX/normalize-space()"
         },
         "use": {
           "sourcedFrom": "type/normalize-space()"
